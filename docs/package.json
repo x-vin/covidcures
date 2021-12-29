@@ -1,0 +1,19 @@
+{
+  "name": "Covid Cures",
+  "version": "0.0.1",
+  "description": "Alternate cures for covid ",
+  "main": "index.js",
+  "authors": {
+    "name": "Vin",
+    "email": "viinayaktalukar@aol.com"
+  },
+  "repository": "https://github.com/x-vin/covidcures.git/Covid Cures",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
