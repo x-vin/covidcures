@@ -35,35 +35,22 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Home',
-        link: '/',
       }
     ],
-    sidebar: {
-      '/guide/': [
-          '',
-          'introduction',
-          'prepandprinci',
-          'intprophyproto',
-          'intearlycurative',
-          'intapplongcovid',
-          'intappvaxrecovery',
-          'naturopathic',
-          'homeopathic',
-          'allopathic',
-          'ayurvedic',
-          'siddha',
-          'tcm',
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        },
-      ],
-    }
+    sidebar: [
+      '/',
+      'prepandprinci',
+      'intprophyproto',
+      'intearlycurative',
+      'intapplongcovid',
+      'intappvaxrecovery',
+      'naturopathic',
+      'homeopathic',
+      'allopathic',
+      'ayurvedic',
+      'siddha',
+      'tcm',
+    ]
   },
 
   /**
