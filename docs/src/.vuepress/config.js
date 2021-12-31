@@ -41,6 +41,19 @@ module.exports = {
     ],
     sidebar: {
       '/guide/': [
+          '',
+          'introduction',
+          'prepandprinci',
+          'intprophyproto',
+          'intearlycurative',
+          'intapplongcovid',
+          'intappvaxrecovery',
+          'naturopathic',
+          'homeopathic',
+          'allopathic',
+          'ayurvedic',
+          'siddha',
+          'tcm',
         {
           title: 'Guide',
           collapsable: false,
@@ -49,19 +62,6 @@ module.exports = {
             'using-vue',
           ]
         },
-                '',
-                'introduction',
-                'prepandprinci',
-                'intprophyproto',
-                'intearlycurative',
-                'intapplongcovid',
-                'intappvaxrecovery',
-                'naturopathic',
-                'homeopathic',
-                'allopathic',
-                'ayurvedic',
-                'siddha',
-                'tcm'
       ],
     }
   },
