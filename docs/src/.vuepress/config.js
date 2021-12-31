@@ -34,8 +34,7 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     nav: [
-      {
-      }
+      { text: 'Home', link: '/' }
     ],
     sidebar: [
       '/',
