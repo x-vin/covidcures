@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Covid cures',
+  title: 'Alternative Treatment Protocols for Covid-19',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -48,7 +48,20 @@ module.exports = {
             '',
             'using-vue',
           ]
-        }
+        },
+                '',
+                'introduction',
+                'prepandprinci',
+                'intprophyproto',
+                'intearlycurative',
+                'intapplongcovid',
+                'intappvaxrecovery',
+                'naturopathic',
+                'homeopathic',
+                'allopathic',
+                'ayurvedic',
+                'siddha',
+                'tcm'
       ],
     }
   },
