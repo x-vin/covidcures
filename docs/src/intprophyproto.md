@@ -63,7 +63,7 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 ## TABLES
 |DIP: A vegetarian immune-supportive diet|+ Best simple preventative lifestyle|+ Additional post-exposure prophylaxis|
 |:--------:|:-------:|:-------|
-|cell1 x    | |Additional optional prophylactic technique:<br><br>Iota-carrageenan nutraceutical nasal spray (which is the active ingredient in Betadine Cold Defence Nasal Spray), highly evidence-based therapy to drastically reduce SARS-CoV-2 viral load in upper respiratory tract|											
+|cell1 x    | |Additional optional prophylactic technique:<br><br>[Iota-carrageenan][21] nutraceutical nasal spray (which is the active ingredient in [Betadine Cold Defence Nasal Spray][22]), [highly evidence-based therapy][23] to drastically reduce SARS-CoV-2 viral load in upper respiratory tract|											
 													
 													
 													
@@ -100,9 +100,9 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 [18]: https://www.cookinglight.com/news/depression-fighting-vitamin-d-uv-mushroom-technique#:~:text=He%20found%20that%20shiitake%20mushrooms,the%20vitamin%20had%20been%20preserved.
 [19]: https://www.sciencedirect.com/science/article/pii/S037851222030284X
 [20]: https://pubmed.ncbi.nlm.nih.gov/29480918/
-[21]: 
-[22]: 
-[23]: 
+[21]: https://www.dovepress.com/efficacy-of-a-nasal-spray-containing-iota-carrageenan-in-the-postexpos-peer-reviewed-fulltext-article-IJGM
+[22]: https://www.amazon.ca/Betadine-Sore-Throat-Spray-%2050ml/dp/B07H1DJ5SL/ref=sr_1_3?dchild=1&keywords=betadine&qid=1594840600&%20amp&sr=8-3
+[23]: https://c19early.com/
 [24]: 
 [25]: 
 [26]: 
