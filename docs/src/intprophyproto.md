@@ -63,9 +63,7 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 ## TABLES
 |DIP: A vegetarian immune-supportive diet|+ Best simple preventative lifestyle|+ Additional post-exposure prophylaxis|
 |:--------:|:-------:|:-------:|
-|cell1     |    |Additional optional prophylactic technique:
-
-Iota-carrageenan nutraceutical nasal spray (which is the active ingredient in Betadine Cold Defence Nasal Spray), highly evidence-based therapy to drastically reduce SARS-CoV-2 viral load in upper respiratory tract|											
+|cell1     | |Additional optional prophylactic technique:<br>Iota-carrageenan nutraceutical nasal spray (which is the active ingredient in Betadine Cold Defence Nasal Spray), highly evidence-based therapy to drastically reduce SARS-CoV-2 viral load in upper respiratory tract|											
 													
 													
 													
