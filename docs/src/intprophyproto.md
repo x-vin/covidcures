@@ -61,7 +61,7 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 7. **Persons who are not at high risk of infection, and wishing to adopt a general prophylactic regimen, are recommended to follow the diet and lifestyle prescriptions in the leftmost and middle columns. Those who are at high risk of infection, due to the existence of comorbidities and significant exposure to the virus as primary contacts, are recommended to follow the prescriptions of diet, lifestyle and herbal or nutraceutical supplementation in all three columns.**
 									
 ## TABLES
-| Header1  | Header2 | Header3 |
+|DIP: A vegetarian immune-supportive diet|+ Best simple preventative lifestyle|+ Additional post-exposure prophylaxis|
 |:---------|:-------:|--------:|
 |cell1     |cell2    |cell3    |													
 													
