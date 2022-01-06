@@ -68,34 +68,279 @@ Of possible longer term severe adverse events, the greatest correlation appears 
 ## TABLES
 |DIP: A vegetarian immune-supportive diet|+ Best simple preventative lifestyle|+ Additional post-exposure prophylaxis|
 |:--------|:-------|:-------|
-| | |**Additional optional prophylactic technique**:<br><br>**[Iota-carrageenan][21] nutraceutical nasal spray** (which is the active ingredient in [Betadine Cold Defence Nasal Spray][22]), [highly evidence-based therapy][23] to drastically reduce SARS-CoV-2 viral load in upper respiratory tract|
-| | | |	
-| **At or before 5:00 AM-** |  **At or before 5:00 AM-**<br><br>**(Homeopathy) Arsenicum Album protocol:<br>For 4 consecutive days every month- say, the 1st to the 4th of every month**- take 4 pills (adult dosage, 2 pills for children) each of **Arsenicum Album 30 C** on an empty stomach, without even drinking water and preferably even before brushing teeth. Let the pills dissolve slowly in the mouth on the tongue, rather than chewing or swallowing, and do not eat or drink anything (i.e., dry fast) for at least an hour after taking the pills. Do not consume any tea, coffee or nonvegetarian food on the days of dosing with homeopathic medicine. (It is recommended in nature cure to avoid these foods altogether.)|**At or before 5:00 AM**<br><br>**(Homeopathy)** Dr. Khadar Vali's Bryonia + Rhus Tox protocol for primary contacts:<br>**Instead of the Arsenic Album 30 C protocol and if at least 2 weeks have passed since the last Ars Alb regimen**, after significant exposure and for primary contacts, immunity could be also enhanced in the short term, for primary contacts, through Dr. Khadar Vali's prescription of **Bryonia 200 C and Rhus Tox 200 C** could be used.<br>**Dosage:**<br>Dissolve 3 each of these pills in half a glass of water, and consume. The dosage should be repeated twice a day, i.e. morning and evening on an empty stomach, for 3 days.<br><br>**OR** (exclusive)<br><br>**(Allopathy)** Dr. Paul E. Marik's I-MASK+ / I-MASS Protocol-<br>For high-risk primary contacts who would like to adopt an evidence-based allopathic prophylactic regimen in addition to the holistic or traditional protocols, Dr. Marik's preventative Ivermectin regimen is an allopathic alternative, though not recommended by holistic physicians and naturopaths.<br><br>**Contraindications and guidance for prophylaxing with Ivermectin:**<br>Even though widely used and generally considered nontoxic, it must be noted that **Ivermectin is not recommended for children weighing less than 15 kg, for pregnant women and lactating mothers.** Ivermectin should also be avoided by persons with allergic reactions to the drug, compromised kidney or liver function, or those infected with the parasite Loa Loa. There are possibilities of adverse drug interactions with other allopathic or herbal medications. Therefore it is important that Ivermectin should not be used while on any other prophylactic or curative medication without consulting knowledgeable and experienced physicians. **All homeopathic and Ayurvedic therapies should be discontinued at least 2-3 days before beginning an Ivermectin protocol.**<br><br>It must also be noted that several holistic, naturopathic, homeopathic and indigenous / Ayurvedic physicians in India have avowed and demonstrated in their clinical practice that perfect health can be maintained by most, even primary contacts, by starting a holistic prophylactic and healthy diet and lifestyle regimen early and religiously adhering to it, as well as through the Arsenicum album 30 C homeopathic prophylactic protocol mentioned here. [Moreover, there is evidence from clinical trials suggesting that Ayurvedic medicines taken alone are even more effective than Ayurvedic medicines used as adjunct therapy to a mainstream allopathic treatment modality][24] (including Azithromycin, Vitamin-C and anti-histamines. Acetaminophen, administered as needed).<br><br>Ivermectin prophylactic protocol (Only if desired post-exposure by primary contacts, but not necessary or recommended as primary line of prophylaxis by holistic physicians):<br>**Dosage-**<br>[*Chronic prevention for high-risk individuals*-<br>0.2 mg / kg per dose, taken with or after meals; first dose at the start of the treatment, repeated after 48 hours, and then 1 dose weekly for as long as risk is elevated in the community]<br>**(Recommended modality of use) Post-exposure Covid prevention-**<br>0.2 mg / kg per dose, taken with or after meals; first dose at the start of the treatment, repeated after 48 hours<br><br>**Directions for use-**<br>**Ivermectin must be had on an empty stomach with a full glass (240 ml) of water,  at least 1 hour before any meal.** The dosage should be determined in consultation with a qualified allopathic physician, and is a function of body weight, underlying medical conditions and response to treatment.|
-| | | |	
-| **About 5:45 AM**-<br><br>(**Ayurveda & Naturopathy) [Ushaapaana][25]:**<br>**Recommendation for daily detoxification and disease prevention-**<br>Everyday, about 1 hour after the morning protocol of homeopathic prophylactic medication (or otherwise if the homeopathic medication was not consumed then shortly after rising) drink 2-4 glasses (i.e., at least half a litre) of warm water to detoxify and cleanse the system.| | |			
-| | | |	
-| **5:50 AM-**<br><br>(Naturopathy)<br>A simple and effective, evidence-based anti-inflammatory morning routine:<br>Consume the following ingredients in the given sequence on an empty stomach:<br>1. A small piece, about 0.5-0.75 inch long, of fresh **ginger** with skin,<br>2. A piece of raw, washed **lemon** with rind,<br>3. A single raw **garlic** clove, peeled,<br>4. A raw **gooseberry**,<br>5. A glass of slightly **warm turmeric water**, sipped slowly over a duration of 10 minutes.<br><br>A little honey could be used to slightly sweeten these pungent or sharp-flavoured medicinal foods. Those who find the taste too pungent to be palatable could crush the fresh ginger, boil in water and drink as a tea. Lemon juice and honey may be added for flavouring [but only after the tea has cooled to lukewarm temperature.][26]| **5:50 AM**| **5:50 AM-**<br><br>(Ayurveda)<br>[Nasal irrigation with saline turmeric water][27]:<br>Gargle with warm saline water, optionally with a pinch of turmeric / Triphala / Yashtimadhu added.<br><br>**AND**<br><br>[Nasya][28]:<br>Anu Taila, or Ayurvedic medicated oil could be used, or even organic cold-pressed coconut or sesame oil or pure cow's ghee could be used as Nasya, where a few drops are dripped into each nostril.|
-| | | |				
-| **6:00 AM-**| **6:00 AM-**<br><br>**(Yoga, Ayurveda, Naturopathy)**<br>**Yoga, Pranayama and meditation** for 1 - 1.5 hours, according to the recommendations of Ayush, including Aasanas and Praanayaama that are officially recommended for Covid-19 by the AYUSH Ministry, **especially the Praanayaamas Bhastrika, Anuloma Viloma, Bhramari, Kapaala Bhaati**, and specific **Yogaasanaas like Surya Namaskaara, Chakraasana, back-bending Aasanaas etc.**<br><br>**AND**<br><br>(Nature Cure)<br>Afterwards, perform **at least 15-30 minutes of an aerobic exercise like running or skipping** that cause physical exertion, according to the individual's capacity.| **6:00 AM-**<br><br>(Ayurveda)<br>**Disinfection of living environment through Dhoop to reduce airborne contagion:**<br>Burn [Aparajitha Dhooma Choornam][29] in the living space in the morning.|		
-| | | |		
-| **9 AM-**<br><br>(Naturopathy)<br>**Everyday, whenever other herbal kashayas are not being consumed at this time (on an empty stomach) in the morning**, drink 200 ml of [green juice][30] prepared from cucumber / ash gourd / bottle gourd / [plantain pith or stem][31] / [mint leaves][32] / [wheatgrass][33] / [Moringa leaves / corriander leaves][34], in rotation, and with [Amla][35], fresh lemon juice and a teaspoon of honey for taste. Naturopathy importantly utilizes this therapy to [counter systemic inflammation][36].<br><br>**OR**<br><br>(Herbal / Natural Medicine, Dr. Khadar Vali) Saptapatra (Seven leaves) Kashaya Immunity regimen:<br>**Instead of the green juice, and for those who can source the fresh medicinal leaves in their locality**, for 4 weeks every 6 months, follow the [Saptapatra Kashaaya regimen][37] recommended by Dr. Khadar Vali, with 20 ml of the Kashaaya of one of the leaves of the following **seven medicinal plants: 1) Neem , 2) Tulasi, 3) Koovalam or Bael or wood apple, 4) Guduchi or Amrutavalli or Giloy, 5) Arayaal or Peepal or Pippala or sacred fig, 6) Karuka Pullu or Dhruva or Bermuda grass, 7) Poonga or Karanja or Indian beech**. Prepare a Kashaaya of each of the 7 leaves listed, one at a time, and consume it for 2 consecutive days. This process would take 7 x 2 = 14 days. Then reiterate the cycle for the next 14 days, and repeat the entire regimen every six months.<br><br>**Contraindication:**<br>**The Saptapatra Kashaaya regimen had better not be followed on the days that the homeopathic protocols are being administered, and it is better to avoid the green juice protocol during the 28 days that the Saptapatra Kashaaya regimen is adopted**, so as to have the herbal juices on empty stomach and to reduce interference with other medications.| |**9 AM-**<br><br>(Siddha)<br>Primary contacts can drin 60 ml (about 0.25 - 0.5 glass) of [Kapasura + Nilavembu Kudineer][38], on an empty stomach once in 3-4 days (or on a cycle of 5 consecutive days every two weeks), **preferably (but not necessarily) on the days that other prophylactic herbal or homeopathic medicatons are not being used.**<br><br>**Two recommended methods of preparation and dosages:**<br>A veteran traditional physician Sh. Maragathamani recommends to drink a tumbler of Kudineer, prepared by adding 1 teaspoon each of Nilavembu and Kapasura boiled in two tumblers of water down to one tumbler and a pinch of alum powder added, thrice a week.<br><br>According to customary instructions provided on packets, **1 teaspoon of one of these (Kapasoora / Nilavempu) herb powders added to 2 tumblers of water and boiled down to half a tumbler (approx. 60 ml).**<br><br>**Dosage for prophylaxing:**<br>When prophylaxing, **Kapasura / Nilavembu Kudineer is recommended to be consumed 1-2 times a day on empty stomach for a week in 1 cycle. The cycle is then repeated after a gap of about 10 days (or 1-2 weeks).** In practice, the bitter decoction is drunk by ordinary people less frequently, about 2-3 times a week during prophylaxis as self-medication.|	
+| **At or before 5:00 AM-**			| **At or before 5:00 AM-** | **At or before 5:00 AM-**
+
+**(Homeopathy)** Dr. Khadar Vali's Thuja 200 + Mancinella protocol for mitigating the adverse effects of vaccines:
+
+**Dosage:**
+**Dissolve 3 each of these pills in half a glass of water, and consume.** (The dosage should be repeated twice a day, i.e. morning and evening on an empty stomach, for 4 days.)
+
+
+**OR** (exclusive)
+
+**(Allopathy)** Dr. Paul E. Marik's I-MASK+ / I-MASS Protocol-
+[Ivermectin is also known to have a high binding affinity with the spike proteins][23], and may help to mitigate inflammation due to the genome-based vaccines.
+
+**Contraindications and guidance for prophylaxing with Ivermectin:**
+Even though widely used and generally considered nontoxic, it must be noted that **Ivermectin is not recommended for children weighing less than 15 kg, for pregnant women and lactating mothers.** Ivermectin should also be avoided by persons with allergic reactions to the drug, compromised kidney or liver function, or those infected with the parasite Loa Loa. There are possibilities of adverse drug interactions with other allopathic or herbal medications. Therefore it is important that Ivermectin should not be used while on any other prophylactic or curative medication without consulting knowledgeable and experienced physicians. **All homeopathic and Ayurvedic therapies should be discontinued at least 2-3 days before beginning an Ivermectin protocol.**
+
+Ivermectin prophylactic protocol (Only if desired for the first few weeks post-vaccination, but not recommended by holistic physicians):
+
+**Dosage-**
+[*Chronic prevention for high-risk individuals-*
+0.2 mg / kg per dose, taken with or after meals; first dose a few days after vaccination, repeated after 48 hours, and then 1 dose weekly for the subsequent month]
+
+**Directions for use-**
+**Ivermectin must be had on an empty stomach with a full glass (240 ml) of water,  at least 1 hour before any meal.** The dosage should be determined in consultation with a qualified allopathic physician, and is a function of body weight, underlying medical conditions and response to treatment.|	
 | | | |
-| **9:45 AM-**<br><br>(AYUSH) **Chyavanaprash Ayurvedic supplement**:<br><br>**On the days that the Saptapatra regimen has not been followed**, take immunity-building herbal supplement **Chyavanaprash 3 g with warm water.** | **9:45 AM-**<br><br>(Naturopathy) **Phototherapy with sunlight:**<br>Sunbathing and sungazing, [wearing minimal, light, preferably white clothing][39], for 30 minutes | **9:45 AM-**<br><br>(AYUSH) **Ashwagandha Ayurvedic supplement:**<br><br>*On the days that the Saptapatra regimen has not been followed*, primary contacts might take immunity-building herbal supplement **Ashwagandha 1-3 g powder with warm water**, in addition to the morning dosage of Chyavanaprash.|
-| | | |	
-| **10:30 - 12:00 AM-**<br><br>**Immune-supportive anti-inflammatory and nutritious breakfast:**<br>(Naturopathy) [Dr. Biswaroop Roy Chowdhury's evidence-based Disciplined Intelligent Protocol (DIP)][40] Diet-<br><br>**The DIP diet is an anti-inflammatory diet that is both a dietary regimen [for reversing many lifestyle diseases, especially diabetes][41], as well as a prophylaxing diet for infections in the naturopathic system.** Patients with comorbidities like diabetes, BP, cholesterol, obesity etc. could incorporate the principles of diabetes-reversing breakfast outlined in the DIP Diet Plan to reverse them, achieve a controlled blood sugar level without medication and gradually free themselves of dependency on medication.<br><br><br>A breakfast of up to 3-4 varieties of organic, seasonal fruits; in particular, the following fruits are known to provide a requisite daily prophylactic dosage of 0.2 g of vitamin C:<br>**2 mangoes, or 2 sweet limes or oranges, or 1 guava, or 300 - 400 g of different types of fruits**<br><br>**Dr. Henry Ealy**, renowned US naturopath who has successfully treated end-stage Covid-19 with nutritional / integrative medicine, recommends also to add nutritional sources of Quercetin, such as Capers and Blueberries, and organic carrot juice for Betacarotene, which are immune-supportive superfoods during the coronavirus pandemic. Other recommended immunity-boosting fruits are **organic citrus fruits** (especially blood oranges, if available), **peaches** and **watermelons**, **avocado** and **healthy date varieties like Ajwah / Medina or Mejdool dates**.<br><br>On the whole, it is recommended to have **a wide variety of seasonal fruits and vegetables**, in order to source a healthy and balanced profile of nutrients and micronutrients.<br><br>**Supplementing the raw fruit breakfast with nutritious raw superfoods like tender coconut water / kernel or lentil / almond sprouts (in moderation):**<br>About 15 minutes after the fruitarian meal, can have 3-6 tablespoons of sprouted green gram / peanuts / almonds / walnuts / tender coconut.<br><br>**Note: Naturopathy recommends to reduce fruit variety consumed at a single meal. Therefore the variety could be distributed across different meals.**| | **10:30 - 12:00 AM-**<br><br>(Ayurveda) [Patanjali's Divya Swasari Coronil Kit][42]:<br>Primary contacts could consider to take **Patanjali's Divya Swasari Coronil Kit** for the novel coronavirus, which is based on successful clinical trials.<br>**Dosage:**<br>1. Put 4 drops of Anu Taila each in both nostrils **1 hour before breakfast.**<br>2. Take 2 tablets of **Divya Swasari**, with lukewarm water, **half an hour before breakfast.**<br>3. Take 2 tablets of Divya Coronil, with lukewarm water, **half an hour after breakfast.**<br><br>**The above dosage is suitable for the age group 15-60 years. For children between the ages 6-15 years, half of this dosage is recommended.**|		
-| | | |		
-| **1:30 - 3:00 PM-**<br><br>**Immune-supportive anti-inflammatory and nutritious lunch:**<br>(Naturopathy) [Dr. Biswaroop Roy Chowdhury's evidence-based Disciplined Intelligent Protocol (DIP) Diet-][43]<br><br>**The DIP diet is an anti-inflammatory diet that is both a dietary regimen for [reversing many lifestyle diseases, especially diabetes][44], as well as a prophylaxing diet for infections in the naturopathic system.** Patients with comorbidities like diabetes, BP, cholesterol, obesity etc. could incorporate the principles of diabetes-reversing breakfast outlined in the DIP Diet Plan to reverse them, achieve a controlled blood sugar level without medication and gradually free themselves of dependency on medication.<br><br>**The main principle of the DIP-recommended lunch and dinner is that the main dish must be preceded by a plate of salad with 5 X K grams of raw vegetables, where K is equal to the individual's body weight in kilograms. For a prophylactic diet, the plate of salad vegetables could include a handful of fresh raw (preferably sprouted) green peas / four fresh raw tomatoes.**<br><br>[(DIP Diet) RECIPES To Cure Lifestyle Diseases; Neerja Chowdhury][45]<br><br>Lunch with cooked whole grain rice or millets, preferably nutritious and probiotic [Ambali][46] or Koozhu (fermented broken millet / millet flour congee) or Pazhankanji (fermented rice congee), accompanied by simple lentil gravy and [steamed vegetable Subzi][47], spiced buttermilk / [milk Kefir][48] etc. The fermented grain porridges are prepared by cooking the grains or flour in sufficiently large quantities of water, cooling, and adding split (preferably deseeded) whole green chillies or their highly probiotic stalks alone. Buttermilk (dairy or vegan) too could be added to assist better fermentation. [Those who are trying to reverse vitamin D deficiency are recommended to consume 100 - 200 g sun-dried mushrooms (preferably the highly nutritious Shiitake mushrooms) a week, by having several 3-4 servings of sun-dried mushrooms (soaked and cooked) weekly.][49] [Shiitake mushrooms that have been sun-dried for 12 hours with their gills facing up and dehydrated and packed, have been demonstrated to provide 46,000 IU of vitamin D per 100 g.][50]<br><br>Dr. Khadar Vali recommends the consumption of one of the following **5 "Positive Millets" at least once a day while prophylaxing:**<br>**Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu)**<br><br>Millet man Dr. Khadar Vali's recommended millet-based dietary regimen for health and prophylaxis<br><br>Recommendations and precautions regarding routine millet consumption | | **1:30 - 3:00 PM-**<br><br>(Ayurveda) [Patanjali's Divya Swasari Coronil Kit][51]:<br>Primary contacts could consider to take **Patanjali's Divya Swasari Coronil Kit** for the novel coronavirus, which is based on successful clinical trials.<br>**Dosage:**<br>1. Take 2 tablets of **Divya Swasari**, with lukewarm water, **half an hour before lunch.**<br>2. Take 2 tablets of **Divya Coronil**, with lukewarm water, **half an hour after lunch.**<br><br>**The above dosage is suitable for the age group 15-60 years. For children between the ages 6-15 years, half of this dosage is recommended.**<br><br>**OR** (exclusive)<br><br>**(Allopathy, Nutritional medicine)**<br>1. **Nutraceutical supplements for primary contacts:**<br>**Nutraceutical baseline therapy of the highly effective Zelenko Protocol / FLCCC I-MASS / I-MASK+ Protocols:**<br>**Immune Fortifying / Supportive Therapy:**<br>**Vitamin D3:** 1000–3000 IU / day.<br>**Vitamin C:** 500 - 1,000 mg bid (i.e., twice daily)<br>**Quercetin**: 250 mg daily.<br>**Zinc**: 30 - 40 mg / day (elemental zinc). Zinc lozenges are preferred.<br><br>Many nutraceutical therapies have also recommended therapeutic supplementation with [vitamin A (as Retinoic acid / Beta-carotene) and Bromelain.][52]<br><br>**Two common supplements that meet most / all of these requirements:**<br>[West Coast Immuneed Original][53], Immunity by ZenRenu<br>Of these alternatives, 1 tablet of **West Coast Immuneed Original** was recommended by many physicians as a proven brand and moderate prophylactic supplement, containing a much broader nutrient profile of 25 vitamins and minerals for immunity.<br><br>2. Prophylactic / Therapeutic Oral Vitamin C:<br>Dietitians usually recommend to consume necessary vitamins through food. The evidence-based N.I.C.E. Three-step Flu Diet for Covid-19 recommends to use food to obtain a prophylactic dosage of 0.2 g vitamin C, better absorbed / metabolized through raw fruits and vegetable, and the richest source, raw **Amla**, than artificially as tablets.<br><br>**Dosages:**<br>**-An oft suggested nutracuetical option is to take 500 - 1000 mg of oral vit. C (in powder form or as chewable tablets like [LimCee][54]) as prophylactic.**<br><br>- Another recommended protocol prescribes to supplement with 3 g of oral vitamin C 2-3 times a day (adult dosage, 1 g X 2 times in day for children).|
-| | | |			
-| **4 PM-**<br><br>(Naturopathy) [Dr. Biswaroop Roy Chowdhury's DIP Diet:][55]<br>**Very light snack, if required, but only steamed snacks, not fried. A few examples** of good light snacks are a small quantity of millet ""Pidi"" or steamed millet flour dumplings in coconut milk, ""Ada"" or ""Modak"" with tasty fillings like coconut + palm sugar / palm jaggery and prepared on plantain leaves, Ragi + Murungai Keerai roti, 1 millet or other dosa with boiled or sprouted green gram + coconut + jaggery filling, a small quantity of millet pongal with ghee + raisins + almonds + cashewnuts, a small quantity of millet / buckwheat pasta with steamed broccoli + carrots + beans, amaranth snacks, homemade oats ""energy bar"" with sprouted nuts.<br><br>**The light snack is suggested principally for those who to prefer to have a dinner consisting only of raw salad. Those who are practising the DIP diet are recommended to have only fresh fruits, dry fruits / nuts soaked for at least 4-5 hours and other light raw snacks in the prescribed small quantity.**<br><br>**(Ayurveda, Naturopathy) Herbal tea or Kashaya:**<br>This light snack should preferably be accompanied by **1-2 cups of an immunity-boosting herbal decoctions or teas as prophylactic**, such as the following:<br>Ayush Kwath Churna, from Kottakkal Arya Vaidya Sala<br>A variety of anti-inflammatory teas, informed by indigenous medicine as well as science<br><br>Persons with comorbidities like diabetes, BP, cholesterol, obesity etc. could incorporate the principles of diabetes-reversing afternoon snacking outlined in Dr. Biswaroop Roy Chowdhury's DIP Diet Plan to reverse these inflammatory diseases, achieve a controlled blood sugar level without medication and gradually redeem themselves of dependency on medication.| **4 PM-**| **4 PM-**|
-| | | |			
-| **4:00 - 4:30 PM-**| **4:00 - 4:30 AM-**<br><br>(Naturopathy) Phototherapy with sunlight:<br>Sunbathing and sungazing, wearing minimal, light, preferably white clothing, for 30 minutes| **4:00 - 4:30 PM-**|	
+| **About 5:45 AM-**
+
+(Ayurveda & Naturopathy) [Ushaapaana][24]:
+Recommendation for daily detoxification and disease prevention-
+Everyday, about 1 hour after the morning protocol of homeopathic prophylactic medication (or otherwise if the homeopathic medication was not consumed then shortly after rising) drink 2-4 glasses (i.e., at least half a litre) of warm water to detoxify and cleanse the system. | | |	
 | | | |
-| **6:30 - 8:00 PM-**<br><br>**(Nature Cure / Naturopathy)** Acharya Arun Sharma's dietary recommendations in Nature Cure:<br>According to [Acharya Arun Sharma's philosophy of Nature Cure][56], in the tradition of his Guru and grandfather, Acharya Lakshmana Sharma, at least two meals in a raw should be consumed in the raw form. Such a diet is especially recommended for those suffering from severe comorbidites, ranging from Cardio-Vascular Disease to cancer, which is treated through the Nature Cure lifestyle protocol. Dinner could be of raw, green salad, cooked lentils like chickpeas (though not recommended by Nature, but in keeping with the principles of the [Ketogenic Diet][57]) or green gram sprouts (possibly with 2-3 tablespoons of vegan mayonnaise or hummus or other healthy relish), or ""Kosambari"" salads from South India with lentil sprouts. The dinner regimen is inspired by multiple well-known naturopathic regimens in which two meals of the day are grain-free and raw.<br>[Pete Loves Salads][58]: [Kosambari Salads. Just What Is That ? I’ve Got 9 To Show You][59]<br><br>**(Naturopathy)** [Dr. Biswaroop Roy Chowdhury's DIP Diet:][60]<br>Another alternative dinner option is the dinner recommended by Dr. Biswaroop Roy Chowdhury's DIP Diet. Patients with comorbidities like diabetes, BP, cholesterol, obesity etc. could incorporate the principles of diabetes-reversing dinner outlined in Dr. Biswaroop Roy Chowdhury's DIP Diet Plan to reverse them, achieve a controlled blood sugar level without medication and gradually redeem themselves of dependency on medication.<br><br>**The main principle of the DIP lunch and dinner is that the main dish must be preceded by a plate of salad with about as grams of raw vegetables as is equal to 5 times the individual's body weight in kilograms. For a prophylactic diet, the plate of salad vegetables could include a handful of fresh raw (perhaps sprouted) green peas / 2-3 cups of cabbage / 3 bell peppers / 4 fresh raw tomatoes etc. It must be cautioned that tomatoes are not recommended for individuals with compromised kidney function, nor green peas for their protein value.**<br><br>[(DIP Diet) RECIPES To Cure Lifestyle Diseases; Neerja Chowdhury][61]<br><br>Dinner with **cooked whole grain rice or even millets**, preferably nutritious and probiotic [Ambali][62] or Koozhu (fermented broken millet / millet flour congee) or **Pazhankanji (fermented rice congee)**, accompanied by simple lentil gravy and steamed vegetable subzi etc. The fermented grain porridges are prepared by cooking the whole / broken rice grains or millet flour in sufficiently large quantities of water, cooling, and adding split (preferably deseeded) whole green chillies or their highly probiotic stalks alone. Buttermilk (dairy or vegan) and salt could be added for taste before consumption. If lunch consisted of a fermented, probiotic meal, and in cold weather, it might be advisable and a more sustainable choice not to consume probiotic fermented Koozhu or Ambali for dinner, but rice congee or porridge with spiced lentil gravy. The spices of Indian cuisine are very well known to be extremely immune-supportive and anti-inflammatory.<br><br>Dr. Khadar Vali recommends the consumption of the following **5 "Positive Millets"** at least once a day while prophylaxing:<br>**Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu)**<br>Millet man Dr. Khadar Vali's recommended millet-based dietary regimen for health and prophylaxis<br>Recommendations and precautions regarding routine millet consumption<br><br>**Sweet potatoes** cooked, or sweet potato soup are another flavourful option, as are occasional whole wheat / millet rotis or soba (buckwheat) noodles, quinoa dishes etc.<br><br>**Note: Dinner should be consumed before 7 PM, and no food should be eaten on any account after 8 PM.**| **6:30 - 8:00 PM-** | **6:30 - 8:00 PM-**<br><br>(Ayurveda) [Patanjali's Divya Swasari Coronil Kit][63]:<br>Primary contacts could consider to take **Patanjali's Divya Swasari Coronil Kit** for the novel coronavirus, which is based on successful clinical trials.<br>**Dosage:**<br>1. Take 2 tablets of **Divya Swasari**, with lukewarm water, **half an hour before dinner.**<br>2. Take 2 tablets of **Divya Coronil**, with lukewarm water, **half an hour after dinner.**<br><br>**The above dosage is suitable for the age group 15-60 years. For children between the ages 6-15 years, half of this dosage is recommended.**<br><br>**OR** (exclusive)<br><br>**(Allopathy)**<br>Prophylactic / Therapeutic Oral Vitamin C:<br>Dietitians usually recommend to consume necessary vitamins through food. The evidence-based N.I.C.E. Three-step Flu Diet for Covid-19 recommends to use food to obtain a prophylactic dosage of 0.2 g vitamin C, better absorbed / metabolized through raw fruits and vegetable than artificially as tablets.<br><br>**Dosage:**<br>- **An oft suggested nutracuetical option is to take 500 - 1000 mg of oral vit. C (in powder form or as chewable tablets like LimCee) as prophylactic.**<br><br>- Another recommended protocol prescribes to supplement with 3 g of oral vitamin C 2-3 times a day (adult dosage, 1 g X 2 times in day for children).|	
-| | | |	
-| **9:00 PM-**| **9:00 AM-**<br><br>(Ayurveda)<br>[Nasal irrigation with saline turmeric water:][64]<br>Gargle with warm saline water, optionally with a pinch of turmeric / Triphala / Yashtimadhu added.<br><br>**AND**<br><br>Nasya:<br>1. [Anu Taila][65], or Ayurvedic medicated oil could be used, or even organic cold-pressed coconut or sesame oil or pure cow's ghee could be used as Nasya, where a few drops are dripped into each nostril.<br><br>2. [Steam inhalation][66], with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain | **9:30 AM-**<br><br>(AYUSH) **Ashwagandha Ayurvedic supplement:**<br><br>*On the days that the Saptapatra regimen has not been followed*, primary contacts might take immunity-building herbal supplement **Ashwagandha 1-3 g powder with warm water** (for the second time before bedtime).|	
-| | | |	
-| **9:30 PM-**| **9:30 PM-**<br><br>**(Yoga & Naturopathy)**<br>**[Switch off screen gadgets at least half an hour going to bed][67], perform a few minutes of Shavaasana with deep breathing [Praanayaama][68] and meditation, and sleep before 10 PM.** There is [evidence][69] that slow and deep breathing exercises performed for several minutes decreases sleep onset latency and increases quality of sleep in those suffering from insomnia.| **9:30 PM-**|	
+| **5:50 AM-**
+
+(Naturopathy)
+A simple and effective, evidence-based anti-inflammatory morning routine:
+Consume the following ingredients in the given sequence on an empty stomach:
+1. A small piece, about 0.5-0.75 inch long, of fresh **ginger** with skin,
+2. A piece of raw, washed **lemon** with rind,
+3. A single raw **garlic** clove, peeled,
+4. A raw **gooseberry**,
+5. A glass of slightly **warm turmeric water**, sipped slowly over a duration of 10 minutes.
+
+A little honey could be used to slightly sweeten these pungent or sharp-flavoured medicinal foods. Those who find the taste too pungent to be palatable could crush the fresh ginger, boil in water and drink as a tea. Lemon juice and honey may be added for flavouring but [only after the tea has cooled to lukewarm temperature.][25]		| **5:50 AM-**| **5:50 AM-**|	
 | | | |
+| **6:00 AM-**			| **6:00 AM-**
+
+**(Yoga, Ayurveda, Naturopathy)**
+**Yoga, Pranayama and meditation** for 1 - 1.5 hours, according to the recommendations of Ayush, including Aasanas and Praanayaama that are officially recommended for Covid-19 by the AYUSH Ministry, **especially the Praanayaamas Bhastrika, Anuloma Viloma, Bhramari, Kapaala Bhaati,** and specific **Yogaasanaas like Surya Namaskaara, Chakraasana, back-bending Aasanaas etc.**
+
+**AND** 
+
+(Nature Cure)
+Afterwards, perform **at least 15-30 minutes of an aerobic exercise like running or skipping** that cause physical exertion, according to the individual's capacity.| **6:00 AM-**|	
+| | | |
+| **9 AM-**
+
+(Naturopathy) 
+**Everyday, whenever other herbal kashayas are not being consumed at this time (on an empty stomach) in the morning**, drink 200 ml of [green juice][26] prepared from cucumber / ash gourd / bottle gourd / [plantain pith or stem][27] / [mint leaves][28] / [wheatgrass][29] / [Moringa leaves / corriander leaves][30], in rotation, and with [Amla][31], fresh lemon juice and a teaspoon of honey for taste. Naturopathy importantly utilizes this therapy to [counter systemic inflammation.][32]
+
+**OR**
+
+(Herbal / Natural Medicine, Dr. Khadar Vali) Saptapatra (Seven leaves) Kashaya Immunity regimen:
+**Instead of the green juice, and for those who can source the fresh medicinal leaves in their locality**, for 4 weeks every 6 months, follow the [Saptapatra Kashaaya regimen][33] recommended by Dr. Khadar Vali, with 20 ml of the Kashaaya of one of the leaves of the following **seven medicinal plants: 1) Neem , 2) Tulasi, 3) Koovalam or Bael or wood apple, 4) Guduchi or Amrutavalli or Giloy, 5) Arayaal or Peepal or Pippala or sacred fig, 6) Karuka Pullu or Dhruva or Bermuda grass, 7) Poonga or Karanja or Indian beech.** Prepare a Kashaaya of each of the 7 leaves listed, one at a time, and consume it for 2 consecutive days. This process would take 7 x 2 = 14 days. Then reiterate the cycle for the next 14 days, and repeat the entire regimen every six months.
+
+**Contraindication:**
+**The Saptapatra Kashaaya regimen had better not be followed on the days that the homeopathic protocols are being administered, and it is better to avoid the green juice protocol during the 28 days that the Saptapatra Kashaaya regimen is adopted**, so as to have the herbal juices on empty stomach and to reduce interference with other medications.| **9 AM-	**		| **9 AM-**
+
+(Siddha)
+Primary contacts can drin 60 ml (about 0.25 - 0.5 glass) of [Kapasura + Nilavembu Kudineer][34], on an empty stomach once in 3-4 days (or on a cycle of 5 consecutive days every two weeks), **preferably (but not necessarily) on the days that other prophylactic herbal or homeopathic medicatons are not being used.**
+
+**Two recommended methods of preparation and dosages:**
+A veteran traditional physician Sh. Maragathamani recommends to drink a tumbler of Kudineer, prepared by adding 1 teaspoon each of Nilavembu and Kapasura boiled in two tumblers of water down to one tumbler and a pinch of alum powder added, thrice a week. 
+
+According to customary instructions provided on packets, **1 teaspoon of one of these (Kapasoora / Nilavempu) herb powders added to 2 tumblers of water and boiled down to half a tumbler (approx. 60 ml).**
+
+**Dosage for prophylaxing:**
+When prophylaxing, **Kapasura / Nilavembu Kudineer is recommended to be consumed 1-2 times a day on empty stomach for a week in 1 cycle. The cycle is then repeated after a gap of about 10 days (or 1-2 weeks).** In practice, the bitter decoction is drunk by ordinary people less frequently, about 2-3 times a week during prophylaxis as self-medication. |	
+| | | |
+| **9:45 AM-**
+
+(AYUSH) **Chyavanaprash Ayurvedic supplement:**
+
+**On the days that the Saptapatra regimen has not been followed**, take immunity-building herbal supplement **Chyavanaprash 3 g with warm water.**		| **9:45 AM-**
+
+(Naturopathy) Phototherapy with sunlight:
+Sunbathing and sungazing, [wearing minimal, light, preferably white clothing, for 30 minutes][35]		| **9:45 AM-**
+
+(AYUSH) **Ashwagandha Ayurvedic supplement:**
+
+On the days that the Saptapatra regimen has not been followed, primary contacts might take immunity-building herbal supplement **Ashwagandha 1-3 g powder with warm water**, in addition to the morning dosage of Chyavanaprash.		|	
+| | | |
+| **10:30 - 12:00 AM-** 
+
+**Immune-supportive anti-inflammatory and nutritious breakfast:**
+(Naturopathy) [Dr. Biswaroop Roy Chowdhury's evidence-based Disciplined Intelligent Protocol (DIP) Diet-][36]
+
+**The DIP diet is an anti-inflammatory diet that is both a dietary regimen for [reversing many lifestyle diseases, especially diabetes][37], as well as a prophylaxing diet for infections in the naturopathic system.** Patients with comorbidities like diabetes, BP, cholesterol, obesity etc. could incorporate the principles of diabetes-reversing breakfast outlined in the DIP Diet Plan to reverse them, achieve a controlled blood sugar level without medication and gradually free themselves of dependency on medication. 
+
+
+A breakfast of up to 3-4 varieties of organic, seasonal fruits; in particular, the following fruits are known to provide a requisite daily prophylactic dosage of 0.2 g of vitamin C:
+**2 mangoes, or 2 sweet limes or oranges, or 1 guava, or 300 - 400 g of different types of fruits** 
+
+**Dr. Henry Ealy**, renowned US naturopath who has successfully treated end-stage Covid-19 with nutritional / integrative medicine, recommends also to add nutritional sources of Quercetin, such as Capers and Blueberries, and organic carrot juice for Betacarotene, which are immune-supportive superfoods during the coronavirus pandemic. Other recommended immunity-boosting fruits are **organic citrus fruits** (especially blood oranges, if available), **peaches** and **watermelons**, **avocado** and **healthy date varieties like Ajwah / Medina or Mejdool dates. Avocado are rich in Glutathione, and Brazil nuts are the richest source of Selenium, a cofactor in the production of Glutathione.**
+
+On the whole, it is recommended to have **a wide variety of seasonal fruits and vegetables**, in order to source a healthy and balanced profile of nutrients and micronutrients.
+
+**Supplementing the raw fruit breakfast with nutritious raw superfoods like tender coconut water / kernel or lentil / almond sprouts (in moderation), 1-2 soaked Brazil nuts:**
+About 15 minutes after the fruitarian meal, can have 3-6 tablespoons of sprouted green gram, peanuts, almonds, walnuts, tender coconut or 2-3 Brazil nuts.
+
+**Note: Naturopathy recommends to reduce fruit variety consumed at a single meal. Therefore the variety could be distributed across different meals.**	| **10:30 - 12:00 AM-**			| **10:30 - 12:00 AM-**
+
+(Ayurveda) [Patanjali's Divya Swasari Coronil Kit:][38]
+Primary contacts could consider to take **Patanjali's Divya Swasari Coronil Kit** for the novel coronavirus, which is based on successful clinical trials.
+**Dosage:**
+1. Put 4 drops of **Anu Taila** each in both nostrils **1 hour before breakfast.**
+2. Take 2 tablets of **Divya Swasari**, with lukewarm water, **half an hour before breakfast.**
+3. Take 2 tablets of Divya Coronil, with lukewarm water, **half an hour after breakfast.**
+
+**The above dosage is suitable for the age group 15-60 years. For children between the ages 6-15 years, half of this dosage is recommended.**|	
+| | | |
+| **1:30 - 3:00 PM-**
+
+**Immune-supportive anti-inflammatory and nutritious lunch:**
+(Naturopathy) [Dr. Biswaroop Roy Chowdhury's evidence-based Disciplined Intelligent Protocol (DIP) Diet-][39]
+
+**The DIP diet is an anti-inflammatory diet that is both a dietary regimen for [reversing many lifestyle diseases, especially diabetes][40], as well as a prophylaxing diet for infections in the naturopathic system.** Patients with comorbidities like diabetes, BP, cholesterol, obesity etc. could incorporate the principles of diabetes-reversing breakfast outlined in the DIP Diet Plan to reverse them, achieve a controlled blood sugar level without medication and gradually free themselves of dependency on medication.
+
+**The main principle of the DIP-recommended lunch and dinner is that the main dish must be preceded by a plate of salad with 5 X K grams of raw vegetables, where K is equal to the individual's body weight in kilograms. For an immune-supportive diet after vaccination, the plate of salad vegetables could emphasize sulphur-rich cruciferous vegetables, like kale, broccoli, Brussels sprouts, cabbage, onions, garlic, cauliflower, bok choy, watercress, mustard, horseradish, turnips, rutabagas, kohlrabi etc.** Sulphurous vegetables assist in the making of Glutathione in the body, as Glutathione is a sulfur-containing molecule. **Some other rich food sources of Glutathione include asparagus (which is one of the richest sources), okra / ladies' fingers, red beets, spinach and parsley and Brazil nuts.**
+
+[(DIP Diet) RECIPES To Cure Lifestyle Diseases; Neerja Chowdhury][41]
+
+Lunch with cooked **whole grain rice or millets**, preferably nutritious and probiotic [Ambali][42] or Koozhu (fermented broken millet / millet flour congee) or Pazhankanji (fermented rice congee), accompanied by simple lentil gravy and [steamed vegetable Subzi][43], spiced buttermilk / [milk Kefir][44] etc. The fermented grain porridges are prepared by cooking the grains or flour in sufficiently large quantities of water, cooling, and adding split (preferably deseeded) whole green chillies or their highly probiotic stalks alone. Buttermilk (dairy or vegan) too could be added to assist better fermentation. [Those who are trying to reverse vitamin D deficiency are recommended to consume 100 - 200 g sun-dried mushrooms (preferably the highly nutritious Shiitake mushrooms) a week, by having several 3-4 servings of sun-dried mushrooms (soaked and cooked) weekly.][45] [Shiitake mushrooms that have been sun-dried for 12 hours with their gills facing up and dehydrated and packed, have been demonstrated to provide 46,000 IU of vitamin D per 100 g.][46]
+
+Another interesting and tasty superfood is the Japanese [Natto][47], or boiled soybeans carefully fermented with a special bacterial strain called Bacillus subtilis, which is a probiotic that is rich in a variety of viatmins and nutrients, especially **Nattokinase, an enzyme that reduces blood cotting.** Natto is a staple in Japanese kitchens and usually had as an accompaniment to boiled rice.
+
+It is recommended to **avoid plant / vegetable oils as far as possible in cooking**, and if essential, use a very small quantity of **ghee**. Sulphurous **Saindhava Lavana / Black salt** could be used in preference to other kinds of salt.
+
+**Dr. Khadar Vali recommends the consumption of one of the following 5 ""Positive Millets"" at least once a day while prophylaxing:**
+**Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu)**
+
+Millet man Dr. Khadar Vali's recommended millet-based dietary regimen for health and prophylaxis 
+Recommendations and precautions regarding routine millet consumption			| **1:30 - 3:00 PM-**			| **1:30 - 3:00 PM-**
+
+(Ayurveda) [Patanjali's Divya Swasari Coronil Kit:][48]
+Primary contacts could consider to take **Patanjali's Divya Swasari Coronil Kit** for the novel coronavirus, which is based on successful clinical trials.
+**Dosage:**
+1. Take 2 tablets of **Divya Swasari**, with lukewarm water, **half an hour before lunch.**
+2. Take 2 tablets of **Divya Coronil**, with lukewarm water, **half an hour after lunch.**
+
+**The above dosage is suitable for the age group 15-60 years. For children between the ages 6-15 years, half of this dosage is recommended.**
+
+**OR** (exclusive)
+
+**(Allopathy, Nutritional medicine)**
+1. **Nutraceutical supplements for primary contacts:**
+**Nutraceutical baseline therapy of the highly effective Zelenko Protocol / FLCCC I-MASS / I-MASK+ Protocols:**
+**Immune Fortifying / Supportive Therapy:**
+**Vitamin D3:** 1000–3000 IU / day.
+**Vitamin C:** 500 - 1,000 mg bid (i.e., twice daily) 
+**Quercetin**: 250 mg daily.
+**Zinc:** 30 - 40 mg / day (elemental zinc). Zinc lozenges are preferred.
+
+Many nutraceutical therapies have also recommended therapeutic supplementation with [vitamin A (as Retinoic acid / Beta-carotene), Bromelain][49]. Also recommended are [Co-enzyme Q10 (CoQ10)][50], [N-Acetyl Cysteine][51].
+
+**Two common supplements that meet most / all of these requirements:**
+[West Coast Immuneed Original][52], Immunity by ZenRenu
+Of these alternatives, 1 tablet of **West Coast Immuneed Original** was recommended by many physicians as a proven brand and moderate prophylactic supplement, containing a much broader nutrient profile of 25 vitamins and minerals for immunity.
+
+2. Prophylactic / Therapeutic Oral Vitamin C:
+Dietitians usually recommend to consume necessary vitamins through food. The evidence-based N.I.C.E. Three-step Flu Diet for Covid-19 recommends to use food to obtain a prophylactic dosage of 0.2 g vitamin C, better absorbed / metabolized through raw fruits and vegetable, and the richest source, raw **Amla**, than artificially as tablets.
+
+**Dosages:**
+- **An oft suggested nutracuetical option is to take 500 - 1000 mg of oral vit. C (in powder form or as chewable tablets like [LimCee][53]) as prophylactic.**
+
+- Another recommended protocol prescribes to supplement with 3 g of oral vitamin C 2-3 times a day (adult dosage, 1 g X 2 times in day for children).	|	
+| | | |
+| **4 PM-**
+
+(Naturopathy) [Dr. Biswaroop Roy Chowdhury's DIP Diet:][54]
+**Very light snack, if required, but only steamed snacks, not fried. A few examples** of good light snacks are a small quantity of millet ""Pidi"" or steamed millet flour dumplings in coconut milk, ""Ada"" or ""Modak"" with tasty fillings like coconut + palm sugar / palm jaggery and prepared on plantain leaves, Ragi + Murungai Keerai roti, 1 millet or other dosa with boiled or sprouted green gram + coconut + jaggery filling, a small quantity of millet pongal with ghee + raisins + almonds + cashewnuts, a small quantity of millet / buckwheat pasta with steamed broccoli + carrots + beans, amaranth or quinoa snacks, homemade oats ""energy bar"" with sprouted nuts.
+
+**A very healthy snack might consist of green gram sprouted for 4 days**, mixed with coconut flakes and assorted cut vegetables or nuts for taste. **Plant sprouts are generally considered to be rich in Shikimate, especially of Red kidney, Moth, Soya, Moong beans.** A study revealed that **maximum acid concentration was attained at 4 days from the start of germination**, after which the content either reached a plateau or started to diminish. **Green gram (Mung) was found to yield ~ 8 mg of Shikimic acid per gram of sprouts (dry weight) which was highest amongst the studied sprouts**.
+
+**The light snack is suggested principally for those who to prefer to have a dinner consisting only of raw salad. Those who are practising the DIP diet are recommended to have only fresh fruits, dry fruits / nuts soaked for at least 4-5 hours and other light raw snacks in the prescribed small quantity.**
+
+**(Ayurveda, Naturopathy) Herbal tea or Kashaya:**
+This light snack should be accompanied by **2-3 cups of anti-inflammatory herbal decoctions or teas that counteract the effect of the spike glycoproteins**, such as the following:
+Suramin-rich Pine Needle tea, recommended by Dr. Judy Mikovits
+Star anise + Fennel tea
+Tulasi tea
+Ayush Kwath Churna, from Kottakkal Arya Vaidya Sala
+A variety of anti-inflammatory teas, informed by indigenous medicine as well as science
+
+Persons with comorbidities like diabetes, BP, cholesterol, obesity etc. could incorporate the principles of diabetes-reversing afternoon snacking outlined in Dr. Biswaroop Roy Chowdhury's DIP Diet Plan to reverse these inflammatory diseases, achieve a controlled blood sugar level without medication and gradually redeem themselves of dependency on medication.	| **4 PM-**| **4 PM-** |	
+| | | |
+| **4:00 - 4:30 PM-**			| **4:00 - 4:30 AM-**
+
+(Naturopathy) Phototherapy with sunlight:
+Sunbathing and sungazing, wearing minimal, light, preferably white clothing, for 30 minutes			| **4:00 - 4:30 PM-**			|	
+| | | |
+| **6:30 - 8:00 PM-**
+
+**(Nature Cure / Naturopathy)** [Acharya Arun Sharma's dietary recmomendations in Nature Cure:][55]
+According to Acharya Arun Sharma's philosophy of Nature Cure, in the tradition of his Guru and grandfather, Acharya Lakshmana Sharma, at least two meals in a raw should be consumed in the raw form. Such a diet is especially recommended for those suffering from severe comorbidites, ranging from Cardio-Vascular Disease to cancer, which is treated through the Nature Cure lifestyle protocol. Dinner could be of raw, green salad, cooked lentils like chickpeas (though not recommended by Nature, but in keeping with the principles of the [Ketogenic Diet][56]) or green gram sprouts (possibly with 2-3 tablespoons of vegan mayonnaise or hummus or other healthy relish), or ""Kosambari"" salads from South India with lentil sprouts. The dinner regimen is inspired by multiple well-known naturopathic regimens in which two meals of the day are grain-free and raw.
+[Pete Loves Salads:][57] [Kosambari Salads. Just What Is That ? I’ve Got 9 To Show You][58]
+
+**(Naturopathy)** [Dr. Biswaroop Rot Chowdhury's DIP Diet:][59]
+Another alternative dinner option is the dinner recommended by Dr. Biswaroop Roy Chowdhury's DIP Diet. Patients with comorbidities like diabetes, BP, cholesterol, obesity etc. could incorporate the principles of diabetes-reversing dinner outlined in Dr. Biswaroop Roy Chowdhury's DIP Diet Plan to reverse them, achieve a controlled blood sugar level without medication and gradually redeem themselves of dependency on medication.
+
+**The main principle of the DIP lunch and dinner is that the main dish must be preceded by a plate of salad with about as grams of raw vegetables as is equal to 5 times the individual's body weight in kilograms. For a prophylactic diet, the plate of salad vegetables could include a handful of fresh raw (perhaps sprouted) green peas / 2-3 cups of cabbage / 3 bell peppers / 4 fresh raw tomatoes etc. It must be cautioned that tomatoes are not recommended for individuals with compromised kidney function, nor green peas for their protein value.**
+
+[(DIP Diet) RECIPES To Cure Lifestyle Diseases; Neerja Chowdhury][60]
+
+Dinner with **cooked whole grain rice or even millets**, preferably nutritious and probiotic [Ambali][61] or Koozhu (fermented broken millet / millet flour congee) or **Pazhankanji (fermented rice congee)**, accompanied by simple lentil gravy and steamed vegetable subzi etc. The fermented grain porridges are prepared by cooking the whole / broken rice grains or millet flour in sufficiently large quantities of water, cooling, and adding split (preferably deseeded) whole green chillies or their highly probiotic stalks alone. Buttermilk (dairy or vegan) and salt could be added for taste before consumption. If lunch consisted of a fermented, probiotic meal, and in cold weather, it might be advisable and a more sustainable choice not to consume probiotic fermented Koozhu or Ambali for dinner, but rice congee or porridge with spiced lentil gravy. The spices of Indian cuisine are very well known to be extremely immune-supportive and anti-inflammatory.
+
+Dr. Khadar Vali recommends the consumption of the following **5 "Positive Millets"** at least once a day while prophylaxing:
+**Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu)**
+Millet man Dr. Khadar Vali's recommended millet-based dietary regimen for health and prophylaxis 
+Recommendations and precautions regarding routine millet consumption
+
+**A few other superfood options include [Japanese Natto][62] (fermented boiled soybeans, rich in probiotics, calcium, vitamins K, immune-supportive, anticoagulant), and [nutritional yeast or Nori][63] (the latter, an algae commonly used to flavour Asian cuisine) as rich sources of vitamin B12 (among other nutrients) for vegans and vegetarians.**
+
+**Sweet potatoes** cooked, or sweet potato soup are another flavourful option, as are occasional whole wheat / millet rotis or soba (buckwheat) noodles, quinoa dishes etc.
+
+**Note: Dinner should be consumed before 7 PM, and no food should be eaten on any account after 8 PM.**
+"			| **6:30 - 8:00 PM-**			| **6:30 - 8:00 PM-**
+
+(Ayurveda) [Patanjali's Divya Swasari Coronil Kit:][64]
+Primary contacts could consider to take **Patanjali's Divya Swasari Coronil Kit** for the novel coronavirus, which is based on successful clinical trials.
+**Dosage:**
+1. Take 2 tablets of **Divya Swasari**, with lukewarm water, **half an hour before dinner.**
+2. Take 2 tablets of **Divya Coronil**, with lukewarm water, **half an hour after dinner.**
+
+**The above dosage is suitable for the age group 15-60 years. For children between the ages 6-15 years, half of this dosage is recommended.**
+
+**OR** (exclusive)
+
+**(Allopathy)**
+Prophylactic / Therapeutic Oral Vitamin C:
+Dietitians usually recommend to consume necessary vitamins through food. The evidence-based N.I.C.E. Three-step Flu Diet for Covid-19 recommends to use food to obtain a prophylactic dosage of 0.2 g vitamin C, better absorbed / metabolized through raw fruits and vegetable than artificially as tablets.
+
+**Dosage:**
+- **An oft suggested nutracuetical option** is to take **500 - 1000 mg of oral vit. C (in powder form or as chewable tablets like LimCee) as prophylactic.**
+
+- Another recommended protocol prescribes to supplement with 3 g of oral vitamin C 2-3 times a day (adult dosage, 1 g X 2 times in day for children). |	
+| | | |
+| **9:00 PM-**			| **9:00 PM-**
+
+(Ayurveda)
+[Nasal irrigation with saline turmeric water:][65]
+Gargle with warm saline water, optionally with a pinch of turmeric / Triphala / Yashtimadhu added.
+
+**AND** 
+
+Nasya:
+1. [Anu Taila][66], or Ayurvedic medicated oil could be used, or even organic cold-pressed coconut or sesame oil or pure cow's ghee could be used as Nasya, where a few drops are dripped into each nostril.
+
+2. [Steam inhalation][67], with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain"			| **9:00 PM-**
+
+(AYUSH) **Ashwagandha Ayurvedic supplement:**
+
+On the days that the Saptapatra regimen has not been followed, primary contacts might take immunity-building herbal supplement **Ashwagandha 1-3 g powder with warm water** (for the second time before bedtime)."			|	
+| | | | 
+| **9:30 PM-**			| **9:30 PM-**
+
+**(Yoga & Naturopathy)**
+**[Switch off screen gadgets at least half an hour going to bed][68], perform a few minutes of Shavaasana with deep breathing [Praanayaama][69] and meditation, and sleep before 10 PM.** There is [evidence][70] that slow and deep breathing exercises performed for several minutes decreases sleep onset latency and increases quality of sleep in those suffering from insomnia.		| **9:30 PM-**|
+| | | |	
+| | | |
+| | | |	
+| | | |
+| | | |	
+| | | | 
 
 
 
@@ -125,54 +370,54 @@ Of possible longer term severe adverse events, the greatest correlation appears 
 [20]: https://pubmed.ncbi.nlm.nih.gov/29480918/
 [21]: https://www.bitchute.com/video/uY3P79wtZVeZ/
 [22]: https://www.bitchute.com/video/ci79RSAsK7o8/
-[23]: 
-[24]: 
-[25]: 
-[26]: 
-[27]: 
-[28]: 
-[29]: 
-[30]: 
-[31]: 
-[32]: 
-[33]: 
-[34]: 
-[35]: 
-[36]: 
-[37]: 
-[38]: 
-[39]: 
-[40]: 
-[41]: 
-[42]: 
-[43]: 
-[44]: 
-[45]: 
-[46]: 
-[47]: 
-[48]:  
-[49]: 
-[50]: 
-[51]: 
-[52]: 
-[53]: 
-[54]: 
-[55]: 
-[56]: 
-[57]: 
-[58]: 
-[59]: 
-[60]: 
-[61]: 
-[62]: 
-[63]: 
-[64]: 
-[65]: 
-[66]: 
-[67]: 
-[68]: 
-[69]: 
-[70]: 
+[23]: https://dreddymd.com/2021/06/10/breakthrough-ivermectin-inhibits-the-sars-cov-2-spike-protein-from-binding-to-ace2-receptors-in-human-tissue/
+[24]: http://www.iamj.in/posts/2020/images/upload/4181_4184_1.pdf
+[25]: https://www.hindustantimes.com/lifestyle/health/why-drinking-warm-water-with-honey-can-be-harmful-for-you-as-per-ayurveda-101633932561171.html
+[26]: https://www.healthline.com/nutrition/green-juice-benefits#downsides
+[27]: https://journals.indexcopernicus.com/api/file/viewByFileId/746161.pdf
+[28]: https://www.medicalnewstoday.com/articles/275944
+[29]: https://innovareacademics.in/journals/index.php/ajpcr/article/view/41575
+[30]: https://timesofindia.indiatimes.com/life-style/health-fitness/home-remedies/amla-moringa-shot-to-boost-immunity-amid-the-covid-pandemic/photostory/82307685.cms?picid=82307693
+[31]: https://timesofindia.indiatimes.com/life-style/health-fitness/home-remedies/amla-moringa-shot-to-boost-immunity-amid-the-covid-pandemic/photostory/82307685.cms?picid=82307693
+[32]: https://pubmed.ncbi.nlm.nih.gov/27540481/
+[33]: https://www.youtube.com/watch?v=cRjzdkqu4SQ
+[34]: https://jammi.in/blog/kabasura-kudineer-benefits-ingredients-and-side-effects/
+[35]: https://healthyeating.sfgate.com/can-vitamin-d-through-light-shirt-10178.html
+[36]: https://dipdiet.in/
+[37]: https://drive.google.com/file/d/1AYP0AOcTsRM_rbxIVfw5wwMyywq6hPYS/view?usp=drivesdk
+[38]: https://www.dovepress.com/coronil-a-tri-herbal-formulation-attenuates-spike-protein-mediated-sar-peer-reviewed-fulltext-article-JIR#
+[39]: https://dipdiet.in/
+[40]: https://drive.google.com/file/d/1AYP0AOcTsRM_rbxIVfw5wwMyywq6hPYS/view?usp=drivesdk
+[41]: https://biswaroop.com/wp-content/uploads/2020/02/RECIPES-To-Cure-Lifestyle-Diseases1.pdf
+[42]: https://youtu.be/gOWeBjUfRjI
+[43]: https://www.sciencedirect.com/science/article/pii/S1878450X15000207
+[44]: https://www.healthline.com/nutrition/9-health-benefits-of-kefir#TOC_TITLE_HDR_10
+[45]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6213178/
+[46]: https://fungi.com/blogs/articles/place-mushrooms-in-sunlight-to-get-your-vitamin-d
+[47]: https://thejapanstore.us/natto/how-to-make-natto/
+[48]: https://www.dovepress.com/coronil-a-tri-herbal-formulation-attenuates-spike-protein-mediated-sar-peer-reviewed-fulltext-article-JIR#
+[49]: https://www.researchgate.net/publication/354294929_The_Combination_of_Quercetin_and_Bromelain_with_Zinc_EGCG_Retinoic_Acid_Vitamin_C_and_Vitamin_D_for_the_potential_Symptom_Reducer_Prevention_and_Treatment_for_Coronavirus_Disease_2019_COVID-19
+[50]: https://www.healthline.com/nutrition/coenzyme-q10#TOC_TITLE_HDR_6
+[51]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241507/
+[52]: https://www.amazon.in/West-Coast-Immuneed-Original-Immune/dp/B01G8D0JOY
+[53]: https://www.apollopharmacy.in/otc/limcee-500mg-tablet?utm_source=google&utm_medium=ss&campaignid=13437039727&adgroupid=121136647177&keyword=&device=c&adtype=&product_id=LIM0003&utm_campaign=Farming_Smart-Shopping_TopSKUs-MetroCities_P2Cities_NewAP&utm_content=Metro+Cities&gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3fngFMxUGxcidFobLh6TCdBFmZabFiP0VScgmjFlxOZqr-CJhJoH_caAu9kEALw_wcB
+[54]: https://dipdiet.in/
+[55]: https://www.youtube.com/watch?v=CD285r96I04
+[56]: https://www.medicalnewstoday.com/articles/319196
+[57]: https://petelovessalads.com/
+[58]: https://petelovessalads.com/kosambari-salads-just-what-is-that-ive-got-9-to-show-you/
+[59]: https://dipdiet.in/
+[60]: https://biswaroop.com/wp-content/uploads/2020/02/RECIPES-To-Cure-Lifestyle-Diseases1.pdf
+[61]: https://youtu.be/gOWeBjUfRjI
+[62]: https://www.healthline.com/nutrition/natto#TOC_TITLE_HDR_6
+[63]: https://www.healthline.com/health/vitamin-b12-foods-for-vegetarians#vitamin-b-12-food-list
+[64]: https://www.dovepress.com/coronil-a-tri-herbal-formulation-attenuates-spike-protein-mediated-sar-peer-reviewed-fulltext-article-JIR#
+[65]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7528968/
+[66]: https://covid-19.cochrane.org/studies/crs-14692484
+[67]: https://www.sciencedirect.com/science/article/pii/S2210803321000312
+[68]: https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep
+[69]: https://www.healthline.com/health/breathing-exercises-for-sleep#guidelines
+[70]: https://link.springer.com/article/10.1007/s41782-019-00072-6
 [71]: 
 [72]:
 [73]: 
