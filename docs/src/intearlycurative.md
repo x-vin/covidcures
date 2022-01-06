@@ -78,8 +78,42 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
   - (In various countries, Sept 6, 2021) [Find a doctor][36] who will prescribe Ivermectin, Hydroxychloroquine and early outpatient treatments for Covid-19				
 													
 													
-																							
-													
+## TABLES																							
+| The N.I.C.E. protocol for mild / acute Covid<br>**DAY 1**<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169	| The N.I.C.E. protocol for mild / acute Covid<br>**DAY 2**<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169			| The N.I.C.E. protocol for mild / acute Covid<br>**DAY 3**<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169			|
+|:--------|:-------|:-------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |	
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |		
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |		
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |		
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |		
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |													
+
+
+
 ## CTYY
 
 [1]: https://www.researchgate.net/publication/343430286_Millet_Derived_Flavonoids_as_Potential_SARS-CoV-2_Main_Protease_Inhibitors_A_Computational_Approach
