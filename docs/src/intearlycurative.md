@@ -81,8 +81,7 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 ## TABLES		
 | DAY 1| DAY 2| DAY 3|		
 |:--------|:-------|:-------|																			
-| The N.I.C.E. protocol for mild / acute Covid<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169	| The N.I.C.E. protocol for mild / acute Covid<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169			| The N.I.C.E. protocol for mild / acute Covid<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169			|
-
+| **The N.I.C.E. protocol for mild / acute Covid**<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169	| **The N.I.C.E. protocol for mild / acute Covid**<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169			| **The N.I.C.E. protocol for mild / acute Covid**<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169			|
 | | | |
 | | | |
 | | | |
