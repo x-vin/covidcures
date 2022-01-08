@@ -14,8 +14,22 @@ A few stores selling reliable homeopathic products in India:
 | Arsenic Album 30 C (also called Arsalb 30)| | |
 | Arsenic Album 200 C (also called Arsalb 200)| | |
 | Camphor 1M| Rhus Tox 200| Bryonia 200|
-| Q Aspidosperma| | |
+| Q Aspidosperma | | |
 
+### Equipment for self-care / treatment-
+
+| Equipment for self-care / treatment | Resources |
+|-----|-----|
+| Enema can / kit| [A possible store](https://www.yogabliss.in/) |
+| Neti pot (Jal Neti / Nasal wash can)	| [Link](https://www.yogabliss.in/) |
+| Hand-held electric fan | [Bajaj Pygmy Mini 11cm][66] | 
+| | [Geek Aire GF1 - 4 Inch][67] |
+| Food-safe unglazed clay / brass / stone cookware | [Is it safe to cook in clay pots?][68] |
+| | [Heavy Metals in Contaminated Soils][69] |
+| Food-safe Copper / unglazed clay pot for drinking water		| [SenSafe Water Metals Check](https://sensafe.com/sensafe-water-metals-check/) |
+| Oximeter | [AccuSure FS10C][70] |
+| Digital thermometer	| [Dr. Odin MT101][71] |
+| | [Carent Infrared JPD-FR202][72] |
 
 ## General precautions of supporting immunity and prophylaxing:
 
@@ -244,13 +258,13 @@ VII. <ins>Seventh Principle</ins>: **An important principle of design of this in
 [63]: https://www.sciencedirect.com/science/article/pii/S0014299918303595
 [64]: https://renalteam.org/en/renalteam-blog/kidney-friendly-fruits-and-vegetables/
 [65]: https://www.davita.com/diet-nutrition/articles/advice/top-15-healthy-foods-for-people-with-kidney-disease
-[66]: 
-[67]: 
-[68]: 
-[69]: 
-[70]: 
-[71]: 
-[72]:
+[66]: https://www.croma.com/bajaj-pygmy-mini-11cm-sweep-3-blade-table-fan-usb-charging-251267-cerulean-blue-/p/232310?utm_source=google&utm_medium=ps&utm_campaign=small_appliances_pla_sem&gclid=CjwKCAjwk6-LBhBZEiwAOUUDp6-1xoCtblI8CII3mykf9Q0e9mtR2-e4aLZk9Uw0qWkG8o_No6Ir8xoCWUcQAvD_BwE
+[67]: https://www.harkin.in/geek-aire-gf1-4inch-fan-white.html?gclid=CjwKCAjwk6-LBhBZEiwAOUUDp0iNwFGznsCXIiD-QHRMg-vV_fXbevmNDrgPNsN4g-Mu25Fl84qNAhoCsPwQAvD_BwE
+[68]: https://www.theindusvalley.in/is-it-safe-to-cook-in-clay-pots/
+[69]: https://www.hindawi.com/journals/isrn/2011/402647/
+[70]: https://www.flipkart.com/accusure-fs10c-finger-tip-digital-pulse-oximeter/p/itm8aa0b6d3bbf79?pid=POXFSK6XT2QGU3TJ&lid=LSTPOXFSK6XT2QGU3TJ5M1KJV&marketplace=FLIPKART&store=bvv%2Fb5f&srno=b_1_9&otracker=browse&fm=organic&iid=5b91f684-0339-4c20-bc09-4123e4bdd109.POXFSK6XT2QGU3TJ.SEARCH&ppt=browse&ppn=browse&ssid=8ey3o859340000001634523531717
+[71]: https://www.flipkart.com/dr-odin-mt101-digital-medical-thermometer-fda-approved-quick-40-second-reading-oral-rectal-armpit-underarm-body-temperature-clinical-professional-detecting-fever-baby-infant-kid-babies-children-adult-pet/p/itmff9tmmrdnvddp?pid=DTHFF7UWWQHPCAEU&lid=LSTDTHFF7UWWQHPCAEUEGPFTZ&marketplace=FLIPKART&store=zlw%2Fnyl%2Fbvv%2Fh7c&srno=b_1_5&otracker=browse&fm=organic&iid=c8f6eacc-b73c-43a7-8eed-338677a71415.DTHFF7UWWQHPCAEU.SEARCH&ppt=browse&ppn=browse&ssid=1v9m4lmz0g0000001634523706214
+[72]: https://www.flipkart.com/carent-jpd-fr202-digital-non-contact-infrared-forehead-laser-gun-scanner-body-fever-testing-machine-kids-adults-babies-thermometer/p/itm9878d85059f19?pid=DTHFWSGRVF8KXDZG&lid=LSTDTHFWSGRVF8KXDZGYRME3N&marketplace=FLIPKART&store=zlw%2Fnyl%2Fbvv%2Fh7c&srno=b_1_2&otracker=browse&fm=organic&iid=en_a5yee6jfGgZRLKQGrq7KkihHfIWPtZQ6yoPrrnm%2BxsBTFBfIAKWPhqzQ8fmhiTMcxMH2aHrneYnJDBg7nHhHdA%3D%3D&ppt=browse&ppn=browse
 [73]: 
 [74]: 
 [75]: 
