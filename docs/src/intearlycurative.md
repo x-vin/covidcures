@@ -123,8 +123,7 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 | | | |
 | **8:00 PM -**<br><br>If fresh leaves of Peepal / Aswattha / Sacred fig / Arayaal / Arasamaram / Ficus religiosa can be locally sourced and prepared,<br><br>(NICE) [Kadha / Kashaaya of Peepal leaves][81], **only for patients with breathing difficulty:**<br><br>Boil **cut pieces of Peepal leaves in about a glass of water until the water is reduced to about half a glass. Filter** the water and drink. For severe breathing problems, use **Peepal bark** instead of leaves and repeat every hour.			| **8:00 PM -**<br><br>If fresh leaves of Peepal / Aswattha / Sacred fig / Arayaal / Arasamaram / Ficus religiosa can be locally sourced and prepared,<br><br>(NICE) [Kadha / Kashaaya of Peepal leaves][81], **only for patients with breathing difficulty:**<br><br>Boil **cut pieces of Peepal leaves in about a glass of water until the water is reduced to about half a glass. Filter** the water and drink. For severe breathing problems, use **Peepal bark** instead of leaves and repeat every hour.| **8:00 PM -**<br><br>If fresh leaves of Peepal / Aswattha / Sacred fig / Arayaal / Arasamaram / Ficus religiosa can be locally sourced and prepared,<br><br>(NICE) [Kadha / Kashaaya of Peepal leaves][81], **only for patients with breathing difficulty:**<br><br>Boil **cut pieces of Peepal leaves in about a glass of water until the water is reduced to about half a glass. Filter** the water and drink. For severe breathing problems, use **Peepal bark** instead of leaves and repeat every hour. |	
 | | | |
-| **8 - 9 PM -**<br><br>(NICE) Saline irrigation, Steam inhalation & Relaxing bedtime banana Kashaya<br><br>1. [Saline throat and nasal irrigation][82]: Perform throat gargling with **a glass of warm water** with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt.** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][83] useful to [perform][84] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][85], with isotonic (0.9 %) saline solution.<br><br>2. [Steam inhalation][86]: (AYUSH) **Perform steam inhalation with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain. (Optional)** (Dr. SR) [Halin Drops][87] could be added to the water used for steaming.<br><br>3. [Banana Kashaaya][88] **for a more restful sleep:** Prepare the banana Kashaya by **boiling banana in water along with the peel.** Sip the banana Kashaaya and go to sleep.<br><br>(Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**<br>Burn [Aparajitha Dhooma Choornam][89] in the living space in the night, around 8 PM.		|          **8 - 9 PM -**<br><br>(NICE) Saline irrigation, Steam inhalation & Relaxing bedtime banana Kashaya<br><br>1. [Saline throat and nasal irrigation][82]: Perform throat gargling with **a glass of warm water** with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt.** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][83] useful to [perform][84] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][85], with isotonic (0.9 %) saline solution.<br><br>2. [Steam inhalation][86]: (AYUSH) **Perform steam inhalation with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain. (Optional)** (Dr. SR) [Halin Drops][87] could be added to the water used for steaming.<br><br>3. [Banana Kashaaya][88] **for a more restful sleep:** Prepare the banana Kashaya by **boiling banana in water along with the peel.** Sip the banana Kashaaya and go to sleep.<br><br>(Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**<br>Burn [Aparajitha Dhooma Choornam][89] in the living space in the night, around 8 PM.| **8 - 9 PM -**<br><br>(NICE) Saline irrigation, Steam inhalation & Relaxing bedtime banana Kashaya<br><br>1. [Saline throat and nasal irrigation][82]: Perform throat gargling with **a glass of warm water** with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt.** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][83] useful to [perform][84] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][85], with isotonic (0.9 %) saline solution.<br><br>2. [Steam inhalation][86]: (AYUSH) **Perform steam inhalation with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain. (Optional)** (Dr. SR) [Halin Drops][87] could be added to the water used for steaming.<br><br>3. (Dr. KV / Millet medicine) Preparation to make Foxtail millet / Thinai [Ambali][90] on Day 4:
-Soak half a cup (or the required quantity) of Foxtail millet / Thinai for sprouting during the night.<br><br>4. [Banana Kashaaya][88] **for a more restful sleep:** Prepare the banana Kashaya by **boiling banana in water along with the peel.** Sip the banana Kashaaya and go to sleep.<br><br>(Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**<br>Burn [Aparajitha Dhooma Choornam][89] in the living space in the night, around 8 PM.  |
+| **8 - 9 PM -**<br><br>(NICE) Saline irrigation, Steam inhalation & Relaxing bedtime banana Kashaya<br><br>1. [Saline throat and nasal irrigation][82]: Perform throat gargling with **a glass of warm water** with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt.** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][83] useful to [perform][84] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][85], with isotonic (0.9 %) saline solution.<br><br>2. [Steam inhalation][86]: (AYUSH) **Perform steam inhalation with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain. (Optional)** (Dr. SR) [Halin Drops][87] could be added to the water used for steaming.<br><br>3. [Banana Kashaaya][88] **for a more restful sleep:** Prepare the banana Kashaya by **boiling banana in water along with the peel.** Sip the banana Kashaaya and go to sleep.<br><br>(Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**<br>Burn [Aparajitha Dhooma Choornam][89] in the living space in the night, around 8 PM.		|          **8 - 9 PM -**<br><br>(NICE) Saline irrigation, Steam inhalation & Relaxing bedtime banana Kashaya<br><br>1. [Saline throat and nasal irrigation][82]: Perform throat gargling with **a glass of warm water** with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt.** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][83] useful to [perform][84] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][85], with isotonic (0.9 %) saline solution.<br><br>2. [Steam inhalation][86]: (AYUSH) **Perform steam inhalation with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain. (Optional)** (Dr. SR) [Halin Drops][87] could be added to the water used for steaming.<br><br>3. [Banana Kashaaya][88] **for a more restful sleep:** Prepare the banana Kashaya by **boiling banana in water along with the peel.** Sip the banana Kashaaya and go to sleep.<br><br>(Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**<br>Burn [Aparajitha Dhooma Choornam][89] in the living space in the night, around 8 PM.| **8 - 9 PM -**<br><br>(NICE) Saline irrigation, Steam inhalation & Relaxing bedtime banana Kashaya<br><br>1. [Saline throat and nasal irrigation][82]: Perform throat gargling with **a glass of warm water** with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt.** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][83] useful to [perform][84] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][85], with isotonic (0.9 %) saline solution.<br><br>2. [Steam inhalation][86]: (AYUSH) **Perform steam inhalation with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain. (Optional)** (Dr. SR) [Halin Drops][87] could be added to the water used for steaming.<br><br>3. (Dr. KV / Millet medicine) Preparation to make Foxtail millet / Thinai [Ambali][90] on Day 4:<br>Soak half a cup (or the required quantity) of Foxtail millet / Thinai for sprouting during the night.<br><br>4. [Banana Kashaaya][88] **for a more restful sleep:** Prepare the banana Kashaya by **boiling banana in water along with the peel.** Sip the banana Kashaaya and go to sleep.<br><br>(Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**<br>Burn [Aparajitha Dhooma Choornam][89] in the living space in the night, around 8 PM.  |
 
 
 ## TABLES
@@ -133,7 +132,54 @@ Soak half a cup (or the required quantity) of Foxtail millet / Thinai for sprout
 |:--------|:-------|:-------|																			
 | **<ins>The N.I.C.E. protocol for mild / acute Covid</ins>**<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169	| **<ins>The N.I.C.E. protocol for mild / acute Covid</ins>**<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169			| **<ins>The N.I.C.E. protocol for mild / acute Covid</ins>**<br><br>N.I.C.E. Three-Step Flu Diet<br>N.I.C.E. helpline for free consultations and guidance:<br>+91 8587059169			|
 | | | |
-| | | |
+| **Holistic techniques to reduce the discomfort of breathlessness:**
+
+1. *(NICE)* A hand-held / table fan held in front of the patient's face for a few minutes
+
+2. *(Integrative medicine)* Prone ventilation
+
+3. *(Homeopathy)* **Q Aspidosperma, to be adopted after consultation with a homeopathic physician**
+
+4. *(Ayurveda, Indigenous medicine)* Camphor + Ajwain + Eucalyptus oil Potli			| <ins>If there is insuffcient mitigation of the infection by Day 5, it is necessary to consult with one of the many competent practitioners of integrative or holistic medicine, who have experience in providing highly effective treatment of Covid-19.</ins> Here are the integrative therapies and a few names of physicians worldwide, offering telemedicine, known to have a negligible mortality rate in their treatment modalities:
+
+- **NICE (Network of Influenza Care Experts) Helpline (+91 8587059169)**
+
+- **Ozone therapy**
+
+- **Chlorine Dioxide Solution therapy and Physicians supporting CDS therapy**
+
+- **Haldi30 patented herbal extract and Physicians offering Haldi30 treatment**
+
+- **Ayurvedic Physicians offering extremely efficacious treatment**
+
+- Ayurvedic **Krishnapatnam treatment**
+
+- **Homeopathic services from an acclaimed treatment and research center in Kolkatta, [Dr. Prasanta Bannerji Homeopathic Research Foundation (PBHRF)][91] (Home of the Bannerji Protocols (TM))**
+  Tel. / WhatsApp: +91 33 4005 0796 /  +91 33 4005 0809
+
+- Allopathic early-stage treatment protocols using the most evidence-based interventions, and a few Physicians who might provide such therapy: 
+  - FLCCC's I-MASK+ Protocol,
+  - The Zelenko Protocol,
+  - Dr. Thomas Borody's Triple Therapy:
+(GPs can email GP@CDD.com.au to obtain the dosing protocol and COVID-19 treatment information for their patients.)
+  - [The Ippocrate Protocol and telemedicine service][92]
+  - Protocol based on The Fleming Method (aka FMTVDM-Directed Covid-19 Treatment Protocol),
+  - Covid Healer from Italy, Dr. Andrea Stramezzi:
+    (WhatsApp to +39 351 5407910)
+  - Dr. Shankara Chetty, South Africa, 8th Day Therapy
+    (WhatsApp to +27 846102030)
+  - [Covid 19 Doctors' Directory][93]
+  - [Telemedicine Doctors for Covid-19 Script][94]
+  - [Find a doctor who will prescribe Ivermectin, Hydroxychloroquine and early outpatient treatments for COVID-19 (USA)][95] (Oct 17, 2021)
+  - [Find a doctor who will prescribe Ivermectin, Hydroxychloroquine and early outpatient treatments for COVID-19 in various countries][96] (Oct 27, 2021)
+
+**<ins>The naturopathic and millet-based anti-inflammatory diet, nutraceutical supplements, phototherapy, saline irrigation of nose and mouth and steam inhalation, Pranayama, Green chiretta decoction (Kapasura + Nilavembu Kudineer), AYUSH64, homeopathic medication, Nigella sativa therapy and turmeric-pepper tea</ins> may perhaps continue to be used as adjunct therapy or a baseline treatment approach in any therapeutic modality, after due consultation with the treating physician.**			| **If there was not remarkable improvement in symptoms, or mitigation, by Day 5, then it is time to promptly consult a physician offering one of the clinically proven, highly effective Covid-19 therapies (listed under Preliminary Notes, Day 5).**
+
+**Subsequently, the baseline therapeutic dietary and other regimen described here should be discussed with and vetted by the consulting physician.**
+
+<ins>The naturopathic and millet-based anti-inflammatory diet, nutraceutical supplements, phototherapy, saline irrigation of nose and mouth and steam inhalation, Pranayama, Green chiretta decoction (Kapasura + Nilavembu Kudineer), AYUSH64, homeopathic medication, Nigella sativa therapy and turmeric-pepper tea may perhaps continue to be used as adjunct therapy or a baseline treatment approach in any therapeutic modality, after due consultation with the treating physician.</ins>
+
+**However, the herbal medications may need to be replaced by the new therapy, after consideration.** |
 | | | |	
 | | | |
 | | | |
@@ -244,12 +290,12 @@ Soak half a cup (or the required quantity) of Foxtail millet / Thinai for sprout
 [88]: https://senchateabar.com/blogs/blog/banana-tea-for-sleep
 [89]: https://www.newindianexpress.com/states/kerala/2020/may/21/keralas-ayurvedic-fumigant-receives-national-attention-2145947.html
 [90]: https://youtu.be/gOWeBjUfRjI
-[91]: 
-[92]: 
-[93]
-[94]
-[95]: 
-[96]: 
+[91]: https://pbhrfindia.org/
+[92]: https://ippocrateorg.org/en/contacts/
+[93]: https://www.exstnc.com/
+[94]: https://principia-scientific.com/contacts-telemedicine-doctors-for-covid19-scripts/
+[95]: https://www.aestheticsadvisor.com/2021/02/find-doctor-prescribe-hydroxychloroquine-ivermectin.html
+[96]: https://www.aestheticsadvisor.com/2021/06/find-doctor-ivermectin-global.html
 [97]: 
 [98]: 
 [99]: 
