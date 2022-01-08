@@ -181,20 +181,766 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 
 **However, the herbal medications may need to be replaced by the new therapy, after consideration.** |
 | | | |	
+| **At or before 5:30 AM-**
+*(Homeopathy)* Dr. Khadar Vali's generic homeopathic regimen for boosting immune response with Arsenicum album 200, Bryonia alba 200, Camphor 200 for symptomatic infections:
+
+**Schedule and dosage-**
+Take 3 pills of Ars alb 200 C in half a cup of water. If there have been respiratory symptoms and a high fever, also have 3 pills each of Bryonia alba 200 and Camphor 200 along with the Arsenicum album 200. For children, the dosage would be proportionately smaller, say 1-2 pills each, depending on age and weight.
+
+**Note:**
+1. Homeopathic medication must be consumed as far as possible **away from meals (i.e., at least half an hour, and preferably 1 hour, before a main meal).**
+
+2. Of the 3 medications used in Dr. Khadar Vali's treatment regimen, **Bryonia alba 200 C** is especially indicated when **respiratory symptoms** are present and is used also to effectively treat pneumonia, and **Camphor 200 C** is recommended when **fever** is a prominent symptom of the infection. **Arsenicum album 30 C** and **200 C** have been widely used with remarkable and demonstrable efficacy by the alternate healthcare community in Kerala in both prophylaxing against Covid-19 as well as the treatment of early symptoms.		| **At or before 5:30 AM-**
+*(Homeopathy)* Dr. Khadar Vali's generic homeopathic regimen for boosting immune response with Arsenicum album 200, Bryonia alba 200, Camphor 200 for symptomatic infections:
+
+**Schedule and dosage-**
+Take 3 pills of Ars alb 200 C in half a cup of water. If there have been respiratory symptoms and a high fever, also have 3 pills each of Bryonia alba 200 and Camphor 200 along with the Arsenicum album 200. For children, the dosage would be proportionately smaller, say 1-2 pills each, depending on age and weight.
+
+**Note:**
+1. Homeopathic medication must be consumed as far as possible **away from meals (i.e., at least half an hour, and preferably 1 hour, before a main meal).**
+
+2. Of the 3 medications used in Dr. Khadar Vali's treatment regimen, **Bryonia alba 200 C** is especially indicated when **respiratory symptoms** are present and is used also to effectively treat pneumonia, and **Camphor 200 C** is recommended when **fever** is a prominent symptom of the infection. **Arsenicum album 30 C** and **200 C** have been widely used with remarkable and demonstrable efficacy by the alternate healthcare community in Kerala in both prophylaxing against Covid-19 as well as the treatment of early symptoms.| **At or before 5:30 AM-**
+*(Homeopathy)* Dr. Khadar Vali's generic homeopathic regimen for boosting immune response with Arsenicum album 200, Bryonia alba 200, Camphor 200 for symptomatic infections:
+
+**Schedule and dosage-**
+Take 3 pills of Ars alb 200 C in half a cup of water. If there have been respiratory symptoms and a high fever, also have 3 pills each of Bryonia alba 200 and Camphor 200 along with the Arsenicum album 200. For children, the dosage would be proportionately smaller, say 1-2 pills each, depending on age and weight.
+
+**Note:**
+1. Homeopathic medication must be consumed as far as possible **away from meals (i.e., at least half an hour, and preferably 1 hour, before a main meal).**
+
+2. Of the 3 medications used in Dr. Khadar Vali's treatment regimen, **Bryonia alba 200 C** is especially indicated when **respiratory symptoms** are present and is used also to effectively treat pneumonia, and **Camphor 200 C** is recommended when **fever** is a prominent symptom of the infection. **Arsenicum album 30 C** and **200 C** have been widely used with remarkable and demonstrable efficacy by the alternate healthcare community in Kerala in both prophylaxing against Covid-19 as well as the treatment of early symptoms.|
 | | | |
+| **About 6:00 AM -**
+
+(NICE) Saline irrigation & Sunbathing
+
+1. [Saline throat and nasal irrigation][97]: Perform throat gargling with a glass of warm water with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt. (Optional)** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][98] useful to [perform][99] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][100], **with isotonic (0.9 %) saline solution.**
+
+2. **Start sunbathing** (with minimal / [light, preferably white-coloured cotton attire][101]) and sungazing (no more than 20 seconds at a stretch).		| **About 6:00 AM -**
+
+(NICE) Saline irrigation & Sunbathing
+
+1. [Saline throat and nasal irrigation][97]: Perform throat gargling with a glass of warm water with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt. (Optional)** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][98] useful to [perform][99] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][100], **with isotonic (0.9 %) saline solution.**
+
+2. **Start sunbathing** (with minimal / [light, preferably white-coloured cotton attire][101]) and sungazing (no more than 20 seconds at a stretch).| **About 6:00 AM -**
+
+(NICE) Saline irrigation & Sunbathing
+
+1. [Saline throat and nasal irrigation][97]: Perform throat gargling with a glass of warm water with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt. (Optional)** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][98] useful to [perform][99] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][100], **with isotonic (0.9 %) saline solution.**
+
+2. **Start sunbathing** (with minimal / [light, preferably white-coloured cotton attire][101]) and sungazing (no more than 20 seconds at a stretch).|	
 | | | |
-| | | |	
-| | | |
-| | | |
-| | | |	
-| | | |
-| | | |
-| | | |	
-| | | |
-| | | |
-| | | |	
+| **6:15 - 6:30 AM -**
+
+(NICE) Early morning regimen to mitigate infection and inflammation in upper respiratory tract- Sniffing powdered dry ginger, Alternate breathing & Turmeric-pepper decoction:
+
+1. **Sniff one pinch each of dried ginger** / Chukku / Saunth alternately in each nostril.
+
+2. After 10 minutes, perform **Anuloma Viloma Praanayaama for 5 minutes.**
+
+3. After the completion of Praanayaama, consume **turmeric-pepper Kadha or Kashaaya (Ayurvedic bitter concoction)**: Boil 0.5 - 1 teaspoonful of turmeric and 2 pinches of black pepper in a glass of water for 5 minutes. Cover and let the decoction cool. Add jaggery and 1/2 teaspoonful of ghee or oil, and sip it.
 
 
+(Optional) (AYUSH) [Anu taila][102] ([Nasya][103]):
+ 
+Put **4 drops of Patanjali's Anu taila or even simple organic sesame or coconut oil or pure cow's ghee in each nostril.** This is performed at least an hour before the next meal.| **6:15 - 6:30 AM -**
+
+(NICE) Early morning regimen to mitigate infection and inflammation in upper respiratory tract- Sniffing powdered dry ginger, Alternate breathing & Turmeric-pepper decoction:
+
+1. **Sniff one pinch each of dried ginger** / Chukku / Saunth alternately in each nostril.
+
+2. After 10 minutes, perform **Anuloma Viloma Praanayaama for 5 minutes.**
+
+3. After the completion of Praanayaama, consume **turmeric-pepper Kadha or Kashaaya (Ayurvedic bitter concoction)**: Boil 0.5 - 1 teaspoonful of turmeric and 2 pinches of black pepper in a glass of water for 5 minutes. Cover and let the decoction cool. Add jaggery and 1/2 teaspoonful of ghee or oil, and sip it.
+
+
+(Optional) (AYUSH) [Anu taila][102] ([Nasya][103]):
+ 
+Put **4 drops of Patanjali's Anu taila or even simple organic sesame or coconut oil or pure cow's ghee in each nostril.** This is performed at least an hour before the next meal.| **6:15 - 6:30 AM -**
+
+(NICE) Early morning regimen to mitigate infection and inflammation in upper respiratory tract- Sniffing powdered dry ginger, Alternate breathing & Turmeric-pepper decoction:
+
+1. **Sniff one pinch each of dried ginger** / Chukku / Saunth alternately in each nostril.
+
+2. After 10 minutes, perform **Anuloma Viloma Praanayaama for 5 minutes.**
+
+3. After the completion of Praanayaama, consume **turmeric-pepper Kadha or Kashaaya (Ayurvedic bitter concoction)**: Boil 0.5 - 1 teaspoonful of turmeric and 2 pinches of black pepper in a glass of water for 5 minutes. Cover and let the decoction cool. Add jaggery and 1/2 teaspoonful of ghee or oil, and sip it.
+
+4. (Dr. KV / Millet medicine) Preparation for Positive millet (Foxtail / Thinai or Little / Saamai or Kodo / Varagu) [Ambali][104] as evening meal:
+Grind required quantity of the Foxtail millet / Thinai (that was left for soaking the previous night) for 2 seconds in a blender using the Whip mode. Then boil the broken grains in the same water in which they were soaked overnight, and further adding water equal to about twice the volume of grains, in an open mud pot, until the grains are cooked. After cooking, close the mud pot with a clean cotton cloth and leave to ferment for 8 hours, to be finished by evening. However, the Ambali will be ready for consumption by lunch time, around 2 - 2:30 PM.
+
+
+(Optional) (AYUSH) [Anu taila][102] ([Nasya][103]):
+ 
+Put **4 drops of Patanjali's Anu taila or even simple organic sesame or coconut oil or pure cow's ghee in each nostril.** This is performed at least an hour before the next meal.|
+| | | |	
+| **7:30 AM -**
+
+If Peepal leaves can be sourced and prepared:
+
+(NICE) **[Kadha / Kashaaya of Peepal leaves][105], only for patients with breathing difficulty**
+
+
+Alternatively, if Peepal leaves cannot be sourced and prepared: 
+
+(Siddha) **Kadha or Kashaaya of [Nilavembu][106] / Kiratatikta / Chiretta + [Kapasura][107] (i.e., Kapasura / Nilavembu Kudineer):**
+
+**Consume quarter to half a tumbler, for adults (or about 60 ml) of Kapasura + Nilavembu Kudineer**, prepared by boiling a teaspoon each of **[Nilavembu][108] and [Kapasura][109] herbal powders** (store-bought) in 2 tumblers of water and reduced (through boiling) to half a tumbler. The dosage for children would be proportionately lower, ranging from a teaspoon (about 5 ml) to a quarter glass (30 ml) for adolescents. | **7:30 AM -**
+
+If Peepal leaves can be sourced and prepared:
+
+(NICE) **[Kadha / Kashaaya of Peepal leaves][105], only for patients with breathing difficulty**
+
+
+Alternatively, if Peepal leaves cannot be sourced and prepared: 
+
+(Siddha) **Kadha or Kashaaya of [Nilavembu][106] / Kiratatikta / Chiretta + [Kapasura][107] (i.e., Kapasura / Nilavembu Kudineer):**
+
+**Consume quarter to half a tumbler, for adults (or about 60 ml) of Kapasura + Nilavembu Kudineer**, prepared by boiling a teaspoon each of **[Nilavembu][108] and [Kapasura][109] herbal powders** (store-bought) in 2 tumblers of water and reduced (through boiling) to half a tumbler. The dosage for children would be proportionately lower, ranging from a teaspoon (about 5 ml) to a quarter glass (30 ml) for adolescents.| **7:30 AM -**
+
+If Peepal leaves can be sourced and prepared:
+
+(NICE) **[Kadha / Kashaaya of Peepal leaves][105], only for patients with breathing difficulty**
+
+
+Alternatively, if Peepal leaves cannot be sourced and prepared: 
+
+(Siddha) **Kadha or Kashaaya of [Nilavembu][106] / Kiratatikta / Chiretta + [Kapasura][107] (i.e., Kapasura / Nilavembu Kudineer):**
+
+**Consume quarter to half a tumbler, for adults (or about 60 ml) of Kapasura + Nilavembu Kudineer**, prepared by boiling a teaspoon each of **[Nilavembu][108] and [Kapasura][109] herbal powders** (store-bought) in 2 tumblers of water and reduced (through boiling) to half a tumbler. The dosage for children would be proportionately lower, ranging from a teaspoon (about 5 ml) to a quarter glass (30 ml) for adolescents.|
+| | | |
+| **8:00 AM-**
+
+1. *(NICE)* **Anti-inflammatory [green juice][110] and Dr. Eapen Koshy's supplementary naturopathic alkalizing (anti-inflammatory) regimen:**
+
+- **Green juice**, lukewarm or at room temperature, prepared from cucumber / ash gourd / bottle gourd / [plantain pith or stem][111] / [mint leaves][112] / [wheatgrass][113] / [Moringa leaves / corriander leaves][114], in rotation, and with [Amla][114], fresh lemon juice and a teaspoon of honey for taste. Naturopathy importantly utilizes this therapy to [counter systemic inflammation.][115]
+
+- (Dr. EK) **Immune-supportive ("alkalizing") superfoods:**
+Chew and eat a 1 cm long piece of **raw fresh ginger** along with the skin, and 2-3 **raw fresh Amla** / Indian gooseberries. The ginger and Amla can be dipped in [a little raw honey][116] to milden the taste, if needed. Raw peeled **garlic**, 1-2 cloves, and **raw slices of lemon**, along with the rind, too can be eaten to reduce inflammation and support immunity.
+
+
+2. (Allopathy, Nutritional / Integrative medicine) **Nutraceuticals to support immunity:**
+
+- If the symptoms had reduced by Day 3,
+then continue to take a generic supplement like **[Immuneed][117] or [oral vitamin C + Zinc][118]** with lukewarm water.
+
+- If symptoms had not been mitigated by Day 3,
+then continue the therapeutic supplements recommended in the early treatment prescribed by the Zelenko Protocol or FLCCC's I-MASK+ protocol:
+**I-MASK+ Immune Fortifying / Supportive Therapy (with links to FLCCC-recommended products):**
+**Vitamin D3:** 1000–3000 IU / day. ([Amazon][119])
+**Vitamin C:** 500 - 1,000 mg BID (twice daily) ([Amazon][120]) ([OneDayMD][121])
+**Quercetin:** 250 mg daily.  ([Amazon][122]) ([Aesthetics Advisor][123])
+**Zinc:** 30 - 40 mg / day (elemental zinc). Zinc lozenges are preferred. ([Amazon][124]) ([OneDayMD][125])
+
+Alternatively, the manufacturer "dose + immunity" offers a combined supplement called "[A dose of immunity][126]", a highly rated immune-supportive supplement on Amazon **containing all these components and Echinacea.**
+
+3. (Dr. KV / Millet medicine) **Preparation for Foxtail millet / Thinai [Ambali][127] as evening meal:**
+**Grind required quantity of the Foxtail millet / Thinai (that was left for soaking the previous night) for 2 seconds in a blender using the Whip mode. Then boil the broken grains in the same water in which they were soaked overnight, and further adding water equal to about twice the volume of grains, in an open mud pot, until the grains are cooked. After cooking, close the mud pot with a clean cotton cloth and leave to ferment for 8 hours, until evening.**		| **8:00 AM-**
+
+1. *(NICE)* **Anti-inflammatory [green juice][110] and Dr. Eapen Koshy's supplementary naturopathic alkalizing (anti-inflammatory) regimen:**
+
+- **Green juice**, lukewarm or at room temperature, prepared from cucumber / ash gourd / bottle gourd / [plantain pith or stem][111] / [mint leaves][112] / [wheatgrass][113] / [Moringa leaves / corriander leaves][114], in rotation, and with [Amla][114], fresh lemon juice and a teaspoon of honey for taste. Naturopathy importantly utilizes this therapy to [counter systemic inflammation.][115]
+
+- (Dr. EK) **Immune-supportive ("alkalizing") superfoods:**
+Chew and eat a 1 cm long piece of **raw fresh ginger** along with the skin, and 2-3 **raw fresh Amla** / Indian gooseberries. The ginger and Amla can be dipped in [a little raw honey][116] to milden the taste, if needed. Raw peeled **garlic**, 1-2 cloves, and **raw slices of lemon**, along with the rind, too can be eaten to reduce inflammation and support immunity.
+
+
+2. (Allopathy, Nutritional / Integrative medicine) **Nutraceuticals to support immunity:**
+
+- If the symptoms had reduced by Day 3,
+then continue to take a generic supplement like **[Immuneed][117] or [oral vitamin C + Zinc][118]** with lukewarm water.
+
+- If symptoms had not been mitigated by Day 3,
+then continue the therapeutic supplements recommended in the early treatment prescribed by the Zelenko Protocol or FLCCC's I-MASK+ protocol:
+**I-MASK+ Immune Fortifying / Supportive Therapy (with links to FLCCC-recommended products):**
+**Vitamin D3:** 1000–3000 IU / day. ([Amazon][119])
+**Vitamin C:** 500 - 1,000 mg BID (twice daily) ([Amazon][120]) ([OneDayMD][121])
+**Quercetin:** 250 mg daily.  ([Amazon][122]) ([Aesthetics Advisor][123])
+**Zinc:** 30 - 40 mg / day (elemental zinc). Zinc lozenges are preferred. ([Amazon][124]) ([OneDayMD][125])
+
+Alternatively, the manufacturer "dose + immunity" offers a combined supplement called "[A dose of immunity][126]", a highly rated immune-supportive supplement on Amazon **containing all these components and Echinacea.**
+
+3. (Dr. KV / Millet medicine) **Preparation for Foxtail millet / Thinai [Ambali][127] as evening meal:**
+**Grind required quantity of the Foxtail millet / Thinai (that was left for soaking the previous night) for 2 seconds in a blender using the Whip mode. Then boil the broken grains in the same water in which they were soaked overnight, and further adding water equal to about twice the volume of grains, in an open mud pot, until the grains are cooked. After cooking, close the mud pot with a clean cotton cloth and leave to ferment for 8 hours, until evening.**| **8:00 AM-**
+
+1. *(NICE)* **Anti-inflammatory [green juice][110] and Dr. Eapen Koshy's supplementary naturopathic alkalizing (anti-inflammatory) regimen:**
+
+- **Green juice**, lukewarm or at room temperature, prepared from cucumber / ash gourd / bottle gourd / [plantain pith or stem][111] / [mint leaves][112] / [wheatgrass][113] / [Moringa leaves / corriander leaves][114], in rotation, and with [Amla][114], fresh lemon juice and a teaspoon of honey for taste. Naturopathy importantly utilizes this therapy to [counter systemic inflammation.][115]
+
+- (Dr. EK) **Immune-supportive ("alkalizing") superfoods:**
+Chew and eat a 1 cm long piece of **raw fresh ginger** along with the skin, and 2-3 **raw fresh Amla** / Indian gooseberries. The ginger and Amla can be dipped in [a little raw honey][116] to milden the taste, if needed. Raw peeled **garlic**, 1-2 cloves, and **raw slices of lemon**, along with the rind, too can be eaten to reduce inflammation and support immunity.
+
+
+2. (Allopathy, Nutritional / Integrative medicine) **Nutraceuticals to support immunity:**
+
+- If the symptoms have fully subsided,
+then continue to take a generic supplement like **[Immuneed][117] or [oral vitamin C + Zinc][118]** with lukewarm water.
+
+- If the symptoms have not fully subsided,
+then continue the therapeutic supplements recommended in the early treatment prescribed by the Zelenko Protocol or FLCCC's I-MASK+ protocol:
+**I-MASK+ Immune Fortifying / Supportive Therapy (with links to FLCCC-recommended products):**
+**Vitamin D3:** 1000–3000 IU / day. ([Amazon][119])
+**Vitamin C:** 500 - 1,000 mg BID (twice daily) ([Amazon][120]) ([OneDayMD][121])
+**Quercetin:** 250 mg daily.  ([Amazon][122]) ([Aesthetics Advisor][123])
+**Zinc:** 30 - 40 mg / day (elemental zinc). Zinc lozenges are preferred. ([Amazon][124]) ([OneDayMD][125])
+
+Alternatively, the manufacturer "dose + immunity" offers a combined supplement called "[A dose of immunity][126]", a highly rated immune-supportive supplement on Amazon **containing all these components and Echinacea.**
+
+3. (Dr. KV / Millet medicine) **Preparation for Foxtail millet / Thinai [Ambali][127] as evening meal:**
+**Grind required quantity of the Foxtail millet / Thinai (that was left for soaking the previous night) for 2 seconds in a blender using the Whip mode. Then boil the broken grains in the same water in which they were soaked overnight, and further adding water equal to about twice the volume of grains, in an open mud pot, until the grains are cooked. After cooking, close the mud pot with a clean cotton cloth and leave to ferment for 8 hours, until evening.**|	
+| | | |
+| **9:00 AM -**
+
+1. (NICE) [Fresh tender coconut water:][128]
+
+The quantity of coconut water to be consumed is one-fourth of the total quantity prescribed for the day, i.e., **take [(body weight in kg / 10) / 4] glasses of coconut water.**
+
+2. (Integrative medicine, Naturopathy) If symptoms had not begun to mitigate by Day 3,
+continue the effective and evidence-based Nigella sativa therapy:
+**Take 1 g / [kg of body weight] of honey and 80 mg / [kg of body weight] of Nigella sativa. The honey is first dissolved in 1 large cup or 250 mL of warm water.**
+
+**Note:** A tablespoon of honey weighs approximately 21 g. A metric teaspoon of Black cumin seeds weighs about 5 g. **Therefore an adult weighing 60 kg would need to consume about 3 tablespoons of honey dissolved in a large cup of water, and about 1 metric teaspoon of Nigella sativa in this dose.**
+
+
+3. **Can stop sunbathing**, which was begun at 6:00 AM, at the end of the 3-hour phototherapy duration.
+
+
+4. (Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**
+Burn [Aparajitha Dhooma Choornam][129] in the living space in the morning.		| **9:00 AM -**
+
+1. (NICE) [Fresh tender coconut water:][128]
+
+The quantity of coconut water to be consumed is one-fourth of the total quantity prescribed for the day, i.e., **take [(body weight in kg / 10) / 4] glasses of coconut water.**
+
+2. (Integrative medicine, Naturopathy) If symptoms had not begun to mitigate by Day 3,
+continue the effective and evidence-based Nigella sativa therapy:
+**Take 1 g / [kg of body weight] of honey and 80 mg / [kg of body weight] of Nigella sativa. The honey is first dissolved in 1 large cup or 250 mL of warm water.**
+
+**Note:** A tablespoon of honey weighs approximately 21 g. A metric teaspoon of Black cumin seeds weighs about 5 g. **Therefore an adult weighing 60 kg would need to consume about 3 tablespoons of honey dissolved in a large cup of water, and about 1 metric teaspoon of Nigella sativa in this dose.**
+
+
+3. **Can stop sunbathing**, which was begun at 6:00 AM, at the end of the 3-hour phototherapy duration.
+
+
+4. (Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**
+Burn [Aparajitha Dhooma Choornam][129] in the living space in the morning.| **9:00 AM -**
+
+1. (NICE) [Fresh tender coconut water:][128]
+
+2. (Integrative medicine, Naturopathy) If symptoms have not fully subsided,
+continue the effective and evidence-based Nigella sativa therapy:
+**Take 1 g / [kg of body weight] of honey and 80 mg / [kg of body weight] of Nigella sativa. The honey is first dissolved in 1 large cup or 250 mL of warm water.**
+
+**Note:** A tablespoon of honey weighs approximately 21 g. A metric teaspoon of Black cumin seeds weighs about 5 g. **Therefore an adult weighing 60 kg would need to consume about 3 tablespoons of honey dissolved in a large cup of water, and about 1 metric teaspoon of Nigella sativa in this dose.**
+
+3. **Can stop sunbathing**, which was begun at 6:00 AM, at the end of the 3-hour phototherapy duration.
+
+4. (Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**
+Burn [Aparajitha Dhooma Choornam][129] in the living space in the morning.|
+| | | |	
+| **9:30 AM -**
+
+If fresh leaf Giloy + Tulasi Kashaaya can be sourced and prepared,
+
+(NICE) **Giloy + Tulasi Kashaaya or Kadha:**
+
+Take Kadha or Kashaaya (Ayurvedic bitter concoction), prepared as follows:
+**3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves are boiled in a suitable small quantity of water.**
+
+
+Alternatively, if fresh leaf Giloy + Tulasi Kashaya could not be sourced and prepared,
+
+(Patanjali) Divya Swasari Vati & Coronil:
+Fresh leaf decoctions or Kashayas are most potent and highly effective. However, if fresh Giloy and Tulasi leaves cannot be obtained, **Patanjali's Divya Coronil Kit therapy** is a certified and evidence-based therapeutic formulation containing a mixture of **Giloy, Ashwagandha and Tulasi in 2:1:1 ratio.**
+
+**Dosage & Schedule:**
+**Take 2 tablets (for adults, 15+ years) of Divya Swasari with lukewarm water on an empty stomach, half an hour before fruitarian breakfast. For children 6 - 15 years, the dosage is halved.**	| **9:30 AM -**
+
+If fresh leaf Giloy + Tulasi Kashaaya can be sourced and prepared,
+
+(NICE) **Giloy + Tulasi Kashaaya or Kadha:**
+
+Take Kadha or Kashaaya (Ayurvedic bitter concoction), prepared as follows:
+**3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves are boiled in a suitable small quantity of water.**
+
+
+Alternatively, if fresh leaf Giloy + Tulasi Kashaya could not be sourced and prepared,
+
+(Patanjali) Divya Swasari Vati & Coronil:
+Fresh leaf decoctions or Kashayas are most potent and highly effective. However, if fresh Giloy and Tulasi leaves cannot be obtained, **Patanjali's Divya Coronil Kit therapy** is a certified and evidence-based therapeutic formulation containing a mixture of **Giloy, Ashwagandha and Tulasi in 2:1:1 ratio.**
+
+**Dosage & Schedule:**
+**Take 2 tablets (for adults, 15+ years) of Divya Swasari with lukewarm water on an empty stomach, half an hour before fruitarian breakfast. For children 6 - 15 years, the dosage is halved.**	| **9:30 AM -**
+
+If fresh leaf Giloy + Tulasi Kashaaya can be sourced and prepared,
+
+(NICE) **Giloy + Tulasi Kashaaya or Kadha:**
+
+Take Kadha or Kashaaya (Ayurvedic bitter concoction), prepared as follows:
+**3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves are boiled in a suitable small quantity of water.**
+
+
+Alternatively, if fresh leaf Giloy + Tulasi Kashaya could not be sourced and prepared,
+
+(Patanjali) Divya Swasari Vati & Coronil:
+Fresh leaf decoctions or Kashayas are most potent and highly effective. However, if fresh Giloy and Tulasi leaves cannot be obtained, **Patanjali's Divya Coronil Kit therapy** is a certified and evidence-based therapeutic formulation containing a mixture of **Giloy, Ashwagandha and Tulasi in 2:1:1 ratio.**
+
+**Dosage & Schedule:**
+Take 2 tablets (for adults, 15+ years) of Divya Swasari with lukewarm water on an empty stomach, half an hour before fruitarian breakfast. For children 6 - 15 years, the dosage is halved.	|
+| | | |	
+| **10:30 AM -**
+
+(NICE) [Fresh tender coconut water][130]:
+
+The quantity of coconut water to be consumed is one-fourth of the total quantity prescribed for the day, i.e., **take [(body weight in kg / 10) / 4] glasses of coconut water,**
+
+**i.e. (body weight in kg) / 40 glasses**	| **10:30 AM -**
+
+(NICE) [Fresh tender coconut water][130]:
+
+The quantity of coconut water to be consumed is one-fourth of the total quantity prescribed for the day, i.e., **take [(body weight in kg / 10) / 4] glasses of coconut water,**
+
+**i.e. (body weight in kg) / 40 glasses**| **10:30 AM -**
+
+(NICE) [Fresh tender coconut water][130] |
+| | | |
+| **11:30 AM - 12:00 PM -**
+
+(NICE) **Fruit / Citrus juice:**
+
+- If asymptomatic, take **plain fruit juice (unsweetened and lukewarm)**, of any seasonal fruits, **in the quantity Q, defined below.**
+
+- If symptomatic, take **plain citrus fruit juice (unsweetened and lukewarm)** in the following **quantity Q:**
+
+**Q = one-third of (Body weight (in kg) / 10) glasses of fresh citrus fruit juice**
+i.e.,  (Body weight (in kg) / 30) glasses of fresh citrus fruit juice
+
+
+Additionally, if fresh leaf Giloy + Tulasi Kashaya could not be sourced / prepared and the Patanjali Coronil therapy has been adopted,
+
+(Patanjali) Divya Swasari Vati & Coronil:
+Fresh leaf decoctions or Kashayas are most potent and highly effective. However, if fresh Giloy and Tulasi leaves cannot be obtained, **Patanjali's Divya Coronil Kit therapy is a certified and evidence-based therapeutic formulation containing a mixture of Giloy, Ashwagandha and Tulasi in 2:1:1 ratio.**
+
+**Dosage & Schedule:**
+**Take 2 tablets (for adults, 15+ years) of Divya Coronil with lukewarm water on an empty stomach, half an hour after the fruit / citrus juice. For children 6 - 15 years, the dosage is halved.**	| **11:30 AM - 12:00 PM -**
+
+(NICE) **Fruit / Citrus juice:**
+
+- If asymptomatic, take **plain fruit juice (unsweetened and lukewarm)**, of any seasonal fruits, **in the quantity Q, defined below.**
+
+- If symptomatic, take **plain citrus fruit juice (unsweetened and lukewarm)** in the following **quantity Q:**
+
+**Q = one-third of (Body weight (in kg) / 10) glasses of fresh citrus fruit juice**
+i.e.,  (Body weight (in kg) / 30) glasses of fresh citrus fruit juice
+
+
+Additionally, if fresh leaf Giloy + Tulasi Kashaya could not be sourced / prepared and the Patanjali Coronil therapy has been adopted,
+
+(Patanjali) Divya Swasari Vati & Coronil:
+Fresh leaf decoctions or Kashayas are most potent and highly effective. However, if fresh Giloy and Tulasi leaves cannot be obtained, **Patanjali's Divya Coronil Kit therapy is a certified and evidence-based therapeutic formulation containing a mixture of Giloy, Ashwagandha and Tulasi in 2:1:1 ratio.**
+
+**Dosage & Schedule:**
+**Take 2 tablets (for adults, 15+ years) of Divya Coronil with lukewarm water on an empty stomach, half an hour after the fruit / citrus juice. For children 6 - 15 years, the dosage is halved.**| **11:30 AM - 12:00 PM -**
+
+(NICE) **Fruit / Citrus juice:**
+
+- If asymptomatic, take **plain fruit juice (unsweetened and lukewarm)**, of any seasonal fruits, **or a plate of seasonal fruits**
+
+- If symptomatic, take **plain citrus fruit juice (unsweetened and lukewarm)**
+
+Additionally, if fresh leaf Giloy + Tulasi Kashaya could not be sourced / prepared and the Patanjali Coronil therapy has been adopted,
+
+(Patanjali) Divya Swasari Vati & Coronil:
+Fresh leaf decoctions or Kashayas are most potent and highly effective. However, if fresh Giloy and Tulasi leaves cannot be obtained, Patanjali's Divya Coronil Kit therapy is a certified and evidence-based therapeutic formulation containing a mixture of Giloy, Ashwagandha and Tulasi in 2:1:1 ratio.
+
+**Dosage & Schedule:**
+Take 2 tablets (for adults, 15+ years) of Divya Coronil with lukewarm water on an empty stomach, half an hour after the fruit / citrus juice. For children 6 - 15 years, the dosage is halved.	|	
+| | | |
+| **12:15 - 12:30 PM -**
+
+(NICE) Keep **1/4 teaspoonful of fresh or dry ginger (Chukku or Saunth) in the mouth**, let it dissolve there, and then swallow.
+
+(AYUSH) In addition, if symptoms had not decreased by Day 3, one 500 mg tablet of AYUSH64 can continue to be taken.			| **12:15 - 12:30 PM -**
+
+(NICE) Keep **1/4 teaspoonful of fresh or dry ginger (Chukku or Saunth) in the mouth**, let it dissolve there, and then swallow.
+
+(AYUSH) In addition, if symptoms had not decreased by Day 3, one 500 mg tablet of AYUSH64 can continue to be taken.	| **12:15 - 12:30 PM -**
+
+(NICE) Keep **1/4 teaspoonful of fresh or dry ginger (Chukku or Saunth) in the mouth**, let it dissolve there, and then swallow.
+
+(AYUSH) In addition, especially if symptoms have not fully subsided and recovery phase begun,
+one 500 mg tablet of AYUSH64 can continue to be taken. |
+| | | |	
+| **1:00 PM -**
+
+(NICE) Consume **Turmeric-Pepper Kadha or Kashaaya** (Ayurvedic bitter concoction):
+
+**Boil 0.5 - 1 teaspoonful of Turmeric and [2 pinches of Black pepper][131] in a glass of water for 5 minutes.** Cover and let the decoction cool. Add **jaggery** and [1/2 teaspoonful of ghee or oil][132], and sip it.	| **1:00 PM -**
+
+(NICE) Consume **Turmeric-Pepper Kadha or Kashaaya** (Ayurvedic bitter concoction):
+
+**Boil 0.5 - 1 teaspoonful of Turmeric and [2 pinches of Black pepper][131] in a glass of water for 5 minutes.** Cover and let the decoction cool. Add **jaggery** and [1/2 teaspoonful of ghee or oil][132], and sip it.	| **1:00 PM -**
+
+(NICE) Consume **Turmeric-Pepper Kadha or Kashaaya** (Ayurvedic bitter concoction):
+
+**Boil 0.5 - 1 teaspoonful of Turmeric and [2 pinches of Black pepper][131] in a glass of water for 5 minutes.** Cover and let the decoction cool. Add **jaggery** and [1/2 teaspoonful of ghee or oil][132], and sip it.	
+
+*(Naturopathy)* <ins>Alternatively, if Symptoms have subsided,</ins>
+any anti-inflammatory tea, and especially Pine needle tea (containing Suramin that is reported to neutralize the spike glycoprotein debris after the infectious phase) or Prof. Dileep Kumar's (AIARD) recommended herbal Kashaaya (only if there are residual symptoms of infection), or Ayush Kwath Churna Kashaaya, can be consumed. **However, it would be wise to consult with a knowledgeable physician before choosing to consume any variety of herbal decoction regularly, especially with respect to interactions with any other drugs being taken.** |
+| | | |	
+| **2:00 PM -**
+
+(NICE) [Fresh tender coconut water][133]:
+
+The quantity of coconut water to be consumed is one-fourth of the total quantity prescribed for the day, i.e., **take [(body weight in kg / 10) / 4] glasses of coconut water,**
+
+**i.e. [(body weight in kg) / 40] glasses** 	| **2:00 PM -**
+
+(NICE) [Fresh tender coconut water][133]:
+
+The quantity of coconut water to be consumed is one-fourth of the total quantity prescribed for the day, i.e., **take [(body weight in kg / 10) / 4] glasses of coconut water,**
+
+**i.e. [(body weight in kg) / 40] glasses** | **2:00 PM -**
+
+(NICE) [Fresh tender coconut water][133] |
+| | | |
+| **2:30 - 3:30 PM -**
+
+**@ 3:00 PM** (NICE) 
+
+If there is no significant decrease of symptoms by the 3rd day, take Fruit / Citrus juice:
+
+- If asymptomatic, take **plain fruit juice (unsweetened and lukewarm)**, of any seasonal fruits, **in the quantity Q, defined below.**
+- If symptomatic, take **plain citrus fruit juice (unsweetened and lukewarm)** in the following **quantity Q:**
+
+**Q = one-third of (Body weight (in kg) / 10) glasses of fresh citrus fruit juice**
+i.e.,  (Body weight (in kg) / 30) glasses of fresh citrus fruit juice
+
+
+Otherwise, if there is significant decrease of symptoms by the 3rd day,
+take cucumber + tomato salad in the quantity Q:
+
+**Q = [Body weight (in kg)] X 5 grams of cucumber and tomatoes**
+
+For example, if the body weight is 60 kg, then (60 X 5 =) 300 grams of cucumber and tomatoes should be consumed. In many cases, patients may start feeling better and their fever improved, and they would have regained some strength.
+
+
+Additionally, if fresh leaf Giloy + Tulasi Kashaya could not be sourced / prepared and the Patanjali Coronil therapy has been adopted instead,
+
+**@ 2:30 PM & 3:30 PM** (Patanjali) Divya Swasari Vati & Coronil:
+Fresh leaf decoctions or Kashayas are most potent and highly effective. However, if fresh Giloy and Tulasi leaves cannot be obtained, **Patanjali's Divya Coronil Kit therapy** is a certified and evidence-based therapeutic formulation containing **a mixture of Giloy, Ashwagandha and Tulasi in 2:1:1 ratio.**
+
+**Dosage & Schedule:**
+**Take 2 tablets of Divya Swasari (for adults, 15+ years) with lukewarm water, half an hour before (@ 2:30 PM) and 2 tablets of Divya Coronil after (@ 3:30 PM) the fruit / citrus juice. For children 6 - 15 years, the dosage is halved.**			| **2:30 - 3:30 PM -**
+
+**@ 3:00 PM** (NICE) 
+
+If there is no significant decrease of symptoms by the 3rd day, take Fruit / Citrus juice:
+
+- If asymptomatic, take **plain fruit juice (unsweetened and lukewarm)**, of any seasonal fruits, **in the quantity Q, defined below.**
+- If symptomatic, take **plain citrus fruit juice (unsweetened and lukewarm)** in the following **quantity Q:**
+
+**Q = one-third of (Body weight (in kg) / 10) glasses of fresh citrus fruit juice**
+i.e.,  (Body weight (in kg) / 30) glasses of fresh citrus fruit juice
+
+
+Otherwise, if there is significant decrease of symptoms by the 3rd day,
+take cucumber + tomato salad in the quantity Q:
+
+**Q = [Body weight (in kg)] X 5 grams of cucumber and tomatoes**
+
+For example, if the body weight is 60 kg, then (60 X 5 =) 300 grams of cucumber and tomatoes should be consumed. In many cases, patients may start feeling better and their fever improved, and they would have regained some strength.
+
+
+Additionally, if fresh leaf Giloy + Tulasi Kashaya could not be sourced / prepared and the Patanjali Coronil therapy has been adopted instead,
+
+**@ 2:30 PM & 3:30 PM** (Patanjali) Divya Swasari Vati & Coronil:
+Fresh leaf decoctions or Kashayas are most potent and highly effective. However, if fresh Giloy and Tulasi leaves cannot be obtained, **Patanjali's Divya Coronil Kit therapy** is a certified and evidence-based therapeutic formulation containing **a mixture of Giloy, Ashwagandha and Tulasi in 2:1:1 ratio.**
+
+**Dosage & Schedule:**
+**Take 2 tablets of Divya Swasari (for adults, 15+ years) with lukewarm water, half an hour before (@ 2:30 PM) and 2 tablets of Divya Coronil after (@ 3:30 PM) the fruit / citrus juice. For children 6 - 15 years, the dosage is halved.**	| **2:30 - 3:30 PM -**
+
+**@ 3:00 PM** (NICE) 
+1. **Take a plate of cucumber + tomato salad in the quantity Q:**
+
+**Q = [Body weight (in kg)] X 5 grams of cucumber and tomatoes**
+
+For example, if the body weight is 60 kg, then (60 X 5 =) 300 grams of cucumber and tomatoes should be consumed. In many cases, patients may start feeling better and their fever improved, and they would have regained some strength.
+
+2. (DIP) **Subsequently, have a small or moderate quantity of [Ambali][134], prepared in the early morning and left to ferment, in a second plate.**
+
+
+Additionally, if Symptomatic and fresh leaf Giloy + Tulasi Kashaya could not be sourced / prepared and the Patanjali Coronil therapy has been adopted instead,
+
+**@ 2:30 PM & 3:30 PM** (Patanjali) Divya Swasari Vati & Coronil:
+Fresh leaf decoctions or Kashayas are most potent and highly effective. However, if fresh Giloy and Tulasi leaves cannot be obtained, Patanjali's Divya Coronil Kit therapy is a certified and evidence-based therapeutic formulation containing a mixture of Giloy, Ashwagandha and Tulasi in 2:1:1 ratio.
+
+**Dosage & Schedule:**
+Take 2 tablets of Divya Swasari (for adults, 15+ years) with lukewarm water, half an hour before (@ 2:30 PM) and 2 tablets of Divya Coronil after (@ 3:30 PM) the fruit / citrus juice. For children 6 - 15 years, the dosage is halved.|	
+| | | |
+| **4:00 PM -**
+
+If fresh leaves of Giloy and Tulasi can be locally sourced and prepared,
+
+(NICE) **Giloy + Tulasi Kashaaya or Kadha:**
+
+**Take Kadha or Kashaaya** (Ayurvedic bitter concoction), **prepared as follows:**
+
+**3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves are boiled for 5 minutes in a suitable small quantity of water.**
+
+
+**<ins>Alternatively to the fresh Giloy + Tulasi Kadha / Kashaaya, Patanjali's Coronil therapy can be adopted, comprising two preparations of Giloy, Ashwagandha and Tulasi, consumed half an hour before and after the main meals, as described next to meals regimen.</ins>**
+
+(AYUSH) In addition, if symptoms had not decreased by Day 3, one 500 mg tablet of AYUSH64 can continue to be taken.			| **4:00 PM -**
+
+If fresh leaves of Giloy and Tulasi can be locally sourced and prepared,
+
+(NICE) **Giloy + Tulasi Kashaaya or Kadha:**
+
+**Take Kadha or Kashaaya** (Ayurvedic bitter concoction), **prepared as follows:**
+
+**3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves are boiled for 5 minutes in a suitable small quantity of water.**
+
+
+**<ins>Alternatively to the fresh Giloy + Tulasi Kadha / Kashaaya, Patanjali's Coronil therapy can be adopted, comprising two preparations of Giloy, Ashwagandha and Tulasi, consumed half an hour before and after the main meals, as described next to meals regimen.</ins>**
+
+(AYUSH) In addition, if symptoms had not decreased by Day 3, one 500 mg tablet of AYUSH64 can continue to be taken.	| **4:00 PM -**
+
+If Symptomatic, AND if fresh leaves of Giloy and Tulasi can be locally sourced and prepared,
+
+(NICE) **Giloy + Tulasi Kashaaya or Kadha:**
+
+**Take Kadha or Kashaaya** (Ayurvedic bitter concoction), **prepared as follows:**
+
+**3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves are boiled for 5 minutes in a suitable small quantity of water.**
+
+
+**<ins>Alternatively to the fresh Giloy + Tulasi Kadha / Kashaaya, AND if Symptomatic, Patanjali's Coronil therapy can be adopted, comprising two preparations of Giloy, Ashwagandha and Tulasi, consumed half an hour before and after the main meals, as described next to meals regimen.</ins>**
+
+(AYUSH) In addition, if symptoms have not fully subsided and in recovery phase, one 500 mg tablet of AYUSH64 can continue to be taken.			|
+| | | |	
+| **4:30 PM -**
+
+If fresh leaves of Madaar / Arka / Erukku / Calotropis gigantea can be locally sourced and prepared,
+
+(NICE) **Massage with Madaar / Erukku / Calotropis gigantea leaves and Mustard oil for cough symptom:**
+
+Pieces of Madaar / Aak / Arka / Erukku / Calotropis Gigantea / Crown flower **leaves dipped in mustard oil should be heated till they become lukewarm and to be used for a light massage on chest, back and feet.** The treatment should be **continued until the cough symptom subsides.**
+
+<ins>Alternatively, if the leaves of Erukku / Madaar could not be locally sourced / prepared,</ins>
+
+[(Ayurveda, Naturopathy)][135] **Mustard and Camphor oil massage for asthma and cough**
+Massage the entire chest region gently with a little [warm mustard oil, heated with powdered edible camphor][136], to reduce cough symptom.			| **4:30 PM -**
+
+If fresh leaves of Madaar / Arka / Erukku / Calotropis gigantea can be locally sourced and prepared,
+
+(NICE) **Massage with Madaar / Erukku / Calotropis gigantea leaves and Mustard oil for cough symptom:**
+
+Pieces of Madaar / Aak / Arka / Erukku / Calotropis Gigantea / Crown flower **leaves dipped in mustard oil should be heated till they become lukewarm and to be used for a light massage on chest, back and feet.** The treatment should be **continued until the cough symptom subsides.**
+
+<ins>Alternatively, if the leaves of Erukku / Madaar could not be locally sourced / prepared,</ins>
+
+[(Ayurveda, Naturopathy)][135] **Mustard and Camphor oil massage for asthma and cough**
+Massage the entire chest region gently with a little [warm mustard oil, heated with powdered edible camphor][136], to reduce cough symptom.	| **4:30 PM -**
+
+If fresh leaves of Madaar / Arka / Erukku / Calotropis gigantea can be locally sourced and prepared,
+
+(NICE) **Massage with Madaar / Erukku / Calotropis gigantea leaves and Mustard oil for cough symptom:**
+
+Pieces of Madaar / Aak / Arka / Erukku / Calotropis Gigantea / Crown flower **leaves dipped in mustard oil should be heated till they become lukewarm and to be used for a light massage on chest, back and feet.** The treatment should be **continued until the cough symptom subsides.**
+
+<ins>Alternatively, if the leaves of Erukku / Madaar could not be locally sourced / prepared,</ins>
+
+[(Ayurveda, Naturopathy)][135] **Mustard and Camphor oil massage for asthma and cough**
+Massage the entire chest region gently with a little [warm mustard oil, heated with powdered edible camphor][136], to reduce cough symptom.	|
+| | | |	
+| **5:00 PM -**
+
+1. (NICE) [Fresh tender coconut water][137]:
+
+The quantity of coconut water to be consumed is one-fourth of the total quantity prescribed for the day, i.e., **take [(body weight in kg / 10) / 4] glasses of coconut water,**
+
+**i.e. [(body weight in kg) / 40] glasses**
+
+2. **(Integrative medicine, Naturopathy) If symptoms had not begun to mitigate by Day 3,**
+**continue the effective and evidence-based Nigella sativa therapy:**
+**Take 1 g / [kg of body weight] of honey and 80 mg / [kg of body weight] of Nigella sativa. The honey is first dissolved in 1 large cup or 250 mL of warm water.**
+
+**Note:** A tablespoon of honey weighs approximately 21 g. A metric teaspoon of Black cumin seeds weighs about 5 g. **Therefore an adult weighing 60 kg would need to consume about 3 tablespoons of honey dissolved in a large cup of water, and about 1 metric teaspoon of Nigella sativa in this dose.**			| **5:00 PM -**
+
+1. (NICE) [Fresh tender coconut water][137]:
+
+The quantity of coconut water to be consumed is one-fourth of the total quantity prescribed for the day, i.e., **take [(body weight in kg / 10) / 4] glasses of coconut water,**
+
+**i.e. [(body weight in kg) / 40] glasses**
+
+2. **(Integrative medicine, Naturopathy) If symptoms had not begun to mitigate by Day 3,**
+**continue the effective and evidence-based Nigella sativa therapy:**
+**Take 1 g / [kg of body weight] of honey and 80 mg / [kg of body weight] of Nigella sativa. The honey is first dissolved in 1 large cup or 250 mL of warm water.**
+
+**Note:** A tablespoon of honey weighs approximately 21 g. A metric teaspoon of Black cumin seeds weighs about 5 g. **Therefore an adult weighing 60 kg would need to consume about 3 tablespoons of honey dissolved in a large cup of water, and about 1 metric teaspoon of Nigella sativa in this dose.**| **5:00 PM -**
+
+1. (NICE) [Fresh tender coconut water][137]:
+
+The quantity of coconut water to be consumed is one-fourth of the total quantity prescribed for the day, i.e., **take [(body weight in kg / 10) / 4] glasses of coconut water,**
+
+**i.e. [(body weight in kg) / 40] glasses**
+
+2. **(Integrative medicine, Naturopathy) If symptoms had not begun to mitigate by Day 3,**
+**continue the effective and evidence-based Nigella sativa therapy:**
+**Take 1 g / [kg of body weight] of honey and 80 mg / [kg of body weight] of Nigella sativa. The honey is first dissolved in 1 large cup or 250 mL of warm water.**
+
+**Note:** A tablespoon of honey weighs approximately 21 g. A metric teaspoon of Black cumin seeds weighs about 5 g. **Therefore an adult weighing 60 kg would need to consume about 3 tablespoons of honey dissolved in a large cup of water, and about 1 metric teaspoon of Nigella sativa in this dose.** |
+| | | |
+| **6:00 PM -**
+
+*(NICE, Dr. KV)* **Salad + Foxtail millet [Ambali][138]:**
+
+Take a plate of cucumber + tomato salad, followed by a small bowl of the Foxtail millet / Thinai Ambali (that was prepared earlier), adding minimal unrefined salt (rock salt or black salt) to taste.
+
+
+If there is not sufficient decrease of infection and symptoms by this day:
+
+*(FLCCC's I-MASK+, Zelenko, Fareed-Tyson Protocols)* **Ivermectin**:
+
+**Take 0.4 - 0.5 mg / [kg of body weight], with the higher dosage being preferred in case of greaterviral load or severity of symptoms. Therefore a patient weighing 60 kg would take between 24 mg and 30 mg, depending on the severity of their symptoms on this day.**		| **6:00 PM -**
+
+*(NICE, Dr. KV)* **Salad + Foxtail millet [Ambali][138]:**
+
+Take a plate of cucumber + tomato salad, followed by a small bowl of the Foxtail millet / Thinai Ambali (that was prepared earlier), adding minimal unrefined salt (rock salt or black salt) to taste.
+
+
+If there is not sufficient decrease of infection and symptoms by this day:
+
+*(FLCCC's I-MASK+, Zelenko, Fareed-Tyson Protocols)* **Ivermectin**:
+
+**Take 0.4 - 0.5 mg / [kg of body weight], with the higher dosage being preferred in case of greaterviral load or severity of symptoms. Therefore a patient weighing 60 kg would take between 24 mg and 30 mg, depending on the severity of their symptoms on this day.**| **6:00 PM -**
+
+*(NICE, Dr. KV)* **Salad + Foxtail millet [Ambali][138]:**
+
+Take a plate of cucumber + tomato salad, followed by a small bowl of the Foxtail millet / Thinai Ambali (that was prepared earlier), adding minimal unrefined salt (rock salt or black salt) to taste.
+
+
+In addition, Only if Symptoms have not fully subsided and in recovery phase:
+
+*(FLCCC's I-MASK+, Zelenko, Fareed-Tyson Protocols)* **Ivermectin**:
+
+**Take 0.4 - 0.5 mg / [kg of body weight], with the higher dosage being preferred in case of greaterviral load or severity of symptoms. Therefore a patient weighing 60 kg would take between 24 mg and 30 mg, depending on the severity of their symptoms on this day.** |	
+| | | |
+| **7:00 PM -**
+
+If fresh leaves of Adusa / Vasa / Malabar nut / Adalodakam / Justicia Adhatoda can be locally sourced and prepared, AND especially if there is respiratory involvement or hypoxia:
+
+(NICE) **Adusa / Vasa / Malabar nut juice:**
+
+**3-4 tender leaves of Adusa (Justicia Adhatoda), a small cut piece of ginger** (not more than 1 cm in length), and **5 leaves of Tulasi manually crushed and juice mixed with 3 drops of honey**
+
+**Pregnant and lactating mothers, young children and diabetics are advised to consult an Ayurvedic physician before consuming this medicine.**
+
+Alternatively, if fresh leaves of Adusa / Vasa / Malabar nut / Adalodakam / Justicia Adhatoda cannot be locally sourced and prepared, AND if there are respiratory symptoms:
+
+(AYUSH, Ayurveda) **[Vasavaleha][139], recommended to be taken after consultation with Ayurvedic physician:**
+**10 g of Vasavaleha can be consumed with warm water,** [preferably on the advice of an Ayurvedic physician.][140] [Overdosage should be avoided, and pregnant and lactating women, young children and diabetics are advised to consult with a physician about consuming this medication. Diabetics can have Vasavaleha only if their diabetes is under control.][141]			| **7:00 PM -**
+
+If fresh leaves of Adusa / Vasa / Malabar nut / Adalodakam / Justicia Adhatoda can be locally sourced and prepared, AND especially if there is respiratory involvement or hypoxia:
+
+(NICE) **Adusa / Vasa / Malabar nut juice:**
+
+**3-4 tender leaves of Adusa (Justicia Adhatoda), a small cut piece of ginger** (not more than 1 cm in length), and **5 leaves of Tulasi manually crushed and juice mixed with 3 drops of honey**
+
+**Pregnant and lactating mothers, young children and diabetics are advised to consult an Ayurvedic physician before consuming this medicine.**
+
+Alternatively, if fresh leaves of Adusa / Vasa / Malabar nut / Adalodakam / Justicia Adhatoda cannot be locally sourced and prepared, AND if there are respiratory symptoms:
+
+(AYUSH, Ayurveda) **[Vasavaleha][139], recommended to be taken after consultation with Ayurvedic physician:**
+**10 g of Vasavaleha can be consumed with warm water,** [preferably on the advice of an Ayurvedic physician.][140] [Overdosage should be avoided, and pregnant and lactating women, young children and diabetics are advised to consult with a physician about consuming this medication. Diabetics can have Vasavaleha only if their diabetes is under control.][141]| **7:00 PM -**
+
+If fresh leaves of Adusa / Vasa / Malabar nut / Adalodakam / Justicia Adhatoda can be locally sourced and prepared, AND especially if there is respiratory involvement or hypoxia:
+
+(NICE) **Adusa / Vasa / Malabar nut juice:**
+
+**3-4 tender leaves of Adusa (Justicia Adhatoda), a small cut piece of ginger** (not more than 1 cm in length), and **5 leaves of Tulasi manually crushed and juice mixed with 3 drops of honey**
+
+**Pregnant and lactating mothers, young children and diabetics are advised to consult an Ayurvedic physician before consuming this medicine.**
+
+Alternatively, if fresh leaves of Adusa / Vasa / Malabar nut / Adalodakam / Justicia Adhatoda cannot be locally sourced and prepared, AND if there are respiratory symptoms:
+
+(AYUSH, Ayurveda) **[Vasavaleha][139], recommended to be taken after consultation with Ayurvedic physician:**
+**10 g of Vasavaleha can be consumed with warm water,** [preferably on the advice of an Ayurvedic physician.][140] [Overdosage should be avoided, and pregnant and lactating women, young children and diabetics are advised to consult with a physician about consuming this medication. Diabetics can have Vasavaleha only if their diabetes is under control.][141]|
+| | | |	
+| **8:00 PM -**
+
+If fresh leaves of Peepal / Aswattha / Sacred fig / Arayaal / Arasamaram / Ficus religiosa can be locally sourced and prepared,
+
+*(NICE)* **[Kadha / Kashaaya of Peepal leaves][142], only for patients with breathing difficulty:**
+
+Boil **cut pieces of Peepal leaves in about a glass of water until the water is reduced to about half a glass. Filter** the water and drink. For severe breathing problems, use **Peepal bark** instead of leaves and repeat every hour.		| **8:00 PM -**
+
+If fresh leaves of Peepal / Aswattha / Sacred fig / Arayaal / Arasamaram / Ficus religiosa can be locally sourced and prepared,
+
+*(NICE)* **[Kadha / Kashaaya of Peepal leaves][142], only for patients with breathing difficulty:**
+
+Boil **cut pieces of Peepal leaves in about a glass of water until the water is reduced to about half a glass. Filter** the water and drink. For severe breathing problems, use **Peepal bark** instead of leaves and repeat every hour.| **8:00 PM -**
+
+If fresh leaves of Peepal / Aswattha / Sacred fig / Arayaal / Arasamaram / Ficus religiosa can be locally sourced and prepared,
+
+*(NICE)* **[Kadha / Kashaaya of Peepal leaves][142], only for patients with breathing difficulty:**
+
+Boil **cut pieces of Peepal leaves in about a glass of water until the water is reduced to about half a glass. Filter** the water and drink. For severe breathing problems, use **Peepal bark** instead of leaves and repeat every hour.|	
+| | | |
+| **8 - 9 PM -**
+
+(NICE) Saline irrigation, Steam inhalation & Relaxing bedtime banana Kashaya
+
+1. [Saline throat and nasal irrigation][143]: Perform throat gargling with **a glass of warm water** with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt.** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][144] useful to [perform][145] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][146], with isotonic (0.9 %) saline solution.
+
+2. [Steam inhalation][147]: (AYUSH) **Perform steam inhalation with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain. (Optional)** (Dr. SR) [Halin Drops][148] could be added to the water used for steaming.
+
+3. **[Banana Kashaaya][149] for a more restful sleep:** Prepare the banana Kashaya by **boiling banana in water along with the peel.** Sip the banana Kashaaya and go to sleep.
+
+4. (FLCCC's I-MASK+) [Melatonin][150]:
+**Adult patients who suffer from insomnia and are unable to sleep deeply at night could consider to take Melatonin, 6 mg, before bedtime**, which is associated with a high improvement in treatment efficacy, of about 64 %, in a large number of large clinical trials.
+
+5. (Dr. KV / Millet medicine) **Preparation to make Foxtail millet / Thinai [Ambali][151] on the following day:**
+**Soak half a cup (or the required quantity) of Foxtail millet / Thinai for sprouting during the night.**
+
+6. (Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**
+Burn [Aparajitha Dhooma Choornam][152] in the living space in the night, around 8 PM.		| **8 - 9 PM -**
+
+(NICE) Saline irrigation, Steam inhalation & Relaxing bedtime banana Kashaya
+
+1. [Saline throat and nasal irrigation][143]: Perform throat gargling with **a glass of warm water** with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt.** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][144] useful to [perform][145] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][146], with isotonic (0.9 %) saline solution.
+
+2. [Steam inhalation][147]: (AYUSH) **Perform steam inhalation with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain. (Optional)** (Dr. SR) [Halin Drops][148] could be added to the water used for steaming.
+
+3. **[Banana Kashaaya][149] for a more restful sleep:** Prepare the banana Kashaya by **boiling banana in water along with the peel.** Sip the banana Kashaaya and go to sleep.
+
+4. (FLCCC's I-MASK+) [Melatonin][150]:
+**Adult patients who suffer from insomnia and are unable to sleep deeply at night could consider to take Melatonin, 6 mg, before bedtime**, which is associated with a high improvement in treatment efficacy, of about 64 %, in a large number of large clinical trials.
+
+5. *(Dr. KV / Millet medicine)* **Preparation to make [Ambali][151] from one of the healing millets (called "Positive millets") on the following day:**
+**Soak a cup (or the required quantity) of Little millet / Saamai or Kodo millet / Varagu or Foxtail millet / Thinai for sprouting during the night.**
+
+6. (Dr. SR) **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**
+Burn [Aparajitha Dhooma Choornam][152] in the living space in the night, around 8 PM.| **8 - 9 PM -**
+
+(NICE) Saline irrigation, Steam inhalation & Relaxing bedtime banana Kashaya
+
+1. [Saline throat and nasal irrigation][143]: Perform throat gargling with **a glass of warm water** with an added **1/4 teaspoon of turmeric and 1/2 teaspoon salt.** (AYUSH) **Yashtimadhu** and **Triphala choorna** could be added to the gargling water too. In addition, if comfortable with the process, it is [provenly][144] useful to [perform][145] the Ayurvedic and naturopathic practice of nasal wash or [Jalaneti][146], with isotonic (0.9 %) saline solution.
+
+2. [Steam inhalation][147]: *(AYUSH)* **Perform steam inhalation with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain. (Optional)** (Dr. SR) [Halin Drops][148] could be added to the water used for steaming.
+
+3. **[Banana Kashaaya][149] for a more restful sleep:** Prepare the banana Kashaya by **boiling banana in water along with the peel.** Sip the banana Kashaaya and go to sleep.
+
+4. *(FLCCC's I-MASK+)* [Melatonin][150]:
+**Adult patients who suffer from insomnia and are unable to sleep deeply at night could consider to take Melatonin, 6 mg, before bedtime**, which is associated with a high improvement in treatment efficacy, of about 64 %, in a large number of large clinical trials.
+
+5. *(Dr. KV / Millet medicine)* **Preparation to make [Ambali][151] from one of the healing millets (called "Positive millets") on the following day:**
+**Soak a cup (or the required quantity) of Little millet / Saamai or Kodo millet / Varagu or Foxtail millet / Thinai for sprouting during the night.**
+
+6. *(Dr. SR)* **Ayurvedic disinfection of living environment through Dhoop to reduce airborne contagion**
+Burn [Aparajitha Dhooma Choornam][152] in the living space in the night, around 8 PM. |	
+| | | |
 
 
 
@@ -296,49 +1042,64 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 [94]: https://principia-scientific.com/contacts-telemedicine-doctors-for-covid19-scripts/
 [95]: https://www.aestheticsadvisor.com/2021/02/find-doctor-prescribe-hydroxychloroquine-ivermectin.html
 [96]: https://www.aestheticsadvisor.com/2021/06/find-doctor-ivermectin-global.html
-[97]: 
-[98]: 
-[99]: 
-[100]:
-
-[101]: 
-[102]: 
-[106]: 
-[107]: 
-[108]: 
-[109]: 
-[110]: 
-[111]: 
-[112]: 
-[113]: 
-[114]: 
-[115]: 
-[116]: 
-[117]: 
-[118]: 
-[119]: 
-[120]: 
-[121]: 
-[122]: 
-[123]: 
-[124]: 
-[125]:
-[126]: 
-[127]: 
-[128]: 
-[129]: 
-[130]: 
-[131]: 
-[132]: 
-[133]: 
-[134]: 
-[135]: 
-[136]: 
-[137]: 
-[138]: 
-[139]: 
-[140]:  
-[163]: 
+[97]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7528968/
+[98]: https://pubmed.ncbi.nlm.nih.gov/18209140/
+[99]: http://www.elvisstudy.com/nasal-irrigation-and-gargling.html
+[100]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7528968/
+[101]: https://healthyeating.sfgate.com/can-vitamin-d-through-light-shirt-10178.html
+[102]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7857981/
+[103]: https://en.wikipedia.org/wiki/Nasya
+[104]: https://youtu.be/gOWeBjUfRjI
+[105]: https://www.researchgate.net/publication/326127150_Ficus_religiosa_A_wholesome_medicinal_tree
+[106]: https://www.ayurtimes.com/nilavembu-kudineer-nilavembu-kashayam/
+[107]: https://jammi.in/blog/kabasura-kudineer-benefits-ingredients-and-side-effects/
+[108]: https://ayushcare.in/products/impcops-nilavembu-kudineer-100gm-siddha?currency=INR&variant=33083503149191&utm_campaign=gs-2020-03-02&utm_source=google&utm_medium=smart_campaign&gclid=CjwKCAiA1aiMBhAUEiwACw25MWFeBLgBrkXWHPtQxGt_nf_lAqmCmctMDtcGYLVrZBpOZpVkJktHiBoCTEYQAvD_BwE
+[109]: https://www.srisritattva.com/products/kabasura-kudineer-churnam-for-making-kadha-100g?variant=39938616918176&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAiA1aiMBhAUEiwACw25MT3HEu2MYqMAxA5OGcTuWlKEwjBmeSxH5qULvm-ioMfJqbJITdjVixoC_DUQAvD_BwE
+[110]: https://www.healthline.com/nutrition/green-juice-benefits#downsides
+[111]: https://journals.indexcopernicus.com/api/file/viewByFileId/746161.pdf
+[112]: https://www.medicalnewstoday.com/articles/275944
+[113]: https://innovareacademics.in/journals/index.php/ajpcr/article/view/41575
+[114]: https://timesofindia.indiatimes.com/life-style/health-fitness/home-remedies/amla-moringa-shot-to-boost-immunity-amid-the-covid-pandemic/photostory/82307685.cms?picid=82307693
+[115]: https://pubmed.ncbi.nlm.nih.gov/27540481/
+[116]: https://bee-health.extension.org/at-what-temperature-does-honey-have-to-be-heated-too-too-destroy-the-health-benefits-for-humans/#:~:text=Honey%20should%20not%20be%20heated%20rapidly%2C%20over%20direct%20heat.&text=Excessive%20heat%20can%20have%20detrimental,destroys%20invertase%2C%20an%20important%20enzyme.
+[117]: https://healthvit.com/products/west-coast-immuneed-original-30-tablets
+[118]: https://pharmeasy.in/health-care/products/fast-up-charge-vitamin-c-zinc-effervescent-tablets-with-natural-amla--orange-flavour-20-tablets--216382
+[119]: https://invol.co/cl6eavj
+[120]: https://invol.co/cl6eaw3
+[121]: https://onedaymd.aestheticsadvisor.com/2020/04/vitamin-c-what-you-need-to-know.html
+[122]: https://invol.co/cl6eawp
+[123]: https://www.aestheticsadvisor.com/2021/01/best-quercetin-supplement.html
+[124]: https://invol.co/cl6eaug
+[125]: https://onedaymd.aestheticsadvisor.com/2021/03/zinc-citrate-vs-picolinate-gluconate-carnosine.html
+[126]: https://www.amazon.com/dp/B08CBBHPTF/ref=sspa_dk_detail_0?smid=AO3BP91DN8YE0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWkdRV1hEUjJLNkRCJmVuY3J5cHRlZElkPUEwNTM3Mjk1Rk1WSVdaOUVLMkNGJmVuY3J5cHRlZEFkSWQ9QTA4NjA3MDYxSzBBMUo2UUNaSEQ5JndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1
+[127]: https://youtu.be/gOWeBjUfRjI
+[128]: https://www.medicalnewstoday.com/articles/318394
+[129]: https://www.newindianexpress.com/states/kerala/2020/may/21/keralas-ayurvedic-fumigant-receives-national-attention-2145947.html
+[130]: https://www.medicalnewstoday.com/articles/318394
+[131]: https://www.consumerlab.com/reviews/turmeric-curcumin-supplements-spice-review/turmeric/
+[132]: https://www.consumerlab.com/reviews/turmeric-curcumin-supplements-spice-review/turmeric/
+[133]: https://www.medicalnewstoday.com/articles/318394
+[134]: https://youtu.be/gOWeBjUfRjI
+[135]: https://www.hindustantimes.com/brunch/natural-remedies-for-asthma/story-0UYHhq8QM3LrXc7H2IgmsJ.html
+[136]: https://www.netmeds.com/health-library/post/medicines-and-mother-nature-can-help-combat-asthma
+[137]: https://www.medicalnewstoday.com/articles/318394
+[138]: https://youtu.be/gOWeBjUfRjI
+[139]: https://www.ayurmedinfo.com/2012/02/13/vasavaleha-uses-dose-side-effect-and-ingredients/
+[140]: https://ayurcentralonline.com/en/blogs/105_vasarista-cough-cold-and-asthma-remedy.html 
+[141]: https://www.ayurmedinfo.com/2012/02/13/vasavaleha-uses-dose-side-effect-and-ingredients/
+[142]: https://www.researchgate.net/publication/326127150_Ficus_religiosa_A_wholesome_medicinal_tree
+[143]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7528968/
+[144]: https://pubmed.ncbi.nlm.nih.gov/18209140/
+[145]: http://www.elvisstudy.com/nasal-irrigation-and-gargling.html
+[146]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7528968/
+[147]: https://www.sciencedirect.com/science/article/pii/S2210803321000312
+[148]: https://www.ayurmedinfo.com/2012/08/10/halin-drops-benefits-how-to-use-ingredients-side-effects/
+[149]: https://senchateabar.com/blogs/blog/banana-tea-for-sleep
+[150]: https://c19early.com/
+[151]: https://youtu.be/gOWeBjUfRjI
+[152]: https://www.newindianexpress.com/states/kerala/2020/may/21/keralas-ayurvedic-fumigant-receives-national-attention-2145947.html
+[153]: 
+[154]: 
 [164]: 
 [165]: 
 [166]: 
