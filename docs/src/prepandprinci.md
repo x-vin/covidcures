@@ -31,6 +31,22 @@ A few stores selling reliable homeopathic products in India:
 | Digital thermometer	| [Dr. Odin MT101][71] |
 | | [Carent Infrared JPD-FR202][72] |
 
+### Some medicinal plants to be locally identified (in India), if possible, or nurtured at home:
+
+| Plants | Resources |
+|-----|-----|
+| [Adathoda / Vasaka / Malabur nut / Adhatoda vasica][73]	| [Wikipedia](https://en.wikipedia.org/wiki/Justicia_adhatoda) |
+| [Tulasi / Holy basil / Ocimum tenuiflorum][74]		| [Wikipedia](https://en.wikipedia.org/wiki/Ocimum_tenuiflorum)|
+| [Parijata / Pavizhamalli / Pavazha Malligai / Harsringar / Night jasmine / Nyctanthus arbor-tristis][75] | [Wikipedia](
+https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis
+) |
+| [Bermuda grass / Dhruva grass / Durva / Karuka Pullu / Cynodon dactylon][76] | [Wikipedia](https://en.wikipedia.org/wiki/Cynodon_dactylon) |
+| [Giloy / Amrutavalli / Guduchi / Tinospora cordifolia][77] | [Wikipedia](https://en.wikipedia.org/wiki/Tinospora_cordifolia) |
+| [Bael / Bilva / Koovalam /Bengal quince / Stone apple / Wood apple / Aegle Marmelos][78] | [Wikipedia](https://en.wikipedia.org/wiki/Aegle_marmelos) |
+| [Neem / Azadirachta indica][79] | [Wikipedia](https://en.wikipedia.org/wiki/Azadirachta_indica) |
+| [Poonga / Karanja / Karum / Indian beech / Pongamia pinnata][80] | [Wikipedia](https://en.wikipedia.org/wiki/Millettia_pinnata) |
+| [Peepal / Sacred fig / Ficus religiosa][81]	| [Wikipedia](Wikipedia:https://en.wikipedia.org/wiki/Ficus_religiosa) |
+
 ## General precautions of supporting immunity and prophylaxing:
 
 1. Foster and promote the body's healing functions through Intermittent Fasting (IF), i.e., consume the main meals between 9-10 AM and 5-6 PM, an 8-hour duration.
@@ -265,15 +281,15 @@ VII. <ins>Seventh Principle</ins>: **An important principle of design of this in
 [70]: https://www.flipkart.com/accusure-fs10c-finger-tip-digital-pulse-oximeter/p/itm8aa0b6d3bbf79?pid=POXFSK6XT2QGU3TJ&lid=LSTPOXFSK6XT2QGU3TJ5M1KJV&marketplace=FLIPKART&store=bvv%2Fb5f&srno=b_1_9&otracker=browse&fm=organic&iid=5b91f684-0339-4c20-bc09-4123e4bdd109.POXFSK6XT2QGU3TJ.SEARCH&ppt=browse&ppn=browse&ssid=8ey3o859340000001634523531717
 [71]: https://www.flipkart.com/dr-odin-mt101-digital-medical-thermometer-fda-approved-quick-40-second-reading-oral-rectal-armpit-underarm-body-temperature-clinical-professional-detecting-fever-baby-infant-kid-babies-children-adult-pet/p/itmff9tmmrdnvddp?pid=DTHFF7UWWQHPCAEU&lid=LSTDTHFF7UWWQHPCAEUEGPFTZ&marketplace=FLIPKART&store=zlw%2Fnyl%2Fbvv%2Fh7c&srno=b_1_5&otracker=browse&fm=organic&iid=c8f6eacc-b73c-43a7-8eed-338677a71415.DTHFF7UWWQHPCAEU.SEARCH&ppt=browse&ppn=browse&ssid=1v9m4lmz0g0000001634523706214
 [72]: https://www.flipkart.com/carent-jpd-fr202-digital-non-contact-infrared-forehead-laser-gun-scanner-body-fever-testing-machine-kids-adults-babies-thermometer/p/itm9878d85059f19?pid=DTHFWSGRVF8KXDZG&lid=LSTDTHFWSGRVF8KXDZGYRME3N&marketplace=FLIPKART&store=zlw%2Fnyl%2Fbvv%2Fh7c&srno=b_1_2&otracker=browse&fm=organic&iid=en_a5yee6jfGgZRLKQGrq7KkihHfIWPtZQ6yoPrrnm%2BxsBTFBfIAKWPhqzQ8fmhiTMcxMH2aHrneYnJDBg7nHhHdA%3D%3D&ppt=browse&ppn=browse
-[73]: 
-[74]: 
-[75]: 
-[76]: 
-[77]: 
-[78]: 
-[79]: 
-[80]:  
-[81]: 
+[73]: https://www.google.com/search?q=adhatoda+vasica&sxsrf=AOaemvKwpreKxqWQC2S1Ur34-irQ3r6cAg:1633847795690&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjNg-qrnb_zAhXWzTgGHU48DyoQ_AUoAXoECAEQAw&biw=1280&bih=520&dpr=1.5
+[74]: https://www.google.com/search?q=tulasi+holy+basil+ocimum+sanctum&tbm=isch&ved=2ahUKEwiGtbiZnr_zAhXSeX0KHaDdCwYQ2-cCegQIABAA&oq=tulasi+holy+basil+ocimum+sanctum&gs_lcp=CgNpbWcQA1CXJFiEQGDdQmgAcAB4AIABcogB5QqSAQQxMi4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=2YpiYcbkIdLz9QOgu68w&bih=520&biw=1280
+[75]: https://www.google.com/search?q=parijata+pavizha+malli+night+jasmine+nyctanthus+arbor-tristis&tbm=isch&ved=2ahUKEwjjsvG7nr_zAhVRnUsFHQF_DegQ2-cCegQIABAA
+[76]: https://www.google.com/search?q=bermuda+grass+dhruva+cynodon+dactylon&tbm=isch&ved=2ahUKEwiC-arCnr_zAhVxnEsFHb7gDosQ2-cCegQIABAA&oq=bermuda+grass+dhruva+cynodon+dactylon&gs_lcp=CgNpbWcQAzoKCCMQ7wMQ6gIQJzoHCCMQ7wMQJzoFCAAQgAQ6CwgAEIAEELEDEIMBOggIABCABBCxAzoECAAQQzoHCAAQsQMQQzoICAAQsQMQgwFQ9ugDWMa7BWDtyQVoAnAAeACAAX-IAcYakgEEMzIuNpgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=L4tiYcKlE_G4rtoPvsG72Ag
+[77]: https://www.google.com/search?q=giloy+guduchi+tinospora+cordifolia&tbm=isch&ved=2ahUKEwjlyOXwnr_zAhXrkUsFHRQYDlUQ2-cCegQIABAA&oq=giloy+guduchi+tinospora+cordifolia&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB46CggjEO8DEOoCECc6BwgjEO8DECc6BAgAEEM6CAgAEIAEELEDOgcIABCxAxBDOgsIABCABBCxAxCDAToFCAAQgAQ6BAgAEBg6BAgAEB5QvPsCWIGrBGCbrgRoCHAAeAGAAfABiAGKHpIBBjMyLjguMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=kItiYeXALeujrtoPlLC4qAU
+[78]: https://www.google.com/search?q=bael+aegle+marmelos&tbm=isch&ved=2ahUKEwjh8qaUn7_zAhW8nksFHQLFAIYQ2-cCegQIABAA&oq=bael+aegle+marmelos&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoHCCMQ7wMQJzoECAAQQzoFCAAQgAQ6CwgAEIAEELEDEIMBOggIABCABBCxA1Do5AFYh5kCYKKaAmgAcAB4AIABZ4gBkQ2SAQQxOC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=24tiYaGZDby9rtoPgoqDsAg
+[79]: https://www.google.com/search?q=neem+azadirachta+indica&tbm=isch&hl=en&sa=X&ved=2ahUKEwiApMW7n7_zAhXlnUsFHQH0DJYQBXoECAEQNA&biw=1263&bih=520
+[80]: https://www.google.com/search?q=poonga+pongamia+pinnata&tbm=isch&ved=2ahUKEwi4mvDln7_zAhWRXn0KHURJADQQ2-cCegQIABAA&oq=poonga+pongamia+pinnata&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJzoECAAQQzoICAAQgAQQsQM6CAgAELEDEIMBOgsIABCABBCxAxCDAToFCAAQgAQ6BggAEAUQHjoGCAAQCBAeOgQIABAYUJ_NAljNgQNgz4UDaAFwAHgBgAHkAYgB9hGSAQYxOC41LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=hoxiYbi_EZG99QPEkoGgAw&bih=520&biw=1263&hl=en
+[81]: https://www.google.com/search?q=pipal+ficus+religiosa+&tbm=isch&ved=2ahUKEwiT04-Bob_zAhXSeX0KHaDdCwYQ2-cCegQIABAA&oq=pipal+ficus+religiosa+&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB46BwgjEO8DECc6BAgAEEM6CAgAEIAEELEDOgUIABCABDoLCAAQgAQQsQMQgwE6BggAEAUQHjoECAAQGFDtmgFY39UBYLXhAWgCcAB4AIABqwGIAZETkgEEMTYuOJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=y41iYdPBNNLz9QOgu68w&bih=520&biw=1263&hl=en
 [82]: 
 [83]: 
 [84]: 
