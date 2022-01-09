@@ -16,7 +16,7 @@ A few stores selling reliable homeopathic products in India:
 | Camphor 1M| Rhus Tox 200| Bryonia 200|
 | Q Aspidosperma | | |
 
-### Equipment for self-care / treatment-
+### Equipment for self-care / treatment
 
 | Equipment for self-care / treatment | Resources |
 |-----|-----|
@@ -46,6 +46,41 @@ https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis
 | [Neem / Azadirachta indica][79] | [Wikipedia](https://en.wikipedia.org/wiki/Azadirachta_indica) |
 | [Poonga / Karanja / Karum / Indian beech / Pongamia pinnata][80] | [Wikipedia](https://en.wikipedia.org/wiki/Millettia_pinnata) |
 | [Peepal / Sacred fig / Ficus religiosa][81]	| [Wikipedia](Wikipedia:https://en.wikipedia.org/wiki/Ficus_religiosa) |
+
+
+### [Ayurvedic Medicines, from a trusted pharmacy](https://shop.aryavaidyasala.com/)
+Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
+
+| Medicines | Links / Resources |
+|-------|--------|
+| Ayush Kwath Choorna | - [Kottakkal AVS][82]<br>- [Kottakkal AVS C-Health Granules][83]<br>- [Baidyanath][84] |
+|Patanjali Divya Coronil kit| - [1mg][85]<br>- [Patanjali Ayurved][86] |
+| AYUSH64      | - [FAQs][87]<br>- [SriSri Tattva][88]<br>- [Basic Ayurveda][89] |
+| Halin drops* | - [Nagarjuna][90] |
+| Ashwagandhaadi Choorna	 | - [Kottakkal AVS][91]<br>- [SriSri Tattva][92]<br>- [Baidyanath][93] |
+| Patanjali Dasanga Dhoopam* | - [Patanjali Ayurved][94] |
+| Mahasudarshana Choornam 100 g*	| - [Baidyanath][95] |
+| Guduchi / Giloy Satva 50 g*	| - [Baidyanath][96] |
+| Guduchi / Giloy Ghanavati (Pack of 2)	| - [Baidyanath][97]<br>- [Baidyanath][98] (Alternative product) |
+| Rasayana Choorna | - [Ayurvedic Healthcare][99]<br>- [DivyaHerb][100] |
+| Godanti Bhasma 10 g*	| - [Baidyanath][101] |
+| Triphala Choornam*	| - [Baidyanath][102] |
+| Seer Secrets  Ayurvedic Breathe Easy Potli | -[SeerSecrets][103] |
+* Dr. Swapna Reddy's prescription
+
+### Teas
+
+| Tea | Links / Resources |
+|----|----|
+| Organic green tea leaves | [7 Advices That You Must Listen][104] | 
+| Hunza tea (Dr. BRC, N.I.C.E.) | [biswaroop.com][105]
+| Qing Fei Pai Du Tang (TCM)	| Ubuy
+| Liquorice tea
+| Ginseng tea
+| Nettle leaf tea
+| Dandelion tea
+
+
 
 ## General precautions of supporting immunity and prophylaxing:
 
@@ -290,28 +325,30 @@ VII. <ins>Seventh Principle</ins>: **An important principle of design of this in
 [79]: https://www.google.com/search?q=neem+azadirachta+indica&tbm=isch&hl=en&sa=X&ved=2ahUKEwiApMW7n7_zAhXlnUsFHQH0DJYQBXoECAEQNA&biw=1263&bih=520
 [80]: https://www.google.com/search?q=poonga+pongamia+pinnata&tbm=isch&ved=2ahUKEwi4mvDln7_zAhWRXn0KHURJADQQ2-cCegQIABAA&oq=poonga+pongamia+pinnata&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJzoECAAQQzoICAAQgAQQsQM6CAgAELEDEIMBOgsIABCABBCxAxCDAToFCAAQgAQ6BggAEAUQHjoGCAAQCBAeOgQIABAYUJ_NAljNgQNgz4UDaAFwAHgBgAHkAYgB9hGSAQYxOC41LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=hoxiYbi_EZG99QPEkoGgAw&bih=520&biw=1263&hl=en
 [81]: https://www.google.com/search?q=pipal+ficus+religiosa+&tbm=isch&ved=2ahUKEwiT04-Bob_zAhXSeX0KHaDdCwYQ2-cCegQIABAA&oq=pipal+ficus+religiosa+&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB46BwgjEO8DECc6BAgAEEM6CAgAEIAEELEDOgUIABCABDoLCAAQgAQQsQMQgwE6BggAEAUQHjoECAAQGFDtmgFY39UBYLXhAWgCcAB4AIABqwGIAZETkgEEMTYuOJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=y41iYdPBNNLz9QOgu68w&bih=520&biw=1263&hl=en
-[82]: 
-[83]: 
-[84]: 
-[85]: 
-[86]: 
-[87]: 
-[88]: 
-[89]: 
-[90]: 
-[91]: 
-[92]: 
-[93]
-[94]
-[95]: 
-[96]: 
-[97]: 
-[98]: 
-[99]: 
-[100]:
-
-[101]: 
-[102]: 
+[82]: https://www.ayurkart.com/products/ayush-kwath-churnam-kottakkal-arya-vaidya?variant=32992308691030&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjw-4SLBhCVARIsACrhWLUK3IuMqH27yzTphm9GxSKwGnzzA3Y-eH0pLALXNjU5E_WPF6uIbXsaAv1IEALw_wcB
+[83]: https://www.netmeds.com/non-prescriptions/kottakkal-arya-vaidya-sala-c-health-granules-250-gm?source_attribution=ADW-CPC-Shoppingads&utm_source=ADW-CPC-Shoppingads&utm_medium=CPC&utm_campaign=ADW-CPC-Shoppingads&gclid=Cj0KCQjw-4SLBhCVARIsACrhWLV3q8t9jSov7ewSyRWXnjTc1uXFfNT4qaLhl1FXJSJCpUwLS7M9my8aArUcEALw_wcB
+[84]: https://www.baidyanath.com/ayush-kwath-churna-100gms.html?gclid=Cj0KCQjw-4SLBhCVARIsACrhWLWTjJWbUQfVSzkB72Vqq2_PX-vs_XWb9ReQdCcYqbeZpZfRMiK8Ts0aAheyEALw_wcB
+[85]: https://www.1mg.com/otc/patanjali-divya-coronil-kit-otc610506?wpsrc=Google%20AdWords&wpcid=1917998304&wpsnetn=u&wpkwn=&wpkmatch=&wpcrid=350029945870&wpscid=72306276684&wpkwid=pla-544131687345&gclid=Cj0KCQjw-4SLBhCVARIsACrhWLX6jaTdIexiHp7ywehyvzuTuzXlnOGQHr-DqE6eVtsPnAQbDEPnFhAaAjtXEALw_wcB
+[86]: https://www.patanjaliayurved.net/product/ayurvedic-medicine/packages-for-diseases/divya-swasari-coronil-kit/3262
+[87]: https://www.ayush.gov.in/docs/Ayush123.pdf
+[88]: https://www.srisritattva.com/products/ayush-64-anti-viral-60-tabs-500mg
+[89]: https://www.amazon.in/BASIC-AYURVEDA-Ayush-64-Tablet-Tab/dp/B088ZGZ61M
+[90]: https://www.amazon.in/Nagarjuna-Halin-Drops-Soft-Capsule/dp/B07W1JMR56
+[91]: https://www.ayurkart.com/products/aswagandha-churna-kottakkal-ayurvedic-medicine
+[92]: https://www.srisritattva.com/products/shop-ashwagandhadi-tablet-500mg?variant=32038773850171&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjw-4SLBhCVARIsACrhWLXMdowblrVUmNwHkwy1rQt3TqpEQD_6zy4CUzcvH2UF2VkDp3csyeMaAlJyEALw_wcB
+[93]: https://www.baidyanath.com/ashwagandhadi-churna.html?gclid=Cj0KCQjw-4SLBhCVARIsACrhWLWWma_C6BZkBORomTCfxyNsmZQItAa3GjM37GT4tFqPW9We6-CHM9oaAsQ3EALw_wcB
+[94]: https://www.patanjaliayurved.net/product/herbal-home-care/pooja-essentials/aastha-dasangam/1498
+[95]: https://www.baidyanath.co.in/mahasudarshan-churna-details.aspx
+[96]: https://www.baidyanath.co.in/giloy-satwa-pd?gclid=Cj0KCQjwwY-LBhD6ARIsACvT72Mp3nMCpehX0GgqaPkH-P8FYMXc1V1pmmajyw5tvemiScPfIjX4BhoaAlt1EALw_wcB
+[97]: https://www.baidyanath.co/product/guduchyadi-giloy-ghan-bati/?utm_source=adyogi&utm_medium=google-ssc&utm_campaign=SIDD_5621_adyogi_SmartShopping_prospect_all+others
+[98]: https://www.1mg.com/otc/baidyanath-jhansi-guduchi-ghanbati-sanshmani-bati-otc624950?wpsrc=Google%20AdWords&wpcid=1917998304&wpsnetn=u&wpkwn=&wpkmatch=&wpcrid=350029945870&wpscid=72306276684&wpkwid=pla-474348481911&gclid=CjwKCAjwk6-LBhBZEiwAOUUDp4ACOm3gWLgBreeeXsyHoTvmTCYnukZjD3djsAbs5M34DcQ5dDoaMxoCweEQAvD_BwE
+[99]: https://www.ayurvedichealthcare.in/products/rasayan-churna
+[100]: https://www.ebay.co.uk/itm/Rasayana-Powder-Effective-Immunity-Booster-with-Guduchi-Giloy-Amla-Gokshura-/282695710001
+[101]: https://www.baidyanath.co/product/godanti-bhasma/?utm_source=adyogi&utm_medium=google-ssc&utm_campaign=SIDD_5621_adyogi_SmartShopping_prospect_all+others
+[102]: https://www.baidyanath.co/product/triphala-churna/?utm_source=adyogi&utm_medium=google-ssc&utm_campaign=SIDD_5621_adyogi_SmartShopping_prospect_all+others
+[103]: https://theseersecret.com/products/seer-secrets-ayurvedic-breath-easy-potli
+[104]: 
+[105]: 
 [106]: 
 [107]: 
 [108]: 
