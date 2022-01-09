@@ -16,7 +16,7 @@ However, it seemed also evident that most of these independent entities had not 
    - (Masks) [FEE Stories: New Danish Study Finds Masks Don’t Protect Wearers From COVID Infection][2]; Jon Miltimore; Nov 18, 2020.
    A newly released study in the academic journal Annals of Internal Medicine casts more doubt on policies that force healthy individuals to wear face coverings.
 
-### 2. The RT-PCR test, blindly applied, over framing sufficiently reliable and robust diagnostic criteria, and even there, [the promotion of the slightly traumatizing deep nasal swabs over salivary samples][6],
+### 2. The RT-PCR test, blindly applied, over framing sufficiently reliable and robust diagnostic criteria, and even there, [the promotion of the slightly traumatizing deep nasal swabs over salivary samples][6]
 
    - (RT_PCR test, blindly applied) [randombio.com: The Reliability of RT-PCR tests for COVID-19][3] 
    How reliable are RT-PCR tests for COVID-19?
@@ -54,12 +54,12 @@ However, it seemed also evident that most of these independent entities had not 
    - THEHealthSite.com: [Millions of people in India are taking this homeopathic drug to prevent COVID-19 infection][13]; Longjam Dineshwori; Dec 17, 2020
    The governments of Gujarat, Kerala, Odisha, Tripura and a few other states are distributing a homeopathic drug, Arsenicum Album 30 C, to people free of cost to improve their immunity to fight coronavirus.
 
-### 7. An attitude of hopelessness in the face of the crisis and pessimism about any remedial possibility apart from vaccines, over an attitude of enthusiasm for the very many new protocols and therapies innovated by hundreds of physicians on the field, and amply demonstrated in their clinical practice, and in more than one instance, going to the extent of deliberate commissions that suppressed excellent treatments from finding space in public and scientific discourse (eg., the Zelenko Protocol, phototherapy, Early-Stage treatment protocols, even ""mainstream"" allopathic protocols using Ivermectin, and CDS-based therapy).
+### 7. An attitude of hopelessness in the face of the crisis and pessimism about any remedial possibility apart from vaccines, over an attitude of enthusiasm for the very many new protocols and therapies innovated by hundreds of physicians on the field, and amply demonstrated in their clinical practice, and in more than one instance, going to the extent of deliberate commissions that suppressed excellent treatments from finding space in public and scientific discourse (eg., the Zelenko Protocol, phototherapy, Early-Stage treatment protocols, even "mainstream" allopathic protocols using Ivermectin, and CDS-based therapy).
 
    - THE HINDU: [Vaccination is the only long-term solution to COVID-19 crisis in India, says Fauci][14]; May 10, 2021
    The American public health expert also stressed on the importance of a lockdown to break the chain of transmission.
 
-   - [ratical.org](http://ratical.org/): [WHO ""Solidarity"" and UK ""Recovery"" clinical trials of Hydroxychloroquine using potentially fatal doses, according to WHO consultant][15]; Meryl Nass, MD.
+   - [ratical.org](http://ratical.org/): [WHO "Solidarity" and UK "Recovery" clinical trials of Hydroxychloroquine using potentially fatal doses, according to WHO consultant][15]; Meryl Nass, MD.
    Summary:
       1. In the Recovery trial, and in WHO Solidarity trials, HCQ is used in a non-therapeutic, toxic and potentially lethal dose.
       2. HCQ is being given too late in the disease course to determine its value against SARSCoV-2.
