@@ -2,7 +2,7 @@
 
 ## Medicines and herbs to be stocked:
 
-### Homeopathic Medicines:
+### <ins>Homeopathic Medicines:</ins>
 A few stores selling reliable homeopathic products in India:
 - [Reckeweg India](https://www.reckeweg-india.com/)
 - [SBL Homeopathy online](https://www.healthmug.com/brand/sbl/3)
@@ -16,19 +16,19 @@ A few stores selling reliable homeopathic products in India:
 | Camphor 1M| Rhus Tox 200                    | Bryonia 200 |
 | Q Aspidosperma                              | | |
 
-### Equipment for self-care / treatment
+### <ins>Equipment for self-care / treatment</ins>
 
 | Equipment for self-care / treatment | Resources |
 |-----|-----|
-| Enema can / kit                 | [A possible store](https://www.yogabliss.in/) |
-| Neti pot (Jal Neti / Nasal wash can)	| [Link](https://www.yogabliss.in/) |
+| Enema can / kit                 | - [Yoga Bliss](https://www.yogabliss.in/): A possible store |
+| Neti pot (Jal Neti / Nasal wash can)	| - [Yoga Bliss](https://www.yogabliss.in/) |
 | Hand-held electric fan          | - [Bajaj Pygmy Mini 11cm][66]<br>- [Geek Aire GF1 - 4 Inch][67] |
 | Food-safe unglazed clay / brass / stone cookware | - [Is it safe to cook in clay pots?][68]<br>- [Heavy Metals in Contaminated Soils][69] |
-| Food-safe Copper / unglazed clay pot for drinking water	| [SenSafe Water Metals Check](https://sensafe.com/sensafe-water-metals-check/) |
-| Oximeter                        | [AccuSure FS10C][70] |
+| Food-safe Copper / unglazed clay pot for drinking water	| - [SenSafe Water Metals Check](https://sensafe.com/sensafe-water-metals-check/) |
+| Oximeter                        | - [AccuSure FS10C][70] |
 | Digital thermometer	          | - [Dr. Odin MT101][71]<br>- [Carent Infrared JPD-FR202][72] |
 
-### Some medicinal plants to be locally identified (in India), if possible, or nurtured at home:
+### <ins>Some medicinal plants to be locally identified (in India), if possible, or nurtured at home</ins>:
 
 | Plants | Resources |
 |-----|-----|
@@ -67,7 +67,7 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 
 ### Herbal Teas
 
-| Tea | Links / Resources |
+| Tea | Resources / Links |
 |----|----|
 | Organic green tea leaves        | - [7 Advices That You Must Listen][104] | 
 | Hunza tea (Dr. BRC, N.I.C.E.)   | - [biswaroop.com][105]
@@ -117,13 +117,13 @@ Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 | Medicines | Resources / Links |
 |----|----|
 | Vitamin A                         | - [Best Multivitamin Tablets In India][123]<br>- [7 Best Places to Buy Vitamins Online][124]<br>- [Dr. Zelenko's Z-Stack Vitamin Cocktail][125] |
-| Selenium                          | [HealthyHey Nutrition][126]<br>- [10 Best Selenium Supplements][127] |
+| Selenium                          | - [HealthyHey Nutrition][126]<br>- [10 Best Selenium Supplements][127] |
 | Oral Vitamin C 500 mg or 1000 mg	| - [Fast&Up][128]<br>- [Limcee][129]<br>- [How to find the best Vitamin C supplement][130] |
 | Vitamin D3 with K2	            | - [Himalayan Organics][131] |
 | NAC                               | - [Zenith Nutrition][132] |
 | Probiotics (Bifidobacterium, Lactobacillus)	| - [Naturenetics][133]<br>- [6 Best Probiotics][134] |
 | Liposomal Glutathione 250 mg	    | - [Zenith Nutrition][135]<br>- [10 Best Glutathione Tablets in India][136] |
-| EGCg 400 mg	                    | [NOW Supplements][137] |
+| EGCg 400 mg	                    | - [NOW Supplements][137] |
 | Elemental Zinc 50mg / Zinc Sulfate 220mg		| - [WonderLabs][138] |
 | Quercetin 500 mg                  | - [MoxyVites][139]<br>- [10 Best Quercetin Supplements][140]<br>- Also on [iHerb][141] |
 | | |
@@ -135,23 +135,23 @@ Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 | HCQ 200 mg tablets, 16 nos.	    | Find a Doctor who will prescribe this OTP early treatment medication online:<br>   - [US Directory][142]<br>   - [Global Directory][143] |
 | | |
 | **<ins>Nutraceuticals</ins>**| |
-| Melatonin 5 mg                    | [Nature's Bounty][144]<br>- [10 Best Melatonin Gummies][145] |
-| Aspirin (ASA) 325 mg	            | [Amazon BasicCare][146] |
+| Melatonin 5 mg                    | - [Nature's Bounty][144]<br>- [10 Best Melatonin Gummies][145] |
+| Aspirin (ASA) 325 mg	            | - [Amazon BasicCare][146] |
 
 ### Misc. health products
 
 | Medicines | Resources / Links |
 |----|----|
-| Milk kefir or grains for culturing	    | Kefirwala Srihari, Bangalore (Ph: +91 8884728555) |
+| Milk kefir or grains for culturing	    | - Kefirwala Srihari, Bangalore (Ph: +91 8884728555) |
 | Good raw, organic, native cow milk, if possible| |
-| Rock / black salt                         | [Saindhava Lavana (Sendha Namak) / Rock Salt: Benefits, Usage in Ayurveda, Side Effects][150] |
-| MMS Solution (homemade)	                | [How to make MMS: Jim Humble][151] |
-| Lactase enzyme (for lactose intolerance)	| [Bioven Lactase Enzyme Drops][152] |
-| Chlorine dioxide effervescent tablets		| [Erao Biotech][153] |
+| Rock / black salt                         | - [Saindhava Lavana (Sendha Namak) / Rock Salt: Benefits, Usage in Ayurveda, Side Effects][150] |
+| MMS Solution (homemade)	                | - [How to make MMS: Jim Humble][151] |
+| Lactase enzyme (for lactose intolerance)	| - [Bioven Lactase Enzyme Drops][152] |
+| Chlorine dioxide effervescent tablets		| - [Erao Biotech][153] |
 | Japanese Natto or Nattomoto	            | - [DesertCart][154]<br>- [Baoheng Biology][155] |
-| Nattokinase                               | [Doctor's Best][156] |
-| Nutritional Yeast                         | [Urban Platter][157] |
-| Nori / Purple laver (dried)	            | [Amazon][158] |
+| Nattokinase                               | - [Doctor's Best][156] |
+| Nutritional Yeast                         | - [Urban Platter][157] |
+| Nori / Purple laver (dried)	            | - [Amazon][158] |
 
 
 ## General precautions of supporting immunity and prophylaxing:
