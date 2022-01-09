@@ -155,7 +155,7 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 ## General precautions of supporting immunity and prophylaxing:
 
 1. Foster and promote the body's healing functions through Intermittent Fasting (IF), i.e., consume the main meals between 9-10 AM and 5-6 PM, an 8-hour duration.
-    [Role of Intermittent Fasting on Improving Health and Reducing Diseases; Salah Mesalhy Aly; International Journal of Health Sciences; July, 2014][1]
+    - [Role of Intermittent Fasting on Improving Health and Reducing Diseases; Salah Mesalhy Aly; International Journal of Health Sciences; July, 2014][1]
 
 2. Try to strictly follow a largely vegetarian and naturopathic diet, by minimizing the consumption of dairy, meat, fish and other animal products. Pure, organic ghee from native cows is an exception as it is healthy and a recommended source of fat in Ayurveda. In fact, it is preferred to use such ghee for cooking. Another healthy exception is organic, if possible, raw milk kefir from a trusted source of raw milk. Eggs too, though cited as an excellent source of many essential amino acids, should be consumed in moderation and it is best to source from an organic farm. It is also advisable to minimize the consumption of plant oils. Hemp seed oil and flax seed oil, however, can be consumed in small doses as medicine for their high nutritional value as they are considered good sources of Omega-3 fatty acids.
 [Assorted slide presentations on slideshare.net that offer an overview of the nature cure lifestyle, pioneered by Acharya Lakshmana Sharma in India, and the naturopathic approach to healing disease][2]
