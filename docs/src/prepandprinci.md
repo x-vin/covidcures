@@ -11,41 +11,38 @@ A few stores selling reliable homeopathic products in India:
 
 | Homeopathic Medicines| | |
 |-----|-----|------|
-| Arsenic Album 30 C (also called Arsalb 30)| | |
+| Arsenic Album 30 C (also called Arsalb 30)  | | |
 | Arsenic Album 200 C (also called Arsalb 200)| | |
-| Camphor 1M| Rhus Tox 200| Bryonia 200|
-| Q Aspidosperma | | |
+| Camphor 1M| Rhus Tox 200                    | Bryonia 200 |
+| Q Aspidosperma                              | | |
 
 ### Equipment for self-care / treatment
 
 | Equipment for self-care / treatment | Resources |
 |-----|-----|
-| Enema can / kit| [A possible store](https://www.yogabliss.in/) |
+| Enema can / kit                 | [A possible store](https://www.yogabliss.in/) |
 | Neti pot (Jal Neti / Nasal wash can)	| [Link](https://www.yogabliss.in/) |
-| Hand-held electric fan | [Bajaj Pygmy Mini 11cm][66] | 
-| | [Geek Aire GF1 - 4 Inch][67] |
-| Food-safe unglazed clay / brass / stone cookware | [Is it safe to cook in clay pots?][68] |
-| | [Heavy Metals in Contaminated Soils][69] |
-| Food-safe Copper / unglazed clay pot for drinking water		| [SenSafe Water Metals Check](https://sensafe.com/sensafe-water-metals-check/) |
-| Oximeter | [AccuSure FS10C][70] |
-| Digital thermometer	| [Dr. Odin MT101][71] |
-| | [Carent Infrared JPD-FR202][72] |
+| Hand-held electric fan          | - [Bajaj Pygmy Mini 11cm][66]<br>- [Geek Aire GF1 - 4 Inch][67] |
+| Food-safe unglazed clay / brass / stone cookware | - [Is it safe to cook in clay pots?][68]<br>- [Heavy Metals in Contaminated Soils][69] |
+| Food-safe Copper / unglazed clay pot for drinking water	| [SenSafe Water Metals Check](https://sensafe.com/sensafe-water-metals-check/) |
+| Oximeter                        | [AccuSure FS10C][70] |
+| Digital thermometer	          | - [Dr. Odin MT101][71]<br>- [Carent Infrared JPD-FR202][72] |
 
 ### Some medicinal plants to be locally identified (in India), if possible, or nurtured at home:
 
 | Plants | Resources |
 |-----|-----|
-| [Adathoda / Vasaka / Malabur nut / Adhatoda vasica][73]	| [Wikipedia](https://en.wikipedia.org/wiki/Justicia_adhatoda) |
-| [Tulasi / Holy basil / Ocimum tenuiflorum][74]		| [Wikipedia](https://en.wikipedia.org/wiki/Ocimum_tenuiflorum)|
+| [Adathoda / Vasaka / Malabur nut / Adhatoda vasica][73]	   | [Wikipedia](https://en.wikipedia.org/wiki/Justicia_adhatoda) |
+| [Tulasi / Holy basil / Ocimum tenuiflorum][74]		       | [Wikipedia](https://en.wikipedia.org/wiki/Ocimum_tenuiflorum)|
 | [Parijata / Pavizhamalli / Pavazha Malligai / Harsringar / Night jasmine / Nyctanthus arbor-tristis][75] | [Wikipedia](
 https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis
 ) |
 | [Bermuda grass / Dhruva grass / Durva / Karuka Pullu / Cynodon dactylon][76] | [Wikipedia](https://en.wikipedia.org/wiki/Cynodon_dactylon) |
-| [Giloy / Amrutavalli / Guduchi / Tinospora cordifolia][77] | [Wikipedia](https://en.wikipedia.org/wiki/Tinospora_cordifolia) |
+| [Giloy / Amrutavalli / Guduchi / Tinospora cordifolia][77]   | [Wikipedia](https://en.wikipedia.org/wiki/Tinospora_cordifolia) |
 | [Bael / Bilva / Koovalam /Bengal quince / Stone apple / Wood apple / Aegle Marmelos][78] | [Wikipedia](https://en.wikipedia.org/wiki/Aegle_marmelos) |
-| [Neem / Azadirachta indica][79] | [Wikipedia](https://en.wikipedia.org/wiki/Azadirachta_indica) |
+| [Neem / Azadirachta indica][79]                              | [Wikipedia](https://en.wikipedia.org/wiki/Azadirachta_indica) |
 | [Poonga / Karanja / Karum / Indian beech / Pongamia pinnata][80] | [Wikipedia](https://en.wikipedia.org/wiki/Millettia_pinnata) |
-| [Peepal / Sacred fig / Ficus religiosa][81]	| [Wikipedia](Wikipedia:https://en.wikipedia.org/wiki/Ficus_religiosa) |
+| [Peepal / Sacred fig / Ficus religiosa][81]	               | [Wikipedia](Wikipedia:https://en.wikipedia.org/wiki/Ficus_religiosa) |
 
 
 ### [Ayurvedic Medicines, from a trusted pharmacy](https://shop.aryavaidyasala.com/)
@@ -53,18 +50,18 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 
 | Medicines | Links / Resources |
 |-------|--------|
-| Ayush Kwath Choorna | - [Kottakkal AVS][82]<br>- [Kottakkal AVS C-Health Granules][83]<br>- [Baidyanath][84] |
-|Patanjali Divya Coronil kit| - [1mg][85]<br>- [Patanjali Ayurved][86] |
-| AYUSH64      | - [FAQs][87]<br>- [SriSri Tattva][88]<br>- [Basic Ayurveda][89] |
-| Halin drops* | - [Nagarjuna][90] |
-| Ashwagandhaadi Choorna	 | - [Kottakkal AVS][91]<br>- [SriSri Tattva][92]<br>- [Baidyanath][93] |
-| Patanjali Dasanga Dhoopam* | - [Patanjali Ayurved][94] |
+| Ayush Kwath Choorna               | - [Kottakkal AVS][82]<br>- [Kottakkal AVS C-Health Granules][83]<br>- [Baidyanath][84] |
+|Patanjali Divya Coronil kit        | - [1mg][85]<br>- [Patanjali Ayurved][86] |
+| AYUSH64                           | - [FAQs][87]<br>- [SriSri Tattva][88]<br>- [Basic Ayurveda][89] |
+| Halin drops*                      | - [Nagarjuna][90] |
+| Ashwagandhaadi Choorna	        | - [Kottakkal AVS][91]<br>- [SriSri Tattva][92]<br>- [Baidyanath][93] |
+| Patanjali Dasanga Dhoopam*        | - [Patanjali Ayurved][94] |
 | Mahasudarshana Choornam 100 g*	| - [Baidyanath][95] |
-| Guduchi / Giloy Satva 50 g*	| - [Baidyanath][96] |
+| Guduchi / Giloy Satva 50 g*	    | - [Baidyanath][96] |
 | Guduchi / Giloy Ghanavati (Pack of 2)	| - [Baidyanath][97]<br>- [Baidyanath][98] (Alternative product) |
-| Rasayana Choorna | - [Ayurvedic Healthcare][99]<br>- [DivyaHerb][100] |
-| Godanti Bhasma 10 g*	| - [Baidyanath][101] |
-| Triphala Choornam*	| - [Baidyanath][102] |
+| Rasayana Choorna                  | - [Ayurvedic Healthcare][99]<br>- [DivyaHerb][100] |
+| Godanti Bhasma 10 g*	            | - [Baidyanath][101] |
+| Triphala Choornam*	            | - [Baidyanath][102] |
 | Seer Secrets  Ayurvedic Breathe Easy Potli | - [SeerSecrets][103] |
 * Dr. Swapna Reddy's prescription
 
@@ -72,89 +69,89 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 
 | Tea | Links / Resources |
 |----|----|
-| Organic green tea leaves | - [7 Advices That You Must Listen][104] | 
-| Hunza tea (Dr. BRC, N.I.C.E.) | - [biswaroop.com][105]
-| Qing Fei Pai Du Tang (TCM)	| - [Greenlike Chinese Herbal Formula ClearLungs][106]<br>- [QFPDT Veggie Capsules][107]<br>- [QFPDT Basic Formula Granules][108] |
-| Liquorice tea | - [Kerala Naturals][109]<br>- [Sache][110] |
-| Ginseng tea | - [Amaara Herbs][111]<br>- [iHerb][112] |
-| Nettle leaf tea | - [The Indian Chai][113] |
-| Dandelion tea | - [Valuelife][114] |
-| Pine needle tea | - [The Tea Trove][115]<br>- [Potential Antidote for Transmission of Spike Protein][116]
+| Organic green tea leaves        | - [7 Advices That You Must Listen][104] | 
+| Hunza tea (Dr. BRC, N.I.C.E.)   | - [biswaroop.com][105]
+| Qing Fei Pai Du Tang (TCM)	  | - [Greenlike Chinese Herbal Formula ClearLungs][106]<br>- [QFPDT Veggie Capsules][107]<br>- [QFPDT Basic Formula Granules][108] |
+| Liquorice tea                   | - [Kerala Naturals][109]<br>- [Sache][110] |
+| Ginseng tea                     | - [Amaara Herbs][111]<br>- [iHerb][112] |
+| Nettle leaf tea                 | - [The Indian Chai][113] |
+| Dandelion tea                   | - [Valuelife][114] |
+| Pine needle tea                 | - [The Tea Trove][115]<br>- [Potential Antidote for Transmission of Spike Protein][116]
 
 
 ### Medicinal / health food ingredients from grocery store
 
 | Ingredients | Resources / Links |
 |----|----|
-| Ginger, raw + dried | |
-| Organic raw honey | [Thaen][117] |
-| Pepper | |
-| Star anise | |
-| Edible camphor | |
-| Garlic, raw | |
-| Corriander seeds | |
-| Gooseberries| |
+| Ginger, raw + dried                | |
+| Organic raw honey                  | [Thaen][117] |
+| Pepper                             | |
+| Star anise                         | |
+| Edible camphor                     | |
+| Garlic, raw                        | |
+| Corriander seeds                   | |
+| Gooseberries                       | |
 | Millets (Foxtail, Kodo, Little, Barnyard, Finger millets etc.)| | 
-| Sun-dried Shiitake mushrooms | - [Chennai Grocers][118]<br>- [Urban Platter][119] |
+| Sun-dried Shiitake mushrooms       | - [Chennai Grocers][118]<br>- [Urban Platter][119] |
 | Turmeric, organic powder & Raw root| |
-| Unrefined, non-iodized salt| |
-| Eucalyptus oil| |
-| Clove / Lavang | |
-| Ajwain / Carom seeds| |
-| Shallots| |
-| Cinnamon| |
-| Fenugreek seeds| |
-| Lemons| |
-| Black cumin / Nigella sativa| |
+| Unrefined, non-iodized salt        | |
+| Eucalyptus oil                     | |
+| Clove / Lavang                     | |
+| Ajwain / Carom seeds               | |
+| Shallots                           | |
+| Cinnamon                           | |
+| Fenugreek seeds                    | |
+| Lemons                             | |
+| Black cumin / Nigella sativa       | |
 
 ### Siddha medicines from native medicine store:
 Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 | Siddha Medicines | Resources / Links |
 |----|----|
-| Nilavembu Kudineer	| - [IshaLife][121] |
-| Kapasoora Kudineer	| - [Killi Herbs][122] |
-| Other Non-Prescriptions | -[NetMeds][122a] |
+| Nilavembu Kudineer	    | - [IshaLife][121] |
+| Kapasoora Kudineer	    | - [Killi Herbs][122] |
+| Other Non-Prescriptions   | - [NetMeds][122a] |
 
 ### Medicines to be purchased at a trusted store (+ Zelenko / FLCCC suppliers' links)
 
 | Medicines | Resources / Links |
 |----|----|
-| Vitamin A | - [Best Multivitamin Tablets In India][123]<br>- [7 Best Places to Buy Vitamins Online][124]<br>- [Dr. Zelenko's Z-Stack Vitamin Cocktail][125] |
-| Selenium | [HealthyHey Nutrition][126]<br>- [10 Best Selenium Supplements][127] |
+| Vitamin A                         | - [Best Multivitamin Tablets In India][123]<br>- [7 Best Places to Buy Vitamins Online][124]<br>- [Dr. Zelenko's Z-Stack Vitamin Cocktail][125] |
+| Selenium                          | [HealthyHey Nutrition][126]<br>- [10 Best Selenium Supplements][127] |
 | Oral Vitamin C 500 mg or 1000 mg	| - [Fast&Up][128]<br>- [Limcee][129]<br>- [How to find the best Vitamin C supplement][130] |
-| Vitamin D3 with K2	| - [Himalayan Organics][131] |
-| NAC | - [Zenith Nutrition][132] |
+| Vitamin D3 with K2	            | - [Himalayan Organics][131] |
+| NAC                               | - [Zenith Nutrition][132] |
 | Probiotics (Bifidobacterium, Lactobacillus)	| - [Naturenetics][133]<br>- [6 Best Probiotics][134] |
-| Liposomal Glutathione 250 mg	| - [Zenith Nutrition][135]<br>- [10 Best Glutathione Tablets in India][136] |
-| EGCg 400 mg	| [NOW Supplements][137] |
+| Liposomal Glutathione 250 mg	    | - [Zenith Nutrition][135]<br>- [10 Best Glutathione Tablets in India][136] |
+| EGCg 400 mg	                    | [NOW Supplements][137] |
 | Elemental Zinc 50mg / Zinc Sulfate 220mg		| - [WonderLabs][138] |
-| Quercetin 500 mg | - [MoxyVites][139]<br>- [10 Best Quercetin Supplements][140]<br>- Also on [iHerb][141] |
+| Quercetin 500 mg                  | - [MoxyVites][139]<br>- [10 Best Quercetin Supplements][140]<br>- Also on [iHerb][141] |
 | | |
-| The Zelenko Protocol Supplements | - [dose + remedy][147]: Contains Vitamin D, Vitamin C, Vitamins B-complex, Zinc, Quercetin 500 mg, Bromelain, Echinacea (Green chiretta)<br>- [ZenRenu Immunity][148]: Contains Quercetin 700mg, Zinc 33mg, Vitamin C 400mg, Vitamin D 5000iu, Curcumin 200mg, Bioperine 10mg |
-| West-Coast Immuneed Original | - [Healthvit][149]<br>- Original Advert:<br>1. Nutritional support for the Immune System:<br><br>Immuneed provides a comprehensive formula for the immune system, with effective levels of Antioxidants. Vitamin C and E circulate in the body to help protect against the damage caused by free radicals. Other nutrients such as Betacarotene protect DNA and cells from within.<br><br>2. Immuneed helps safeguard nutrients required for:<br>• The short term- to help maintain the immune resistance. It also helps replace the vitamin C lost during colds.<br>• The long term- to improve the body’s long term protection.<br><br>3. Immuneed original formula:<br>- One-a-day vitamin and mineral tablets with Amino acid.<br>- Immuneed provides vital minerals such as Zinc and Selenium which are co-factors in 300 of the body’s antioxidants enzymes. Superoxide dismutase (SOD), Catalase & Glutathione peroxidase (GShpx). These eliminate harmful chemicals., including free radicals & Peroxides.<br>- Effective Antioxidants for the Immune system, to help promote healthy immune resistance & long term cell protection: Vitamin D3, C, E, Selenium & Zinc, Betacarotene, Bioflavonoids, Minerals |
+| The Zelenko Protocol Supplements  | - [dose + remedy][147]: Contains Vitamin D, Vitamin C, Vitamins B-complex, Zinc, Quercetin 500 mg, Bromelain, Echinacea (Green chiretta)<br>- [ZenRenu Immunity][148]: Contains Quercetin 700mg, Zinc 33mg, Vitamin C 400mg, Vitamin D 5000iu, Curcumin 200mg, Bioperine 10mg |
+| West-Coast Immuneed Original      | - [Healthvit][149]<br>- Original Advert:<br>1. Nutritional support for the Immune System:<br><br>Immuneed provides a comprehensive formula for the immune system, with effective levels of Antioxidants. Vitamin C and E circulate in the body to help protect against the damage caused by free radicals. Other nutrients such as Betacarotene protect DNA and cells from within.<br><br>2. Immuneed helps safeguard nutrients required for:<br>• The short term- to help maintain the immune resistance. It also helps replace the vitamin C lost during colds.<br>• The long term- to improve the body’s long term protection.<br><br>3. Immuneed original formula:<br>- One-a-day vitamin and mineral tablets with Amino acid.<br>- Immuneed provides vital minerals such as Zinc and Selenium which are co-factors in 300 of the body’s antioxidants enzymes. Superoxide dismutase (SOD), Catalase & Glutathione peroxidase (GShpx). These eliminate harmful chemicals., including free radicals & Peroxides.<br>- Effective Antioxidants for the Immune system, to help promote healthy immune resistance & long term cell protection: Vitamin D3, C, E, Selenium & Zinc, Betacarotene, Bioflavonoids, Minerals |
 | | |
 | **<ins>Pharmaceuticals</ins>**	| |
 | Ivermectin, human-grade, 3 mg, 12-20 nos.	| Find a Doctor who will prescribe this OTP early treatment medication online:<br>   - [US Directory][142]<br>   - [Global Directory][143] |
-| HCQ 200 mg tablets, 16 nos.	| Find a Doctor who will prescribe this OTP early treatment medication online:<br>   - [US Directory][142]<br>   - [Global Directory][143] |
+| HCQ 200 mg tablets, 16 nos.	    | Find a Doctor who will prescribe this OTP early treatment medication online:<br>   - [US Directory][142]<br>   - [Global Directory][143] |
 | | |
 | **<ins>Nutraceuticals</ins>**| |
-| Melatonin 5 mg | [Nature's Bounty][144]<br>- [10 Best Melatonin Gummies][145] |
-| Aspirin (ASA) 325 mg	| [Amazon BasicCare][146] |
+| Melatonin 5 mg                    | [Nature's Bounty][144]<br>- [10 Best Melatonin Gummies][145] |
+| Aspirin (ASA) 325 mg	            | [Amazon BasicCare][146] |
 
 ### Misc. health products
 
 | Medicines | Resources / Links |
 |----|----|
-| Milk kefir or grains for culturing	| Kefirwala Srihari, Bangalore (Ph: +91 8884728555) |
+| Milk kefir or grains for culturing	    | Kefirwala Srihari, Bangalore (Ph: +91 8884728555) |
 | Good raw, organic, native cow milk, if possible| |
-| Rock / black salt | [Saindhava Lavana (Sendha Namak) / Rock Salt: Benefits, Usage in Ayurveda, Side Effects][150] |
-| MMS Solution (homemade)	| [How to make MMS: Jim Humble][151] |
+| Rock / black salt                         | [Saindhava Lavana (Sendha Namak) / Rock Salt: Benefits, Usage in Ayurveda, Side Effects][150] |
+| MMS Solution (homemade)	                | [How to make MMS: Jim Humble][151] |
 | Lactase enzyme (for lactose intolerance)	| [Bioven Lactase Enzyme Drops][152] |
 | Chlorine dioxide effervescent tablets		| [Erao Biotech][153] |
-| Japanese Natto or Nattomoto	| - [DesertCart][154]<br>- [Baoheng Biology][155] |
-| Nattokinase| [Doctor's Best][156] |
-| Nutritional Yeast | [Urban Platter][157] |
-| Nori / Purple laver (dried)	| [Amazon][158] |
+| Japanese Natto or Nattomoto	            | - [DesertCart][154]<br>- [Baoheng Biology][155] |
+| Nattokinase                               | [Doctor's Best][156] |
+| Nutritional Yeast                         | [Urban Platter][157] |
+| Nori / Purple laver (dried)	            | [Amazon][158] |
 
 
 ## General precautions of supporting immunity and prophylaxing:
