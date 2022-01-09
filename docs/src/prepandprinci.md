@@ -28,26 +28,25 @@ A few stores selling reliable homeopathic products in India:
 | Oximeter                        | - [AccuSure FS10C][70] |
 | Digital thermometer	          | - [Dr. Odin MT101][71]<br>- [Carent Infrared JPD-FR202][72] |
 
-### <ins>Some medicinal plants to be locally identified (in India), if possible, or nurtured at home:</ins>:
+### <ins>Some medicinal plants to be locally identified (in India), if possible, or nurtured at home:</ins>
 
-| Plants | Resources |
+| Plants | Resources / Links |
 |-----|-----|
 | [Adathoda / Vasaka / Malabur nut / Adhatoda vasica][73]	   | [Wikipedia](https://en.wikipedia.org/wiki/Justicia_adhatoda) |
 | [Tulasi / Holy basil / Ocimum tenuiflorum][74]		       | [Wikipedia](https://en.wikipedia.org/wiki/Ocimum_tenuiflorum)|
-| [Parijata / Pavizhamalli / Pavazha Malligai / Harsringar / Night jasmine / Nyctanthus arbor-tristis][75] | [Wikipedia](https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis
-) |
+| [Parijata / Pavizhamalli / Pavazha Malligai / Harsringar / Night jasmine / Nyctanthus arbor-tristis][75] | [Wikipedia](https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis) |
 | [Bermuda grass / Dhruva grass / Durva / Karuka Pullu / Cynodon dactylon][76] | [Wikipedia](https://en.wikipedia.org/wiki/Cynodon_dactylon) |
 | [Giloy / Amrutavalli / Guduchi / Tinospora cordifolia][77]   | [Wikipedia](https://en.wikipedia.org/wiki/Tinospora_cordifolia) |
 | [Bael / Bilva / Koovalam /Bengal quince / Stone apple / Wood apple / Aegle Marmelos][78] | [Wikipedia](https://en.wikipedia.org/wiki/Aegle_marmelos) |
 | [Neem / Azadirachta indica][79]                              | [Wikipedia](https://en.wikipedia.org/wiki/Azadirachta_indica) |
 | [Poonga / Karanja / Karum / Indian beech / Pongamia pinnata][80] | [Wikipedia](https://en.wikipedia.org/wiki/Millettia_pinnata) |
-| [Peepal / Sacred fig / Ficus religiosa][81]	               | [Wikipedia](Wikipedia:https://en.wikipedia.org/wiki/Ficus_religiosa) |
+| [Peepal / Sacred fig / Ficus religiosa][81]	               | [Wikipedia](https://en.wikipedia.org/wiki/Ficus_religiosa) |
 
 
-### <ins>[Ayurvedic Medicines, from a trusted pharmacy](https://shop.aryavaidyasala.com/):</ins>
+### <ins>[Ayurvedic Medicines, from a trusted pharmacy:](https://shop.aryavaidyasala.com/)</ins>
 Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 
-| Medicines | Links / Resources |
+| Medicines | Resources / Links |
 |-------|--------|
 | Ayush Kwath Choorna               | - [Kottakkal AVS][82]<br>- [Kottakkal AVS C-Health Granules][83]<br>- [Baidyanath][84] |
 |Patanjali Divya Coronil kit        | - [1mg][85]<br>- [Patanjali Ayurved][86] |
@@ -78,7 +77,7 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 | Pine needle tea                 | - [The Tea Trove][115]<br>- [Potential Antidote for Transmission of Spike Protein][116]
 
 
-### <ins>Medicinal / health food ingredients from grocery store</ins>:
+### <ins>Medicinal / health food ingredients from grocery store:</ins>
 
 | Ingredients | Resources / Links |
 |----|----|
@@ -104,7 +103,7 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 | Black cumin / Nigella sativa       | |
 
 ### <ins>Siddha medicines from native medicine store:</ins>
-Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
+**Note**: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 | Siddha Medicines | Resources / Links |
 |----|----|
 | Nilavembu Kudineer	    | - [IshaLife][121] |
@@ -127,7 +126,7 @@ Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 | Quercetin 500 mg                  | - [MoxyVites][139]<br>- [10 Best Quercetin Supplements][140]<br>- Also on [iHerb][141] |
 | | |
 | The Zelenko Protocol Supplements  | - [dose + remedy][147]: Contains Vitamin D, Vitamin C, Vitamins B-complex, Zinc, Quercetin 500 mg, Bromelain, Echinacea (Green chiretta)<br>- [ZenRenu Immunity][148]: Contains Quercetin 700mg, Zinc 33mg, Vitamin C 400mg, Vitamin D 5000iu, Curcumin 200mg, Bioperine 10mg |
-| West-Coast Immuneed Original      | - [Healthvit][149]<br>- Original Advert:<br>1. Nutritional support for the Immune System:<br><br>Immuneed provides a comprehensive formula for the immune system, with effective levels of Antioxidants. Vitamin C and E circulate in the body to help protect against the damage caused by free radicals. Other nutrients such as Betacarotene protect DNA and cells from within.<br><br>2. Immuneed helps safeguard nutrients required for:<br>• The short term- to help maintain the immune resistance. It also helps replace the vitamin C lost during colds.<br>• The long term- to improve the body’s long term protection.<br><br>3. Immuneed original formula:<br>- One-a-day vitamin and mineral tablets with Amino acid.<br>- Immuneed provides vital minerals such as Zinc and Selenium which are co-factors in 300 of the body’s antioxidants enzymes. Superoxide dismutase (SOD), Catalase & Glutathione peroxidase (GShpx). These eliminate harmful chemicals., including free radicals & Peroxides.<br>- Effective Antioxidants for the Immune system, to help promote healthy immune resistance & long term cell protection: Vitamin D3, C, E, Selenium & Zinc, Betacarotene, Bioflavonoids, Minerals |
+| West-Coast Immuneed Original      | - [Healthvit][149]<br>- <ins>Original Advert:</ins><br>1. Nutritional support for the Immune System:<br><br>Immuneed provides a comprehensive formula for the immune system, with effective levels of Antioxidants. Vitamin C and E circulate in the body to help protect against the damage caused by free radicals. Other nutrients such as Betacarotene protect DNA and cells from within.<br><br>2. Immuneed helps safeguard nutrients required for:<br>• The short term- to help maintain the immune resistance. It also helps replace the vitamin C lost during colds.<br>• The long term- to improve the body’s long term protection.<br><br>3. Immuneed original formula:<br>- One-a-day vitamin and mineral tablets with Amino acid.<br>- Immuneed provides vital minerals such as Zinc and Selenium which are co-factors in 300 of the body’s antioxidants enzymes. Superoxide dismutase (SOD), Catalase & Glutathione peroxidase (GShpx). These eliminate harmful chemicals., including free radicals & Peroxides.<br>- Effective Antioxidants for the Immune system, to help promote healthy immune resistance & long term cell protection: Vitamin D3, C, E, Selenium & Zinc, Betacarotene, Bioflavonoids, Minerals |
 | | |
 | **<ins>Pharmaceuticals</ins>**	| |
 | Ivermectin, human-grade, 3 mg, 12-20 nos.	| Find a Doctor who will prescribe this OTP early treatment medication online:<br>   - [US Directory][142]<br>   - [Global Directory][143] |
@@ -155,8 +154,8 @@ Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 
 ## General precautions of supporting immunity and prophylaxing:
 
-1. Foster and promote the body's healing functions through Intermittent Fasting (IF), i.e., consume the main meals between 9-10 AM and 5-6 PM, an 8-hour duration.
-[Role of Intermittent Fasting on Improving Health and Reducing Diseases; Salah Mesalhy Aly; International Journal of Health Sciences; July, 2014][1]
+    1. Foster and promote the body's healing functions through Intermittent Fasting (IF), i.e., consume the main meals between 9-10 AM and 5-6 PM, an 8-hour duration.
+    [Role of Intermittent Fasting on Improving Health and Reducing Diseases; Salah Mesalhy Aly; International Journal of Health Sciences; July, 2014][1]
 
 2. Try to strictly follow a largely vegetarian and naturopathic diet, by minimizing the consumption of dairy, meat, fish and other animal products. Pure, organic ghee from native cows is an exception as it is healthy and a recommended source of fat in Ayurveda. In fact, it is preferred to use such ghee for cooking. Another healthy exception is organic, if possible, raw milk kefir from a trusted source of raw milk. Eggs too, though cited as an excellent source of many essential amino acids, should be consumed in moderation and it is best to source from an organic farm. It is also advisable to minimize the consumption of plant oils. Hemp seed oil and flax seed oil, however, can be consumed in small doses as medicine for their high nutritional value as they are considered good sources of Omega-3 fatty acids.
 [Assorted slide presentations on slideshare.net that offer an overview of the nature cure lifestyle, pioneered by Acharya Lakshmana Sharma in India, and the naturopathic approach to healing disease][2]
