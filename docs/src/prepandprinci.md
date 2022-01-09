@@ -145,16 +145,16 @@ Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 
 | Medicines | Resources / Links |
 |----|----|
-| Milk kefir or grains for culturing	| |
+| Milk kefir or grains for culturing	| Kefirwala Srihari, Bangalore (Ph: +91 8884728555) |
 | Good raw, organic, native cow milk, if possible| |
-| Rock / black salt| |
-| MMS Solution (homemade)	| |
-| Lactase enzyme (for lactose intolerance)		| |
-| Chlorine dioxide effervescent tablets		| |
-| Japanese Natto or Nattomoto	| |
-| Nattokinase| |
-| Nutritional yeast| |
-| Nori / Purple laver (dried)	| |
+| Rock / black salt | [Saindhava Lavana (Sendha Namak) / Rock Salt: Benefits, Usage in Ayurveda, Side Effects][150] |
+| MMS Solution (homemade)	| [How to make MMS: Jim Humble][151] |
+| Lactase enzyme (for lactose intolerance)	| [Bioven Lactase Enzyme Drops][152] |
+| Chlorine dioxide effervescent tablets		| [Erao Biotech][153] |
+| Japanese Natto or Nattomoto	| - [DesertCart][154]<br>- [Baoheng Biology][155] |
+| Nattokinase| [Doctor's Best][156] |
+| Nutritional Yeast | [Urban Platter][157] |
+| Nori / Purple laver (dried)	| [Amazon][158] |
 
 
 ## General precautions of supporting immunity and prophylaxing:
@@ -469,7 +469,16 @@ VII. <ins>Seventh Principle</ins>: **An important principle of design of this in
 [147]: https://www.amazon.com/dp/B08CBBHPTF/ref=sspa_dk_detail_0?smid=AO3BP91DN8YE0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWkdRV1hEUjJLNkRCJmVuY3J5cHRlZElkPUEwNTM3Mjk1Rk1WSVdaOUVLMkNGJmVuY3J5cHRlZEFkSWQ9QTA4NjA3MDYxSzBBMUo2UUNaSEQ5JndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1
 [148]: https://www.amazon.com/Quercetin-Zinc-Picolinate-Vitamin-Supplement/dp/B08FHGLYX8/ref=sr_1_1_sspa?crid=3JUFNC38LDNT2&keywords=zenrenu+immunity&qid=1641715711&sprefix=zenrenu+%2Caps%2C476&sr=8-1-spons&psc=1&smid=A2USHT6VUW6MYT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyREdBNVROU1NPTDdTJmVuY3J5cHRlZElkPUEwNjA2NTkzMjBQOEpDVkZRTlVINSZlbmNyeXB0ZWRBZElkPUEwMDk2MDAwMjNFNlRNWTIySzBCMyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 [149]: https://healthvit.com/products/west-coast-immuneed-original-30-tablets
-[150]: 
+[150]: https://www.easyayurveda.com/2013/09/27/saindhava-lavana-rock-salt-benefits-ayurveda-usage-side-effects/
+[151]: https://jimhumble.co/how-to-make-mms
+[152]: https://www.flipkart.com/bioven-lactase-enzyme-drops/p/itmfhbwyhrzz99qf
+[153]: http://www.eraot.com/products/14-Chlorine-Dioxide-effervescent-Tablet.html
+[154]: https://www.desertcart.in/brands/nattomoto
+[155]: https://www.natto-enzy.com/products-list.htm?gclid=CjwKCAiA7dKMBhBCEiwAO_crFGYzbM_SEZ1RQRY5rtcZClKwqewtRs1aSq-yDDa8lJu8Q2jQi7xTtBoCoYcQAvD_BwE
+[156]: https://www.flipkart.com/doctor-s-best-nattokinase-2-000-fus-90-veggie-caps/p/itm3d713d36b8f14
+[157]: https://urbanplatter.in/product/urban-platter-nutritional-yeast-flakes-shaker-jar-50g-176oz-also-known-as-nooch-gluten-free-nutty-flavour/?utm_source=google&utm_medium=cpc&utm_campaign=9722982378&utm_content=97781528045&utm_term=&gclid=CjwKCAiA7dKMBhBCEiwAO_crFDLD3NXjBZfyOLBHhijc1vmzTBnM82HFIa3PRFhjAbDZMfmt-XtxzhoCQQIQAvD_BwE
+[158]: https://www.amazon.com/s?k=dried+purple+laver&rh=n%3A7000787011&language=en_US&linkCode=sl2&linkId=074d7af932eab1169db38e26b8d98569&tag=vitamin-b12-foods-for-vegetarians-20&ref=nb_sb_noss
+
 [163]: 
 [164]: 
 [165]: 
