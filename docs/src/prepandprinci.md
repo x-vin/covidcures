@@ -16,7 +16,7 @@ A few stores selling reliable homeopathic products in India:
 | Camphor 1M| Rhus Tox 200                    | Bryonia 200 |
 | Q Aspidosperma                              | | |
 
-### <ins>Equipment for self-care / treatment</ins>
+### <ins>Equipment for self-care / treatment:</ins>
 
 | Equipment for self-care / treatment | Resources |
 |-----|-----|
@@ -28,14 +28,13 @@ A few stores selling reliable homeopathic products in India:
 | Oximeter                        | - [AccuSure FS10C][70] |
 | Digital thermometer	          | - [Dr. Odin MT101][71]<br>- [Carent Infrared JPD-FR202][72] |
 
-### <ins>Some medicinal plants to be locally identified (in India), if possible, or nurtured at home</ins>:
+### <ins>Some medicinal plants to be locally identified (in India), if possible, or nurtured at home:</ins>:
 
 | Plants | Resources |
 |-----|-----|
 | [Adathoda / Vasaka / Malabur nut / Adhatoda vasica][73]	   | [Wikipedia](https://en.wikipedia.org/wiki/Justicia_adhatoda) |
 | [Tulasi / Holy basil / Ocimum tenuiflorum][74]		       | [Wikipedia](https://en.wikipedia.org/wiki/Ocimum_tenuiflorum)|
-| [Parijata / Pavizhamalli / Pavazha Malligai / Harsringar / Night jasmine / Nyctanthus arbor-tristis][75] | [Wikipedia](
-https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis
+| [Parijata / Pavizhamalli / Pavazha Malligai / Harsringar / Night jasmine / Nyctanthus arbor-tristis][75] | [Wikipedia](https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis
 ) |
 | [Bermuda grass / Dhruva grass / Durva / Karuka Pullu / Cynodon dactylon][76] | [Wikipedia](https://en.wikipedia.org/wiki/Cynodon_dactylon) |
 | [Giloy / Amrutavalli / Guduchi / Tinospora cordifolia][77]   | [Wikipedia](https://en.wikipedia.org/wiki/Tinospora_cordifolia) |
@@ -45,7 +44,7 @@ https://en.wikipedia.org/wiki/Nyctanthes_arbor-tristis
 | [Peepal / Sacred fig / Ficus religiosa][81]	               | [Wikipedia](Wikipedia:https://en.wikipedia.org/wiki/Ficus_religiosa) |
 
 
-### [Ayurvedic Medicines, from a trusted pharmacy](https://shop.aryavaidyasala.com/)
+### <ins>[Ayurvedic Medicines, from a trusted pharmacy](https://shop.aryavaidyasala.com/):</ins>
 Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 
 | Medicines | Links / Resources |
@@ -65,7 +64,7 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 | Seer Secrets  Ayurvedic Breathe Easy Potli | - [SeerSecrets][103] |
 * Dr. Swapna Reddy's prescription
 
-### Herbal Teas
+### <ins>Herbal Teas:</ins>
 
 | Tea | Resources / Links |
 |----|----|
@@ -79,7 +78,7 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 | Pine needle tea                 | - [The Tea Trove][115]<br>- [Potential Antidote for Transmission of Spike Protein][116]
 
 
-### Medicinal / health food ingredients from grocery store
+### <ins>Medicinal / health food ingredients from grocery store</ins>:
 
 | Ingredients | Resources / Links |
 |----|----|
@@ -104,7 +103,7 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 | Lemons                             | |
 | Black cumin / Nigella sativa       | |
 
-### Siddha medicines from native medicine store:
+### <ins>Siddha medicines from native medicine store:</ins>
 Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 | Siddha Medicines | Resources / Links |
 |----|----|
@@ -112,7 +111,7 @@ Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 | Kapasoora Kudineer	    | - [Killi Herbs][122] |
 | Other Non-Prescriptions   | - [NetMeds][122a] |
 
-### Medicines to be purchased at a trusted store (+ Zelenko / FLCCC suppliers' links)
+### <ins>Medicines to be purchased at a trusted store (+ Zelenko / FLCCC suppliers' links):</ins>
 
 | Medicines | Resources / Links |
 |----|----|
@@ -138,7 +137,7 @@ Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
 | Melatonin 5 mg                    | - [Nature's Bounty][144]<br>- [10 Best Melatonin Gummies][145] |
 | Aspirin (ASA) 325 mg	            | - [Amazon BasicCare][146] |
 
-### Misc. health products
+### <ins>Misc. health products:</ins>
 
 | Medicines | Resources / Links |
 |----|----|
