@@ -65,21 +65,96 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 | Rasayana Choorna | - [Ayurvedic Healthcare][99]<br>- [DivyaHerb][100] |
 | Godanti Bhasma 10 g*	| - [Baidyanath][101] |
 | Triphala Choornam*	| - [Baidyanath][102] |
-| Seer Secrets  Ayurvedic Breathe Easy Potli | -[SeerSecrets][103] |
+| Seer Secrets  Ayurvedic Breathe Easy Potli | - [SeerSecrets][103] |
 * Dr. Swapna Reddy's prescription
 
-### Teas
+### Herbal Teas
 
 | Tea | Links / Resources |
 |----|----|
-| Organic green tea leaves | [7 Advices That You Must Listen][104] | 
-| Hunza tea (Dr. BRC, N.I.C.E.) | [biswaroop.com][105]
-| Qing Fei Pai Du Tang (TCM)	| Ubuy
-| Liquorice tea
-| Ginseng tea
-| Nettle leaf tea
-| Dandelion tea
+| Organic green tea leaves | - [7 Advices That You Must Listen][104] | 
+| Hunza tea (Dr. BRC, N.I.C.E.) | - [biswaroop.com][105]
+| Qing Fei Pai Du Tang (TCM)	| - [Greenlike Chinese Herbal Formula ClearLungs][106]<br>- [QFPDT Veggie Capsules][107]<br>- [QFPDT Basic Formula Granules][108] |
+| Liquorice tea | - [Kerala Naturals][109]<br>- [Sache][110] |
+| Ginseng tea | - [Amaara Herbs][111]<br>- [iHerb][112] |
+| Nettle leaf tea | - [The Indian Chai][113] |
+| Dandelion tea | - [Valuelife][114] |
+| Pine needle tea | - [The Tea Trove][115]<br>- [Potential Antidote for Transmission of Spike Protein][116]
 
+
+### Medicinal / health food ingredients from grocery store
+
+| Ingredients | Resources / Links |
+|----|----|
+| Ginger, raw + dried | |
+| Organic raw honey | [Thaen][117] |
+| Pepper | |
+| Star anise | |
+| Edible camphor | |
+| Garlic, raw | |
+| Corriander seeds | |
+| Gooseberries| |
+| Millets (Foxtail, Kodo, Little, Barnyard, Finger millets etc.)| | 
+| Sun-dried Shiitake mushrooms | - [Chennai Grocers][118]<br>- [Urban Platter][119] |
+| Turmeric, organic powder & Raw root| |
+| Unrefined, non-iodized salt| |
+| Eucalyptus oil| |
+| Clove / Lavang | |
+| Ajwain / Carom seeds| |
+| Shallots| |
+| Cinnamon| |
+| Fenugreek seeds| |
+| Lemons| |
+| Black cumin / Nigella sativa| |
+
+### Siddha medicines from native medicine store:
+Note: [AYUSH Guidelines][120] for Siddha Practitioners for Covid-19
+| Siddha Medicines | Resources / Links |
+|----|----|
+| Nilavembu Kudineer	| - [IshaLife][121] |
+| Kapasoora Kudineer	| - [Killi Herbs][122] |
+| Other Non-Prescriptions | -[NetMeds][122a] |
+
+### Medicines to be purchased at a trusted store (+ Zelenko / FLCCC suppliers' links)
+
+| Medicines | Resources / Links |
+|----|----|
+| Vitamin A | - [Best Multivitamin Tablets In India][123]<br>- [7 Best Places to Buy Vitamins Online][124]<br>- [Dr. Zelenko's Z-Stack Vitamin Cocktail][125] |
+| Selenium | [HealthyHey Nutrition][126]<br>- [10 Best Selenium Supplements][127] |
+| Oral Vitamin C 500 mg or 1000 mg	| - [Fast&Up][128]<br>- [Limcee][129]<br>- [How to find the best Vitamin C supplement][130] |
+| Vitamin D3 with K2	| - [Himalayan Organics][131] |
+| NAC | - [Zenith Nutrition][132] |
+| Probiotics (Bifidobacterium, Lactobacillus)	| - [Naturenetics][133]<br>- [6 Best Probiotics][134] |
+| Liposomal Glutathione 250 mg	| - [Zenith Nutrition][135]<br>- [10 Best Glutathione Tablets in India][136] |
+| EGCg 400 mg	| [NOW Supplements][137] |
+| Elemental Zinc 50mg / Zinc Sulfate 220mg		| - [WonderLabs][138] |
+| Quercetin 500 mg | - [MoxyVites][139]<br>- [10 Best Quercetin Supplements][140]<br>- Also on [iHerb][141] |
+| | |
+| The Zelenko Protocol Supplements | - [dose + remedy][147]: Contains Vitamin D, Vitamin C, Vitamins B-complex, Zinc, Quercetin 500 mg, Bromelain, Echinacea (Green chiretta)<br>- [ZenRenu Immunity][148]: Contains Quercetin 700mg, Zinc 33mg, Vitamin C 400mg, Vitamin D 5000iu, Curcumin 200mg, Bioperine 10mg |
+| West-Coast Immuneed Original | - [Healthvit][149]<br>- Original Advert:<br>1. Nutritional support for the Immune System:<br><br>Immuneed provides a comprehensive formula for the immune system, with effective levels of Antioxidants. Vitamin C and E circulate in the body to help protect against the damage caused by free radicals. Other nutrients such as Betacarotene protect DNA and cells from within.<br><br>2. Immuneed helps safeguard nutrients required for:<br>• The short term- to help maintain the immune resistance. It also helps replace the vitamin C lost during colds.<br>• The long term- to improve the body’s long term protection.<br><br>3. Immuneed original formula:<br>- One-a-day vitamin and mineral tablets with Amino acid.<br>- Immuneed provides vital minerals such as Zinc and Selenium which are co-factors in 300 of the body’s antioxidants enzymes. Superoxide dismutase (SOD), Catalase & Glutathione peroxidase (GShpx). These eliminate harmful chemicals., including free radicals & Peroxides.<br>- Effective Antioxidants for the Immune system, to help promote healthy immune resistance & long term cell protection: Vitamin D3, C, E, Selenium & Zinc, Betacarotene, Bioflavonoids, Minerals |
+| | |
+| **<ins>Pharmaceuticals</ins>**	| |
+| Ivermectin, human-grade, 3 mg, 12-20 nos.	| Find a Doctor who will prescribe this OTP early treatment medication online:<br>   - [US Directory][142]<br>   - [Global Directory][143] |
+| HCQ 200 mg tablets, 16 nos.	| Find a Doctor who will prescribe this OTP early treatment medication online:<br>   - [US Directory][142]<br>   - [Global Directory][143] |
+| | |
+| **<ins>Nutraceuticals</ins>**| |
+| Melatonin 5 mg | [Nature's Bounty][144]<br>- [10 Best Melatonin Gummies][145] |
+| Aspirin (ASA) 325 mg	| [Amazon BasicCare][146] |
+
+### Misc. health products
+
+| Medicines | Resources / Links |
+|----|----|
+| Milk kefir or grains for culturing	| |
+| Good raw, organic, native cow milk, if possible| |
+| Rock / black salt| |
+| MMS Solution (homemade)	| |
+| Lactase enzyme (for lactose intolerance)		| |
+| Chlorine dioxide effervescent tablets		| |
+| Japanese Natto or Nattomoto	| |
+| Nattokinase| |
+| Nutritional yeast| |
+| Nori / Purple laver (dried)	| |
 
 
 ## General precautions of supporting immunity and prophylaxing:
@@ -347,43 +422,54 @@ VII. <ins>Seventh Principle</ins>: **An important principle of design of this in
 [101]: https://www.baidyanath.co/product/godanti-bhasma/?utm_source=adyogi&utm_medium=google-ssc&utm_campaign=SIDD_5621_adyogi_SmartShopping_prospect_all+others
 [102]: https://www.baidyanath.co/product/triphala-churna/?utm_source=adyogi&utm_medium=google-ssc&utm_campaign=SIDD_5621_adyogi_SmartShopping_prospect_all+others
 [103]: https://theseersecret.com/products/seer-secrets-ayurvedic-breath-easy-potli
-[104]: 
-[105]: 
-[106]: 
-[107]: 
-[108]: 
-[109]: 
-[110]: 
-[111]: 
-[112]: 
-[113]: 
-[114]: 
-[115]: 
-[116]: 
-[117]: 
-[118]: 
-[119]: 
-[120]: 
-[121]: 
-[122]: 
-[123]: 
-[124]: 
-[125]:
-[126]: 
-[127]: 
-[128]: 
-[129]: 
-[130]: 
-[131]: 
-[132]: 
-[133]: 
-[134]: 
-[135]: 
-[136]: 
-[137]: 
-[138]: 
-[139]: 
-[140]:  
+[104]: https://www.assamicaagro.in/blogs/posts/how-to-buy-the-best-green-tea
+[105]: https://biswaroop.com/product/hunza-tea/
+[106]: https://www.ubuy.co.in/product/78PPBRSA-greenlike-chinese-herbal-formula-clearlungs-qingfei-paidu-tang-10g-15bag-10g-15bag
+[107]: https://www.ubuy.co.in/product/14MJIC7W0-qing-fei-pai-du-tang-veggie-capsules-100-ct
+[108]: https://www.ubuy.co.in/product/14MJIC7KE-qing-fei-pai-du-tang-basic-formula-granules-100-grams
+[109]: https://www.netmeds.com/non-prescriptions/kerala-naturals-licorice-root-powder-50-gm?source_attribution=ADW-CPC-Shoppingads&utm_source=ADW-CPC-Shoppingads&utm_medium=CPC&utm_campaign=ADW-CPC-Shoppingads&gclid=Cj0KCQjw-4SLBhCVARIsACrhWLXCbztPWFDsAKIjvKSksHVjHhwJ6FAhR7lbf-Nyr5ta9xCiU5C-akAaAlyYEALw_wcB
+[110]: https://www.1mg.com/otc/sache-wellness-combo-pack-of-organic-cinnamon-licorice-25-herbal-infusion-bags-green-tea-25-tea-bags-otc458649
+[111]: https://www.amazon.in/dp/B07GTLYVDP?cmp_id=14894538659&adg_id=128224983557&kwd=ginseng%20tea&device=c&gclid=CjwKCAjwn8SLBhAyEiwAHNTJbRKh9XZgUc8gJE53u6bfLRle-ASDIW7fkpS9NujW8gqMvehGE25ysRoCyO4QAvD_BwE
+[112]: https://in.iherb.com/c/ginseng?gclid=CjwKCAjwn8SLBhAyEiwAHNTJbZgvXE2jLJEkqULO_Ax8D11BF7yGTeXqCdKSjVq1rmmVRra3Vwx5QhoCCAQQAvD_BwE&gclsrc=aw.ds
+[113]: https://www.flipkart.com/indian-chai-organic-nettle-leaves-unflavoured-herbal-tea-box/p/itmfasffe3ngzzz6
+[114]: https://www.amazon.in/Valuelife-Dandelion-Leaf-Tea-100g/dp/B0983L3R7Z/ref=asc_df_B0983L3R7Z/?tag=googleshopdes-21&linkCode=df0&hvadid=396989226162&hvpos=&hvnetw=g&hvrand=11750346567177016068&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061971&hvtargid=pla-1415186383187&psc=1&ext_vrnc=hi
+[115]: https://www.amazon.in/Tea-Trove-Organic-Altitude-Himalayan/dp/B08P3TZBBZ
+[116]: https://www.optimanutrition.net/post/possible-antidote-for-the-v-serum-and-the-current-spike-protein-contagion
+[117]: https://www.indiamart.com/ecologin-rural/
+[118]: https://www.chennaigrocers.com/products/cg-dried-shitake-mushrooms-100g?variant=37205444395170&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_campaign=gs-2021-08-27&utm_source=google&utm_medium=smart_campaign&gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3fWzy_RWzfie2tew-3gYQ32x3IRnxqx9FtvmWVr-Xp60ezFBWfp5D4aArWMEALw_wcB
+[119]: https://urbanplatter.in/product/urban-platter-dried-shiitake-mushrooms-100g/?utm_source=google&utm_medium=cpc&utm_campaign=9722982378&utm_content=97781528045&utm_term=&gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3eXAmKUn1M_Nh57VMFXANCQXQNjft98AiJ7Zl9Et_RPU_RfSi3Vp5MaArbOEALw_wcB
+[120]: https://www.ayush.gov.in/docs/siddha-guidelines.pdf
+[121]: https://www.ishalife.com/in/nilavembu-kudineer-100gm
+[122]: https://www.amazon.in/KILLI-Kabasura-Kudineer-Chooranam-100g/dp/B087C27NXV
+[122a]: https://www.netmeds.com/non-prescriptions/ayush/siddha
+[123]: https://doclists.in/best-multivitamin-tablets/
+[124]: https://www.verywellfit.com/best-places-vitamins-4767552
+[125]: https://onedaymd.aestheticsadvisor.com/2021/04/zelenko-Z-STACK-vitamin-review.html
+[126]: https://www.flipkart.com/healthyhey-nutrition-selenium-capsules-40mcg-non-gmo-superior-absorption-60-vegetarian-capsules-60/p/itm3727c3ccd19af
+[127]: https://www.healthline.com/nutrition/best-selenium-supplement
+[128]: https://www.fastandup.in/product/charge-vitaminc-combo-of-12tubes-Buy6Get6Free#customerReviews
+[129]: https://pharmeasy.in/online-medicine-order/limcee-500mg-orange-flavour-chewable-tablets-15-s-176340?&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Rx0_SS_FP&utm_adgroup=&gclid=Cj0KCQiAieWOBhCYARIsANcOw0xZP_or98Ri5pYqZNs8jTBdUKqdGWB0k6zXJCN7sbbBVe8NWK9FV18aAklpEALw_wcB
+[130]: https://www.fastandup.in/blog/how-to-find-the-best-vitamin-c-supplement
+[131]: https://www.amazon.in/Himalayan-Organics-Vitamin-5000iu-supplement/dp/B07XPD9V2Q
+[132]: https://www.amazon.in/Zenith-Nutrition-Glutathione-Vitamin-C-Antioxidant/dp/B088HCZTQZ/?tag=akdoc-21
+[133]: https://www.amazon.in/Probiotics-Supplement-Lactobacillus-Acidophilus-Bifidobacterium/dp/B00I3TFPCI
+[134]: https://www.verywellfit.com/best-probiotics-4163636
+[135]: https://www.amazon.in/Zenith-Nutrition-Glutathione-Vitamin-C-Antioxidant/dp/B088HCZTQZ/?tag=akdoc-21
+[136]: https://doclists.in/best-glutathione-tablets-in-india/
+[137]: https://www.amazon.com/NOW-Supplements-Green-Extract-Capsules/dp/B001DNV5CA?dchild=1&keywords=EGCG&qid=1626044923&sr=8-5&linkCode=sl1&tag=df2021-20&linkId=76ec041392d4a272353096406916f093&language=en_US&ref_=as_li_ss_tl
+[138]: https://www.amazon.com/Zinc-Lozenges-Flavored-Support-Healthy/dp/B086XM3F1Q?dchild=1&keywords=zinc+lozenge&qid=1614437572&sr=8-1&linkCode=sl1&tag=df2021-20&linkId=2b42d66bc537aa47245ea7d2bec9e1a6&language=en_US&ref_=as_li_ss_tl
+[139]: https://www.amazon.com/dp/B08PTJ4TP4?&linkCode=sl1&tag=df2021-20&linkId=7f9ae6240c6ebdab6555a853afe68192&language=en_US&ref_=as_li_ss_tl
+[140]: https://www.aestheticsadvisor.com/2021/01/best-quercetin-supplement.html
+[141]: https://in.iherb.com/search?sug=quercetin%20500%20mg&kw=quercetin%20500%20mg&rank=1
+[142]: https://www.aestheticsadvisor.com/2021/02/find-doctor-prescribe-hydroxychloroquine-ivermectin.html
+[143]: https://www.aestheticsadvisor.com/2021/06/find-doctor-ivermectin-global.html
+[144]: https://www.amazon.com/Natures-Bounty-Spectrum-Bi-Layer-Melatonin/dp/B00H2FG8RK/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=N4B7RMEBCSDTRRQKT1HW&linkCode=sl1&tag=df2021-20&linkId=45700f0bbc7e5d6208f3959829dc3178&language=en_US
+[145]: https://www.onedaymd.com/2021/05/melatonin-gummies-adults.html
+[146]: https://www.amazon.com/Basic-Care-Aspirin-Regular-Strength/dp/B0779D4BTN?dchild=1&keywords=aspirin&qid=1626043932&sr=8-7&th=1&linkCode=sl1&tag=df2021-20&linkId=329c8b15ea4f29e9f8e325f9a9a49a3e&language=en_US&ref_=as_li_ss_tl
+[147]: https://www.amazon.com/dp/B08CBBHPTF/ref=sspa_dk_detail_0?smid=AO3BP91DN8YE0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWkdRV1hEUjJLNkRCJmVuY3J5cHRlZElkPUEwNTM3Mjk1Rk1WSVdaOUVLMkNGJmVuY3J5cHRlZEFkSWQ9QTA4NjA3MDYxSzBBMUo2UUNaSEQ5JndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1
+[148]: https://www.amazon.com/Quercetin-Zinc-Picolinate-Vitamin-Supplement/dp/B08FHGLYX8/ref=sr_1_1_sspa?crid=3JUFNC38LDNT2&keywords=zenrenu+immunity&qid=1641715711&sprefix=zenrenu+%2Caps%2C476&sr=8-1-spons&psc=1&smid=A2USHT6VUW6MYT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyREdBNVROU1NPTDdTJmVuY3J5cHRlZElkPUEwNjA2NTkzMjBQOEpDVkZRTlVINSZlbmNyeXB0ZWRBZElkPUEwMDk2MDAwMjNFNlRNWTIySzBCMyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+[149]: https://healthvit.com/products/west-coast-immuneed-original-30-tablets
+[150]: 
 [163]: 
 [164]: 
 [165]: 
