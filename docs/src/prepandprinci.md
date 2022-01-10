@@ -175,12 +175,12 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
     - [Associations between coffee consumption and inflammatory markers in healthy persons: the ATTICA study; Antonis Zampelas et al.; American Journal of Clinical Nutrition; Oct, 2004][8]
     - [Caffeine as a Factor Influencing the Functioning of the Human Body-Friend or Foe?; Kamil Rodak et al.; Nutrients; Sept, 2021][9]
 
-  Instead, substitute with organic green tea (especially as prophylactic), or other herbal immune-supportive decoctions recommended by traditional and holistic medicine, if there is a need to take tea breaks. The first section on this sheet, **Medicines, Herbs & Equipment to be stocked**, contains links to online stores to purchase many of these products.
-      - A curated list of highly recommended medicinal teas from around the world to support immunity and improve respiratory health
-      - [Hunza tea][10], promoted by Dr. Biswaroop Roy Chowdhury 
-      - Ayush Kwath Churna
-      - [Organic green tea][11]
-      - Qing Fei Pai du Tang (QFPD) tea
+    Instead, substitute with organic green tea (especially as prophylactic), or other herbal immune-supportive decoctions recommended by traditional and holistic medicine, if there is a need to take tea breaks. The first section on this sheet, **Medicines, Herbs & Equipment to be stocked**, contains links to online stores to purchase many of these products.
+    - A curated list of highly recommended medicinal teas from around the world to support immunity and improve respiratory health
+    - [Hunza tea][10], promoted by Dr. Biswaroop Roy Chowdhury 
+    - Ayush Kwath Churna
+    - [Organic green tea][11]
+    - Qing Fei Pai du Tang (QFPD) tea
 
 6. It is preferable to use  warm water boiled with Jeera or cumin seeds / Tulasi or holy basil / corriander seeds / ginger root (fresh / dried and powdered) for drinking.
     - [The Role of Spices with reference Novel Coronavirus Covid 19; R. S. Bhutada and K. Umate][12]
@@ -244,44 +244,34 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
     - [healthyeating.sfgate.com: Can You Get Vitamin D Through a Light Shirt?; Marie Dannie; Dec 17, 2018][44]
     - [Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][45]
     - [Role of Magnesium in Vitamin D Activation and Function; Uwitonze and Razzaque; The Journal of the American Osteopathic Association; Mar 1, 2018;][46]
-[Calcium, vitamin D, vitamin K2, and magnesium supplementation and skeletal health; Anna Capozzi et al.; Maturitas; Oct, 2020][47]
-[healthline.com: Is Vitamin D Harmful Without Vitamin K?; Atli Arnarson, BSc, PhD; Mar 4, 2017][48]
-[dailymint.co: Here’s How to Get Vitamin K2 on a Vegan Diet; Lauren Armstrong, BSc Dietetics, Regd. Dietitian; Aug 31, 2020][49]
+    - [Calcium, vitamin D, vitamin K2, and magnesium supplementation and skeletal health; Anna Capozzi et al.; Maturitas; Oct, 2020][47]
+    - [healthline.com: Is Vitamin D Harmful Without Vitamin K?; Atli Arnarson, BSc, PhD; Mar 4, 2017][48]
+    - [dailymint.co: Here’s How to Get Vitamin K2 on a Vegan Diet; Lauren Armstrong, BSc Dietetics, Regd. Dietitian; Aug 31, 2020][49]
 
 17. **It is also important to maintain healthy levels of other nutrients like vitamin B12, Magnesium etc. through diet, or if necessary, supplementation.** Comprehensive blood tests, like Thyrocare's competitively priced Aarogyam 1.3 package where the additional service of sample collection at home is offered, would help to assess nutritional deficiencies and any latent comorbities to be compensated during the prophylactic regimen. Here's more about prophylactic supplementation against the novel coronavirus. 
 
 18. There is ample scientific evidence that body posture plays a significant role in lung function and health. Yoga Aasanas and Pranayama are extremely beneficial to respiratory health, and should be performed daily or several times a week with regularity. An erect sitting posture with the head and spine erect has been demonstrated to improve lung performance by about 10 percent, compared to slouched positions, and this is an important guideline to improve respiratory function in sedentary people and workers.
-[Effect of Upright and Slouched Sitting Postures on the Respiratory Muscle Strength in Healthy Young Males; Ali Albarrati et al.; BioMed Research International; 2018][50]
-[Effect of Different Head-Neck Postures on the Respiratory Function in Healthy Males; Humayun Zafar et al.; BioMed Research International; 2018][51]
-[The effect of body position on pulmonary function: a systematic review; Shikma Katz et al.; BMC Pulmonary Medicine; Oct 11, 2018][52]
+    - [Effect of Upright and Slouched Sitting Postures on the Respiratory Muscle Strength in Healthy Young Males; Ali Albarrati et al.; BioMed Research International; 2018][50]
+    - [Effect of Different Head-Neck Postures on the Respiratory Function in Healthy Males; Humayun Zafar et al.; BioMed Research International; 2018][51]
+    - [The effect of body position on pulmonary function: a systematic review; Shikma Katz et al.; BMC Pulmonary Medicine; Oct 11, 2018][52]
 
 19. Proactively identify and, if convenient, connect with physicians in one's locality who can provide one of the most effective, proven Covid-19 early treatment protocols available. If there is a safe and efficacious protocol you know of that has not been covered in this document, please do write and tell us about it.
 
-20. Investigate for ourselves the truth behind the Covid-19 pandemic, as well as the financial hierarchy of control that governs our Corporations, including the Media and the Pharmaceutical industry, scientific research and regional and international political institutions all around the world, and base our cconvictions on sound analyses from observation.
-[With Drs. Vladimir Zelenko and Richard Bartlett:][53] Two (of many) highly effective Covid-19 early treatment protocols that reduce CFR among high-risk patients to negligible percentages; Discussion of the authorities' and mainstream medical community's inexplicably hostile response to the revelation and publication of these highly effective protocols, and an analysis of the obvious conclusions, which remain as true today; July 30, 2020
+20. Investigate for ourselves the truth behind the Covid-19 pandemic, as well as the financial hierarchy of control that governs our Corporations, including the Media and the Pharmaceutical industry, scientific research and regional and international political institutions all around the world, and base our cconvictions on sound analyses from observation. 
+    - [With Drs. Vladimir Zelenko and Richard Bartlett:][53] Two (of many) highly effective Covid-19 early treatment protocols that reduce CFR among high-risk patients to negligible percentages; Discussion of the authorities' and mainstream medical community's inexplicably hostile response to the revelation and publication of these highly effective protocols, and an analysis of the obvious conclusions, which remain as true today; July 30, 2020
 
 21. **Above all, respect our own paramount right to determine what is introduced invasively into our bodies, and what therapy we and our children can be subjected to, and be willing to go to great lengths to defend that right for all of humanity.**
 
-[stateofthenation.co: Latest CDC VAERS Data Show Reported Injuries Surpass 400,000 Following COVID Vaccines, Fraction of Actual Injuries; July 2, 2021][54]
-
-A webpage that is a veritable Rosetta Stone of information about effective and evidence-based allopathic treatment protocols for Covid-19, and other vital and suthentic information from the scientific community about the Covid pandemic: [The Zelenko Protocol][55]
-
-[Efficacy and harms of remdesivir for the treatment of COVID-19: A systematic review and meta-analysis; Alejandro Piscoya et al.; PLOS One; Dec 10, 2020][56]
-
-[Winning the War Against Therapeutic Nihilism and the Rush to Replace Trusted Treatments with Untested Novel Therapies;][57]
-By Peter A. McCullough, MD, MPH, FACC, FAHA, FASN, FNKF, FNLA, FCRSA; Chief Medical Advisor, Truth for Health Foundation, President, Cardiorenal Society of America, Editor-in-Chief, Reviews in Cardiovascular Medicine, Senior Associate Editor, American Journal of Cardiology;
-Tagline: [https://americaoutloud.com/the-mccullough-report/](https://americaoutloud.com/the-mccullough-report/ )
-
-[Human Events- News & Analysis: Here's Why Americans Need to Be More Skeptical About COVID-19 Information; Brent Hamachek; March 31, 2021][58]
-
-[Rights and Freedoms: Is COVID-19 a Bioweapon?; Analysis by Dr. Joseph Mercola, Fact-checked; Sept 12, 2021][59]
-
-[Ivermectin Could Have Saved ‘Millions’ of Lives — But Doctors Were Told Not to Use It][60]
-
-[Dr. Richard Fleming on the Effects of the Covid-19 Vaccines on the Body][61]
-
-[IppocrateOrg: Excerpt from the Interview with Dr. Robert Malone about mRNA Vaccines][62]								
-
+    - [stateofthenation.co: Latest CDC VAERS Data Show Reported Injuries Surpass 400,000 Following COVID Vaccines, Fraction of Actual Injuries; July 2, 2021][54]
+    - A webpage that is a veritable Rosetta Stone of information about effective and evidence-based allopathic treatment protocols for Covid-19, and other vital and suthentic information from the scientific community about the Covid pandemic: [The Zelenko Protocol][55]
+    - [Efficacy and harms of remdesivir for the treatment of COVID-19: A systematic review and meta-analysis; Alejandro Piscoya et al.; PLOS One; Dec 10, 2020][56]
+    - [Winning the War Against Therapeutic Nihilism and the Rush to Replace Trusted Treatments with Untested Novel Therapies;][57]
+    - [The McCullough Report:](https://americaoutloud.com/the-mccullough-report/ ) By Peter A. McCullough, MD, MPH, FACC, FAHA, FASN, FNKF, FNLA, FCRSA; Chief Medical Advisor, Truth for Health Foundation, President, Cardiorenal Society of America, Editor-in-Chief, Reviews in Cardiovascular Medicine, Senior Associate Editor, American Journal of Cardiology
+    - [Human Events- News & Analysis: Here's Why Americans Need to Be More Skeptical About COVID-19 Information; Brent Hamachek; March 31, 2021][58]
+    - [Rights and Freedoms: Is COVID-19 a Bioweapon?; Analysis by Dr. Joseph Mercola, Fact-checked; Sept 12, 2021][59]
+    - [Ivermectin Could Have Saved ‘Millions’ of Lives — But Doctors Were Told Not to Use It][60]
+    - [Dr. Richard Fleming on the Effects of the Covid-19 Vaccines on the Body][61]
+    - [IppocrateOrg: Excerpt from the Interview with Dr. Robert Malone about mRNA Vaccines][62]								
 
 
 ## Notes on the present approach to creating an integrative protocol for prophylaxis and early treatment at home:
