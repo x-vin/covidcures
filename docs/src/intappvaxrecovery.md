@@ -1,6 +1,6 @@
 # An Integrated Approach to Vaccine Recovery
 
-## Notes on Diet: 
+## Notes on Diet
  
 ### Millets:
 Millets are found to be less inflammatory than other staple grains and to support immune health better, especially in the context of a Covid-19 prophylactic diet. **Dr. Khadar Vali recommends the consumption of one of the following 5 "Positive Millets" at least once a day while prophylaxing:**
@@ -41,7 +41,7 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
    - [Calcium, vitamin D, vitamin K2, and magnesium supplementation and skeletal health; Anna Capozzi et al.; Maturitas; Oct, 2020][19]
    - [Role of Magnesium in Vitamin D Activation and Function; Anne Marie Uwitonze & Mohammed S Raazzaque; The Journal of the American Osteopathic Association; Mar 1, 2018][20]
 
-## Notes on the Recommendations to Mitigate Long-Term Effects of Covid-19 mRNA and DNA Vaccines: 
+## Notes on the Recommendations to Mitigate Long-Term Effects of Covid-19 mRNA and DNA Vaccines
 
 There have been a plethora of reports, largely broadcast via the Fifth Estate of the informal social communications platforms, about the inacceptably high short term and longer term adverse effects of the novel Covid-19 vaccines. Here are two interviews that might throw light on the true, unimaginable scope and severity of the problem. The interviewee is a prominent researcher Dr. Jessica Rose, whose phenomenal findings from the Vaccine Adverse Events Reporting Site (VAERS) data were actively suppressed in the public domain:
    - [Gal Shalev Interview with Dr. Jessica Rose- Part 1/2][21]
@@ -60,7 +60,7 @@ Of possible longer term severe adverse events, the greatest correlation appears 
 
 6. The recommendations in all 3 columns below may be followed for a best outcome.													
 
-## Diet:
+## Diet
 
 |DIP: A vegetarian immune-supportive diet|+ Best simple preventative lifestyle|+ Additional post-exposure prophylaxis|
 |:--------|:-------|:-------|
@@ -95,7 +95,7 @@ Of possible longer term severe adverse events, the greatest correlation appears 
 
 
 
-## CTYY
+
 
 [1]: https://www.researchgate.net/publication/343430286_Millet_Derived_Flavonoids_as_Potential_SARS-CoV-2_Main_Protease_Inhibitors_A_Computational_Approach
 [2]: https://wellnessmunch.com/how-to-enjoy-millet-benefits-without-any-side-effects/
@@ -167,140 +167,7 @@ Of possible longer term severe adverse events, the greatest correlation appears 
 [68]: https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep
 [69]: https://www.healthline.com/health/breathing-exercises-for-sleep#guidelines
 [70]: https://link.springer.com/article/10.1007/s41782-019-00072-6
-[71]: 
-[72]:
-[73]: 
-[74]: 
-[75]: 
-[76]: 
-[77]: 
-[78]: 
-[79]: 
-[80]:  
-[81]: 
-[82]: 
-[83]: 
-[84]: 
-[85]: 
-[86]: 
-[87]: 
-[88]: 
-[89]: 
-[90]: 
-[91]: 
-[92]: 
-[93]
-[94]
-[95]: 
-[96]: 
-[97]: 
-[98]: 
-[99]: 
-[100]:
-
-[101]: 
-[102]: 
-[106]: 
-[107]: 
-[108]: 
-[109]: 
-[110]: 
-[111]: 
-[112]: 
-[113]: 
-[114]: 
-[115]: 
-[116]: 
-[117]: 
-[118]: 
-[119]: 
-[120]: 
-[121]: 
-[122]: 
-[123]: 
-[124]: 
-[125]:
-[126]: 
-[127]: 
-[128]: 
-[129]: 
-[130]: 
-[131]: 
-[132]: 
-[133]: 
-[134]: 
-[135]: 
-[136]: 
-[137]: 
-[138]: 
-[139]: 
-[140]:  
-[163]: 
-[164]: 
-[165]: 
-[166]: 
-[167]: 
-[168]: 
-[169]: 
-[170]: 
-[171]: 
-[172]: 
-[173]: 
-[174]: 
-[175]: 
-[176]: 
-[177]: 
-[178]: 
-[179]: 
-[180]: 
-[181]: 
-[182]: 
-[183]: 
-[184]: 
-[185]: 
-[186]: 
-[187]: 
-[188]: 
-[189]: 
-[190]: 
-[191]: 
-[192]: 
-[193]: 
-[194]: 
-[195]: 
-[196]: 
-[197]: 
-[198]: 
-[199]: 
-[200]: 
-[206]: 
-[207]: 
-[208]: 
-[209]: 
-[210]: 
-[211]: 
-[212]: 
-[213]: 
-[214]: 
-[215]: 
-[216]: 
-[217]: 
-[218]: 
-[219]: 
-[220]: 
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
+												
 													
 													
 													
