@@ -52,28 +52,26 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 
 4. The following informative website might help to assist the allopathic early treatment protocol adopted, if required. These sites list the most effective pharmaceutical interventions, as well as their rates of efficacy, derived by two different approaches. In the first case, a real-time analysis of a very large number of clinical trials of many popular treatment methods was reviewed. The great majority of these trials were Randomized Controlled Trials. In the second case, the Fleming Method, a patented systematic method of evaluating treatment outcomes was adopted in a sizeable collection of clinical trials across the world, where the method adopted in the trial permitted the physician complete freedom to apply his treatment of choice, using the Fleming Method to assess the differential negative or positive effect of the treatment.
 
-  4.1. [COVID-19 early treatment][21]: real-time analysis of 1,081 studies
+   4.1. [COVID-19 early treatment][21]: real-time analysis of 1,081 studies.
 
-  From these reviews, it would seem that the most effective allopathic interventions include the following therapies:
-    - Androgen-suppressor Proxalutamide ([efficacy of 84 % in 10 early treatment and late treatment Randomized Controlled Trials][22], including a trial with patients on ventilators)
-    - [Nutraceutical Iota Carrageenan][23], active ingredient in [Betadine Nasal Spray][24] (extract from red seaweed) (effective against a variety of respiratory viruses, [80 % efficacy demonstrated][25] by [1 study][26] in preventing
-      asymptomatic early infection from progressing to the symptomatic phase)
-    - Nutraceutical Quercetin (nutrient abundant in several herbs, including green tea) ([high efficacy of about 80 % demonstrated in 12 early treatment studies][27])
-    - Plant-based integrative medicine, whole seed Nigella sativa / Black cumin ([efficacy of 67 % in about 12 clinical trials, including 11 RCTs][28])
-    - Nutraceutical Curcumin (extract from turmeric) ([efficacy of about 60 % in 24 early and late treatment clinical trials, including 21 RCTs][29])
-    - Melatonin ([efficacy of about 64 % demonstrated in 17 clinical trials, including 10 RCTs][30])
-    - Monoclonal Antibodies Casirivimab / Imdevimab ([efficacy ranging from 38 % to 98 % in 4 clinical trials][31])
-    - Povidone-Iodine, the active ingredient in Iodine Nasal Spray ([efficacy of 63 % in 19 clinical trials, including 2 RCTs][32])
+   From these reviews, it would seem that the most effective allopathic interventions include the following therapies:
+   - Androgen-suppressor Proxalutamide ([efficacy of 84 % in 10 early treatment and late treatment Randomized Controlled Trials][22], including a trial with patients on ventilators)
+   - [Nutraceutical Iota Carrageenan][23], active ingredient in [Betadine Nasal Spray][24] (extract from red seaweed) (effective against a variety of respiratory viruses, [80 % efficacy demonstrated][25] by [1 study][26] in preventing asymptomatic early infection from progressing to the symptomatic phase)
+   - Nutraceutical Quercetin (nutrient abundant in several herbs, including green tea) ([high efficacy of about 80 % demonstrated in 12 early treatment studies][27])
+   - Plant-based integrative medicine, whole seed Nigella sativa / Black cumin ([efficacy of 67 % in about 12 clinical trials, including 11 RCTs][28])
+   - Nutraceutical Curcumin (extract from turmeric) ([efficacy of about 60 % in 24 early and late treatment clinical trials, including 21 RCTs][29])
+   - Melatonin ([efficacy of about 64 % demonstrated in 17 clinical trials, including 10 RCTs][30])
+   - Monoclonal Antibodies Casirivimab / Imdevimab ([efficacy ranging from 38 % to 98 % in 4 clinical trials][31])
+   - Povidone-Iodine, the active ingredient in Iodine Nasal Spray ([efficacy of 63 % in 19 clinical trials, including 2 RCTs][32])
 
-  The FLCCC protocols, including I-MASK+ protocol recommended for early outpatient treatment, and I-MATH+ protocol recommended for advanced Covid care in hospital settings, recruit all these recommended medications, among others.
+   The FLCCC protocols, including I-MASK+ protocol recommended for early outpatient treatment, and I-MATH+ protocol recommended for advanced Covid care in hospital settings, recruit all these recommended medications, among others.
 
-  4.2. [Protocol Evolved By The Fleming Method][33]: Treatment Considerations Based Upon the Best Available Evidence | Research Results
+   4.2. [Protocol Evolved By The Fleming Method][33]: Treatment Considerations Based Upon the Best Available Evidence | Research Results
 
 5. With most (or all) of the allopathic treatment modalities, except perhaps the Zelenko early treatment protocol, it would be necessary to connect with a trained physician who can guide through the protocol and prescribe the necessary treatments. Helpful Information Related to Procuring Ivermectin and HCQ in the USA and other countries:
-
-  - (USA, Sept 24, 2021) [Find a doctor][34] who will prescribe Ivermectin, Hydroxychloroquine and early outpatient treatments for Covid-19
-  - (USA, Sept 28, 2021) [How to Get Ivermectin in the US][35]: Pharmacies
-  - (In various countries, Sept 6, 2021) [Find a doctor][36] who will prescribe Ivermectin, Hydroxychloroquine and early outpatient treatments for Covid-19				
+   - (USA, Sept 24, 2021) [Find a doctor][34] who will prescribe Ivermectin, Hydroxychloroquine and early outpatient treatments for Covid-19
+   - (USA, Sept 28, 2021) [How to Get Ivermectin in the US][35]: Pharmacies
+   - (In various countries, Sept 6, 2021) [Find a doctor][36] who will prescribe Ivermectin, Hydroxychloroquine and early outpatient treatments for Covid-19				
 													
 													
 ## TABLES		
