@@ -7,20 +7,20 @@ Millets are found to be less inflammatory than other staple grains and to suppor
 **Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu)**
 
 Millet man Dr. Khadar Vali's recommended millet-based dietary regimen for health and prophylaxis:<br>
-    - [Millet Derived Flavonoids as Potential SARS-CoV-2 Main Protease Inhibitors: A Computational Approach; Abhisek Mishra et al.; ChemRxiv; August, 2020][1]
+   - [Millet Derived Flavonoids as Potential SARS-CoV-2 Main Protease Inhibitors: A Computational Approach; Abhisek Mishra et al.; ChemRxiv; August, 2020][1]
 
 However, it may be good not to consume millets in excess as well (i.e., everyday in large quantities, especially when improperly cooked, as explained below) as they can cause stomach ache, bloating and constipation due to their high fibre content, and are also found to contain goitrogenic flavonoids that block iodine absorption and are linked to goitre. Millets, and especially pearl millet, also contain high amounts of oxalates that are unsuitable for those with kidney disease and can precipitate kidney stones. They also contain certain enzyme inhibitors and phytic acid, which are called anti-nutrients because they inhibit nutrient absorption unless proper cooking methods are practised. In addition, millets contain protease (trypsin / chymotrypsin) inhibitors, which inhibit enzymatic action to break down proteins and thereby reduce their absorption, as well as cause toxicity in the intestines, potentially leading to leaky gut. Darker millets are reported to contain more antinutrients.
 
 **Semi-refined millet flour contains less of the antinutrient phytates and oxalates (as the bran contains a higher distribution of these antinutrients) and more bioavailability of iron and calcium, while retaining much of the nutrients. The protease inhibitors can be reduced greatly through soaking and sprouting millets for 5 days prior to consumption, and cooking them with steam or water, rather than dry heating. Another important method to reduce antinutrients in food is fermentation. However, protease inhibitors are also used as antiviral medication as they help block viral replication, and may be helpful as prophylactic if consumed in moderation.**
-    - [Wellness Munch: How to enjoy millet benefits without any side effects; Sept, 2019][2]<br>
-    - [Nutrients, antinutrients & bioaccessible mineral content (invitro) of pearl millet as influenced by milling; Suma and Urooj; Journal of Food Science and Technology; Oct, 2011][3]
-    - [Antinutritional factors in pearl millet grains: Phytate and goitrogens content variability and molecular characterization of genes involved in their pathways; Boncompagni et al.; PLoS One, June, 2018][4]
-    - [Trypsin/chymotrypsin inhibitors from millets; T N Pattabiraman; Advances in experimental medicine andd biology; 1986][5]
-    - [Effects of heat treatment and germination on trypsin and chymotrypsin inhibitory activities in sorghum (Sorghum bicolor (L.) Moench) seeds; Mulimani and Vadiraj; Plant foods for human nutrition (Dordrecht, Netherlands);1996][6]
-    - [draxe.com: Protease: The Enzyme that Makes Protein & Amino Acids Tick; Sept, 2018][7]
-    - [draxe.com: 10 Antinutrients to Get Out of Your Diet … and Life; Feb, 2018][8]
-    - [Nutrient and Antinutrient Changes in Finger Millet (Eleusine coracan) During Sprouting; S. Mbithi-Mwikya et al.; LWT - Food Science and Technology; Feb, 2000][9]
-    - [healthymaster.in][10]
+   - [Wellness Munch: How to enjoy millet benefits without any side effects; Sept, 2019][2]<br>
+   - [Nutrients, antinutrients & bioaccessible mineral content (invitro) of pearl millet as influenced by milling; Suma and Urooj; Journal of Food Science and Technology; Oct, 2011][3]
+   - [Antinutritional factors in pearl millet grains: Phytate and goitrogens content variability and molecular characterization of genes involved in their pathways; Boncompagni et al.; PLoS One, June, 2018][4]
+   - [Trypsin/chymotrypsin inhibitors from millets; T N Pattabiraman; Advances in experimental medicine andd biology; 1986][5]
+   - [Effects of heat treatment and germination on trypsin and chymotrypsin inhibitory activities in sorghum (Sorghum bicolor (L.) Moench) seeds; Mulimani and Vadiraj; Plant foods for human nutrition (Dordrecht, Netherlands);1996][6]
+   - [draxe.com: Protease: The Enzyme that Makes Protein & Amino Acids Tick; Sept, 2018][7]
+   - [draxe.com: 10 Antinutrients to Get Out of Your Diet … and Life; Feb, 2018][8]
+   - [Nutrient and Antinutrient Changes in Finger Millet (Eleusine coracan) During Sprouting; S. Mbithi-Mwikya et al.; LWT - Food Science and Technology; Feb, 2000][9]
+   - [healthymaster.in][10]
 
 ### Recipe for Ambali (sprouted, fermented millet porridge):
 
