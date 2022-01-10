@@ -158,78 +158,76 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
     - [Role of Intermittent Fasting on Improving Health and Reducing Diseases; Salah Mesalhy Aly; International Journal of Health Sciences; July, 2014][1]
 
 2. Try to strictly follow a largely vegetarian and naturopathic diet, by minimizing the consumption of dairy, meat, fish and other animal products. Pure, organic ghee from native cows is an exception as it is healthy and a recommended source of fat in Ayurveda. In fact, it is preferred to use such ghee for cooking. Another healthy exception is organic, if possible, raw milk kefir from a trusted source of raw milk. Eggs too, though cited as an excellent source of many essential amino acids, should be consumed in moderation and it is best to source from an organic farm. It is also advisable to minimize the consumption of plant oils. Hemp seed oil and flax seed oil, however, can be consumed in small doses as medicine for their high nutritional value as they are considered good sources of Omega-3 fatty acids.
-[Assorted slide presentations on slideshare.net that offer an overview of the nature cure lifestyle, pioneered by Acharya Lakshmana Sharma in India, and the naturopathic approach to healing disease][2]
-Dr. Biswaroop Roy Chowdhury's scientifically proven anti-inflammatory diet, called the Disciplined Intelligent Protocol (DIP) 
-[healthline.com: 9 Evidence-Based Health Benefits of Kefir; Joe Leech; Sept 24, 2018][3]
-
-The complete set of instructional videos of Nature Cure by Acharya Arun Sharma, grandson of pioneering physician Acharya Lakshmana Sharma are now available online for purchase:
-[RECORDINGS - NATURAL HYGIENE SERIES by DR. ARUN SHARMA][4]
+    - [Assorted slide presentations on slideshare.net that offer an overview of the nature cure lifestyle, pioneered by Acharya Lakshmana Sharma in India, and the naturopathic approach to healing disease][2]
+    - Dr. Biswaroop Roy Chowdhury's scientifically proven anti-inflammatory diet, called the Disciplined Intelligent Protocol (DIP) 
+    - [healthline.com: 9 Evidence-Based Health Benefits of Kefir; Joe Leech; Sept 24, 2018][3]
+    - The complete set of instructional videos of Nature Cure by Acharya Arun Sharma, grandson of pioneering physician Acharya Lakshmana Sharma are now available online for purchase: [RECORDINGS - NATURAL HYGIENE SERIES by DR. ARUN SHARMA][4]
 
 3. Strictly consume an anti-inflammatory and alkalizing (or alkaline) diet by abstaining from processed or manufactured food products completely or as much as possible, and choosing instead **organic whole grains** and whole grain flours. Abstain from refined food products like white sugar, refined / iodized salt, and all artificial chemical food additives like preservatives, flavours and taste or texture enhancing ingredients like emulsifiers and leavening / raising agents. Use Himalayan rock salt / black salt / Induppu / Sendha Namak / Saindhava Lavana for cooking. Use ghee instead of plant oils for cooking, but in moderation. The linkage of alkalizing diet to overall health and inflammation is not yet well established in the scientific literature, and is frequently dismissed in conventional medical literature. However this is the theory that is cited as being the foundation of natural medicine, and the basis of the highly effective naturopathic therapies for all inflammatory conditions, including cancer.
-[A Complete Handbook of Nature Cure; Shri H. K. Bakhru][5]
-The naturopathic recommendations of Dr. Eapen Koshy, a prominent physician in Nigeria who had gained fame through helping his country's government to minimize Covid-19 deaths in the first wave of SARS-CoV-2
-[The Alkaline Diet: Is There Evidence That an Alkaline pH Diet Benefits Health?; Gerry K. Schwalfenberg; Journal of Environment and Public Health; 2012][6]
+    - [A Complete Handbook of Nature Cure; Shri H. K. Bakhru][5]
+    - The naturopathic recommendations of Dr. Eapen Koshy, a prominent physician in Nigeria who had gained fame through helping his country's government to minimize Covid-19 deaths in the first wave of SARS-CoV-2
+    - [The Alkaline Diet: Is There Evidence That an Alkaline pH Diet Benefits Health?; Gerry K. Schwalfenberg; Journal of Environment and Public Health; 2012][6]
 
 4. It is recommended in naturopathy to use enema and nasal washes to cleanse the system periodically, and when the need is felt, such as when there is a tendency to constipation. As with the theory of alkaline diet and blood pH being a sufficient marker of good health and potential for any disease, there is not much scientific evidence for the utility of enemas and nasal washes, but a great of apparent empirical evidence from the hundreds of thousands of drug-free cures effected in naturopathic treatment centres over the last few decades.
-[A Complete Handbook of Nature Cure; Shri H. K. Bakhru][7]
+    - [A Complete Handbook of Nature Cure; Shri H. K. Bakhru][7]
 
 5. Minimize the consumption of tea / coffee or completely abstain from these, as these beverages have sometimes been associated with significant increase of inflammatory markers, even though science has thus far been somewhat equivocal about their benefits.
-[Associations between coffee consumption and inflammatory markers in healthy persons: the ATTICA study; Antonis Zampelas et al.; American Journal of Clinical Nutrition; Oct, 2004][8]
-[Caffeine as a Factor Influencing the Functioning of the Human Body-Friend or Foe?; Kamil Rodak et al.; Nutrients; Sept, 2021][9]
+    - [Associations between coffee consumption and inflammatory markers in healthy persons: the ATTICA study; Antonis Zampelas et al.; American Journal of Clinical Nutrition; Oct, 2004][8]
+    - [Caffeine as a Factor Influencing the Functioning of the Human Body-Friend or Foe?; Kamil Rodak et al.; Nutrients; Sept, 2021][9]
 
-Instead, substitute with organic green tea (especially as prophylactic), or other herbal immune-supportive decoctions recommended by traditional and holistic medicine, if there is a need to take tea breaks. The first section on this sheet, **Medicines, Herbs & Equipment to be stocked**, contains links to online stores to purchase many of these products.
-- A curated list of highly recommended medicinal teas from around the world to support immunity and improve respiratory health
-- [Hunza tea][10], promoted by Dr. Biswaroop Roy Chowdhury 
-- Ayush Kwath Churna
-- [Organic green tea][11]
-- Qing Fei Pai du Tang (QFPD) tea
+  Instead, substitute with organic green tea (especially as prophylactic), or other herbal immune-supportive decoctions recommended by traditional and holistic medicine, if there is a need to take tea breaks. The first section on this sheet, **Medicines, Herbs & Equipment to be stocked**, contains links to online stores to purchase many of these products.
+      - A curated list of highly recommended medicinal teas from around the world to support immunity and improve respiratory health
+      - [Hunza tea][10], promoted by Dr. Biswaroop Roy Chowdhury 
+      - Ayush Kwath Churna
+      - [Organic green tea][11]
+      - Qing Fei Pai du Tang (QFPD) tea
 
 6. It is preferable to use  warm water boiled with Jeera or cumin seeds / Tulasi or holy basil / corriander seeds / ginger root (fresh / dried and powdered) for drinking.
-[The Role of Spices with reference Novel Coronavirus Covid 19; R. S. Bhutada and K. Umate][12]
+    - [The Role of Spices with reference Novel Coronavirus Covid 19; R. S. Bhutada and K. Umate][12]
 
 7. Avoid deep fried, broiled, grilled, baked foods in favour of cooking methods- like steaming- that retain the nutritive value of food as much as possible. Boiling depletes the nutritive value of food, and especially of the water-soluble vitamins like immune-supportive vitamin C, significantly more than steaming, as the latter method uses very little water. **If boiling is the cooking method used, then it is still possible to retain most nutrients (that are not degraded by the heat) by not discarding any of the water used in boiling. Omega-3 fatty acids are oily nutrients that are, understandably, better retained in boiling than in deep frying. The cooking method that retains the most nutrients, and especially immune-supportive vitamin C, is steaming.**
 
-Another variable that affects nutrient loss is cooking time. Cooking methods like broiling, grilling, roasting and baking cause greater depletion of many nutrients than steaming, due to the longer cooking times. Stir-frying and sauteeing are good cooking methods too, if cooking times are short. However, a few foods like onions, peas and beans are found to be more nutritive (in availability of flavonols) when cooked. Peas and beans can best be cooked by soaking in saline water and being boiled in fresh water, as this is found to decrease their cooking time.
-
-[Effect of different cooking methods on the content of vitamins and true retention in selected vegetables; Seongeung Lee et al.; Food Science and Biotechnology; April, 2018][13]
-[WebMD: How Bad for You are Fried Foods?][14]
-[Harvard Health Publishing (Harvard Medical School)- Fried foods linked to earlier death][15]
-[Ecowatch (Healthline): How Cooking Affects the Nutrient Content of Foods][16]
-[A review of the impact of preparation and cooking on the nutritional quality of vegetables and legumes; Fabbri and Crosby; International Journal of Gastronomy and Food Science; April, 2016][17]
+  Another variable that affects nutrient loss is cooking time. Cooking methods like broiling, grilling, roasting and baking cause greater depletion of many nutrients than steaming, due to the longer cooking times. Stir-frying and sauteeing are good cooking methods too, if cooking times are short. However, a few foods like onions, peas and beans are found to be more nutritive (in availability of flavonols) when cooked. Peas and beans can best be cooked by soaking in saline water and being boiled in fresh water, as this is found to decrease their cooking time.
+    - [Effect of different cooking methods on the content of vitamins and true retention in selected vegetables; Seongeung Lee et al.; Food Science and Biotechnology; April, 2018][13]
+    - [WebMD: How Bad for You are Fried Foods?][14]
+    - [Harvard Health Publishing (Harvard Medical School)- Fried foods linked to earlier death][15]
+    - [Ecowatch (Healthline): How Cooking Affects the Nutrient Content of Foods][16]
+    - [A review of the impact of preparation and cooking on the nutritional quality of vegetables and legumes; Fabbri and Crosby; International Journal of Gastronomy and Food Science; April, 2016][17]
 
 8. Use traditional mud or brass or stone vessels for cooking, and minimize the use of aluminium and Teflon-coated vessels. Mud pots are healthful, but with the caveat that if they were not sourced from a certified and approved manufacturer (and even then, not always reliable), they may contain toxic levels of heavy metals like lead, cadmium and arsenic that are now commonly found in the soil in many places. Heavy metals constitute an ill-defined group of inorganic chemical hazards, and those most commonly found at contaminated sites are lead (Pb), chromium (Cr), arsenic (As), zinc (Zn), cadmium (Cd), copper (Cu), mercury (Hg), and nickel (Ni). These toxic metals would leach into the food. Pure or natural clay pots are safer to use than glazed clay or ceramic pots, as lead used to be commonly used by ceramic makers as a flux to melt the glaze. If willing to invest in testing clay pots for food safety, there are many home test kits available for heavy metals for a few thousands of INR, which can be used to test cooked water or citric acid solutions for leached metals.
-[Heavy Metals in Contaminated Soils: A Review of Sources, Chemistry, Risks and Best Available Strategies for Remediation; Wuana and Okieinen; International Scholarly Research Notices; Oct, 2011][18]
-Leaching of aluminium from utensils during cooking of food; Semwal and Padmashree; Journal of the Science of Food and Agriculture; Nov, 2006
-[Assessment of Indian cooking practices and cookwares on nutritional security: A review; Sarthak Saxena et al.; Journal of Natural and Applied Sciences; Mar 14, 2021][19]
-[Healthline: How Cooking Affects the Nutrient Content of Foods; Dec, 2019][20]
-[Locally made utensils as potential sources of heavy metals contamination of water: A case study of some pots made in Nigeria, Lar Uriah et al.; American Journal of Environmental Protection; 2014][21]
-[African Journals Online: Assessment of heavy metals leachability from traditional clay pots “inkono”and “ibibindi” used as food contact materials; Hermogene Nsengimana et al.][22]
-[Determination of arsenic leaching from glazed and non-glazed Turkish traditional earthenware; Emur Henden et al.; Science of the Total Environment; July, 2011][23]
-[ireadlabelsforyou.com: This Happened When I Tried Clay Cookware; Irina Webb][24]
-[ewg.org: Teflon Chemical Harmful at Smallest Doses- EPA's ""Safe"" Level is Hundreds or Thousands of Times Too Weak][25]
-[ewg.org: Research articles on Teflon, used to coat nonstick cookware][26]
+    - [Heavy Metals in Contaminated Soils: A Review of Sources, Chemistry, Risks and Best Available Strategies for Remediation; Wuana and Okieinen; International Scholarly Research Notices; Oct, 2011][18]
+    - Leaching of aluminium from utensils during cooking of food; Semwal and Padmashree; Journal of the Science of Food and Agriculture; Nov, 2006
+    - [Assessment of Indian cooking practices and cookwares on nutritional security: A review; Sarthak Saxena et al.; Journal of Natural and Applied Sciences; Mar 14, 2021][19]
+    - [Healthline: How Cooking Affects the Nutrient Content of Foods; Dec, 2019][20]
+    - [Locally made utensils as potential sources of heavy metals contamination of water: A case study of some pots made in Nigeria, Lar Uriah et al.; American Journal of Environmental Protection; 2014][21]
+    - [African Journals Online: Assessment of heavy metals leachability from traditional clay pots “inkono”and “ibibindi” used as food contact materials; Hermogene Nsengimana et al.][22]
+    - [Determination of arsenic leaching from glazed and non-glazed Turkish traditional earthenware; Emur Henden et al.; Science of the Total Environment; July, 2011][23]
+    - [ireadlabelsforyou.com: This Happened When I Tried Clay Cookware; Irina Webb][24]
+    - [ewg.org: Teflon Chemical Harmful at Smallest Doses- EPA's "Safe" Level is Hundreds or Thousands of Times Too Weak][25]
+    - [ewg.org: Research articles on Teflon, used to coat nonstick cookware][26]
 
 9. Minimize exposure to EMF radiation from cellphones.
-["The truth about mobile phone and wireless radiation" -- Dr Devra Davis, Lecture delivered at the University of Melbourne][27]
-[Risks to Health and Well-Being From Radio-Frequency Radiation Emitted by Cell Phones and Other Wireless Devices; Anthony B. Miller et al.; frontiers in Public Health; Aug 13, 2019][28]
+    - ["The truth about mobile phone and wireless radiation" -- Dr Devra Davis, Lecture delivered at the University of Melbourne][27]
+    - [Risks to Health and Well-Being From Radio-Frequency Radiation Emitted by Cell Phones and Other Wireless Devices; Anthony B. Miller et al.; frontiers in Public Health; Aug 13, 2019][28]
 
-10. Use masks only when there is a suspected risk of exposure from a symptomatic or recently recovered patient. The prolonged use of masks is in fact known to be causing a significant decline in natural immunity in the general population, leaving us more vulnerable as a populace to all infections. [N.I.C.E. way to Cure COVID-19][29]
-[Carbon dioxide rebreathing in respiratory protective devices: influence of speech and work rate in full-face masks; C L Smith et al.; Ergonomics; 2013][30]
-[Hypercapnia Increases ACE2 Protein Expression and Pseudo-SARS-CoV-2 Virus Entry in Airway Epithelial Cells; Casalino-Matsuda et al.; American Journal of Respiratory and Critical Care Medicine; 2021][31]
-[Cotton and Surgical Face Masks in Community Settings: Bacterial Contamination and Face Mask Hygiene; Lize Delanghe et al.; Frontiers in Medicine; Sept 3, 2021][32]
-[Hypercapnia Alters Expression of Immune Response, Nucleosome Assembly and Lipid Metabolism Genes in Differentiated Human Bronchial Epithelial Cells; Casalino-Matsuda et al.; Scientific Reports; Sept 10, 2018][33]
-[Effect of External Dead Volume on Performance While Wearing a Respirator; Arthur T. Johnson et al.;  Americcan Industrial Hygiene Association Journal; 2000][34]
-[The Physiological Cost of Wearing a Disposable Respirator; Jeffrey G. Jones; American Industral Hygiene Association Journal; 1991][35]
+10. Use masks only when there is a suspected risk of exposure from a symptomatic or recently recovered patient. The prolonged use of masks is in fact known to be causing a significant decline in natural immunity in the general population, leaving us more vulnerable as a populace to all infections. 
+    - [N.I.C.E. way to Cure COVID-19][29]
+    - [Carbon dioxide rebreathing in respiratory protective devices: influence of speech and work rate in full-face masks; C L Smith et al.; Ergonomics; 2013][30]
+    - [Hypercapnia Increases ACE2 Protein Expression and Pseudo-SARS-CoV-2 Virus Entry in Airway Epithelial Cells; Casalino-Matsuda et al.; American Journal of Respiratory and Critical Care Medicine; 2021][31]
+    - [Cotton and Surgical Face Masks in Community Settings: Bacterial Contamination and Face Mask Hygiene; Lize Delanghe et al.; Frontiers in Medicine; Sept 3, 2021][32]
+    - [Hypercapnia Alters Expression of Immune Response, Nucleosome Assembly and Lipid Metabolism Genes in Differentiated Human Bronchial Epithelial Cells; Casalino-Matsuda et al.; Scientific Reports; Sept 10, 2018][33]
+    - [Effect of External Dead Volume on Performance While Wearing a Respirator; Arthur T. Johnson et al.;  Americcan Industrial Hygiene Association Journal; 2000][34]
+    - [The Physiological Cost of Wearing a Disposable Respirator; Jeffrey G. Jones; American Industral Hygiene Association Journal; 1991][35]
 
 11. Do socialize with healthy people as much as possible, in order to support immunity.
-[Effects of isolation and confinement on humans- implications for manned space explorations; Pagel and Chouker; Journal of Applied Psychology; 2016][36]
+    - [Effects of isolation and confinement on humans- implications for manned space explorations; Pagel and Chouker; Journal of Applied Psychology; 2016][36]
 
 12. Try to find and make opportunities to walk barefoot on the earth regularly.
-[The effects of grounding (earthing) on inflammation, the immune response, wound healing, and prevention and treatment of chronic inflammatory and autoimmune diseases; Oschman et al.; Journal of Inflammation Research; 2015][37]
-[Earthing: Health Implications of Reconnecting the Human Body to the Earth's Surface Electrons; Chevalier et al.; Journal of Environment and Public Health; 2012][38]
+    - [The effects of grounding (earthing) on inflammation, the immune response, wound healing, and prevention and treatment of chronic inflammatory and autoimmune diseases; Oschman et al.; Journal of Inflammation Research; 2015][37]
+    - [Earthing: Health Implications of Reconnecting the Human Body to the Earth's Surface Electrons; Chevalier et al.; Journal of Environment and Public Health; 2012][38]
 
 13. Fast, drinking only water or coconut water, for 24 hours once a week. If not accustomed to fasting, the habit could be gradually created by doing a fruit fast for 24 hours to beign with.
-[Mount Sinai Press Release: Mount Sinai Researchers Discover That Fasting Reduces Inflammation and Improves Chronic Inflammatory Diseases; August 22, 2019][39]
+    - [Mount Sinai Press Release: Mount Sinai Researchers Discover That Fasting Reduces Inflammation and Improves Chronic Inflammatory Diseases; August 22, 2019][39]
 
 14. It is very important to completely avoid Paracetamol and other pharmaceutical antipyretics, antibiotics, and steroidal and non-steroidal medications while treating for early Covid symptoms at home. Fever is the body's immune response to the pathogen.
 
@@ -237,15 +235,15 @@ Leaching of aluminium from utensils during cooking of food; Semwal and Padmashre
 
 16. **It is important to test vitamin D3 levels in blood, as part of prophylactic care, and supplement with oral doses if necessary, to ensure that levels are sufficiently high, as there is a tight correlation found between vitamin D levels and Covid-19 mortality.** An easy, effective way to **maintain** vitamin D levels is through through sunbathing for at least 30-45 minutes (or as long as is comfortable) in bright sunlight morning and afternoon, wearing minimal / light cotton clothing and exposing as much bare skin as convenient. Those with darker skin tones need more exposure than fairer people. Another astonishingly easy source of vitamin D is to consume sun-dried mushrooms. All edible mushroom varieties are good sourcese, but the Shitake mushroom, which offers multiple health benefits and is deemed a superfood, may be the best source, if available.
 
-Furthermore, it is important that vitamin D supplementation should be accompanied by supplemental intake of vitamin K2 and Magnesium. Japanese fermented boiled soybean food Natto is often cited as an excellent vegan source of vitamin K2. Cheese and eggs, and other fermented foods like Sauerkraut and Kombucha are reportedly good sources too.
+  Furthermore, it is important that vitamin D supplementation should be accompanied by supplemental intake of vitamin K2 and Magnesium. Japanese fermented boiled soybean food Natto is often cited as an excellent vegan source of vitamin K2. Cheese and eggs, and other fermented foods like Sauerkraut and Kombucha are reportedly good sources too.
 
-[Vitamin D- Fact Sheet for Health Professionals][40]
-[Strong correlation between prevalence of severe vitamin D deficiency and population mortality rate from COVID-19 in Europe; Pugach & Pugach; Weiner Klinische Wochenschrift; April, 2021][41]
-[fungi.com: Place Mushrooms in Sunlight to Get Your Vitamin D; Paul Stamets; Aug 16, 2012][42]
-[A Review of Mushrooms as a Potential Source of Dietary Vitamin D; Glenn Cardwell; Nutrients; Oct 13, 2018][43]
-[healthyeating.sfgate.com: Can You Get Vitamin D Through a Light Shirt?; Marie Dannie; Dec 17, 2018][44]
-[Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][45]
-[Role of Magnesium in Vitamin D Activation and Function; Uwitonze and Razzaque; The Journal of the American Osteopathic Association; Mar 1, 2018;][46]
+    - [Vitamin D- Fact Sheet for Health Professionals][40]
+    - [Strong correlation between prevalence of severe vitamin D deficiency and population mortality rate from COVID-19 in Europe; Pugach & Pugach; Weiner Klinische Wochenschrift; April, 2021][41]
+    - [fungi.com: Place Mushrooms in Sunlight to Get Your Vitamin D; Paul Stamets; Aug 16, 2012][42]
+    - [A Review of Mushrooms as a Potential Source of Dietary Vitamin D; Glenn Cardwell; Nutrients; Oct 13, 2018][43]
+    - [healthyeating.sfgate.com: Can You Get Vitamin D Through a Light Shirt?; Marie Dannie; Dec 17, 2018][44]
+    - [Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][45]
+    - [Role of Magnesium in Vitamin D Activation and Function; Uwitonze and Razzaque; The Journal of the American Osteopathic Association; Mar 1, 2018;][46]
 [Calcium, vitamin D, vitamin K2, and magnesium supplementation and skeletal health; Anna Capozzi et al.; Maturitas; Oct, 2020][47]
 [healthline.com: Is Vitamin D Harmful Without Vitamin K?; Atli Arnarson, BSc, PhD; Mar 4, 2017][48]
 [dailymint.co: Here’s How to Get Vitamin K2 on a Vegan Diet; Lauren Armstrong, BSc Dietetics, Regd. Dietitian; Aug 31, 2020][49]
