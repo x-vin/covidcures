@@ -2,47 +2,45 @@
 
 ## Notes on Diet: 
  
-### Millets:
-Millets are found to be less inflammatory than other staple grains and to support immune health better, especially in the context of a Covid-19 prophylactic diet. **Dr. Khadar Vali recommends the consumption of one of the following 5 ""Positive Millets"" at least once a day while prophylaxing:**
+### <ins>Millets:</ins>
+Millets are found to be less inflammatory than other staple grains and to support immune health better, especially in the context of a Covid-19 prophylactic diet. **Dr. Khadar Vali recommends the consumption of one of the following 5 "Positive Millets" at least once a day while prophylaxing:**
 **Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu)**
 
 Millet man Dr. Khadar Vali's recommended millet-based dietary regimen for health and prophylaxis
-[Millet Derived Flavonoids as Potential SARS-CoV-2 Main Protease Inhibitors: A Computational Approach; Abhisek Mishra et al.; ChemRxiv; August, 2020][1]
+   - [Millet Derived Flavonoids as Potential SARS-CoV-2 Main Protease Inhibitors: A Computational Approach; Abhisek Mishra et al.; ChemRxiv; August, 2020][1]
 
 However, it may be good not to consume millets in excess as well (i.e., everyday in large quantities, especially when improperly cooked, as explained below) as they can cause stomach ache, bloating and constipation due to their high fibre content, and are also found to contain goitrogenic flavonoids that block iodine absorption and are linked to goitre. Millets, and especially pearl millet, also contain high amounts of oxalates that are unsuitable for those with kidney disease and can precipitate kidney stones. They also contain certain enzyme inhibitors and phytic acid, which are called anti-nutrients because they inhibit nutrient absorption unless proper cooking methods are practised. In addition, millets contain protease (trypsin / chymotrypsin) inhibitors, which inhibit enzymatic action to break down proteins and thereby reduce their absorption, as well as cause toxicity in the intestines, potentially leading to leaky gut. Darker millets are reported to contain more antinutrients.
 
 **Semi-refined millet flour contains less of the antinutrient phytates and oxalates (as the bran contains a higher distribution of these antinutrients) and more bioavailability of iron and calcium, while retaining much of the nutrients. The protease inhibitors can be reduced greatly through soaking and sprouting millets for 5 days prior to consumption, and cooking them with steam or water, rather than dry heating. Another important method to reduce antinutrients in food is fermentation. However, protease inhibitors are also used as antiviral medication as they help block viral replication, and may be helpful as prophylactic if consumed in moderation.**
 
-[Wellness Munch: How to enjoy millet benefits without any side effects; Sept, 2019][2]
-[Nutrients, antinutrients & bioaccessible mineral content (invitro) of pearl millet as influenced by milling; Suma and Urooj; Journal of Food Science and Technology; Oct, 2011][3]
-[Antinutritional factors in pearl millet grains: Phytate and goitrogens content variability and molecular characterization of genes involved in their pathways; Boncompagni et al.; PLoS One, June, 2018][4]
-[Trypsin/chymotrypsin inhibitors from millets; T N Pattabiraman; Advances in experimental medicine andd biology; 1986][5]
-[Effects of heat treatment and germination on trypsin and chymotrypsin inhibitory activities in sorghum (Sorghum bicolor (L.) Moench) seeds; Mulimani and Vadiraj; Plant foods for human nutrition (Dordrecht, Netherlands);1996][6]
-[draxe.com: Protease: The Enzyme that Makes Protein & Amino Acids Tick; Sept, 2018][7]
-[draxe.com: 10 Antinutrients to Get Out of Your Diet … and Life; Feb, 2018][8]
-[Nutrient and Antinutrient Changes in Finger Millet (Eleusine coracan) During Sprouting; S. Mbithi-Mwikya et al.; LWT - Food Science and Technology; Feb, 2000][9]
-[healthymaster.in: https://healthymaster.in/blogs/how-eating-millets-can-boost-your-immunity-in-2021/][10]
+   - [Wellness Munch: How to enjoy millet benefits without any side effects; Sept, 2019][2]
+   - [Nutrients, antinutrients & bioaccessible mineral content (invitro) of pearl millet as influenced by milling; Suma and Urooj; Journal of Food Science and Technology; Oct, 2011][3]
+   - [Antinutritional factors in pearl millet grains: Phytate and goitrogens content variability and molecular characterization of genes involved in their pathways; Boncompagni et al.; PLoS One, June, 2018][4]
+   - [Trypsin/chymotrypsin inhibitors from millets; T N Pattabiraman; Advances in experimental medicine andd biology; 1986][5]
+   - [Effects of heat treatment and germination on trypsin and chymotrypsin inhibitory activities in sorghum (Sorghum bicolor (L.) Moench) seeds; Mulimani and Vadiraj; Plant foods for human nutrition (Dordrecht, Netherlands);1996][6]
+   - [draxe.com: Protease: The Enzyme that Makes Protein & Amino Acids Tick; Sept, 2018][7]
+   - [draxe.com: 10 Antinutrients to Get Out of Your Diet … and Life; Feb, 2018][8]
+   - [Nutrient and Antinutrient Changes in Finger Millet (Eleusine coracan) During Sprouting; S. Mbithi-Mwikya et al.; LWT - Food Science and Technology; Feb, 2000][9]
+   - [healthymaster.in][10]
 
-### Recipe for Ambali (sprouted, fermented millet porridge):
+### <ins>Recipe for Ambali (sprouted, fermented millet porridge):</ins>
 
-[Dr. Khadar Vali's recipe for millet / Sirudhaaniya porridge that minimizes the anti-nutrients in millets and maximizes bioavailability of the beneficial phytonutrients][11]
+   - [Dr. Khadar Vali's recipe for millet / Sirudhaaniya porridge that minimizes the anti-nutrients in millets and maximizes bioavailability of the beneficial phytonutrients][11]
 
-### Diet for Chronic Kidney Disease:
+### <ins>Diet for Chronic Kidney Disease:</ins>
 Patients with Chronic Kidney Disease should adapt the diet to their requirements with the advice of their consultant physician, as fruits and vegetables in large quantity may not be all suitable to their needs.
+   - [renalteam.org][12]: [Kidney-Friendly Fruits and Vegetables][13]
+   - [davita.com](https://www.davita.com/): A DaVita Dietitian's Top 15 Healthy Foods for People with Kidney Disease; DaVita® renal dietitian, Sara Colman, RD, CSR, CDE
 
-[renalteam.org][12]: [Kidney-Friendly Fruits and Vegetables][13]
-davita.com: A DaVita Dietitian's Top 15 Healthy Foods for People with Kidney Disease; DaVita® renal dietitian, Sara Colman, RD, CSR, CDE
-
-### Simple and Effective Way of Vitamin D Supplementation in a Vegan Diet:
+### <ins>Simple and Effective Way of Vitamin D Supplementation in a Vegan Diet:</ins>
 The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in the Shiitake mushroom, deemed a superfood for its great benefits to health, soared from about 100 IU / 100 g to 46,000 IU / 100 g when sun-dried for 12 hours over two days, and moreover, that the stored mushrooms preserved significant amounts of the vitamin D2 when tested after an year. It was also discovered that the vitamin D thus produced was as bioavailable as D intake through nutraceutical supplements. (Note: When supplementing vitamin D, it is also important to supplement also with vitamin K2. Furthermore, concurrent Magnesium and Calcium supplementation are necessary to improve D absorption and reap the advantages to bone health, respectively.)
-
-[Strong correlation between prevalence of severe vitamin D deficiency and population mortality rate from COVID-19 in Europe; Pugach & Pugach; Weiner Klinische Wochenschrift; April, 2021][14]
-[Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][15]
-[fungi.com: Place Mushrooms in Sunlight to Get Your Vitamin D; Paul Stamets; Aug 16, 2012][16]
-[A Review of Mushrooms as a Potential Source of Dietary Vitamin D; Glenn Cardwell; Nutrients; Oct 13, 2018][17]
-[cookinglight.com: No One Gets Enough of This Depression-Fighting Vitamin, but a Crazy Mushroom Technique Could Change That- The term “magic mushroom” has just taken on a whole new meaning; Jennifer Kushnier; Dec 19, 2018][18]
-[Calcium, vitamin D, vitamin K2, and magnesium supplementation and skeletal health; Anna Capozzi et al.; Maturitas; Oct, 2020][19]
-[Role of Magnesium in Vitamin D Activation and Function; Anne Marie Uwitonze & Mohammed S Raazzaque; The Journal of the American Osteopathic Association; Mar 1, 2018][20]
+   - [Strong correlation between prevalence of severe vitamin D deficiency and population mortality rate from COVID-19 in Europe; Pugach & Pugach; Weiner Klinische Wochenschrift; April, 2021][14]
+   - [Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][15]
+   - [fungi.com: Place Mushrooms in Sunlight to Get Your Vitamin D; Paul Stamets; Aug 16, 2012][16]
+   - [A Review of Mushrooms as a Potential Source of Dietary Vitamin D; Glenn Cardwell; Nutrients; Oct 13, 2018][17]
+   - [cookinglight.com: No One Gets Enough of This Depression-Fighting Vitamin, but a Crazy Mushroom Technique Could Change That- The term “magic mushroom” has just taken on a whole new meaning; Jennifer Kushnier; Dec 19, 2018][18]
+   - [Calcium, vitamin D, vitamin K2, and magnesium supplementation and skeletal health; Anna Capozzi et al.; Maturitas; Oct, 2020][19]
+   - [Role of Magnesium in Vitamin D Activation and Function; Anne Marie Uwitonze & Mohammed S Raazzaque; The Journal of the American Osteopathic Association; Mar 1, 2018][20]
 
 ## Notes on the Therapeutic Approach Suggested in the Early (Asymptomatic / Symptomatic) Treatment Phase: 
  
