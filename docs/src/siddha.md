@@ -21,7 +21,7 @@ Revealed by a govt.-certified reputed traditional Siddha practitioner, Ayya Mara
 The dried powder of stem and leaves of Fah talai jone or Green chiretta (Andrographis paniculata) has been widely used for centuries in Thailand and some neighboring countries as a treatment for acute respiratory tract infection and to reduce inflammation and coughing. Evidence-based data from clinical trials in Thailand suggest that the treatment is reported to have been effectively used to treat over 69,000 prisoners with Covid-19 in a large-scale clinical trial. The prisoners themselves work to grow the crop, harvest, dry and grind the mature stem into a dark green powder, which is then packed in capsules to be shipped to other prisons. In July, 2021, Thailand's cabinet approved Green chiretta for use in people with asymptomatic or mild coronavirus infections following a successful trial in prisons.
 
 ### Protocol and treatment approach:
-[Ingredients of Kapasura Kudineer:][2]
+[<ins>Ingredients of Kapasura Kudineer:</ins>][2]
    1. Zingiber officinale L. / Sukku / Dried ginger (Rhizome)
    2. Piper longum L. / Thippili / Long pepper (Fruit)
    3. Syzygium aromaticum (L.) Merr. & L.M.Perry / Ilavankam / Clove (Flower bud)
@@ -38,7 +38,7 @@ The dried powder of stem and leaves of Fah talai jone or Green chiretta (Androgr
    14. Sida acuta Burm.f. / Vattatthiruppi (Root)
    15. Cyperus rotundus L. / Korai kizhangu / Nagar motha / Nut grass (Root tuber)
 
-[Ingredients of Nilavembu Kudineer:][3]
+[<ins>Ingredients of Nilavembu Kudineer:</ins>][3]
    1. Andrographis paniculate Burm.f.Nees / Nilavembu / Green chiretta (Whole plant)
    2. Chrysopogon zizanoides (L.) Roberty / Vettiver / Kuruveru / Khus / Cuscus grass / Raamatcham (Root)
    3. Santalum album L. / Sandanam / Chandanam / Indian sandalwood (Bark)
@@ -119,9 +119,7 @@ None known, recommended for continuous use as prophylactic.
 It seems ingredients are not commonly available in local shops selling herbal medicine, but are available online.
 
 ### Further references:                          
-[Herbs to Boost Immunity Against Coronovirus - Ayya Dr. Maragathamani, Siddha Practitioner][15] 
-
-In this short video, the physician Ayya Maragathamani gives two good protocols for prevention and treatment of Covid, the first of which is the one mentioned here.
+   - [Herbs to Boost Immunity Against Coronovirus - Ayya Dr. Maragathamani, Siddha Practitioner:][15] In this short video, the physician Ayya Maragathamani gives two good protocols for prevention and treatment of Covid, the first of which is the one mentioned here.
 
 
 ## 3. Miscellaneous excellent therapies in Ayurveda and Siddha
@@ -140,11 +138,8 @@ Prescribed by a very erudite researcher, pharmacologist as well as traditional p
 
 ### Protocol and treatment approach:
 The treatment is commenced only if a patient who tests positive for Covid  presents with signs of active infection.
-
 1. One possible treatment involves **a combination of Gorochanaadi, Amruthaarishtam, Vaasaarishtam, and Dasamoolaarishtam administered for three days at the early signs of symptoms**. If the patient has not recovered in three days, a certain Siddha treatment is begun, and if that fails, there is yet another extremely effective Siddha remedy that cures with a single dose. These Siddha remedies were not revealed.
-
 2. **Jeevanthyaadi kashayam with Vilvaadi gulam**
-
 3. **Shadanga kashayam with powdered Mruthyanjaya gulam**
 
 ### Typical duration of treatment:

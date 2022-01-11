@@ -634,8 +634,7 @@ The basic methodology for producing such an extremely bioactive extract of any h
 "I have observed that symptomatic patients respond to this medicine within the first 3-4 days, and usually 30% of patients become fully asymptomatic with just a single dose or within two or three days. Patients with Diabetes or other co-morbidities, become symptom-free in 7-8 days. However, I do have my patients continue to take the medicine for the full 14 day quarantine period. So far, I have treated close to 200 Covid-19 patients, ranging in age from a 1 year 10 month old baby girl to an elderly gentleman of 88. This medicine has been effective in 100% of all patients, who have recovered fully."
 
 **For further information about the product, treatment modality, suppliers, any contraindications etc., here is a website that provides the names of physicians who offer this therapy, and who can be contacted for more information:**
-
-[Haldi-30][144]
+   - [Haldi-30][144]
 
 ### Typical duration of treatment:
 **Excerpt from an [interview given by Vaidya Sarang Phadke][145] in April, 2021:**
