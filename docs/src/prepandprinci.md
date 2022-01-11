@@ -1,6 +1,6 @@
 # Preparations & Principles of Holistic Prophylaxing
 
-## Medicines and herbs to be stocked:
+## Medicines and herbs to be stocked
 
 ### <ins>Homeopathic Medicines:</ins>
 A few stores selling reliable homeopathic products in India:
@@ -152,7 +152,7 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
 | Nori / Purple laver (dried)	            | - [Amazon][158] |
 
 
-## General precautions of supporting immunity and prophylaxing:
+## General precautions of supporting immunity and prophylaxing
 
 1. Foster and promote the body's healing functions through Intermittent Fasting (IF), i.e., consume the main meals between 9-10 AM and 5-6 PM, an 8-hour duration.
     - [Role of Intermittent Fasting on Improving Health and Reducing Diseases; Salah Mesalhy Aly; International Journal of Health Sciences; July, 2014][1]
@@ -275,7 +275,7 @@ Derived from AYUSH recommendations and Dr. Swapna Reddy's prescription.
     - [IppocrateOrg: Excerpt from the Interview with Dr. Robert Malone about mRNA Vaccines][62]								
 
 
-## Notes on the present approach to creating an integrative protocol for prophylaxis and early treatment at home:
+## Notes on the present approach to creating an integrative protocol for prophylaxis and early treatment at home
 
 The present suggested approach to early Covid care is an integrative strategy that is based in naturopathy and on the N.I.C.E. (Network of Influenza Care Experts) diet-based protocol innovated by Dr. Biswaroop Roy Chowdhury's team of holistic healing experts in influenza care. The NICE protocol is now proven for efficacy in several thousands of clinical cases at NISA's Covid care centre in Pune. The N.I.C.E. team also have a helpline for providing telemedicine services to sufferers from Influenza-Like Illnesses, including Covid: +91 8587059169; [www.biswaroop.com/nice](http://www.biswaroop.com/nice) 
 
@@ -302,7 +302,7 @@ VII. **<ins>Seventh Principle</ins>**: **An important principle of design of thi
 
 
 
-## CTYY
+
 
 [1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4257368/
 [2]: https://www.slideshare.net/archanayogayatan/introduction-to-naturopathy
@@ -464,56 +464,50 @@ VII. **<ins>Seventh Principle</ins>**: **An important principle of design of thi
 [157]: https://urbanplatter.in/product/urban-platter-nutritional-yeast-flakes-shaker-jar-50g-176oz-also-known-as-nooch-gluten-free-nutty-flavour/?utm_source=google&utm_medium=cpc&utm_campaign=9722982378&utm_content=97781528045&utm_term=&gclid=CjwKCAiA7dKMBhBCEiwAO_crFDLD3NXjBZfyOLBHhijc1vmzTBnM82HFIa3PRFhjAbDZMfmt-XtxzhoCQQIQAvD_BwE
 [158]: https://www.amazon.com/s?k=dried+purple+laver&rh=n%3A7000787011&language=en_US&linkCode=sl2&linkId=074d7af932eab1169db38e26b8d98569&tag=vitamin-b12-foods-for-vegetarians-20&ref=nb_sb_noss
 
-[163]: 
-[164]: 
-[165]: 
-[166]: 
-[167]: 
-[168]: 
-[169]: 
-[170]: 
-[171]: 
-[172]: 
-[173]: 
-[174]: 
-[175]: 
-[176]: 
-[177]: 
-[178]: 
-[179]: 
-[180]: 
-[181]: 
-[182]: 
-[183]: 
-[184]: 
-[185]: 
-[186]: 
-[187]: 
-[188]: 
-[189]: 
-[190]: 
-[191]: 
-[192]: 
-[193]: 
-[194]: 
-[195]: 
-[196]: 
-[197]: 
-[198]: 
-[199]: 
-[200]: 
-[206]: 
-[207]: 
-[208]: 
-[209]: 
-[210]: 
-[211]: 
-[212]: 
-[213]: 
-[214]: 
-[215]: 
-[216]: 
-[217]: 
-[218]: 
-[219]: 
-[220]: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
