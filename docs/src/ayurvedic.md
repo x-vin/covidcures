@@ -7,16 +7,16 @@
 ## 1. AYUSH-prescribed medicinal herbs and their corresponding Ayurvedic remedies
 
 ### Objective: 
-Prophylaxis and mitigation
+Prophylaxis and mitigation.
 
 ### System:
-Ayurveda
+Ayurveda.
 
 ### Can be used alongside other allopathic treatments:
-Should be possible in most cases, but needs to be verified
+Should be possible in most cases, but needs to be verified.
 
 ### Status of authorisation:
-Authorized by AYUSH Ministry, and based on scientific evidence
+Authorized by AYUSH Ministry, and based on scientific evidence.
 
 ### Protocol and treatment approach:
 The list of 20 published medicinal plants and other details are as follows:
@@ -24,43 +24,24 @@ The list of 20 published medicinal plants and other details are as follows:
 *(Vernacular names in Tamil / Sanskrit / English / Hindi, Scientific name, Part used, Indications, Dosage, Important Ayurvedic formulations)*
 
 1. Amukara / **Aswagandha** / Winter cherry, Withania somnifera, Root / leaf, dyspnoea / fatigue or weakness / emaciation / tumour / insomnia / antiinflammatory / antipyretic / antibacterial / antimalarial / immunomodulator / cardioprotective, 3-6 g powder, Aswagandha churna / Aswagandha arishtam
-
 2. **Amrithavalli** / Guduchi / Heart-leaved moon seed / Giloy, Tinospora cordifolia, stem / leaf / root, antioxidant / antiinflammatory / immunomodulator / protective of liver, 2-6 g powder / 50-100 ml decoction / 10-20 ml fresh juice, Amrithadi kashayam / Amritharishtam / Amrithadi guggulu
-
 3. **Nilavembu** / Kalamegha / Green chiretta / Kirayat, Andrographis paniculata, whole plant, antiviral / antipyretic / immune enhancement / thrombolytic, 1-3 g powder / 20-40 ml decoction / 5-10 ml fresh juice, Bhunimbadi choorna / Bhunimbadi kashaya
-
 4. **Tulasi** / Tulasi / Sacred basil / Tulsi, Ocimum tenuiflorum, leaf / root / seed, cough / dyspnoea / worms / viral hepatitis / toxicity / intermittent fever / antiviral / antifungal / antibacterial, 3-6 g seed powder / 10-20 ml fresh juice / 50-100 ml root decoction, Surasadigana kashayam / Tumburvadi yoga
-
 5. Tirunittru pacchilai / Vantulasi / **Sweet basil** / Babui tulasi, Ocimum basilicum L., leaf / flower, antiviral / antimicrobial / antioxidant / antiinflammatory / antiallergenic / lung complaints / intestinal parasites, 3-5 ml juice / 3-6 g seed powder, Surasadigana kashayam / Tumburvadi yoga
-
 6. Ilavangam / Tvak / **Cinnamon** / Dalchini, Cinnamon verum Presl, stem bark, anti-complement activity / antiallergenic activity / rhinitis / cough / headache / cardiac ailments / indigestion / antihelminthic, 1-3 g powder, Eladi rasayanam / Sitopaladi choorna / Samasarkara choorna
-
 7. Inji or chukku / Ardraka / **Ginger** / Adrak or sonth, Zingiber officinale Roscoe, rhizome, fever / cough / dyspnoea / heart disease / bleeding disorder / anaemia / antibacterial / antihistaminic / antioxidant / antiinflammatory / hypolipidemic / bioavailability enhancer / hypoglycaemic, Adraka rasayana / Ardraka khandavalehya / Nagaradi kashaya
-
 8. Manjal / Haridra / **Turmeric** / Haldi, Curcuma longa L., rhizome, antibacterial / antioxidant / antiinflammatory / antihistamine / antiseptic / hypocholesterolenic / bronchitis / respiratory illness / bronchial asthma / tropical eosinophilia / diabetes / anaemia / jaundice / skin disease / detoxifying agent, 1-3 g powder, Haridrakhanda / Nisamalaki choornam
-
 9. Nellikkai / Amalaki / Gooseberry / **Amla**, Phylanthus emblica L., fruit pulp, antibacterial / antimicrobial / antioxidant / antiinflammatory / hepatoprotective / hypolipidemic / hypoglycaemic / diabetes / antiatherosclerotic / bleeding disorders / ulcer, 10-20 ml fresh juice / 3-6 g powder, Chyavanaprasha avalehyam / Amalakadi choorna
-
 10. Nilavembu / **Kiratatikta** / Chiretta / Chirayata, Swertia chirata, whole plant, fever / gouty arthritis / oedema / chronic liver diseases / antipyretic / antiarthritic / antidiabetic / hepatoprotective, 1-3 g powder / 50-100 ml decoction, Kiratadi kwatha / Sudarsana choorna / Kiratatiktadi choorna / Kiratarishta
-
 11. Atimadhuram / Yashtimadhu / **Liquorice** / Mulethi, Glycyrrhiza glabra L., root, antipyretic / antiinflammatory / antiarthritis / antidiuretic / rejuvenative / cardiovascular tonic / improves strength, 3-5 g powder, Yashtyadi choorna / Madhuyashtyadi tailam
-
 12. Vembu or veppu / Nimba / **Neem** or margosa tree / Neem, Azadirachta indica, root bark / stem bark / leaves, antimicrobial / immunostimulant / antiinflammatory / antidiabetic / antiarthritic / improves cardiovascular activity, 2-4 g bark powder / 10-20 ml fresh juice, Nimba haridrakhanda / Nimbadi choorna / Pancha nimba choorna
-
-13.**Adathodai vasa** / Malabar nut / Adusa / **Justicia Adathoda**, leaf / root / flower, fever / cough / dyspnoea / consumption / bleeding disorder / anaemia / diarrhoea / skin diseases / bronchodilator / advantages in attenuating the critical inflammatory stages of Covid-19, 10-20 ml leaf juice, Vasarishtam / Vasavalehya
-
+13. **Adathodai vasa** / Malabar nut / Adusa / **Justicia Adathoda**, leaf / root / flower, fever / cough / dyspnoea / consumption / bleeding disorder / anaemia / diarrhoea / skin diseases / bronchodilator / advantages in attenuating the critical inflammatory stages of Covid-19, 10-20 ml leaf juice, Vasarishtam / Vasavalehya
 14. Kacholam / **Sathi** / Spiked ginger lily / Kapurkachari, Hedychium spicatum, rhizome, cough / relieves violent expression of dyspnoea / hiccough, antibacterial / antifungal / antiinflammatory / hypoglycaemic/ vasodilator / relieving paroxysmal attack of dyspnoea / tranquilizer, 1-3 g powder, Sathyadi choorna
- 
 15. **Pushkaramulam** / Pushkaramula / Elicampane / Pokharmul, Inula racemosa, root, cough / dyspnoea / bronchospasm / pulmonary infections / anaemia / cardiac ailments / antipyretic / antifungal / antibacterial / antiinflammatory / antihistaminic / hypoglycaemic / antianginal / hypolipidemic, 1-3 g powder, Pushkaraadi choorna / Pushkaraadi kashaya
-
 16. Kavali / **Bharangi** / Blue-flowered glory tree / Babhanaiti, Clerrodendrum serratum, root, fever / rhinitis / cough / dyspnoea / oedema / antipyretic / antihistamine, 3-6 g powder, Bharngyaadi kashaya / Bharngi guda
-
 17. Kiraampu / Lavanga / **Clove** / Laung, Syzygium aromaticum, dried floral bud, consumption /  cough / dyspnoea / vomiting / bleeding disorders / antiviral / bactericidal / fungicidal / antiinflammatory / anticarcinogenic, 1-2 g powder, Lavangadi vati / Lavangadi choorna / Devakusuma arka
-
 18. Elumichampullu / Lamajjaka / **Lemon grass or Citronella** / Lamjak, Cymbopogon jwarancusa, whole plant, fever / gout / rheumatism / skin disease / antioxidant / diuretic / diaphoretic / blood purefier, 3-5 g powder
-
 19. Katukarohini / **Katuki** / Picrorhiza / Kutki, Pichrorhiza kurroa, root / underground stem, fever / intermittent fever / dyspnoea / cough / skin diseases / antidiabetes / antipyretic / antiinflammatory / antibacterial / mitigate allergy and asthma / hydrocholeretic, 0.5-1 g powder (5-6 g powder for use as purgative) in warm water, Tiktakadya ghrtam / Katukadya ghrtam / Aarogyavardhini vati
-
 20. Annachi poo / Mishi / **Chinese star anise** / Chakr phool or Anasphal, Ilicium verum, fruit, abdominal pain and digestive ailments / cough / diuretic / influenza / antibacterial / antviral / antifungal /  analgesic / antioxidant / expectorant / spasmolytic / carminative, 3 g powder
 
 ### Typical duration of treatment:
@@ -76,10 +57,10 @@ No significant side effects reported, when used in therapeutic dosages. Many of 
 A few medicines like Ashwagandha choornam, Amrithaadi kashayam, could be stocked and used as prophylactic.
 
 ### Price:
-Moderately priced for the middle class consumer
+Moderately priced for the middle class consumer.
 
 ### Suggested suppliers:
-Local suppliers of Ayurvedic medicines like Kottakkal Arya Vaidya Sala pharmacies
+Local suppliers of Ayurvedic medicines like Kottakkal Arya Vaidya Sala pharmacies.
 
 ### Further references:                          
    - [20 Medicinal Plants of '21 for Covid-19 Care, National Medicinal Plants Board, Ministry of Ayush, Government of India][1]
@@ -90,10 +71,10 @@ Local suppliers of Ayurvedic medicines like Kottakkal Arya Vaidya Sala pharmacie
 ## 2. (The Central Ministry) AYUSH-approved National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19
 
 ### Objective: 
-Evidence-based prescription for the use of Ayurveda and yoga for the prevention of Covid-19, and for the treatment of asymptomatic or mild infection
+Evidence-based prescription for the use of Ayurveda and yoga for the prevention of Covid-19, and for the treatment of asymptomatic or mild infection.
 
 ### System:
-Ayurveda and Yoga, Ayush
+Ayurveda and Yoga, Ayush.
 
 ### Can be used alongside other allopathic treatments:
 Probably yes, but under the advice of a medical practitioner. Usage alongside allopathic protocols is not guaranteed to yield the best results, according to experienced doctors.
@@ -102,8 +83,7 @@ Probably yes, but under the advice of a medical practitioner. Usage alongside al
 Approved by the Government of India, Ayush Ministry.
 
 ### Protocol and treatment approach:
-**General lifestyle measures for prophylactic treatment:**
-
+**<ins>General lifestyle measures for prophylactic treatment:</ins>**
 1. Maintain social distancing, respiratory and hand hygiene and masking.
 2. [Gargle][5] with warm water with an added pinch of turmeric and salt. Water boiled with Triphala choorna or Yashtimadhu too can be used for gargling.
 3. Perform **[Ayurvedic Nasya (instillation or application of plain or medicated oils in the nose)][6] once or twice a day, especially before going out and after coming back home. Plain oils like coconut oil / sesame oil / cow's ghee or medicated oils like Anu taila / Shadbindu taila could be applied.**
@@ -111,33 +91,28 @@ Approved by the Government of India, Ayush Ministry.
 5. Follow **a healthy dietary and lifestyle regimen everyday, with adequate sleep of 6-8 hours, a balanced diet and moderate physical exercise.**
 6. Follow **Yoga Protocol for Primary Prevention of COVID-19 (ANNEXURE-1 of the referenced document) and Protocol for Post COVID-19 care (including care for COVID-19 patients) (ANNEXURE-2) - as applicable.**
 
-**Prescribed dietary regimen for prophylaxis:**
-
+**<ins>Prescribed dietary regimen for prophylaxis:</ins>**
 1. Consume fresh, warm and balanced meals.
 2. Use **warm water boiled with ginger root / corriander seeds / [Thulasi or Holy basil  leaves][8] / [Jeera or cumin seeds][8a] for drinking.**
 3. Drink **Ayush Kadha or Kwath (hot infusion or decoction)** once a day.
 
-**Prophylactic measures for high-risk population and primary contacts:**
-
+**<ins>Prophylactic measures for high-risk population and primary contacts:</ins>**
 1. Take **[Ashwagandha][9] (500 mg aqueous extract or 1-3 g powder), twice daily with warm water, [on an empty stomach, after waking up in the morning and before going to sleep][10], for 15-30 days** or as advised by Ayurveda physician.
 2. [Guduchi ghana vati][11] / Samshamani vati (500 mg aqueous extract as Samshamani ghanavati / [Giloy or Amrithavalli ghanavati][12], or 1-3 g Amrithavalli choorna) twice a day with warm water, [with or after meals][13], for 15-30 days or as directed by Ayurveda physician
 3. **[Chyavanapraasha][14] (containing about 50 traditional ingredients, chiefly [Amla / Indian gooseberry / Emblica officinalis][15], the richest plant source of vitamin C), 10 g with warm water or milk, once a day, [on an empty stomach in the morning before breakfast.][16]**
 
-[(Ashwagandha is deemed a safer prophylactic therapy than Hydroxychloroquine.)][17]
+   - [(Ashwagandha is deemed a safer prophylactic therapy than Hydroxychloroquine.)][17]
 
-**Treatment for asymptomatic Covid-positive individuals, to prevent the disease progression to symptomatic Covid:**
-
+**<ins>Treatment for asymptomatic Covid-positive individuals, to prevent the disease progression to symptomatic Covid:</ins>**
 1. **Guduchi ghanavati (500 mg aqueous extract as Samshamani ghanavati or [Giloy / Amrithavalli ghanavati][18] or 1-3 g Amrithavalli choorna) twice a day with warm water, [with or after meals][19], for 15-30 days or as directed by Ayurveda physician**
 2. **Guduchi or Amrithavalli or Giloy, and Pippali or pepper, 375 mg of aqueous extracts twice daily with warm water for 15-30 days** or as advised by Ayurveidc physician
 3. **[AYUSH64][20], 500 mg 2 times (3 times for symptomatic infection) daily [1 hour after meals][21], with warm water, for 15-30 days** or as directed by Ayurveda physician
 
-**Treatment of mild Covid positive cases without evidence of breathlessness or hypoxia:**
-
+**<ins>Treatment of mild Covid positive cases without evidence of breathlessness or hypoxia:</ins>**
 1. **Guduchi or Amrithavalli or Giloy, and Pippali or pepper, 375 mg of aqueous extracts twice daily with warm water, [with or after meals][22], for 15-30 days** or as advised by Ayurveidc physician
 2. **[AYUSH64][23], 500 mg 3 times daily, [1 hour after meals][24], with warm water for 15-30 days** or as directed by Ayurveda physician
 
-**Post-Covid management for prevention of lung complications like fibrosis, fatigue and mental health:**
-
+**<ins>Post-Covid management for prevention of lung complications like fibrosis, fatigue and mental health:</ins>**
 1. Take **[Ashwagandha][25] (500 mg aqueous extract or 1-3 g powder), twice daily with warm water, [on an empty stomach after waking up in the morning and before going to sleep][26], for 15-30 days** or as advised by Ayurveda physician.
 2. **[Chyavanapraasha][27], 10 g with warm water or milk, once a day, [on an empty stomach in the morning or before breakfast][28]**
 3. **[Rasayana choorna][29] (With equal parts of Giloy or Amrithavalli, Amla or gooseberry and [Tribulus terrestris / Gokshura / Caltrops / Gokhru / Njerinjil][30]), 3 g powder twice daily with honey for 30 days**, or as directed by the Ayurveda physicians
@@ -155,13 +130,13 @@ Approved by the Government of India, Ayush Ministry.
 
 **Yoga protocol for post-Covid care as well as for Covid-19 patients, including Praanayaama and breathing exercises to improve lung volume and reduce asthma allergies and lung inflammation:**
 
-Morning session (30 minutes):
+<ins>Morning session (30 minutes):</ins>
 - Preparatory practices, performed while sitting: Tadaasana, Urdhva Hastottanaasana, Uttana Mandukaasana, shoulder rotation (3 rounds), trunk twisting (3 rounds), Ardha Ushtraasana, Sasakaasana
 - Breathing practices, like Vaataneti (2 rounds, 30 seconds per round, over 2 min), Kapaalabhaati (3 rounds, 30 seconds per round, 2 m) and deep breathing (10 rounds, 2 m)
 - Praanayaama practices, like Naadishodhana (10 rounds in 6 min), Ujjayee (10 rounds in 3 m), Bhramari (10 rounds in 3 m)
 - Meditation or Dhyaana for 6 minutes
 
-Evening session (15 minutes):
+<ins>Evening session (15 minutes):</ins>
 - Shavaasana (1 round, 1 m)
 - Abdominal breathing (10 rounds, 2 m)
 - Thoracic breathing (10 rounds, 2 m)
@@ -169,12 +144,12 @@ Evening session (15 minutes):
 - Deep breathing, lying down (10 rounds, 2 m)
 - Relaxation in Shavaasana, with awareness on abdominal breathing (5 m)
 
-**Other measures:**
+**<ins>Other measures:</ins>**
 - [Steam inhalation][31] advised everyday or every alternate day
 - Advised to [gargle with lukewarm saline water][32] regularly
 - [Kriya Jalaneti][33] to decongest the nasal and upper respiratory tract, but not recommended in case of dry cough
 
-**Protocol for management of mild Covid-19 cases:**
+**<ins>Protocol for management of mild Covid-19 cases:</ins>**
 The Ayush protocol recommends symptomatic redressal as follows:
 - Fever with bodyache, headache: Nagaraadi Kashaaya (20 ml twice a day, or as recommended by qualified Ayurvedic physician)
 - **Cough: Sitopalaadi Choorna with honey (2 g with honey**, or as recommended by Ayurvedic physician)
@@ -185,17 +160,17 @@ The Ayush protocol recommends symptomatic redressal as follows:
 - **Breathlessness: Kanakaasava** (10ml with equal amount of water, twice a day, or as directed by Ayurvedic physician)
 
 ### Typical duration of treatment:
-About 15 days of medication required for the treatment of mild Covid, according to the Ayush Ministry publication, National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19
+About 15 days of medication required for the treatment of mild Covid, according to the Ayush Ministry publication, National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19.
 
 ### Outcome:
 The protocols are known to offer significant benefits as prophylactic measure, and for the treatment of mild or moderate Covid-19, as well as in the treatment of long Covid.
 
 The efficacy of AYUSH64 was scientifically studied in asymptomatic, mild and moderate disease without risk factors for poor outcome and those not requiring emergency interventions or hospitalization are eligible to take Ayush-64. **Mild to moderate COVID-19 cases showing initial symptoms like fever, malaise, body ache, nasal congestion, nasal discharge, headache, cough etc. and asymptomatic cases of COVID-19 can preferably start AYUSH- 64 within 7 days of diagnosis of the disease through RT-PCR for better outcome.**  It has been scientifically found to be useful in the treatment of asymptomatic, mild and moderate COVID-19 infection as an adjunct to standard care through robust clinical trials conducted in the country. The results of the clinical trials demonstrated that AYUSH-64 as an adjunct to standard of care (SoC) showed clinically significant improvement and thus lesser period of hospitalization as compared to SoC alone.
 
-A [study][34] recorded: The experimental studies of AYUSH-64 have shown that it was safe and non-toxic in the dose of 500 mg / kg of body weight for 12 weeks. It is found to be effective in fevers of unknown etiology, filarial lymphangitis and derangement of liver function besides its anti -malarial activity. Various Ayurveda classics describe activities and properties of the ingredients of AYUSH-64 in respiratory diseases and also acute infectious diseases with pulmonary complications. "
+A [study][34] recorded: The experimental studies of AYUSH-64 have shown that it was safe and non-toxic in the dose of 500 mg / kg of body weight for 12 weeks. It is found to be effective in fevers of unknown etiology, filarial lymphangitis and derangement of liver function besides its anti -malarial activity. Various Ayurveda classics describe activities and properties of the ingredients of AYUSH-64 in respiratory diseases and also acute infectious diseases with pulmonary complications.
 
 ### Significant side effects:
-None reported for therapeutic dosages; generally deemed safe and nontoxic. A [study][35] recorded that the experimental studies of AYUSH-64 have shown that it was **safe and non-toxic in the dose of 500 mg / kg of body weight for 12 weeks.**
+None reported for therapeutic dosages; generally deemed safe and nontoxic. A [study][35] recorded that the experimental studies of AYUSH-64 have shown that it was **safe and non-toxic in the dose of 500 mg/kg of body weight for 12 weeks.**
 
 ### Recommended quantity for stocking:
 **VACANT**
@@ -208,7 +183,7 @@ Local trusted Ayurvedic pharmacies like Kottakkal Arya Vaidya Sala and online st
    - [1mg.com](http://1mg.com/): Basic Ayurveda Ayush 64 Tablet
 
 ### Further references:
-   - [“AYU SAMVAD” | Ayurveda for Covid 19 | “My Health My Responsibility”; All India Institute of Ayurveda, An Autonomous Institute under Ministry of AYUSH, Government of India, New Delhi-][36] NABH Accredited Tertiary care Hospital and Post Graduate Teaching and Training Institute in Ayurveda
+   - [AYU SAMVAD | Ayurveda for Covid 19 | *My Health My Responsibility*; All India Institute of Ayurveda, An Autonomous Institute under Ministry of AYUSH, Government of India, New Delhi-][36] NABH Accredited Tertiary care Hospital and Post Graduate Teaching and Training Institute in Ayurveda
    - [National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19- Frequently Asked Questions; Government of India, Ministry of Ayush][37]
    - [National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19, approved by the Ayush Ministry, Government Of India][38]
    - [Scientific rationale of Indian AYUSH Ministry advisory for COVID-19 prevention, prophylaxis, and immunomodulation; Prashant Kumar Gupta et al.; April 29, 2021][39]
@@ -237,17 +212,16 @@ Local trusted Ayurvedic pharmacies like Kottakkal Arya Vaidya Sala and online st
 **VACANT**
 
 ### System:
-Ayurveda / Indigenous
+Ayurveda / Indigenous.
 
 ### Can be used alongside other allopathic treatments:
-Perhaps yes, as this has not been specifically mentioned in reports
+Perhaps yes, as this has not been specifically mentioned in reports.
 
 ### Status of authorisation:
 Authorized to treat for Covid by the Andhra Pradesh government, but Sh. Bonigi is reportedly not a physician by training. It is said that the knowledge of this reportedly wonderful herbal therapy was given to him by a wandering traditional mendicant, and prepared and shared by him with many others.
 
 ### Protocol and treatment approach:
 **The protocol is said to involve three forms of therapeutic medication:**
-
 1. **Preventative / prophylactic oral medication, administered over 5 successive days, with the recommendation not to consume any animal protein or alcohol during that period**
 2. **Curative medication to address symptoms for affected patients in the early stages of the disease**
 3. **Medication in the form of eye drops for those in critical stages of the illness.**
@@ -279,7 +253,7 @@ Contact, Jayana Rama Govind:
    - [No objection to use of 'Krishnapatnam medicine': Andhra Pradesh government; May 23, 2021][61]
 
 ## 4. [Patanjali's Divya Swasari Coronil kit][62] 
-**with Coronil**, containing two bottles, 1 each of **Divya Swasari Vati** and **Divya Coronil tablets** (with **Giloy, Ashwagandha and Tulasi in 2:1:1 mixture**) and **Anu taila**
+**Patanjali's Divya Swasari Coronil kit with Coronil**, containing two bottles, 1 each of **Divya Swasari Vati** and **Divya Coronil tablets** (with **Giloy, Ashwagandha and Tulasi in 2:1:1 mixture**) and **Anu taila**
 
 ### Objective: 
 Prophylactic and curative
@@ -295,9 +269,9 @@ Unclear, but popularly bought and used here; sold in lakhs in India during the "
 
 ### Protocol and treatment approach:
 As specified in the Divya Corona Kit of Patanjali:
-1) Take **2 tablets of Divya Swasari each, with lukewarm water, half an hour before breakfast, lunch and dinner.**
-2) Take **2 tablets of Divya Coronil each, with lukewarm water, half an hour after breakfast, lunch and dinner.**
-3) Put **4 drops of Anu Taila each in both nostrils 1 hour before breakfast.**
+1. Take **2 tablets of Divya Swasari each, with lukewarm water, half an hour before breakfast, lunch and dinner.**
+2. Take **2 tablets of Divya Coronil each, with lukewarm water, half an hour after breakfast, lunch and dinner.**
+3. Put **4 drops of Anu Taila each in both nostrils 1 hour before breakfast.**
 
 The above dosage is suitable for the age group 15-60 years, and **for children between the ages 6-15 years, half of this dosage is recommended.**
 
@@ -332,14 +306,10 @@ Patanjali stores and [online suppliers][63]
    - [Dr. Yashwant Chowdhury: An informal, informed perspective on the objections raised to Coronil; June 24, 2020][75]
 
 ## 5. Ayush Kwath Churna:
-
-(**Tulsi** / Holy Basil / Ocimum sanctum,
-
-Dalchini / **Cinnamon** / Cinnamomum zeylanicum,
-
-Sunthi / **Ginger** / Zingiber officinale and
-
-Marich / **Black Pepper** / Piper nigrum)"
+- **Tulsi** / Holy Basil / Ocimum sanctum,
+- Dalchini / **Cinnamon** / Cinnamomum zeylanicum,
+- Sunthi / **Ginger** / Zingiber officinale and
+- Marich / **Black Pepper** / Piper nigrum
 
 ### Objective: 
 Supporting and enhancing immunity. Primarily prophylactic.
@@ -378,7 +348,7 @@ This is a traditional treatment with no known side effects.
 INR 150 for one bottle.
 
 ### Suggested suppliers:
-"Kottakkal Arya Vaidya Sala and other trusted stores selling herbal medicine
+Kottakkal Arya Vaidya Sala and other trusted stores selling herbal medicine
 
 The formulation may be manufactured and sold in generic name as ‘Ayush Kwath’ or ‘Ayush Kudineer’ or ‘Ayush Joshanda’.
 
@@ -407,15 +377,15 @@ The treatment is reported to have been effectively used to mitigate even infecti
 Over 300 patients have recovered from Covid-19 through Dr. Swapna Reddy's care, and have no side effects from the treatment. A few have acknowledged the efficacy of the cures in social media video testimonies. Among these, there were patients whose conditions were so critical that the doctor believes that they are unlikely to have survived through Standard Of Care therapy, as they may not have been able to withstand potent drugs.
 
 ### Protocol and treatment approach:
-**Dr. Swapna Reddy's Ayurvedic preventive therapy for Covid-19:**
-
+**<ins>Dr. Swapna Reddy's Ayurvedic preventive therapy for Covid-19:</ins>**
 **Ayurveda has a three-pronged approach to prevention and cure, namely, Aahaaram (Food), Vihaaram (Lifestyle) and Oushadham (Medicine).** 
 
 In **Aahaaram or diet**, it is important to eat freshly cooked and natural foods, and minimize foods that aggravate Kapha dosha, especially if the body is resistng an infection. When one is healthy, one can eat all fresh fruits and vegetables and freshly cooked food. Dairy products too can be consumed. It is important to consume foods that are rich in Praana or life energy, life-giving foods. (Here's, for quick reference, [a list of some Positive, Negative and Neutral Praanic foods, according to Ayurveda][81]. It is said that winter or ash gourd, or white pumpkin, is a food with the highest Praanic quality, and its juice drunk on an empty stomach in the morning is extremely vitalizing for the body.)
 
 However, as soon as there are symptoms of Kapha (mucous), such as a runny nose or cough or mucal congestion in the chest, it is important to stop consuming all foods that aggravate Kapha, including fruits, raw vegetables and all dairy products. Here is [a brief description of the Kapha Dosha (Kapha imbalance), according to Ayurveda, and its dietary and lifestyle remedies.][82]
 
-**How to mitigate Kapha dosha in the body (i.e., dietary prescription for mitigating cold, cough and other respiratory ailments):**
+
+**<ins>How to mitigate Kapha dosha in the body (i.e., dietary prescription for mitigating cold, cough and other respiratory ailments):</ins>**
 To reduce Kapha, avoid cold food, fruits, sweets, chocolates, refined and processed foods, milk and all dairy products, stored foods, and even sometimes, certain raw vegetables, which are all linked with aggravation of Kapha. The exceptions are turmeric milk with ginger / cardamom / black pepper. This is the Pathya or dietary regimen for Kapha mitigation in a patient with excessive Kapha, and the food for another individual physiological Prakrti may be different from that prescribed for a patient with Kapha imbalance. A good thumb rule with respect to diet may be [to know the effect of a food on Kapha by observing the effect of consuming it on the body.][83]
 
 It is beneficial to add the following Oushadha or medicinal herbs and spices to the diet as Kashayas or herbal decoctions:
@@ -423,31 +393,32 @@ Turmeric, Cinnamon, Cardamon, Dry ginger powder (Sonti / Chukku), Black pepper, 
 
 With respect to **Vihaaram or lifestyle**, it is important not to be stressed, and to be religious about Yoga, Pranayama and meditation or Dhyaana. It is important to be peaceful and happy, which is the primary necessity for a healthy body and a strong immune system.
 
-**Isha Yoga and Hatha Yoga:**
-Dr. Swapna Reddy avows the great value of Isha Hatha Yoga and Simha Kriya to maintain the health of the immune system and the respiratory system. Isha Simha kriya, performed regularly 3 times a day, increases lung capacity and keeps the blood oxygen levels high. Isha kriya, performed regularly, makes the mind peaceful and stress-free and thus promotes immune health. The physician has observed with her patients that even those who have not been trained in Yoga and Pranayama would benefit adequately from regular practice of these Kriyas. **Isha Kriya** assists the mind to reduce depression and anxiety and to develop detachment in life. **Simha Kriya** helps to increase lung capacity, and is seen to increase oxygen saturation in the blood (as measured with an oxymeter) by even 5 %.
-[Tutorial page and video for Isha Yoga's Simha Kriya,][84]
-[Isha Kriya- Free Online Guided Meditation][85]
-[Isha Kriya Instructions- English (PDF)][86]
 
-[Medicinal incense or Dhoopam:][87]
+**<ins>Isha Yoga and Hatha Yoga:</ins>**
+Dr. Swapna Reddy avows the great value of Isha Hatha Yoga and Simha Kriya to maintain the health of the immune system and the respiratory system. Isha Simha kriya, performed regularly 3 times a day, increases lung capacity and keeps the blood oxygen levels high. Isha kriya, performed regularly, makes the mind peaceful and stress-free and thus promotes immune health. The physician has observed with her patients that even those who have not been trained in Yoga and Pranayama would benefit adequately from regular practice of these Kriyas. **Isha Kriya** assists the mind to reduce depression and anxiety and to develop detachment in life. **Simha Kriya** helps to increase lung capacity, and is seen to increase oxygen saturation in the blood (as measured with an oxymeter) by even 5 %.
+   - [Tutorial page and video for Isha Yoga's Simha Kriya,][84]
+   - [Isha Kriya- Free Online Guided Meditation][85]
+   - [Isha Kriya Instructions- English (PDF)][86]
+
+
+[<ins>Medicinal incense or Dhoopam:</ins>][87]
 Also, with respect to lifestyle or Viharam, Ayurveda recommends to purefy the living environment and discourage proliferation of pathogens by fumigating the home twice daily, in the morning and evening, with Dhoopams or incenses like **Patanjali Aastha Dasanga Powder or [Aparajitha Dhooma Choornam][88], or if these are not available, [then][89] Sambrani Dhoopam or simply fumigating by placing Neem leaves on burning coal.**
 
-**Steam inhalation with medicinal oils:**
+
+**<ins>Steam inhalation with medicinal oils:</ins>**
 As a preventative measure, and especially after suspected exposure, it is recommended to use [Halin Drops][90] in steam inhalation. During steam inhalation, inhale through the nose and exhale through the mouth, and vice versa, alternately. This remedy would help to clear the virus from the nose, mouth and respiratory tract, where it is said to reside for 4-5 days before progressing to an infection. For those who are occupationally exposed to the pathogen, it might be a good idea to inhale steam before entering the home, by installing a steamer in the front room.
 
-**Oushadham:**
+
+**<ins>Oushadham:</ins>**
 Ayurveda and Hatha yoga place great emphasis on boosting immunity. There are a great variety of immunoboosters in Ayurveda, and prominent among them are Ashwagandha, Guduchi / Giloy / Amrutha, Mahasudarsana kadha / Mahasudarsana ghana vati, Mahasudarsana choornam, Guduchi satvam, Godanti bhasma etc. When these medications are used, along with the adoption of an Ayurvedic lifestyle and yogic practices (such as Isha hatha yoga and Simha kriya), the body will not succumb to Covid-19.
 
-**Ayurvedic medicine for prophylaxis after exposure and early treatment:**
 
+**<ins>Ayurvedic medicine for prophylaxis after exposure and early treatment:</ins>**
 **For prevention, procure, measure and mix together the following medications in the given proportions into one powder:**
 
 **WARNING: This therapy should only be taken strictly under medical supervision, and are not recmomended for self-medication as overdosage of some components could lead to serious side effects. It is best avoided during pregnancy and in infants. Lactating mothers and children may follow the prescription in low doses but strictly under medical supervision.**
-
 1. [Mahasudarshana Choornam][91] 100 g, containing **Guduchi / Tinospora cordifolia / Giloy / Amritavalli, Kiratatikta / Swertia chirata / Nilavembu / Chiretta, Musta / Cyperus rotundus / Koari kizhangu / Muttanjga / Tunge gadde / Nut or Coco or Java grass, Neem / Azadirachta indica / Veppu, Shunthi / Zingiber officinale / Chukku / Dried [ginger][92]**
-
 2. [Guduchi / Giloy Satvam][93] 50 g
-
 3. [Godanti Bhasmam][94] 10 g, containing **Godanti patthar / Gypsum, Ghritkumari Swaras / Aloevera juice, Nimbu / lemon**
 
 **Take 3 g of this mixture and mix it with honey to prepare balls. Take 1.5 g or half the prepared quantity in the morning, and the remaining 1.5 g in the evening, 30 minutes before meals. Before going to bed, have Triphala Choornam.**
@@ -470,20 +441,19 @@ The allopathic approach relies heavily on the use of corticosteroids, antihistam
 
 In Ayurveda, the Nadi method of diagnosis and symptomatic diagnosis are used to decide upon the right herbal medication, which are used to change the 'medium' within the body to make it inhospitable to the virus. At the same time, the organs in the body are not affected by the changed medium,.Thus Ayurveda and allopathy work in mutually contradictory ways.
 
-Therefore it is important that when Ayurvedic medicines are used, allopathic medications should be avoided."
+Therefore it is important that when Ayurvedic medicines are used, allopathic medications should be avoided.
 
 ### Typical duration of treatment:
 The treatment has been demonstrated to yield rapid results, with even an instance of the doctor's own mother, who was severely ill and nearly unconscious with Covid-19, and who had suffered from severe underlying medical conditions, recovering rapidly and regaining appetite in a matter of a few hours.
 
 ### Outcome:
-"Very good results, and rapid recovery from infection observed with the therapy, and reportedly demonstrated to be effective in curing 100 percent of over 300 cases in the physician's clinic.
+Very good results, and rapid recovery from infection observed with the therapy, and reportedly demonstrated to be effective in curing 100 percent of over 300 cases in the physician's clinic.
 
-Dr. Swapna Reddy also cites, from her clinical experience, that Ayurveda offers excellent methods for prevention of Covid-19."
+Dr. Swapna Reddy also cites, from her clinical experience, that Ayurveda offers excellent methods for prevention of Covid-19.
 
 ### Significant side effects:
 Dr. Reddy explains that Ayurvedic treatments inhibit viral replication in the body with increased immunity and in large part, with no adverse effects. However, some components of the present protocol, chiefly **Godanti Bhasma**, can have significant adverse effects if overdosed. Moreover, pregnant or lactating woman, infants and children may be advised not to take certain medications, or use them in a lower dosage. Therefore it is best not to self-medicate but to adopt this treatment strictly under medical supervision.
-
-[Godanti Bhasma- Benefits, Dosage, Ingredients, Side Effects][95]
+   - [Godanti Bhasma- Benefits, Dosage, Ingredients, Side Effects][95]
 
 ### Recommended quantity for stocking:
 Sufficient quantity for use in prophylaxing after exposure, not necessarily for regular use.
@@ -543,9 +513,9 @@ Recommended to be used exclusively, before commencing or after stopping allopath
 Sourced from an official video documenting expert guidance from Prof. Dr. Dileep Kumar P. P., MD, PhD (Dravyaguna), Ayurveda Pharmacology, Ambuja Institute of Ayurvedic Research and Documentation, Udayamperoor P.O., Ernakulam, Kerala, Prepared for SIIMSAR Doctors School of Swasthavritta (Social and Preventative Medicine), Navi Mumbai
 
 ### Protocol and treatment approach:
-**Ingredients: 2 pieces of shallots or small onions, 2 star anise, 20 black pepper, 4 tsp coriander seeds, 1/2 tsp fenugreek seeds, 1/2 tsp turmeric powder.**
+**<ins>Ingredients:</ins> 2 pieces of shallots or small onions, 2 star anise, 20 black pepper, 4 tsp coriander seeds, 1/2 tsp fenugreek seeds, 1/2 tsp turmeric powder.**
 
-**Preparation and dosage: Coarsely crush and add these six ingredients to 2 glasses of water, boil and reduce it to 1 glass of the decoction. Filter the decoction and drink it piping hot 3 times a day, freshly prepared for 5 days.**
+**<ins>Preparation and dosage:</ins> Coarsely crush and add these six ingredients to 2 glasses of water, boil and reduce it to 1 glass of the decoction. Filter the decoction and drink it piping hot 3 times a day, freshly prepared for 5 days.**
 
 ### Typical duration of treatment:
 5 days
@@ -580,21 +550,20 @@ Traditional medicine, recommended also by naturopaths
 Yes.
 
 ### Status of authorisation:
-Among the remedies documented here, this remedy may be the least supported by mainstream research evidence, as there are several fact-checking articles online ""debunking the myth"", such as this article, which nonetheless admits that camphor constitutes 4.8 % of the common decongestant and cough mitigant Vicks VapoRub:
-[The Federal: Beware: Camphor doesn’t help improve body’s oxygen level, it can be toxic; May 5, 2021][126]
+Among the remedies documented here, this remedy may be the least supported by mainstream research evidence, as there are several fact-checking articles online "debunking the myth", such as this article, which nonetheless admits that camphor constitutes 4.8 % of the common decongestant and cough mitigant Vicks VapoRub:
+   - [The Federal: Beware: Camphor doesn’t help improve body’s oxygen level, it can be toxic; May 5, 2021][126]
 
 Dr. Prakash Gyawali, an Ayurvedic physician, explains that Camphor helps to open the nasal passages in case of cold while Cloves dry the phlegm, Eucalyptus oil is a nasal decongestant and Carom seeds / Ajwain are used in many Ayurvedic medicines for their expectorant and drying properties. However, he too believes that the claim that they increase oxygen saturation in blood is not well-founded in existing research:
-[South Asia Check | Fact Check: A supposed home remedy for boosting blood oxygen levels is unfounded; Deepak Adhikari; April 29, 2021][127]
+   - [South Asia Check | Fact Check: A supposed home remedy for boosting blood oxygen levels is unfounded; Deepak Adhikari; April 29, 2021][127]
 
 It has also been [reported][128] that anosmia or loss of taste and smell, one of the common and peculiar symptoms of Covid-19, especially in the first wave and earlier variants, [attributed also to vitamin D deficiency and Zinc deficiency][129], can be reversed through steam inhalation with [eucalyptus oil][130]. Ajwain has been known to have a bronchodilatory effect and be useful in the treatment of asthma:
-[Bronchodilatory Effect of Carum copticum in Airways of Asthmatic Patients; Mohammad Hossein Boskabady et al.; Therapie; Jan, 2007][131]
-
-[Anti-inflammatory activity of 1.8-cineol (eucalyptol) in bronchial asthma: a double-blind placebo-controlled trial; U R Juergens et al.; Respiratory Medicine; Mar, 2003][132]
+   - [Bronchodilatory Effect of Carum copticum in Airways of Asthmatic Patients; Mohammad Hossein Boskabady et al.; Therapie; Jan, 2007][131]
+   - [Anti-inflammatory activity of 1.8-cineol (eucalyptol) in bronchial asthma: a double-blind placebo-controlled trial; U R Juergens et al.; Respiratory Medicine; Mar, 2003][132]
 
 In fact, Carom seeds (active agents, thymol oil, terpine and linonene) and Eucalyptus oil (active agents, cineole and eucalyptol) [are often prescribed][133] in traditional home remedies to combat shortness of breath, especially for those suffering from asthma, where it is recommended that the oil of Eucalyptus be added to hot water for steam inhalation or that Carom seeds be slightly roasted to release the vapours that are sniffed to dilate the bronchial passages.
 
 In this video, the well-known Ayurveda and Yoga physician and spiritual teacher [Dr. Balaji Tambe][134], prescribes the [Camphor + Ajwain + Abhyang oil Potli][135] for those suffering from hypoxia and breathing difficulty, and mentions the customary use of this breathing aid by unaccustomed travellers to higher altitudes like Amarnath or Badrinath or Ladakh in the Himalayas. **Acharya Tambe recommended that the chest be massaged with the Ayurvedic medicated oil Abhyang before the inhalation of vapours from the Ajwain-Camphor Potli, containing mostly Ajwain and only a pinch of pure camphor.** It should be noted that the camphor used should prefefrably be [natural camphor (obtained from a tree bark)][136] very pure and is the more expensive, expensive variety, which is not toxic even if ingested in very small quantities [(whereas synthetic camphor is inexpensive, and manufactured from oil of turpentine)][137]:
-[Shreeguru Dr. Balaji Tambe: Camphor-Ajwain for Breath; 2020][138]
+   - [Shreeguru Dr. Balaji Tambe: Camphor-Ajwain for Breath; 2020][138]
 
 There is also much [anecdotal evidence from clinicians][139] and patients who have used the technique to mitigate breathing difficulty in Covid-19 patients. [Ayurvedic Breathe Easy Potli][140] is a commercial product that uses this technique to alleviate cough, respiratory distress and improve overall respiratory health and immunity.
 
@@ -623,8 +592,7 @@ Local grocery or supermarket
 A great deal of anecdotal evidence from clinicians, such as [cardiologist Dr. Shilpa Dane's video testimony][141]. For example, "Sharing an Incident that happened with Mr. Pramod Malkan. His daughter-in-law was tested positive for Covid and oxygen level went down to 80-85 and immediate hospitalization was recommended. Being skeptical abt the treatments at hospitals, Mr. Pramod decided to use a home remedy instead. He mixed a cube of camphor with a spoon of carom seeds and tied it in a piece of cotton cloth. He then made her smell it 10-15 times with deep breaths and repeat the same action every two hours. Within 24 hrs her oxygen level went to 98-99 without any hospitalization. After this, he helped one of his friends who was hospitalized for covid with the same remedy and as a result, his friend was released from the hospital. Carom seeds is - ajwain अजवाइन (ओवा)"
 
 Reported to be stocked in ambulances, used to reoxygenate climbers and travellers in high altitude pilgrimage centers like Badrinath and Amarnath, and other Himalayan heights like Ladakh.
-
-[Ayurveda Acharya Dr. Balaji Tambe: Camphor-Ajwain for Breath][142]
+   - [Ayurveda Acharya Dr. Balaji Tambe: Camphor-Ajwain for Breath][142]
 
 A few other (indirect) references from research are cited in the "Status of Authorization" section.
 
@@ -641,25 +609,25 @@ Ayurveda, Integrative medicine
 
 ### Status of authorisation:
 **The following webpage documents the journey of the therapy, developed through the innovations of Dr. S. G. Kane and Vaidya Sarang Phadke and being used effectively in the Vaidya's clinic for over 16 years.**
-[Haldi-30 Ayurvedic Superactive Extract][143]
+   - [Haldi-30 Ayurvedic Superactive Extract][143]
 
 **Excerpt from the page:**
 The basic methodology for producing such an extremely bioactive extract of any herb was invented by Dr. S.G Kane, a chemical engineer and scientist who holds the worldwide process patent. Dr. Kane has invented this process for making extracts from any Ayurvedic herb, which results in creation of herb nano-particles in a low dose formulation that work at a deep cellular level. The further brainstorming and idea to use Turmeric super-active extract specifically for the coronavirus was Vaidya Sarang Phadke's own contribution, as was the specific dosage requirement in case of Covid-19. Vaidya Phadke came upon the dosage requirement – up to 5 times in a day – after researching several scientific studies which showed that frequent dosing is needed as Turmeric levels rapidly clear the bloodstream. Turmeric doesn’t work as effectively in any other form, but it works extremely well in this extract form because of the presence of bioactive nano-particles.
 
 **In Dr. Dravid's words:**
-**"I have made multiple attempts to reach out to the Central Government, mainly through the Ministry of Ayush, beginning first on August 15, 2020; I sent them a follow up reminder on the 20th of September. However, after receiving no response from Ayush, I made a complaint with the Prime Minister’s Grievance Cell, who did respond and forwarded my communication to Ayush, advising them to look into the matter.**
+   **"I have made multiple attempts to reach out to the Central Government, mainly through the Ministry of Ayush, beginning first on August 15, 2020; I sent them a follow up reminder on the 20th of September. However, after receiving no response from Ayush, I made a complaint with the Prime Minister’s Grievance Cell, who did respond and forwarded my communication to Ayush, advising them to look into the matter.**
 
-**Ayush sent my written clinical findings and data to the Central Council for Research in Ayurvedic Sciences to validate my claims. CCRAS further requested me to submit 45 case reports and I attended meetings with them over the course of two months. However, they later objected saying that after the patient recovery, I failed to have a repeat RTPCR test done proving the patients were negative. And so, they informed me, my claim was denied. This happened around January-February when the incidence of cases had declined, and so I didn’t bother further with the Ministry. But soon, March onward there was a sudden spike in cases again, and I sometimes would see as many as 15 Covid patients in a day. Again, I wrote back again to CCRAS, along with negative repeat test reports of the first 3 patients I had treated. I am also following up further with more cases with negative RTPCR test reports upon their recovery from my treatment.**
+   **Ayush sent my written clinical findings and data to the Central Council for Research in Ayurvedic Sciences to validate my claims. CCRAS further requested me to submit 45 case reports and I attended meetings with them over the course of two months. However, they later objected saying that after the patient recovery, I failed to have a repeat RTPCR test done proving the patients were negative. And so, they informed me, my claim was denied. This happened around January-February when the incidence of cases had declined, and so I didn’t bother further with the Ministry. But soon, March onward there was a sudden spike in cases again, and I sometimes would see as many as 15 Covid patients in a day. Again, I wrote back again to CCRAS, along with negative repeat test reports of the first 3 patients I had treated. I am also following up further with more cases with negative RTPCR test reports upon their recovery from my treatment.**
 
-**If the Government decides to accept these finding as valid, the true advantage to this extract medicine is that it is proven safe and non-toxic, both by empirical use in our country over generations as food, as well as in my own 16 years of clinical practice. Among the 200 patients treated by me, only two had mild side-effects of oral ulcers, which were immediately managed with additional Ayurvedic medicines. These patients were able to complete their course of treatment with no further issues. Across all ages from young children to the elderly this medicine is very safe.**
+   **If the Government decides to accept these finding as valid, the true advantage to this extract medicine is that it is proven safe and non-toxic, both by empirical use in our country over generations as food, as well as in my own 16 years of clinical practice. Among the 200 patients treated by me, only two had mild side-effects of oral ulcers, which were immediately managed with additional Ayurvedic medicines. These patients were able to complete their course of treatment with no further issues. Across all ages from young children to the elderly this medicine is very safe.**
 
-**If this medicine were to be used on a mass scale, because we are seeing a tremendous spike in cases at present India, it would be of great benefit. Every single case I have treated was managed effectively at the upper respiratory tract level, without ever getting worse and entering the lungs and without needing hospitalization.Indeed, this approach would reduce the current heavy burden on our hospitals and assuredly reduce the number of severe cases progressing to deaths.**
+   **If this medicine were to be used on a mass scale, because we are seeing a tremendous spike in cases at present India, it would be of great benefit. Every single case I have treated was managed effectively at the upper respiratory tract level, without ever getting worse and entering the lungs and without needing hospitalization.Indeed, this approach would reduce the current heavy burden on our hospitals and assuredly reduce the number of severe cases progressing to deaths.**
 
-**There are some pharmaceutical medicines now being used which have worked well such as Fabilu (Favipiravir), but they are very expensive, and produce side-effects as well;  instead of depending on such drugs, if Haldi-30 were to be widely used, it would not only be very cost effective, it would also improve the health outcomes on a mass level. Further, it would allay the extremely horrifying situation we are facing now.**
+   **There are some pharmaceutical medicines now being used which have worked well such as Fabilu (Favipiravir), but they are very expensive, and produce side-effects as well;  instead of depending on such drugs, if Haldi-30 were to be widely used, it would not only be very cost effective, it would also improve the health outcomes on a mass level. Further, it would allay the extremely horrifying situation we are facing now.**
 
-This medicine is easy to use, but as covid is a serious illness, I administer it to patients under my direct supervision, and monitor them closely on a daily basis over the phone while they are under treatment. I am cautious when monitoring patients, that if there is any change in symptoms, I order a chest X-ray to ensure that the infection hasn’t entered the lungs.
+   This medicine is easy to use, but as covid is a serious illness, I administer it to patients under my direct supervision, and monitor them closely on a daily basis over the phone while they are under treatment. I am cautious when monitoring patients, that if there is any change in symptoms, I order a chest X-ray to ensure that the infection hasn’t entered the lungs.
 
-Now there is a limit to how many cases I can manage myself alone. Although I may have researched and tested and verified the efficacy of this medicine, I have no desire or expectations of any monetary returns or benefit. As the medicine is very cost-effective, if the Government so decides, it could be made widely available to the public."
+   Now there is a limit to how many cases I can manage myself alone. Although I may have researched and tested and verified the efficacy of this medicine, I have no desire or expectations of any monetary returns or benefit. As the medicine is very cost-effective, if the Government so decides, it could be made widely available to the public."
 
 ### Protocol and treatment approach:
 **Excerpt from an interview given by Vaidya Sarang Phadke in April, 2021:**
