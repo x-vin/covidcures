@@ -662,8 +662,7 @@ As both Turmeric and Sesame oil are edible food substances, this extract is non-
 
 ### Suggested suppliers:
 **Find the nearest doctor offering Haldi 30 therapy here:**
-
-[Haldi-30][147]
+   - [Haldi-30][147]
 
 **Dr. Vikram Dravid** may be contacted for consultations and medical guidance at [http://vikramdravid.com](http://vikramdravid.com).
 

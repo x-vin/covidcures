@@ -26,7 +26,6 @@ The traditional remedy is not authorized in the US by the FDA.
 **Qing Fei Pai Du Tang is comprised of multiple concordant prescriptions, including Maxing Shigan decoction, Shegan Mahuang decoction, Xiaochaihu decoction, and Wuling powder, which contribute to the symptomatic efficacy of QFPD. It is based on 21 herbs from 4 different herbal formulas, originally found in the Shang Han Lun (Treatise on Cold Damage Diseases).** This Han dynasty clinical textbook was compiled by Zhang Zhongjing prior to 220 CE. A study of the pharmacological action of QFPD demonstrated that the therapy possessed **five functional modules including immune regulation, anti-infection, anti-inflammation, and multi-organ protection**, which is attributed to the multi-component, multi-target, and multi-pathway characteristics of QFPD.
 
 The herbs in Qing Fei Pai Du Tang are the following:
-
 1. Ma Huang 9g (Ephedra sinica)
 2. Zhi Gan Cao 6g (Glycyrrhiza glabra / Liquorice)
 3. Bai Zhu 9g (Atractylodes macrocephala)
@@ -53,7 +52,7 @@ The herbs in Qing Fei Pai Du Tang are the following:
 1-2 weeks
 
 ### Outcome:
-[Use of traditional Chinese medicine as an adjunctive treatment for COVID-19: A systematic review and meta-analysis][1]
+   - [Use of traditional Chinese medicine as an adjunctive treatment for COVID-19: A systematic review and meta-analysis][1]
 
 **Conclusions**: The integration of TCM with Western medicine has significantly improved the treatment for COVID-19 patients compared to Western medicine treatment alone. Combined therapy using TCM and Western medicine revealed the potential adjunctive role of TCM in treating COVID-19. A review of 483 studies on tens of thousands of adult patients, including a Randomized Controlled Trial, revealed that the combination with QFPD could significantly shorten the length of hospital stay compared with conventional treatment. Treatment started within a week of symptom onset was significantly associated with a reduction in the median duration of hospital stay of 1–4 days compared with later treatment. **A non-randomized study also found that the median length of hospital stay (16 days) in a combined group was significantly longer than the QFPD alone group (9 days). For the in-hospital mortality, studies indicated that the crude mortality was 1.2% among patients receiving QFPD and 4.8% among those not receiving QFPD. After adjustment for patient characteristics and concomitant treatments, the use of QFPD was associated with a relative reduction of 50% in in-hospital mortality.**
 
@@ -61,10 +60,7 @@ The herbs in Qing Fei Pai Du Tang are the following:
 TCM is, in general, and like other traditional systems of medicine, known to have fewer adverse effects than conventional allopathic medicine.
 
 Some herbs in the concoction are known to be toxic, and therefore it is necessary to consult with a knowledgeable physician or buy certified products with therapeutic quantities of the herbs. However, when therapeutic dosages are administered, no serious adverse reactions related to QFPD were observed. **A systematic review of hundreds of existing research articles revealed the rate of overall adverse reactions of QFPD to be low, often ranging from 3-6 %, including diarrhea, nausea and vomiting, skin itch, and symptoms were mild.**
-
-**The following study rates QFPD decoction as 1.0 on a safety indicator scaling of 0 to 1.0.**
-
-[Evaluating the Traditional Chinese Medicine (TCM) Officially Recommended in China for COVID-19 Using Ontology-Based Side-Effect Prediction Framework (OSPF) and Deep Learning; Zeheng Wang et al.; Journal of Ethnopharmacology; Feb 22, 2021][2]
+   - **The following study rates QFPD decoction as 1.0 on a safety indicator scaling of 0 to 1.0**: [Evaluating the Traditional Chinese Medicine (TCM) Officially Recommended in China for COVID-19 Using Ontology-Based Side-Effect Prediction Framework (OSPF) and Deep Learning; Zeheng Wang et al.; Journal of Ethnopharmacology; Feb 22, 2021][2]
 
 ### Recommended quantity for stocking:
 Recommended to stock QFPD for at least 60 servings for one individual, for a twice daily dosing for a month in the presence of symptoms.
@@ -108,10 +104,8 @@ Yes.
 ### Status of authorisation:
 **These six Traditional Chinese Medicine (TCM) recipes have been shown to be remarkably effective for treating patients with COVID-19.** In guidelines on fighting COVID-19, the Chinese National Health Commission (NHC) has recommended some traditional Chinese medicines (TCM), including Jinhua Qinggan granules, Lianhua Qingwen capsules, XueBijing injections, a Qingfei Paidu decoction, a Huashi Baidu decoction, and a Xuanfei Baidu decoction.
 
-One review, published in Phytomedicine in May, 2021, notes:
-**TCM is effective in preventing COVID-19, and medical staff can prevent an iatrogenic infection by taking a decoction made based on the principles of TCM. As of March 13, 2020, new cases of COVID-19 in China have decreased in number to single digits. TCM's curative effect was outstanding, with a national participation rate of over 90%. More than 70,000 people were cured of COVID-19 and discharged from the hospital. Only approximately 10,000 patients are currently being treated, and the total treatment time is approximately 2 months.**
-
-[Current status of traditional Chinese medicine for the treatment of COVID-19 in China; Liang Chu et al.; Chinese Medicine; July 27, 2021][18]
+One review, published in Phytomedicine in May, 2021, notes: **TCM is effective in preventing COVID-19, and medical staff can prevent an iatrogenic infection by taking a decoction made based on the principles of TCM. As of March 13, 2020, new cases of COVID-19 in China have decreased in number to single digits. TCM's curative effect was outstanding, with a national participation rate of over 90%. More than 70,000 people were cured of COVID-19 and discharged from the hospital. Only approximately 10,000 patients are currently being treated, and the total treatment time is approximately 2 months.**
+   - [Current status of traditional Chinese medicine for the treatment of COVID-19 in China; Liang Chu et al.; Chinese Medicine; July 27, 2021][18]
 
 ### Protocol and treatment approach:
 **There is detailed information about these 6 medications in the following scientific publication that appeared in Pharmacology & Therapeutics, Sep, 2021:**
@@ -142,9 +136,7 @@ Studies have identified these six traditional herbal medicines as being the most
 TCM is also effective in preventing COVID-19, and medical staff can prevent an iatrogenic infection by taking a decoction made based on the principles of TCM. Studies reveal that none of the medical staff was infected in the TCM hospitals or when using a TCM method like prophylaxing with a decoction containing Ganjiang Gancao.
 
 ### Significant side effects:
-[Evaluating the Traditional Chinese Medicine (TCM) Officially Recommended in China for COVID-19 Using Ontology-Based Side-Effect Prediction Framework (OSPF) and Deep Learning; Zeheng Wang et al.; Journal of Ethnopharmacology; Feb 22, 2021][21]
-
-According to this study, **QFPD decoction (or LCDD, used to mitigate both mild and severe cases) and HSBD (used in the treatment of severe cases) are the safest of these commonly prescribed effective medications graded 1.0 or perfectly safe on the safety indicator, closely followed by XFBD granules (used to treat moderate cases)- safety grading 0.85**- and LHQW capsules (recommended duiring medical observation, with a safety indicator grading of 0.2.
+   - [Evaluating the Traditional Chinese Medicine (TCM) Officially Recommended in China for COVID-19 Using Ontology-Based Side-Effect Prediction Framework (OSPF) and Deep Learning; Zeheng Wang et al.; Journal of Ethnopharmacology; Feb 22, 2021][21] - According to this study, **QFPD decoction (or LCDD, used to mitigate both mild and severe cases) and HSBD (used in the treatment of severe cases) are the safest of these commonly prescribed effective medications graded 1.0 or perfectly safe on the safety indicator, closely followed by XFBD granules (used to treat moderate cases)- safety grading 0.85**- and LHQW capsules (recommended duiring medical observation, with a safety indicator grading of 0.2.
 
 The commonly prescribed effective drugs with the least rating on the safety indicator scale are JHQG granules (recommended also during medical observation), graded 0.06, and XBJ (used in managing severe cases), graded 0.01.
 
@@ -269,7 +261,7 @@ Yes
 ### Further references:                          
    - [Thoughts on Traditional Chinese Medicine Treatment of Novel Coronavirus Pneumonia Based on Two Cases: Study involving a prescription of Rhizoma Zingiberis Recens or fresh ginger root, and Fructus jujube or Jujube fruit][41]
 				
-## CTYY
+                
 
 [1]: https://pubmed.ncbi.nlm.nih.gov/34397691/
 [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899032/
@@ -312,153 +304,3 @@ Yes
 [39]: http://planetayurveda.com/echinacea-capsules/
 [40]: https://www.medrxiv.org/content/10.1101/2021.12.23.21267893v1
 [41]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7852044/pdf/11655_2020_Article_3485.pdf
-[42]: 
-[43]: 
-[44]: 
-[45]: 
-[46]: 
-[47]: 
-[48]:  
-[49]: 
-[50]: 
-[51]: 
-[52]: 
-[53]: 
-[54]: 
-[55]: 
-[56]: 
-[57]: 
-[58]: 
-[59]: 
-[60]: 
-[61]: 
-[62]: 
-[63]: 
-[64]: 
-[65]: 
-[66]: 
-[67]: 
-[68]: 
-[69]: 
-[70]: 
-[71]: 
-[72]:
-[73]: 
-[74]: 
-[75]: 
-[76]: 
-[77]: 
-[78]: 
-[79]: 
-[80]:  
-[81]: 
-[82]: 
-[83]: 
-[84]: 
-[85]: 
-[86]: 
-[87]: 
-[88]: 
-[89]: 
-[90]: 
-[91]: 
-[92]: 
-[93]
-[94]
-[95]: 
-[96]: 
-[97]: 
-[98]: 
-[99]: 
-[100]:
-
-[101]: 
-[102]: 
-[106]: 
-[107]: 
-[108]: 
-[109]: 
-[110]: 
-[111]: 
-[112]: 
-[113]: 
-[114]: 
-[115]: 
-[116]: 
-[117]: 
-[118]: 
-[119]: 
-[120]: 
-[121]: 
-[122]: 
-[123]: 
-[124]: 
-[125]:
-[126]: 
-[127]: 
-[128]: 
-[129]: 
-[130]: 
-[131]: 
-[132]: 
-[133]: 
-[134]: 
-[135]: 
-[136]: 
-[137]: 
-[138]: 
-[139]: 
-[140]:  
-[163]: 
-[164]: 
-[165]: 
-[166]: 
-[167]: 
-[168]: 
-[169]: 
-[170]: 
-[171]: 
-[172]: 
-[173]: 
-[174]: 
-[175]: 
-[176]: 
-[177]: 
-[178]: 
-[179]: 
-[180]: 
-[181]: 
-[182]: 
-[183]: 
-[184]: 
-[185]: 
-[186]: 
-[187]: 
-[188]: 
-[189]: 
-[190]: 
-[191]: 
-[192]: 
-[193]: 
-[194]: 
-[195]: 
-[196]: 
-[197]: 
-[198]: 
-[199]: 
-[200]: 
-[206]: 
-[207]: 
-[208]: 
-[209]: 
-[210]: 
-[211]: 
-[212]: 
-[213]: 
-[214]: 
-[215]: 
-[216]: 
-[217]: 
-[218]: 
-[219]: 
-[220]: 
