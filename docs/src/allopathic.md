@@ -220,27 +220,21 @@ Rs. 60-100 for 10 200 mg HCQ tablets; significantly cheaper than treatment with 
 
 ### Suggested suppliers:
 Most ingredients should be readily available in local pharmacies, and many online suppliers such as Amazon are linked in the protocol section here itself.
-
-[Quercetin 700mg, Zinc, Vitamin C & D3 Supplement - Immune & Health Support Vitamins, by Zenrenu (100 vegetarian capsules) Rs. 2194][33]
-
+   - [Quercetin 700mg, Zinc, Vitamin C & D3 Supplement - Immune & Health Support Vitamins, by Zenrenu (100 vegetarian capsules) Rs. 2194][33]
 Some quercetin supplement brands, which are cited to contain quercetin dihydrate, which is said to be a highly bioavailable form of quercetin:
-
-[Amazing Formulas - Quercetin 500 Mg, 120 VCaps(Vegetarian Capsules) (Non-GMO,Gluten Free, Vegan) * Supports Cardiovascular Health, Helps Improve Anti-Inflammatory & Immune Response][34] ($ 20.98)
- 
-[Zinc Quercetin 120 Vegetarian  Capsules][35] ($ 19.50)
-
-[Life Extension Bio-Quercetin – Supports Immune & Cardiovascular Health – Gluten-Free, Once Daily, Non-GMO – 30 Vegetarian Capsules][36] ($ 10.46)
-
-[Telemedicine portals for Covid-19 prescriptions like Ivermectin][37]
+   - [Amazing Formulas - Quercetin 500 Mg, 120 VCaps(Vegetarian Capsules) (Non-GMO,Gluten Free, Vegan) * Supports Cardiovascular Health, Helps Improve Anti-Inflammatory & Immune Response][34] ($ 20.98)
+   - [Zinc Quercetin 120 Vegetarian  Capsules][35] ($ 19.50)
+   - [Life Extension Bio-Quercetin – Supports Immune & Cardiovascular Health – Gluten-Free, Once Daily, Non-GMO – 30 Vegetarian Capsules][36] ($ 10.46)
+   - [Telemedicine portals for Covid-19 prescriptions like Ivermectin][37]
 
 ### Further references:                          
 **Research articles evidencing efficacy of the protocol's therapeutic recommendations are embedded in the protocol itself.**
 
-[Zelenko Protocols against Covid-19][38]
+   - [Zelenko Protocols against Covid-19][38]
 
-[A webpage that is a veritable Rosetta Stone of information about effective and evidence-based allopathic treatment protocols for Covid-19: The Zelenko Protocol][39] 
+   - [A webpage that is a veritable Rosetta Stone of information about effective and evidence-based allopathic treatment protocols for Covid-19: The Zelenko Protocol][39] 
 
-[Vladimir Zelenko, MD][40]
+   - [Vladimir Zelenko, MD][40]
 
 [Dr. Zelenko's Z-Stack Vitamin Cocktail: Review 2021][41]
 

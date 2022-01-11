@@ -25,13 +25,13 @@ Dr. Ealy observes that **vaccines have safety concerns and breakthrough cases of
 
 (**Note**: When supplementing with vitamin D, it is [important also to supplement with sources of vitamin K2][1], and also [with Calcium and Magnesium][2] for [improved D absorption][3] and bone health.)
 
-""An ounce of Prevention is worth a pound of Cure."" The prestigious Linus Pauling Institute, Oregon State University, prescribed 4 key nutrients, not against the virus, but for the body's immunity to function in peak form- **vitamins D, C, and A, and the mineral Zinc**. Vitamin C kills viruses, D builds immunity, and Zinc inhibits viral replication in cells. **Zn is difficult to transport into cells and needs a Zinc ionophore like Hydroxychloroquine (HCQ)**, which was banned by policymakers in many Western regional administrations shortly after it was reported that HCQ would be an antidote to Covid-19. **The antioxidant quercetin has been shown to be a zinc ionophore**, published in a 2014 NIH study. Incidentally, **green tea and dark chocolate are rich in flavonols like Quercetin**.
+*"An ounce of Prevention is worth a pound of Cure."* The prestigious Linus Pauling Institute, Oregon State University, prescribed 4 key nutrients, not against the virus, but for the body's immunity to function in peak form- **vitamins D, C, and A, and the mineral Zinc**. Vitamin C kills viruses, D builds immunity, and Zinc inhibits viral replication in cells. **Zn is difficult to transport into cells and needs a Zinc ionophore like Hydroxychloroquine (HCQ)**, which was banned by policymakers in many Western regional administrations shortly after it was reported that HCQ would be an antidote to Covid-19. **The antioxidant quercetin has been shown to be a zinc ionophore**, published in a 2014 NIH study. Incidentally, **green tea and dark chocolate are rich in flavonols like Quercetin**.
 
 Studies have conclusively showed a strong correlation of degree of vitamin D deficiency and severity of Covid. **Glutathione**, which is an antoxidant manufactured in the body with plant foods, is another vital nutrient that kills infections. Glutathione opens up respiratory passageways and increases blood oxygen saturation. **N-Acetylcysteine (NAC)** is another vital and healing nutrient that converts in the body into the antoxidant Glutathione. In patients with pneumonia, the NAC thins out phlegm in the lungs so that it can be expectorated out.
 
 It is important to recognize that these healing nutrients need to be administered in optimal, therapeutic doses for their maximum benefits and minimal adverse effect. It is not widely appreciated that exposure to a pathogen does not necessarily lead to infection, and healthy immune systems are, in the vast majority of cases, able to deal with pathogens without succumbing to illness.
 
-There are other products that have been proven to be very effective at ""stopping the bandit at the door"", so to speak, such as disinfectant mouthwash and nasal spray. **Chlorhexadine** has been shown to kill 99 % of the Covid virus in a sample.
+There are other products that have been proven to be very effective at "stopping the bandit at the door", so to speak, such as disinfectant mouthwash and nasal spray. **Chlorhexadine** has been shown to kill 99 % of the Covid virus in a sample.
 
 There is substantial research showing that Covid-susceptible people are deficient in Bifidobacterium in their GI tract, often due to antibiotic use, making them susceptible to viral diseases. Dr. Ealy has never needed pharmaceutical drugs in his 20+ years in clinical practice, and therefore is not able to comment on the need for pharmaceutical medication like Ivermectin or HCQ. However there is much respect for the work of admirable physicians like Dr. Pierre Kory and Dr. Joseph Mercola. A notable exception, during the present pandemic, was the instance of one critically ill patient who developed pneumonia on the third day of infection and was refused conventional healthcare. He recovered under Dr. Ealy's care in just 8 days, with an IV infusion of the therapeutic nutrient cocktail called Myers' Cocktail, a liquid glutathione drip, Bifidobacteria, Ivermectin and Prednisone. Ivermectin helps in the same way that Bifidobacteria do. However, there is thus no ""magic bullet"" for this disease. It is important to explain to patients what is being done and why, and that they will recover soon and regain lifelong immunity,so that they are reassured about the course and predicted outcome of the treatment, thereby engaging their parasympathetic nervous system and relieving them of the stress and anxiety that are so correlated with poor treatment outcomes.
 
@@ -61,69 +61,44 @@ Dr. Ealy has treated many patients with Covid symptoms in his clinic using nutri
 
 ### Significant side effects:
 No adverse side effects are reported when the prescribed nutrients are used in therapeutic dosages in the long term. However it is important to be aware of the safest and most effective schedules for supplementation.
-
-[Washington Post: The best time of day to take common nutritional supplements][4]
+   - [Washington Post: The best time of day to take common nutritional supplements][4]
 
 ### Recommended quantity for stocking:
 Recommended to stock the nutrients for regular prophylactic use .
 
 ### Price:
-"Nutrient supplements can vary in pricing with the product brand and online store.
+Nutrient supplements can vary in pricing with the product brand and online store.
 
-Nutraceuticals have potential for boosting the type 1 interferon response to RNA viruses including influenza and coronavirus; Progress in Cardiovascular Diseases; Mark F. McCarty, James J. DiNicolantonio"
+Nutraceuticals have potential for boosting the type 1 interferon response to RNA viruses including influenza and coronavirus; Progress in Cardiovascular Diseases; Mark F. McCarty, James J. DiNicolantonio
 
 ### Suggested suppliers:
-[Renew Life Adult Probiotics 50 Billion CFU Guaranteed, 12 Strains, For Men & Women, Shelf Stable, Gluten Dairy & Soy Free, 30 Capsules, Ultimate Flora Extra Care][5]
-
-[Seeking Health ProBiota Bifido, 60 Capsules, Probiotic Supplement for Digestive Health, Bifido Only, Vegan- and Vegetarian-Friendly, Supports Colon Health and Immune System][6]
+   - [Renew Life Adult Probiotics 50 Billion CFU Guaranteed, 12 Strains, For Men & Women, Shelf Stable, Gluten Dairy & Soy Free, 30 Capsules, Ultimate Flora Extra Care][5]
+   - [Seeking Health ProBiota Bifido, 60 Capsules, Probiotic Supplement for Digestive Health, Bifido Only, Vegan- and Vegetarian-Friendly, Supports Colon Health and Immune System][6]
 
 ### Further references:
-[The Prevention of Covid-19, with Dr. Henry Ealy - Naturopathic Doctor and Holistc Nutritionist][7]
-
-[Intravenous nutrient therapy: the "Myers' cocktail"][8]
-
-[The Hydroxychloroquine Option][9]
-
-[Zinc ionophore activity of quercetin and epigallocatechin-gallate: from Hepa 1-6 cells to a liposome model][10]
-
-[List of 61+ probiotic strains found in kefir (including Bifidobacterium)][11]
-
-[Using Probiotics to Flatten the Curve of Coronavirus Disease COVID-2019 Pandemic][12]
-
-[Probiotics in Prevention and Treatment of COVID-19: Current Perspective and Future Prospects][13]
-
-[RUDN geneticist finds a bifidobacterial protein that can reduce inflammation in COVID-19][14]
-
-[3 Best Bifidobacterium Probiotics Without Lactobacillus, Including One With Both][15]
-
-[Energetic Health Institute: COVID-19 Updates][16]
-
-[Energy Health Institute: Top 7 Nutrients to Help You Survive Your Governor][17]
-
-[Health Freedom Advocacy Center | Stand For Health Freedom][18]
-
-[dailymail.co.uk: It is one of Covid's most distinctive and curious symptoms that affects over half of all sufferers... but what CAN you do to recover your sense of smell after contracting the virus? (Vitamin A)][19]
-
-[How COVID-19 vaccine can destroy your immune system: Informed consent disclosure to vaccine trial subjects of risk of COVID-19 vaccines worsening clinical disease; Cardozo & Veazey; Oct 28, 2020; International Journal of Clinical Practice][20]
-
-[Nutraceuticals have potential for boosting the type 1 interferon response to RNA viruses including influenza and coronavirus; Progress in Cardiovascular Diseases; Mark F. McCarty, James J. DiNicolantonio][21]
-
-[The Role of Glutathione in Protecting against the Severe Inflammatory Response Triggered by COVID-19; Francesca Silvagno et al.; Antioxidants; July, 2020][22]
-
-[covexit.com: Dr Henry Ealy Speaks about Vitamin D, COVID-19 & More; April 18, 2021][23]
-
-[American College of Allergy, Asthma and Immunology: Covid-19 and the use of vitamins and supplements; June 24, 2020][24]
-
-[U.S. Pharmacist: Common Supplements Might Reduce COVID Severity; July 10, 2020][25]
-
-[Authorea: Treatment of COVID-19 Patients with [QCB- Quercetin, vitamin C, Bromelain]: A Prospective, Single - Centre, Randomized, Controlled Trial; Hasan Onal et al.][26]
-
-[ZRT Laboratory: Naturopathic Therapy for Prevention and Support of Viral Illness- Part I; Tracy Tranchitella, ND; Dec 4, 2020][27]
-
-[Natural Supplements for COVID19—Background, Rationale, and Clinical Trials; Melody Hermel, MD, et al.; Journal of Evidence-Based Integrative Medicine; Aug 13, 2021][28]
-
-[Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][29]
-
+   - [The Prevention of Covid-19, with Dr. Henry Ealy - Naturopathic Doctor and Holistc Nutritionist][7]
+   - [Intravenous nutrient therapy: the "Myers' cocktail"][8]
+   - [The Hydroxychloroquine Option][9]
+   - [Zinc ionophore activity of quercetin and epigallocatechin-gallate: from Hepa 1-6 cells to a liposome model][10]
+   - [List of 61+ probiotic strains found in kefir (including Bifidobacterium)][11]
+   - [Using Probiotics to Flatten the Curve of Coronavirus Disease COVID-2019 Pandemic][12]
+   - [Probiotics in Prevention and Treatment of COVID-19: Current Perspective and Future Prospects][13]
+   - [RUDN geneticist finds a bifidobacterial protein that can reduce inflammation in COVID-19][14]
+   - [3 Best Bifidobacterium Probiotics Without Lactobacillus, Including One With Both][15]
+   - [Energetic Health Institute: COVID-19 Updates][16]
+   - [Energy Health Institute: Top 7 Nutrients to Help You Survive Your Governor][17]
+   - [Health Freedom Advocacy Center | Stand For Health Freedom][18]
+   - [dailymail.co.uk: It is one of Covid's most distinctive and curious symptoms that affects over half of all sufferers... but what CAN you do to recover your sense of smell after contracting the virus? (Vitamin A)][19]
+   - [How COVID-19 vaccine can destroy your immune system: Informed consent disclosure to vaccine trial subjects of risk of COVID-19 vaccines worsening clinical disease; Cardozo & Veazey; Oct 28, 2020; International Journal of Clinical Practice][20]
+   - [Nutraceuticals have potential for boosting the type 1 interferon response to RNA viruses including influenza and coronavirus; Progress in Cardiovascular Diseases; Mark F. McCarty, James J. DiNicolantonio][21]
+   - [The Role of Glutathione in Protecting against the Severe Inflammatory Response Triggered by COVID-19; Francesca Silvagno et al.; Antioxidants; July, 2020][22]
+   - [covexit.com: Dr Henry Ealy Speaks about Vitamin D, COVID-19 & More; April 18, 2021][23]
+   - [American College of Allergy, Asthma and Immunology: Covid-19 and the use of vitamins and supplements; June 24, 2020][24]
+   - [U.S. Pharmacist: Common Supplements Might Reduce COVID Severity; July 10, 2020][25]
+   - [Authorea: Treatment of COVID-19 Patients with [QCB- Quercetin, vitamin C, Bromelain]: A Prospective, Single - Centre, Randomized, Controlled Trial; Hasan Onal et al.][26]
+   - [ZRT Laboratory: Naturopathic Therapy for Prevention and Support of Viral Illness- Part I; Tracy Tranchitella, ND; Dec 4, 2020][27]
+   - [Natural Supplements for COVID19—Background, Rationale, and Clinical Trials; Melody Hermel, MD, et al.; Journal of Evidence-Based Integrative Medicine; Aug 13, 2021][28]
+   - [Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][29]
 
 ## 2. Acharya Arun Sharma's special recommendations in Nature Cure for prophylactic and mitigating protocols for Covid-19, and for mitigation of post-Covid syndrome
 
@@ -171,14 +146,11 @@ No additional expenses, other than buying organic
 Fruits and vegetables to be purchased from local groceries selling organic and fresh produce
 
 ### Further references:
-[Introductory Session on Post Covid Recovery with Nature Cure |5 Sessions Workshop by Dr. Arun Sharma][30]
-
-[Light as a potential treatment for pandemic coronavirus infections: A perspective; Chukuka Samuel Enwemeka et al.; Journal of Photochemistry and Photobiology; June, 2020][31]
-
-[Nature Cure Dr. Arun Sharma's workshop Part 1 of 5][32]
-[Nature Cure Dr. Arun Sharma's workshop Part 2 of 5][33]
-
-[A list of Acharya Arun Sharma's talks uploaded on YouTube channel WellCure][34]
+   - [Introductory Session on Post Covid Recovery with Nature Cure |5 Sessions Workshop by Dr. Arun Sharma][30]
+   - [Light as a potential treatment for pandemic coronavirus infections: A perspective; Chukuka Samuel Enwemeka et al.; Journal of Photochemistry and Photobiology; June, 2020][31]
+   - [Nature Cure Dr. Arun Sharma's workshop Part 1 of 5][32]
+   - [Nature Cure Dr. Arun Sharma's workshop Part 2 of 5][33]
+   - [A list of Acharya Arun Sharma's talks uploaded on YouTube channel WellCure][34]
 
 ## 3. Dr. Jacob Vadakkanchery's recommendations for prophylactic and mitigating protocols for Covid-19, and treatment of post-Covid syndrome
 
@@ -274,8 +246,8 @@ Lunch and dinner should each consist of two plates.
 **Plate 1 should be finished first before commencing Plate 2. One can eat as much as one likes from Plate 2.**
 Dinner should be finished by 7 PM.
 
-**Snacking:
-Between lunch and dinner, fruit juice, sprouts, dry fruits (only after soaking at least 4-5 hours in water), herbal tea, green leaves or coconut water can be consumed as snacks** to ward off hunger. The quantity consumed must not exceed as many grams as kilograms in body weight. For example, a person weighing 70 kilograms should not consume more than 70 grams of such snacks.
+**Snacking:**
+**Between lunch and dinner, fruit juice, sprouts, dry fruits (only after soaking at least 4-5 hours in water), herbal tea, green leaves or coconut water can be consumed as snacks** to ward off hunger. The quantity consumed must not exceed as many grams as kilograms in body weight. For example, a person weighing 70 kilograms should not consume more than 70 grams of such snacks.
 
 **Completely avoid all animal protein and unnatural foods, including the following items:**
 Animal proteins like eggs, meat, fish etc.
@@ -288,7 +260,6 @@ A healthy recovery and maintenance diet for patients with diabetes mellitus
 
 ### Outcome:
 According to Dr. BRC's research publications on the DIP Diet, after following the DIP Diet for 72 hours, it is reported that the following outcomes were observed among a group of 55 patients:
-
    - 57 % of type-1 diabetes patients eliminated insulin dependency and achieved a controlled blood glucose level*.
    - 100 % of type-2 diabetes patients were able to regain a healthy blood sugar level without medication.
    - 52 % of patients could free themselves of dependency on many kinds of medications, including those for B.P., cholesterol and acidity.
@@ -314,15 +285,11 @@ Everyday food items, moderately priced
 Fruits and vegetables for the diet are best sourced from local stores supplying organic food.
 
 ### Further references:
-[What is the DIP Diet?][35] 
-
-[Diabetes Reversal by Plant-Based Diet; Journal of Metabolic Syndrome, 2017; Biswaroop Roy Chowdhury, Medical nutritionist, Indo-Vietnam Medical Board][36] ([Alternate URL][37])
-
-[Reduction in Drugs Dosage: An Insight from Three Days App Based Dietary Intervention; JETIR, 2019; Dr. Biswaroop Roy Chowdhury, Dynamic Memory Pvt. Ltd., Faridabad, India][38] ([Alternate URL][39])
-
-General public update their recoveries from Covid by the 3-step flu diet and the DIP diet on this Telegram channel: [Dr. Biswaroop Roy Chowdhury][40]
-
-[RECIPES To Cure Lifestyle Diseases, by Neerja Roy Chowdhury][41]
+   - [What is the DIP Diet?][35] 
+   - [Diabetes Reversal by Plant-Based Diet; Journal of Metabolic Syndrome, 2017; Biswaroop Roy Chowdhury, Medical nutritionist, Indo-Vietnam Medical Board][36] ([Alternate URL][37])
+   - [Reduction in Drugs Dosage: An Insight from Three Days App Based Dietary Intervention; JETIR, 2019; Dr. Biswaroop Roy Chowdhury, Dynamic Memory Pvt. Ltd., Faridabad, India][38] ([Alternate URL][39])
+   - General public update their recoveries from Covid by the 3-step flu diet and the DIP diet on this Telegram channel: [Dr. Biswaroop Roy Chowdhury][40]
+   - [RECIPES To Cure Lifestyle Diseases, by Neerja Roy Chowdhury][41]
 
 ## 5. N.I.C.E.'s Three Step Flu Diet: 
 A reportedly highly effective ""N.I.C.E."" (Network of Influenza Care Experts) protocol published and used by NISA (Natural Immunization Support Alliance) to treat Covid-19 in its treatment camps, especially the Government of Maharashtra Covid Centre 
@@ -498,83 +465,45 @@ Most ingredients are likely to be stocked in every kitchen, or  procurable at gr
 
 ### Suggested suppliers:
 The protocol mostly uses everyday household ingredients, and fruits and vegetables are best sourced from local organic stores. The herbs used may either have to be collected from surrounding Nature, or consumed as Ayurvedic concoctions available at nearby Ayurvedic dispensaries.
-
-[Turmeric and Curcumin Supplements and Spices Review][64]
+   - [Turmeric and Curcumin Supplements and Spices Review][64]
 
 ### Further references:
-[N.I.C.E. helpline number: +91 8587059169][65]
-
-[The N.I.C.E. treatment protocol for influenza, fever and coronavirus can be downloaded at this URL][66]
-
-[N.I.C.E. way to Cure COVID-19, by Biswaroop Roy Chowdhury, available also in e-book format][67]
-
-[N.I.C.E. book references online][68]
-
-[The Physiological Burden of Prolonged PPE Use on Healthcare Workers during Long Shifts- CDC, June 10, 2020][69] 
-
-[Disposable surgical face masks for preventing surgical wound infection in clean surgery  Cochrane Database Syst Rev. 2012;1(CD002929)][70]
-
-[Hypercapnia Alters Expression of Immune Response, Nucleosome Assembly and Lipid Metabolism Genes in Differentiated Human Bronchial Epithelial Cells Scientific Reports volume8, Article number: 13508 (2018)][71] 
-
-[Facemask impact on human thermoregulation – The Annals of Occupational Hygiene- Jan 2020][72]
-
-Put on ventilator, 9 in 10 Covid-19 patients die; Live Science, April 23, 2020
-
-[Effect of palliative oxygen versus medical (room) air in relieving breathlessness in patients with refractory dyspnoea: A double-blinded randomized control trial; Cochrane Systematic Review; Nov 27, 2019][73]
-
-[Relieving breathlessness with hand-held fan; European Respiratory Journal 2017 50: 1701383; DOI:10.1183/13993003.01383-2017][74]
-
-[Higher versus lower fraction of inspired oxygen or targets of arterial oxygenation for adults admitted to the intensive care unit; Cochrane Systematic Review; Nov 27, 2019][75]
-
-[CORONA- The scandal of the millennium: Evidence base of the diagnosis of Corona Virus & the treatment of Covid-19][76]
-
-[Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals; Alba Grifoni, Daniela Weiskopf; Cell][77]
-
-General public update their recoveries from Covid by the 3-step flu diet and the DIP diet on this Telegram channel: [Dr. Biswaroop Roy Chowdhury][78]
-
-[RECIPES To Cure Lifestyle Diseases, by Neerja Roy Chowdhury][79]
-
-[Light as a potential treatment for pandemic coronavirus infections: A perspective; Chukuka Samuel Enwemeka et al.; Journal of Photochemistry and Photobiology; June, 2020][80]
-
-[The Sun: Gargling salt water could kill off coronavirus, say Edinburgh University medics; Katy Pagan; May, 2020][81]
-
-[ToI: Turmeric, neem effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][82]
-
-[Do saline water gargling and nasal irrigation confer protection against COVID-19?; Prashant Panta; Elsevier Public Health Emergency Covid-19 Initiative; Mar-Apr, 2021][83]
-
-In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ:
-[Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][84]
-
-[Biological activities of curcuminoids, other biomolecules from turmeric and their derivatives – A review; Augustine Amalraj et al.; Journal of Traditional and Complementary Medicine; April, 2017][85]
-
-[Potential use of Turmeric in COVID‐19; H. Gupta et al.; Clinical and Experimental Dermatology; July 1, 2020][86]
-
-[Hypertonic saline nasal irrigation and gargling should be considered as a treatment option for COVID-19; Sandeep Ramalingam et al.; Journal of Public Health; 2020][87]
-
-[Effects of Ginger and Its Constituents on Airway Smooth Muscle Relaxation and Calcium Regulation; Elizabeth A. Townsend et al.; American Journal of Respiratory Cell and Molecular Biology; Feb, 2013][88]
-
-[Fresh ginger (Zingiber officinale) has anti-viral activity against human respiratory syncytial virus in human respiratory tract cell lines; Jung San Chang et al.; Journal of Ethnopharmacology; Jan 9, 2013][89]
-
-A comprehensive website on turmeric:
-[turmericforhealth.com](http://turmericforhealth.com/): [Health Benefits of Black Pepper and Turmeric][90]
-
-[lybrate.com: Health Benefits Of Peepal Tree, Uses And Its Side Effects][91]
-
-[(Hindi) YouTube.com: Dr Biswaroop Roy Chowdhury DIP Diet on Dr Khadar Vali's Millet-Based Diet, Gives 110% Benefits | Healthy Food][92]
-
-[(Hindi) YouTube.com: Kheti Viraasat Mission | Towards Health with Millets: A talk by Dr Khadar Wali at village Sohangarh Rattewala][93]
-
-[Spices and herbs: Potential antiviral preventives and immunity boosters during Covid-19- Curcumin, Cinnamon, Ginger, Clove, Black pepper, Garlic, Neem, Giloy, Holy basil ; Namita Ashish Singh et al.; Phytotherapy Research; Jan 29, 2021][94]
-
-[NDTV - Food: 8 Incredible Mustard Oil Benefits That Make It So Popular; Plavaneeta Borah; March 26, 2018][95]
-
-[Treatment of COVID-19 patients: Justicia adhatoda leaves extract is a strong remedy for COVID-19 – Case report analysis and docking based study; Abhrajit & Arijit Bag; Biological and Medicinal Chemistry; May 27, 2020][96]
-
-[Medicinal plant vasaka could be a therapeutic option for the management of COVID-19 symptoms; Hari Khanal et al.; Journal of Medicinal Plants Studies; Oct, 2020][97]
-
-[Sencha tea bar: Banana Tea For Sleep: Does It Work Plus A Tasty Recipe (A well-researched popular science article)][98]
-
-[Perspectives on plant flavonoid quercetin-based drugs for novel SARS-CoV-2; Manjesh Saakre et al.; Beni-Suef University Journal of Basic and Applied Sciences; Mar 24, 2021][99]
+   - [N.I.C.E. helpline number: +91 8587059169][65]
+   - [The N.I.C.E. treatment protocol for influenza, fever and coronavirus can be downloaded at this URL][66]
+   - [N.I.C.E. way to Cure COVID-19, by Biswaroop Roy Chowdhury, available also in e-book format][67]
+   - [N.I.C.E. book references online][68]
+   - [The Physiological Burden of Prolonged PPE Use on Healthcare Workers during Long Shifts- CDC, June 10, 2020][69] 
+   - [Disposable surgical face masks for preventing surgical wound infection in clean surgery  Cochrane Database Syst Rev. 2012;1(CD002929)][70]
+   - [Hypercapnia Alters Expression of Immune Response, Nucleosome Assembly and Lipid Metabolism Genes in Differentiated Human Bronchial Epithelial Cells Scientific Reports volume8, Article number: 13508 (2018)][71] 
+   - [Facemask impact on human thermoregulation – The Annals of Occupational Hygiene- Jan 2020][72]
+   - Put on ventilator, 9 in 10 Covid-19 patients die; Live Science, April 23, 2020
+   - [Effect of palliative oxygen versus medical (room) air in relieving breathlessness in patients with refractory dyspnoea: A double-blinded randomized control trial; Cochrane Systematic Review; Nov 27, 2019][73]
+   - [Relieving breathlessness with hand-held fan; European Respiratory Journal 2017 50: 1701383; DOI:10.1183/13993003.01383-2017][74]
+   - [Higher versus lower fraction of inspired oxygen or targets of arterial oxygenation for adults admitted to the intensive care unit; Cochrane Systematic Review; Nov 27, 2019][75]
+   - [CORONA- The scandal of the millennium: Evidence base of the diagnosis of Corona Virus & the treatment of Covid-19][76]
+   - [Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals; Alba Grifoni, Daniela Weiskopf; Cell][77]
+   - General public update their recoveries from Covid by the 3-step flu diet and the DIP diet on this Telegram channel: [Dr. Biswaroop Roy Chowdhury][78]
+   - [RECIPES To Cure Lifestyle Diseases, by Neerja Roy Chowdhury][79]
+   - [Light as a potential treatment for pandemic coronavirus infections: A perspective; Chukuka Samuel Enwemeka et al.; Journal of Photochemistry and Photobiology; June, 2020][80]
+   - [The Sun: Gargling salt water could kill off coronavirus, say Edinburgh University medics; Katy Pagan; May, 2020][81]
+   - [ToI: Turmeric, neem effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][82]
+   - [Do saline water gargling and nasal irrigation confer protection against COVID-19?; Prashant Panta; Elsevier Public Health Emergency Covid-19 Initiative; Mar-Apr, 2021][83]
+   - In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ: [Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][84]
+   - [Biological activities of curcuminoids, other biomolecules from turmeric and their derivatives – A review; Augustine Amalraj et al.; Journal of Traditional and Complementary Medicine; April, 2017][85]
+   - [Potential use of Turmeric in COVID‐19; H. Gupta et al.; Clinical and Experimental Dermatology; July 1, 2020][86]
+   - [Hypertonic saline nasal irrigation and gargling should be considered as a treatment option for COVID-19; Sandeep Ramalingam et al.; Journal of Public Health; 2020][87]
+   - [Effects of Ginger and Its Constituents on Airway Smooth Muscle Relaxation and Calcium Regulation; Elizabeth A. Townsend et al.; American Journal of Respiratory Cell and Molecular Biology; Feb, 2013][88]
+   - [Fresh ginger (Zingiber officinale) has anti-viral activity against human respiratory syncytial virus in human respiratory tract cell lines; Jung San Chang et al.; Journal of Ethnopharmacology; Jan 9, 2013][89]
+   - A comprehensive website on turmeric, [turmericforhealth.com](http://turmericforhealth.com/): [Health Benefits of Black Pepper and Turmeric][90]
+   - [lybrate.com: Health Benefits Of Peepal Tree, Uses And Its Side Effects][91]
+   - [(Hindi) YouTube.com: Dr Biswaroop Roy Chowdhury DIP Diet on Dr Khadar Vali's Millet-Based Diet, Gives 110% Benefits | Healthy Food][92]
+   - [(Hindi) YouTube.com: Kheti Viraasat Mission | Towards Health with Millets: A talk by Dr Khadar Wali at village Sohangarh Rattewala][93]
+   - [Spices and herbs: Potential antiviral preventives and immunity boosters during Covid-19- Curcumin, Cinnamon, Ginger, Clove, Black pepper, Garlic, Neem, Giloy, Holy basil ; Namita Ashish Singh et al.; Phytotherapy Research; Jan 29, 2021][94]
+   - [NDTV - Food: 8 Incredible Mustard Oil Benefits That Make It So Popular; Plavaneeta Borah; March 26, 2018][95]
+   - [Treatment of COVID-19 patients: Justicia adhatoda leaves extract is a strong remedy for COVID-19 – Case report analysis and docking based study; Abhrajit & Arijit Bag; Biological and Medicinal Chemistry; May 27, 2020][96]
+   - [Medicinal plant vasaka could be a therapeutic option for the management of COVID-19 symptoms; Hari Khanal et al.; Journal of Medicinal Plants Studies; Oct, 2020][97]
+   - [Sencha tea bar: Banana Tea For Sleep: Does It Work Plus A Tasty Recipe (A well-researched popular science article)][98]
+   - [Perspectives on plant flavonoid quercetin-based drugs for novel SARS-CoV-2; Manjesh Saakre et al.; Beni-Suef University Journal of Basic and Applied Sciences; Mar 24, 2021][99]
 
 ## 6. General naturopathic regimen for any active infection
 
@@ -640,40 +569,23 @@ NA
 
 ### Further references:
 There are a vast number of online sources to learn the naturopathic or natural living approach to healthcare. A few of these are shared below:
-
-[Perspectives on plant flavonoid quercetin-based drugs for novel SARS-CoV-2; Manjesh Saakre et al.; Beni-Suef University Journal of Basic and Applied Sciences; Mar 24, 2021][107]
-
-[healthifyme.com: Top 10 Foods to Build your Immune System; Alpa Momaya; Oct 17, 2021][108]
-
-[Yoga for common cold, fever and typhoid: Swami Ramdev shows asanas and ayurvedic remedies][109]
-
-[Modified Bhramari Pranayama in Covid 19 Infection; M. K. Taneja; May 20, 2020; Indian Journal of Otolaryngology and Head & Neck Surgery][110]
-
-[Yoga for Strong Lungs | Swami Ramdev shares pranayamas to maintain lungs health][111]
-
-[COVID 19: 6 natural remedies that'll help you take care of your heart health][112]
-
-[healthifyme.com: Top 9 Home-Made Drinks to Strengthen your Immune System; Alpa Momaya][113]
-
-[Green tea, pomegranate juice and other herbs inhibit Covid-19: Study][114]
-
-[Turmeric, green tea can prevent Covid: Utkal University study][115]
-
-[People 'significantly less likely to catch Covid' if they have high-quality diet][116]
-
-[Consumer Health Digest: Does Drinking Water Before Meal Makes You Much Fitter][117]
-
-[An article that discusses the pronounced anti-inflammatory properties of several common fruits and herbs; in particular, the fruits, pomegranate, papaya,  pineapple and grapefruit, the spices, turmeric, ginger, Oregano and Cayenne pepper, and other medicinal plants like Willow bark, Nettle and propolis (a resinous substance made by bees, present in raw and unrefined honey, which is found to be of medicinal value): 10 Best Anti-Inflammatory Supplements][118]
-
-[Immune's-boosting agent: Immunomodulation potentials of propolis; Mohammed Al-Hariri; Journal of Family & Community Medicine; Jan-Apr, 2019][119]
-
-[Light as a potential treatment for pandemic coronavirus infections: A perspective; Chukuka Samuel Enwemeka et al.; Journal of Photochemistry and Photobiology; June, 2020][120]
-
-**[Vikaspedia: Naturopathy][121]**
-
-[The Benefits of Fasting to Improve Health Conditions and to Prevent Cardiovascular Disease; Wahyu Sukma Samudera et al.; Jurnal NERS; Jan, 2020][122]
-
-[Scientific Evidence-Based Effects of Hydrotherapy on Various Systems of the Body; Mooventhan & Nivethitha; North American Journal of Medical Sciences; May, 2014][123]
+   - [Perspectives on plant flavonoid quercetin-based drugs for novel SARS-CoV-2; Manjesh Saakre et al.; Beni-Suef University Journal of Basic and Applied Sciences; Mar 24, 2021][107]
+   - [healthifyme.com: Top 10 Foods to Build your Immune System; Alpa Momaya; Oct 17, 2021][108]
+   - [Yoga for common cold, fever and typhoid: Swami Ramdev shows asanas and ayurvedic remedies][109]
+   - [Modified Bhramari Pranayama in Covid 19 Infection; M. K. Taneja; May 20, 2020; Indian Journal of Otolaryngology and Head & Neck Surgery][110]
+   - [Yoga for Strong Lungs | Swami Ramdev shares pranayamas to maintain lungs health][111]
+   - [COVID 19: 6 natural remedies that'll help you take care of your heart health][112]
+   - [healthifyme.com: Top 9 Home-Made Drinks to Strengthen your Immune System; Alpa Momaya][113]
+   - [Green tea, pomegranate juice and other herbs inhibit Covid-19: Study][114]
+   - [Turmeric, green tea can prevent Covid: Utkal University study][115]
+   - [People 'significantly less likely to catch Covid' if they have high-quality diet][116]
+   - [Consumer Health Digest: Does Drinking Water Before Meal Makes You Much Fitter][117]
+   - [An article that discusses the pronounced anti-inflammatory properties of several common fruits and herbs; in particular, the fruits, pomegranate, papaya,  pineapple and grapefruit, the spices, turmeric, ginger, Oregano and Cayenne pepper, and other medicinal plants like Willow bark, Nettle and propolis (a resinous substance made by bees, present in raw and unrefined honey, which is found to be of medicinal value): 10 Best Anti-Inflammatory Supplements][118]
+   - [Immune's-boosting agent: Immunomodulation potentials of propolis; Mohammed Al-Hariri; Journal of Family & Community Medicine; Jan-Apr, 2019][119]
+   - [Light as a potential treatment for pandemic coronavirus infections: A perspective; Chukuka Samuel Enwemeka et al.; Journal of Photochemistry and Photobiology; June, 2020][120]
+   - **[Vikaspedia: Naturopathy][121]**
+   - [The Benefits of Fasting to Improve Health Conditions and to Prevent Cardiovascular Disease; Wahyu Sukma Samudera et al.; Jurnal NERS; Jan, 2020][122]
+   - [Scientific Evidence-Based Effects of Hydrotherapy on Various Systems of the Body; Mooventhan & Nivethitha; North American Journal of Medical Sciences; May, 2014][123]
 
 ## 7. Dr. Eapen Koshy's prescription for prevention through raising natural immunity by alkalizing the body
 
@@ -733,31 +645,19 @@ Commonly stocked in kitchens, no extra cost
 Local grocers
 
 ### Further references:
-[Covid-19 pandemic Q/A with Dr. Eapen Koshy | Lagos, Nigeria | Sri. P.V Behanan][124]
-
-[Fighting Covid the alkaline way, a doctor shows how][125]
-
-[Doctor shows how to fight Covid the alkaline way in his new book (Survive COVID: By Staying Alkaline); May 19, 2021][126]
-
-[Covid19 | Dr Eapen Koshy | covid19 prevention |corona prevention][127]
-
-[DXN in current times By ECD Dr. Eapen Koshy | Immunity | Alkaline Food][128]
-
-[Fresh ginger (Zingiber officinale) has anti-viral activity against human respiratory syncytial virus in human respiratory tract cell lines; Jung San Chang et al.; Journal of Ethnopharmacology; Jan 9, 2013][129]
-
-[medicalnewstoday.com: How ginger can help with a cold | Is it effective? | Properties | How to use | Ginger and honey | Summary; Louisa Richards & Debra Rose Wilson, PhD, RN; May 11, 2020][130]
-
-[india.com: Benefits of Ginger in COVID-19: Fight Lung Infection By Adding Ginger in Kadha or Tea Home Remedies: Benefits of Ginger and how it saves you against coronavirus and other lung infections; Sept 6, 2020][131]
-
-[webmd.com: Ginger- Overview | Uses | Side Effects | Precautions | Interactions | Dosing][132]
-
-[The anti-inflammatory food constituents Allicin and Selenium are found in garlic: Immune-Boosting, Antioxidant and Anti-inflammatory Food Supplements Targeting Pathogenesis of COVID-19 (Zinc, Vitamin D, Vitamin C, Curcumin, Cinnamaldehyde, Allicin, Piperine, Selenium, Propolis, Probiotics, Lactoferrin, Quercetin); M. Mrityunjaya et al.; Frontiers in Immunology; Oct 7, 2020][133]
-
-[Short-term heating reduces the anti-inflammatory effects of fresh raw garlic extracts on the LPS-induced production of NO and pro-inflammatory cytokines by downregulating allicin activity in RAW 264.7 macrophages; Jung-Hye Shin et al.; Food and Chemical Toxicology; Aug, 2013][134]
-
-[Antiviral potential of garlic (Allium sativum) and its organosulfur compounds: A systematic update of pre-clinical and clinical data; Razina Rouf et al.; Trends in Food Science and Technology; Aug, 2020][135]
-
-[Targeting COVID-19 (SARS-CoV-2) main protease through active phytocompounds of ayurvedic medicinal plants – Emblica officinalis (Amla), Phyllanthus niruri Linn. (Bhumi Amla) and Tinospora cordifolia (Giloy) – A molecular docking and simulation study; Selvakumar Murugesan et al.; Computational Biology and Medicine; Sep, 2021][136]
+   - [Covid-19 pandemic Q/A with Dr. Eapen Koshy | Lagos, Nigeria | Sri. P.V Behanan][124]
+   - [Fighting Covid the alkaline way, a doctor shows how][125]
+   - [Doctor shows how to fight Covid the alkaline way in his new book (Survive COVID: By Staying Alkaline); May 19, 2021][126]
+   - [Covid19 | Dr Eapen Koshy | covid19 prevention |corona prevention][127]
+   - [DXN in current times By ECD Dr. Eapen Koshy | Immunity | Alkaline Food][128]
+   - [Fresh ginger (Zingiber officinale) has anti-viral activity against human respiratory syncytial virus in human respiratory tract cell lines; Jung San Chang et al.; Journal of Ethnopharmacology; Jan 9, 2013][129]
+   - [medicalnewstoday.com: How ginger can help with a cold | Is it effective? | Properties | How to use | Ginger and honey | Summary; Louisa Richards & Debra Rose Wilson, PhD, RN; May 11, 2020][130]
+   - [india.com: Benefits of Ginger in COVID-19: Fight Lung Infection By Adding Ginger in Kadha or Tea Home Remedies: Benefits of Ginger and how it saves you against coronavirus and other lung infections; Sept 6, 2020][131]
+   - [webmd.com: Ginger- Overview | Uses | Side Effects | Precautions | Interactions | Dosing][132]
+   - [The anti-inflammatory food constituents Allicin and Selenium are found in garlic: Immune-Boosting, Antioxidant and Anti-inflammatory Food Supplements Targeting Pathogenesis of COVID-19 (Zinc, Vitamin D, Vitamin C, Curcumin, Cinnamaldehyde, Allicin, Piperine, Selenium, Propolis, Probiotics, Lactoferrin, Quercetin); M. Mrityunjaya et al.; Frontiers in Immunology; Oct 7, 2020][133]
+   - [Short-term heating reduces the anti-inflammatory effects of fresh raw garlic extracts on the LPS-induced production of NO and pro-inflammatory cytokines by downregulating allicin activity in RAW 264.7 macrophages; Jung-Hye Shin et al.; Food and Chemical Toxicology; Aug, 2013][134]
+   - [Antiviral potential of garlic (Allium sativum) and its organosulfur compounds: A systematic update of pre-clinical and clinical data; Razina Rouf et al.; Trends in Food Science and Technology; Aug, 2020][135]
+   - [Targeting COVID-19 (SARS-CoV-2) main protease through active phytocompounds of ayurvedic medicinal plants – Emblica officinalis (Amla), Phyllanthus niruri Linn. (Bhumi Amla) and Tinospora cordifolia (Giloy) – A molecular docking and simulation study; Selvakumar Murugesan et al.; Computational Biology and Medicine; Sep, 2021][136]
 
 ## 8. Dr. Bryan Ardis' Natural Protocol for Covid-19
 
@@ -804,7 +704,7 @@ No significant side effects reported of therapeutic dosages of vitamins and othe
 Local and online pharmaceutical suppliers
 
 ### Further references:
-[PINE TEA: Possible Antidote for Spike Protein Transmission][137]
+   - [PINE TEA: Possible Antidote for Spike Protein Transmission][137]
 
 ## 9. Camphor + Ajwain / Carom seeds + Lavang / Cloves + Eucalyptus oil aromatic pouch / Potli for inhalation
 
@@ -861,8 +761,7 @@ Local grocery or supermarket
 A great deal of anecdotal evidence from clinicians, such as [cardiologist Dr. Shilpa Dane's video testimony][153]. For example, ""Sharing an Incident that happened with Mr. Pramod Malkan. His daughter-in-law was tested positive for Covid and oxygen level went down to 80-85 and immediate hospitalization was recommended. Being skeptical abt the treatments at hospitals, Mr. Pramod decided to use a home remedy instead. He mixed a cube of camphor with a spoon of carom seeds and tied it in a piece of cotton cloth. He then made her smell it 10-15 times with deep breaths and repeat the same action every two hours. Within 24 hrs her oxygen level went to 98-99 without any hospitalization. After this, he helped one of his friends who was hospitalized for covid with the same remedy and as a result, his friend was released from the hospital. Carom seeds is - ajwain अजवाइन (ओवा)""
 
 Reported to be stocked in ambulances, used to reoxygenate climbers and travellers in high altitude pilgrimage centers like Badrinath and Amarnath, and other Himalayan heights like Ladakh.
-
-[Ayurveda Acharya Dr. Balaji Tambe: Camphor-Ajwain for Breath][154]
+   - [Ayurveda Acharya Dr. Balaji Tambe: Camphor-Ajwain for Breath][154]
 
 A few other (indirect) references from research are cited in the "Status of Authorization" section.
 
@@ -904,9 +803,8 @@ Common Indian kitchen ingredients
 Local (Indian) grocery stores
 
 ### Further references:
-[Spices and herbs: Potential antiviral preventives and immunity boosters during COVID‐19; Namita Ashish Singh et al.; Phytotherapy Research; Jan 29, 2021][155]
-
-[The Hindu: COVID-19: Immunity boosters you can make at home; Mar 16, 2020][156]
+   - [Spices and herbs: Potential antiviral preventives and immunity boosters during COVID‐19; Namita Ashish Singh et al.; Phytotherapy Research; Jan 29, 2021][155]
+   - [The Hindu: COVID-19: Immunity boosters you can make at home; Mar 16, 2020][156]
 
 ## 12. A variety of anti-inflammatory herbal teas and other home remedies, containing nutrients and other properties that are potently beneficial to the immune system
 
@@ -1009,65 +907,36 @@ Ordinary kitchen ingredients
 
 ### Suggested suppliers:
 Kitchen ingredients that are regularly used in Indian cooking.
-
-[Gaia Herbs: 11 Best Herbs to Support Lung and Respiratory Health][162]
+   - [Gaia Herbs: 11 Best Herbs to Support Lung and Respiratory Health][162]
 
 ### Further references:
-An earnest but informal personal blog on Ayurvedic remedies (iahas.com):
-[Asthma and Wheezing][163]
-
-[thealternativedaily.com: 6 Teas That Reduce Inflammation In The Body][164]
-
-[healthline.com: 6 Powerful Teas That Fight Inflammation][165]
-
-[Total Polyphenol Content and Antioxidant Capacity of Tea Bags: Comparison of Black, Green, Red Rooibos, Chamomile and Peppermint over Different Steep Times; Riley Cleverdon et al.; Beverages; Feb, 2018][166]
-
-[Monitoring and Risk Assessment of Pesticide Residues in Tea Samples from China; Jie Feng et al.; Human and Ecological Risk Assessment; Aug, 2014][167]
-
-[Some Doctors Are Serving This Kind of Tea to Fight COVID-19: Another hint about what to drink to help boost immunity against COVID-19.][168]
-
-[Immunity booster vs COVID-19: Turmeric-ginger-garlic tea][169]
-
-[WebMD: Ginseng][170]
-
-[Verywellhealth.com: What Is American Ginseng? This medicinal root may fight fatigue and prevent colds][171]
-
-[WebMD: Licorice Root Tea: Is It Good For You?][172]
-
-[WebMD: Nettle leaf tea][173]
-
-[WikiHow: How to Make American Ginseng Tea][174]
-
-[healthline.com: The Health Benefits of Nettle Tea][175]
-
-[The Immunomodulatory and Anti-Inflammatory Role of Polyphenols; Nour Yahfoufi et al.; Nutrients; 2018][176]
-
-[Dietary therapy and herbal medicine for COVID-19 prevention: A review and perspective; Suraphan Panyod et al.; Journal of Traditional Complementary Medicine; 2020][177]
-
-[Corona-Cov-2 (COVID-19) and [Korean Red] Ginseng: Comparison of possible use in COVID-19 and influenza; Wok Sik Lee et al.; Journal of Ginseng Research; 2021][178]
-
-[healthline.com: 15 Impressive Herbs with Antiviral Activity][179]: Includes the commonly used spices of European Continental cuisine, Rosemary, Sage, Oregano, Basil, Ginger, Garlic, Fennel and Peppermint, as well as Liquorice, Lemon balm, Dandelion, Ginseng, Echinacea (i.e. Green chiretta / Kaalamegha / Nilavempu), Astragalus and Sambucus.
-
-[RECIPES To Cure Lifestyle Diseases, by Neerja Roy Chowdhury][180]
-
-[researchgate.net: Common dandelion (Taraxacum officinale) efficiently blocks the interaction between ACE2 cell surface receptor and SARS-CoV-2 spike protein D614, mutants D614G, N501Y, K417N and E484K in vitro; Hoai Thi Thu Tran; March, 2021][181]
-
-[news-medical.net: Sage and perilla herbal teas could help to prevent or treat Covid-19; Sally Robertson, B.Sc.; Nov 22, 2020][182]
-
-[Appropriate use of essential oils and their components in the management of upper respiratory tract symptoms in patients with COVID-19; Marco Valussi; Journal of Herbal Medicine; Aug, 2021][183]
-
-[gosumitup.com: All About Sage- Know Your Spice Salvia Officinalis][184]
-
-[news-medical.net: Sage and perilla herbal teas could help to prevent or treat COVID-19; Sally Robertson, B. Sc.; Nov, 2020][185]
-
-[Eat This, Not That!: Some Doctors Are Serving This Kind of Tea (Turmeric Tea) to Fight COVID-19; Krissy Gasbarre; April 5, 2021][186]
-
-In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ:
-[Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][187]
-
-[Times Of India: Expert-Approved Turmeric Immunity-Boosting Concoction That You Must Drink Daily; April 15, 2021][188]
-
-[Hindustan Times: Why drinking warm water with honey can be harmful for you as per Ayurveda; Nov 24, 2021][189]
+   - An earnest but informal personal blog on Ayurvedic remedies (iahas.com): [Asthma and Wheezing][163]
+   - [thealternativedaily.com: 6 Teas That Reduce Inflammation In The Body][164]
+   - [healthline.com: 6 Powerful Teas That Fight Inflammation][165]
+   - [Total Polyphenol Content and Antioxidant Capacity of Tea Bags: Comparison of Black, Green, Red Rooibos, Chamomile and Peppermint over Different Steep Times; Riley Cleverdon et al.; Beverages; Feb, 2018][166]
+   - [Monitoring and Risk Assessment of Pesticide Residues in Tea Samples from China; Jie Feng et al.; Human and Ecological Risk Assessment; Aug, 2014][167]
+   - [Some Doctors Are Serving This Kind of Tea to Fight COVID-19: Another hint about what to drink to help boost immunity against COVID-19.][168]
+   - [Immunity booster vs COVID-19: Turmeric-ginger-garlic tea][169]
+   - [WebMD: Ginseng][170]
+   - [Verywellhealth.com: What Is American Ginseng? This medicinal root may fight fatigue and prevent colds][171]
+   - [WebMD: Licorice Root Tea: Is It Good For You?][172]
+   - [WebMD: Nettle leaf tea][173]
+   - [WikiHow: How to Make American Ginseng Tea][174]
+   - [healthline.com: The Health Benefits of Nettle Tea][175]
+   - [The Immunomodulatory and Anti-Inflammatory Role of Polyphenols; Nour Yahfoufi et al.; Nutrients; 2018][176]
+   - [Dietary therapy and herbal medicine for COVID-19 prevention: A review and perspective; Suraphan Panyod et al.; Journal of Traditional Complementary Medicine; 2020][177]
+   - [Corona-Cov-2 (COVID-19) and [Korean Red] Ginseng: Comparison of possible use in COVID-19 and influenza; Wok Sik Lee et al.; Journal of Ginseng Research; 2021][178]
+   - [healthline.com: 15 Impressive Herbs with Antiviral Activity][179]: Includes the commonly used spices of European Continental cuisine, Rosemary, Sage, Oregano, Basil, Ginger, Garlic, Fennel and Peppermint, as well as Liquorice, Lemon balm, Dandelion, Ginseng, Echinacea (i.e. Green chiretta / Kaalamegha / Nilavempu), Astragalus and Sambucus.
+   - [RECIPES To Cure Lifestyle Diseases, by Neerja Roy Chowdhury][180]
+   - [researchgate.net: Common dandelion (Taraxacum officinale) efficiently blocks the interaction between ACE2 cell surface receptor and SARS-CoV-2 spike protein D614, mutants D614G, N501Y, K417N and E484K in vitro; Hoai Thi Thu Tran; March, 2021][181]
+   - [news-medical.net: Sage and perilla herbal teas could help to prevent or treat Covid-19; Sally Robertson, B.Sc.; Nov 22, 2020][182]
+   - [Appropriate use of essential oils and their components in the management of upper respiratory tract symptoms in patients with COVID-19; Marco Valussi; Journal of Herbal Medicine; Aug, 2021][183]
+   - [gosumitup.com: All About Sage- Know Your Spice Salvia Officinalis][184]
+   - [news-medical.net: Sage and perilla herbal teas could help to prevent or treat COVID-19; Sally Robertson, B. Sc.; Nov, 2020][185]
+   - [Eat This, Not That!: Some Doctors Are Serving This Kind of Tea (Turmeric Tea) to Fight COVID-19; Krissy Gasbarre; April 5, 2021][186]
+   - In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ:[Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][187]
+   - [Times Of India: Expert-Approved Turmeric Immunity-Boosting Concoction That You Must Drink Daily; April 15, 2021][188]
+   - [Hindustan Times: Why drinking warm water with honey can be harmful for you as per Ayurveda; Nov 24, 2021][189]
 
 ## 13. Honey and Nigella sativa (HNS) OR Nigella sativa seed oil (NSO)
 
@@ -1142,29 +1011,17 @@ The whole treatment course is reported to have cost less than $ 5. Online stores
 Local groceries and Indian groceries
 
 ### Further references:
-[nutraingredients-asia.com: Covid-19 RCT: Honey and Black cumin seeds help speed up recovery in Covid-19 patients; Nov 25, 2020][190]
-
-Preprint article on HNS therapy:
-[Honey and Nigella sativa against COVID-19 in Pakistan (HNS-COVID-PK): A multi-center placebo-controlled randomized clinical trial; Sohaib Ashraf, Shoaib Ashraf et al.; Nov, 2020][191]
-
-[Nigella sativa for the treatment of COVID-19: An open-label randomized controlled clinical trial; Abdulrahman E. Koshak, Emad A. Koshak et al.; Complementary Therapies in Medicine; Sept, 2021][192]
-
-Research underway on the prophylactic potential of Nigella sativa:
-[Prophylactic potential of honey and Nigella sativa L. against hospital and community-based SARS-CoV-2 spread: a structured summary of a study protocol for a randomised controlled trial; Sohaib Ashraf, Shoaib Ashraf et al.; Trials; Sept 15, 2021][193]
-
-[news-medical.net: Study suggests honey and Nigella sativa expedites viral clearance in COVID-19 patients; Nov 8, 2020][194]
-
-[In silico Nigellidine (N. sativa) bind to viral spike/active-sites of ACE1/2, AT1/2 to prevent COVID-19 induced vaso-tumult/vascular-damage/comorbidity; Smarajit Maiti et al.; Vascular Pharmacology; June, 2021][195]
-
-[AlternativeMedicine.news: Molecule in Nigella sativa (black seed) may prevent spike protein-induced vascular damage, scientists conclude in published paper indexed by NIH (updated); Ethan Huff; July 27, 2021][196]
-
-[onedaymd.aestheticadvisor.com: Black Seed and COVID-19: Australian Researchers found Nigella Sativa may help in treatment for COVID-19 infection; October 18, 2021][197]
-
-[The role of thymoquinone, a major constituent of Nigella sativa, in the treatment of inflammatory and infectious diseases; Kaneez Fatima Shad et al.; Clinical and Experimental Pharmacology and Physiology; July 23, 2021][198]
-
-[Thymoquinone: A Promising Natural Compound with Potential Benefits for COVID-19 Prevention and Cure; Osama A Badary et al.; Drug Design, Development and Therapy; May 3, 2021][199]
-
-[COVID-19 early treatment: real-time analysis of 1,057 studies][200]
+   - [nutraingredients-asia.com: Covid-19 RCT: Honey and Black cumin seeds help speed up recovery in Covid-19 patients; Nov 25, 2020][190]
+   - Preprint article on HNS therapy: [Honey and Nigella sativa against COVID-19 in Pakistan (HNS-COVID-PK): A multi-center placebo-controlled randomized clinical trial; Sohaib Ashraf, Shoaib Ashraf et al.; Nov, 2020][191]
+   - [Nigella sativa for the treatment of COVID-19: An open-label randomized controlled clinical trial; Abdulrahman E. Koshak, Emad A. Koshak et al.; Complementary Therapies in Medicine; Sept, 2021][192]
+   - Research underway on the prophylactic potential of Nigella sativa: [Prophylactic potential of honey and Nigella sativa L. against hospital and community-based SARS-CoV-2 spread: a structured summary of a study protocol for a randomised controlled trial; Sohaib Ashraf, Shoaib Ashraf et al.; Trials; Sept 15, 2021][193]
+   - [news-medical.net: Study suggests honey and Nigella sativa expedites viral clearance in COVID-19 patients; Nov 8, 2020][194]
+   - [In silico Nigellidine (N. sativa) bind to viral spike/active-sites of ACE1/2, AT1/2 to prevent COVID-19 induced vaso-tumult/vascular-damage/comorbidity; Smarajit Maiti et al.; Vascular Pharmacology; June, 2021][195]
+   - [AlternativeMedicine.news: Molecule in Nigella sativa (black seed) may prevent spike protein-induced vascular damage, scientists conclude in published paper indexed by NIH (updated); Ethan Huff; July 27, 2021][196]
+   - [onedaymd.aestheticadvisor.com: Black Seed and COVID-19: Australian Researchers found Nigella Sativa may help in treatment for COVID-19 infection; October 18, 2021][197]
+   - [The role of thymoquinone, a major constituent of Nigella sativa, in the treatment of inflammatory and infectious diseases; Kaneez Fatima Shad et al.; Clinical and Experimental Pharmacology and Physiology; July 23, 2021][198]
+   - [Thymoquinone: A Promising Natural Compound with Potential Benefits for COVID-19 Prevention and Cure; Osama A Badary et al.; Drug Design, Development and Therapy; May 3, 2021][199]
+   - [COVID-19 early treatment: real-time analysis of 1,057 studies][200]
 
 ## 14. Miscellaneous traditional and scientific home remedies for ailments associated with Covid-19
 
@@ -1237,22 +1094,14 @@ Most ingredients are commonly found in Indian kitchens
 Online and local stores
 
 ### Further references:
-[Medical News Today: Blood-thinning foods, drinks, and supplements][206]
-
-[Haritaki: Amazing Ways The Miraculous Herb Benefits You][207]
-
-[Handbook For Health, a compilation of tried and tested home remedies by Kerala naturopath, Albert Y. Zacharia (Inner Expansion Coach, +91 8921697928)][208]
-
-[Preprint, bioRxiv.org: Cannabidiol Inhibits SARS-CoV-2 Replication and Promotes the Host Innate Immune Response; Long Chi Nguyen et al.; Mar, 2021][209]
-
-[hempurecbd.com: CBD Oil Dosage Chart- How Much CBD Oil Should I Take?; Sabina King][210]
-
-In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ:
-[Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][211]
-
-[healthline.com: Turmeric Dosage: How Much Should You Take Per Day?- Benefits, Dosage, Who Shouldn't Take It, Adverse Effects, Buying the Right Kind, Bottom Line; Makayla Meixner, MS, RDN; June 11, 2018][212]
-
-[A relatively comprehensive website about turmeric: Turmeric For Health][213]
+   - [Medical News Today: Blood-thinning foods, drinks, and supplements][206]
+   - [Haritaki: Amazing Ways The Miraculous Herb Benefits You][207]
+   - [Handbook For Health, a compilation of tried and tested home remedies by Kerala naturopath, Albert Y. Zacharia (Inner Expansion Coach, +91 8921697928)][208]
+   - [Preprint, bioRxiv.org: Cannabidiol Inhibits SARS-CoV-2 Replication and Promotes the Host Innate Immune Response; Long Chi Nguyen et al.; Mar, 2021][209]
+   - [hempurecbd.com: CBD Oil Dosage Chart- How Much CBD Oil Should I Take?; Sabina King][210]
+   - In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ:[Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][211]
+   - [healthline.com: Turmeric Dosage: How Much Should You Take Per Day?- Benefits, Dosage, Who Shouldn't Take It, Adverse Effects, Buying the Right Kind, Bottom Line; Makayla Meixner, MS, RDN; June 11, 2018][212]
+   - [A relatively comprehensive website about turmeric: Turmeric For Health][213]
 
 ## 15. Proposed / evidence-based natural therapies to mitigate adverse effects and inflammation caused by the Covid vaccines
 
@@ -1375,63 +1224,30 @@ The more efficacious and cost effective supplements could be stocked for regular
 Online pharmacies and local stores
 
 ### Further references:
-[researchgate.net: Common dandelion (Taraxacum officinale) efficiently blocks the interaction between ACE2 cell surface receptor and SARS-CoV-2 spike protein D614, mutants D614G, N501Y, K417N and E484K in vitro; Hoai Thi Thu Tran; March, 2021][249]
-
-[news-medical.net: Suramin shows promise as COVID-19 treatment; Dr. Liji Thomas, MD; Oct, 2020][250]
-
-[JUDY MICKOVITZ ON POTENTIAL ANTIDOTE TO VACCINE (SURAMIN)][251]
-
-[Dr. Judy Mikovits discusses the SARS-CoV-2 pandemic with Dr. Joseph Mercola; May 1, 2020][252]
-
-[Health Ranger Report: Is pine needle tea the answer to covid vaccine shedding? Suramin, shikimic acid and science; May, 2021][253]
-
-[An informal blog page compiling much of this information, and more, from a variety of sources: How to neutralize potential toxicity from mRNA vaccines][254]
-
-[alternativemedicine.news: Molecule in Nigella sativa (black seed) may prevent spike protein-induced vascular damage, scientists conclude in published paper indexed by NIH (updated); Ethan Huff; July, 2021][255]
-
-[In silico Nigellidine (N. sativa) bind to viral spike/active-sites of ACE1/2, AT1/2 to prevent COVID-19 induced vaso-tumult/vascular-damage/comorbidity; Smarajit Maiti et al.; Vascular Pharmacology; June, 2021][256]
-
-[Get Better Wellness / Health News: Black seed and Dandelion leaf extract block spike protein from binding to ACE-2 receptors; Sept 14, 2021][257]
-
-[Prospecting Germinating Sprouts as Potential Sources for Shikimic Acid Production; Snehal Menon et al.; 1st International Congress on Environmental, Biotechnology, and Chemistry Engineering; 2014][258]
-
-[deeprootsathome.com: 3 Foods That Contain Shikimic Acid to Halt Spike Protein Transmission; Jacqueline; Sept 24, 2021][259]
-
-[(Efficient) extraction and isolation of shikimic acid from Ginkgo biloba leaves utilizing an ionic liquid that dissolves cellulose; Toyonobu Usuki et al.; Chemical Communications (Cambridge, England); Oct, 2011][260]
-
-[Shikimic acid: review of its analytical, isolation, and purification techniques from plant and microbial sources; Denis V. Bochkov et al.; Journal of Chemical Biology; Jan, 2012][261]
-
-[deeprootsathome.com: An informal article analysing a NEJM study of impact of Covid-19 vaccine on pregnant women: Shedding & Breastfeeding, Buried Miscarriage Data in New NEJM Study; Jacqueline; Oct 6, 2021][262]
-
-[deeprootsathome.com: 3 Foods That Contain Shikimic Acid to Halt Spike Protein Transmission; Jacqueline; Oct, 2021][263]
-
-[deeprootsathome.com: 15 Foods/Herbs High in Shikimic Acid to Help Disable Spike Protein & GOx; Jacqueline; July 27, 2021][264]
-
-[Master Mineral Solution, MMS or WPS Solution - Why has this Product Become so Popular?][265]
-
-[The Role of Glutathione in Protecting against the Severe Inflammatory Response Triggered by COVID-19; Francesca Silvagno et al.; Antioxidants; July, 2020][266]
-
-[everydayhealth.com: What Is Glutathione? A Detailed Guide to the Antioxidant and Supplement; Sheryl Huggins Salomon, Medically reviewed by Kelly Kennedy, RDN][267]
-
-[Eat This, Not That!: Drink This [Green Tea] After Getting the COVID-19 Vaccine, Says the CDC; Cheyenne Buckingham; March 2, 2021][268]
-
-In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ:
-[Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][269]
+   - [researchgate.net: Common dandelion (Taraxacum officinale) efficiently blocks the interaction between ACE2 cell surface receptor and SARS-CoV-2 spike protein D614, mutants D614G, N501Y, K417N and E484K in vitro; Hoai Thi Thu Tran; March, 2021][249]
+   - [news-medical.net: Suramin shows promise as COVID-19 treatment; Dr. Liji Thomas, MD; Oct, 2020][250]
+   - [JUDY MICKOVITZ ON POTENTIAL ANTIDOTE TO VACCINE (SURAMIN)][251]
+   - [Dr. Judy Mikovits discusses the SARS-CoV-2 pandemic with Dr. Joseph Mercola; May 1, 2020][252]
+   - [Health Ranger Report: Is pine needle tea the answer to covid vaccine shedding? Suramin, shikimic acid and science; May, 2021][253]
+   - [An informal blog page compiling much of this information, and more, from a variety of sources: How to neutralize potential toxicity from mRNA vaccines][254]
+   - [alternativemedicine.news: Molecule in Nigella sativa (black seed) may prevent spike protein-induced vascular damage, scientists conclude in published paper indexed by NIH (updated); Ethan Huff; July, 2021][255]
+   - [In silico Nigellidine (N. sativa) bind to viral spike/active-sites of ACE1/2, AT1/2 to prevent COVID-19 induced vaso-tumult/vascular-damage/comorbidity; Smarajit Maiti et al.; Vascular Pharmacology; June, 2021][256]
+   - [Get Better Wellness / Health News: Black seed and Dandelion leaf extract block spike protein from binding to ACE-2 receptors; Sept 14, 2021][257]
+   - [Prospecting Germinating Sprouts as Potential Sources for Shikimic Acid Production; Snehal Menon et al.; 1st International Congress on Environmental, Biotechnology, and Chemistry Engineering; 2014][258]
+   - [deeprootsathome.com: 3 Foods That Contain Shikimic Acid to Halt Spike Protein Transmission; Jacqueline; Sept 24, 2021][259]
+   - [(Efficient) extraction and isolation of shikimic acid from Ginkgo biloba leaves utilizing an ionic liquid that dissolves cellulose; Toyonobu Usuki et al.; Chemical Communications (Cambridge, England); Oct, 2011][260]
+   - [Shikimic acid: review of its analytical, isolation, and purification techniques from plant and microbial sources; Denis V. Bochkov et al.; Journal of Chemical Biology; Jan, 2012][261]
+   - [deeprootsathome.com: An informal article analysing a NEJM study of impact of Covid-19 vaccine on pregnant women: Shedding & Breastfeeding, Buried Miscarriage Data in New NEJM Study; Jacqueline; Oct 6, 2021][262]
+   - [deeprootsathome.com: 3 Foods That Contain Shikimic Acid to Halt Spike Protein Transmission; Jacqueline; Oct, 2021][263]
+   - [deeprootsathome.com: 15 Foods/Herbs High in Shikimic Acid to Help Disable Spike Protein & GOx; Jacqueline; July 27, 2021][264]
+   - [Master Mineral Solution, MMS or WPS Solution - Why has this Product Become so Popular?][265]
+   - [The Role of Glutathione in Protecting against the Severe Inflammatory Response Triggered by COVID-19; Francesca Silvagno et al.; Antioxidants; July, 2020][266]
+   - [everydayhealth.com: What Is Glutathione? A Detailed Guide to the Antioxidant and Supplement; Sheryl Huggins Salomon, Medically reviewed by Kelly Kennedy, RDN][267]
+   - [Eat This, Not That!: Drink This [Green Tea] After Getting the COVID-19 Vaccine, Says the CDC; Cheyenne Buckingham; March 2, 2021][268]
+   - In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ: [Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][269]
 
 
-## CTYY
-/*Objective: 
-System:
-Can be used alongside other allopathic treatments:
-Status of authorisation:
-Protocol and treatment approach:
-Typical duration of treatment:
-Outcome:
-Significant side effects:
-Recommended quantity for stocking:
-Price:
-Suggested suppliers:
-Further references:*/
+
 
 
 [1]: https://www.sciencedirect.com/science/article/pii/S120197122030624X
@@ -1703,7 +1519,15 @@ Further references:*/
 [267]: https://www.everydayhealth.com/diet-nutrition/diet/glutathione-definition-uses-benefits-more/#:~:text=Those%20have%20a%20lot%20of,squash%2C%20spinach%2C%20and%20melons.
 [268]: https://www.eatthis.com/news-drink-this-after-covid-19-vaccine/
 [269]: https://timesofindia.indiatimes.com/city/lucknow/turmeric-neem-effective-against-coronavirus-says-kgmu-study/articleshow/76165100.cms
-[270]: 
+
+
+
+
+
+
+
+
+
 
 
 
