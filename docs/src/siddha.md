@@ -72,26 +72,16 @@ Nilavembu / Kapasoora Kudineer powders cost INR 60-70 for 50 g, INR 10 for salt 
 All Siddha or Ayurveda shops, and Naattu Marunthu Kadai in TN, like Impcops in Chennai, and a number of online suppliers as well
 
 ### Further references:                          
-[Herbs to Boost Immunity Against Coronovirus - Ayya Dr. Maragathamani, Siddha Practitioner][5]: In this short video, the physician Ayya Maragathamani gives two good protocols for prevention and treatment of Covid, the last of which is the one mentioned here.
-
-[Jammi Advanced Ayurveda (Ayurvedic Treatment centre and Pharmaceutical producer): Kabasura Kudineer: Benefits, Ingredients And Side Effects][6]
-
-[netmeds.com: Kabasura Kudineer: Benefits, Ingredients and Side Effects Of This Wonder Herbal Formulation; May 6, 2020][7]
-
-[The Hindu: Siddha research papers throw light on efficacy of ‘Kabasura kudineer’ in managing COVID-19; June 19, 2020][8]
-
-[Kabasura Kudineer (KSK), a poly-herbal Siddha medicine, reduced SARS-CoV-2 viral load in asymptomatic COVID-19 individuals as compared to vitamin C and zinc supplementation: findings from a prospective, exploratory, open-labeled, comparative, randomized controlled trial, Tamil Nadu, India; S. Natarajan et al.; Trials; Sept 15, 2021][9]
-
-[planetayurveda.com: Echinacea- Benefits, Usage and Side Effects][10]
-
-[Times of India: Ingredients in kabasura kudineer can fight Covid-19, say researchers in Chennai; April 24, 2020][11]
-
-[Phytochemical screening and pharmacological update on Kabasura Kudineer Choornam and Nilavembu Kudineer Choornam; Megala & Murthy; Journal of Pharmacognosy and Phytochemistry; June, 2020][12]
-
-During an earlier outbreak of Dengue, Chikungunya and Swine flu in Tamil Nadu, India, Kabasura Kudineer and Nilavembu Kudineer were used to control the febrile episodes. The following interesting cross-sectional survey conducted among 200 participants (80.5 % urban, and 19.5 % rural) indicated that people use Kabasura Kudineer because they find allopathic medicine to be less effective, and the study outcome suggests that Kabasura Kudineer is taken as a self-medication among Tamil Nadu people:
-[Attitudes, beliefs, and self-use of Kabasura Kudineer among urban and rural population in Tamil Nadu, India: A comparative cross-sectional study; Dharani Bala; Journal of Family Medicine and Primary Care (Academy of Family Physicians of India); Jan, 2021][13]
-
-[Echinacea as a Potential Force against Coronavirus Infections? A Mini-Review of Randomized Controlled Trials in Adults and Children; Simon Nicolussi et al.; medRxiv; Dec 24, 2021][14]
+   - [Herbs to Boost Immunity Against Coronovirus - Ayya Dr. Maragathamani, Siddha Practitioner][5]: In this short video, the physician Ayya Maragathamani gives two good protocols for prevention and treatment of Covid, the last of which is the one mentioned here.
+   - [Jammi Advanced Ayurveda (Ayurvedic Treatment centre and Pharmaceutical producer): Kabasura Kudineer: Benefits, Ingredients And Side Effects][6]
+   - [netmeds.com: Kabasura Kudineer: Benefits, Ingredients and Side Effects Of This Wonder Herbal Formulation; May 6, 2020][7]
+   - [The Hindu: Siddha research papers throw light on efficacy of ‘Kabasura kudineer’ in managing COVID-19; June 19, 2020][8]
+   - [Kabasura Kudineer (KSK), a poly-herbal Siddha medicine, reduced SARS-CoV-2 viral load in asymptomatic COVID-19 individuals as compared to vitamin C and zinc supplementation: findings from a prospective, exploratory, open-labeled, comparative, randomized controlled trial, Tamil Nadu, India; S. Natarajan et al.; Trials; Sept 15, 2021][9]
+   - [planetayurveda.com: Echinacea- Benefits, Usage and Side Effects][10]
+   - [Times of India: Ingredients in kabasura kudineer can fight Covid-19, say researchers in Chennai; April 24, 2020][11]
+   - [Phytochemical screening and pharmacological update on Kabasura Kudineer Choornam and Nilavembu Kudineer Choornam; Megala & Murthy; Journal of Pharmacognosy and Phytochemistry; June, 2020][12]
+   - During an earlier outbreak of Dengue, Chikungunya and Swine flu in Tamil Nadu, India, Kabasura Kudineer and Nilavembu Kudineer were used to control the febrile episodes. The following interesting cross-sectional survey conducted among 200 participants (80.5 % urban, and 19.5 % rural) indicated that people use Kabasura Kudineer because they find allopathic medicine to be less effective, and the study outcome suggests that Kabasura Kudineer is taken as a self-medication among Tamil Nadu people: [Attitudes, beliefs, and self-use of Kabasura Kudineer among urban and rural population in Tamil Nadu, India: A comparative cross-sectional study; Dharani Bala; Journal of Family Medicine and Primary Care (Academy of Family Physicians of India); Jan, 2021][13]
+   - [Echinacea as a Potential Force against Coronavirus Infections? A Mini-Review of Randomized Controlled Trials in Adults and Children; Simon Nicolussi et al.; medRxiv; Dec 24, 2021][14]
 
 ## 2. **Adathodai** (in Tamil; also called Vasaka / Malabar nut, botanical name, Adhatoda vasica), **Thulasi** (Holy Basil), **Pavazha malligai** (in Tamil; also called Pavizhamalli / Parijatak/ Harsringar, botanical name, Nyctanthes arbor-tristis), **Avuri** (in Tamil; botanical name, Indigofera tinctoria) root, **broken Black pepper**
 
@@ -179,7 +169,7 @@ Ayurvedic medicines are usually available at very reasonable costs.
 **VACANT**
 					
 
-## CTYY
+
 
 [1]: https://jammi.in/blog/kabasura-kudineer-benefits-ingredients-and-side-effects/
 [2]: https://www.researchgate.net/figure/Pharmacological-activity-of-ingredients-of-Kabasura-Kudineer-Choornam-and-Nilavembu_tbl3_341899982
@@ -196,278 +186,16 @@ Ayurvedic medicines are usually available at very reasonable costs.
 [13]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8132787/
 [14]: https://www.medrxiv.org/content/10.1101/2021.12.23.21267893v1
 [15]: https://youtu.be/8998ESobHnM
-[16]: 
-[17]: 
-[18]: 
-[19]: 
-[20]: 
-[21]: 
-[22]: 
-[23]: 
-[24]: 
-[25]: 
-[26]: 
-[27]: 
-[28]: 
-[29]: 
-[30]: 
-[31]: 
-[32]: 
-[33]: 
-[34]: 
-[35]: 
-[36]: 
-[37]: 
-[38]: 
-[39]: 
-[40]: 
-[41]: 
-[42]: 
-[43]: 
-[44]: 
-[45]: 
-[46]: 
-[47]: 
-[48]:  
-[49]: 
-[50]: 
-[51]: 
-[52]: 
-[53]: 
-[54]: 
-[55]: 
-[56]: 
-[57]: 
-[58]: 
-[59]: 
-[60]: 
-[61]: 
-[62]: 
-[63]: 
-[64]: 
-[65]: 
-[66]: 
-[67]: 
-[68]: 
-[69]: 
-[70]: 
-[71]: 
-[72]:
-[73]: 
-[74]: 
-[75]: 
-[76]: 
-[77]: 
-[78]: 
-[79]: 
-[80]:  
-[81]: 
-[82]: 
-[83]: 
-[84]: 
-[85]: 
-[86]: 
-[87]: 
-[88]: 
-[89]: 
-[90]: 
-[91]: 
-[92]: 
-[93]
-[94]
-[95]: 
-[96]: 
-[97]: 
-[98]: 
-[99]: 
-[100]:
 
-[101]: 
-[102]: 
-[106]: 
-[107]: 
-[108]: 
-[109]: 
-[110]: 
-[111]: 
-[112]: 
-[113]: 
-[114]: 
-[115]: 
-[116]: 
-[117]: 
-[118]: 
-[119]: 
-[120]: 
-[121]: 
-[122]: 
-[123]: 
-[124]: 
-[125]:
-[126]: 
-[127]: 
-[128]: 
-[129]: 
-[130]: 
-[131]: 
-[132]: 
-[133]: 
-[134]: 
-[135]: 
-[136]: 
-[137]: 
-[138]: 
-[139]: 
-[140]:  
-[163]: 
-[164]: 
-[165]: 
-[166]: 
-[167]: 
-[168]: 
-[169]: 
-[170]: 
-[171]: 
-[172]: 
-[173]: 
-[174]: 
-[175]: 
-[176]: 
-[177]: 
-[178]: 
-[179]: 
-[180]: 
-[181]: 
-[182]: 
-[183]: 
-[184]: 
-[185]: 
-[186]: 
-[187]: 
-[188]: 
-[189]: 
-[190]: 
-[191]: 
-[192]: 
-[193]: 
-[194]: 
-[195]: 
-[196]: 
-[197]: 
-[198]: 
-[199]: 
-[200]: 
-[206]: 
-[207]: 
-[208]: 
-[209]: 
-[210]: 
-[211]: 
-[212]: 
-[213]: 
-[214]: 
-[215]: 
-[216]: 
-[217]: 
-[218]: 
-[219]: 
-[220]: 
-[214]: 
-[215]: 
-[216]: 
-[217]: 
-[218]: 
-[219]: 
-[220]: 
-[221]: 
-[222]: 
-[223]: 
-[224]: 
-[225]: 
-[226]: 
-[227]: 
-[228]: 
-[229]: 
-[230]: 
-[231]: 
-[232]: 
-[233]: 
-[234]: 
-[235]: 
-[236]: 
-[237]: 
-[238]: 
-[239]: 
-[240]: 
-[241]: 
-[242]: 
-[243]: 
-[244]: 
-[245]: 
-[246]: 
-[247]: 
-[248]: 
-[249]: 
-[250]: 
-[251]: 
-[252]: 
-[253]: 
-[254]: 
-[255]: 
-[256]: 
-[257]: 
-[258]: 
-[259]: 
-[260]: 
-[261]: 
-[262]: 
-[263]: 
-[264]: 
-[265]: 
-[266]: 
-[267]: 
-[268]: 
-[269]: 
-[270]: 
-[271]: 
-[272]: 
-[273]: 
-[274]: 
-[275]: 
-[276]: 
-[277]: 
-[278]: 
-[279]: 
-[280]: 
-[281]: 
-[282]: 
-[283]: 
-[284]: 
-[285]: 
-[286]: 
-[287]: 
-[288]: 
-[289]: 
-[290]: 
-[291]: 
-[292]: 
-[293]: 
-[294]: 
-[295]: 
-[296]: 
-[297]: 
-[298]: 
-[299]: 
-[300]: 
-[301]: 
-[302]: 
-[303]: 
-[304]: 
-[305]: 
-[306]: 
-[307]: 
-[308]: 
-[309]: 
-[310]: 
-[311]: 
-[312]: 
+
+
+
+
+
+
+
+
+
+
+
+

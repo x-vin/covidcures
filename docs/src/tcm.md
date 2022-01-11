@@ -73,38 +73,25 @@ Recommended to stock QFPD for at least 60 servings for one individual, for a twi
 Expensive, INR 1300 - 4600 if bought from suppliers in the US
 
 ### Suggested suppliers:
-[Qing Fei Pai Du Tang Veggie Capsules 100 Ct (INR 3727)][3]
-
-[Greenlike Chinese Herbal Formula ClearLungs Qingfei Paidu Tang 10g*15 bag (INR 1384)][4]
-
-[Qing Fei Pai Du Tang Basic Formula Granules 100 Grams (INR 4636)][5]
-
-[ubuy.co.in][6]
+   - [Qing Fei Pai Du Tang Veggie Capsules 100 Ct (INR 3727)][3]
+   - [Greenlike Chinese Herbal Formula ClearLungs Qingfei Paidu Tang 10g*15 bag (INR 1384)][4]
+   - [Qing Fei Pai Du Tang Basic Formula Granules 100 Grams (INR 4636)][5]
+   - [ubuy.co.in][6]
 
 This herbal formula is unavailable in the USA because the US FDA (Food & Drug Administration) has severe restrictions on the sale of Ma Huang and has made Xi Xin a banned herb. Xi Xin is a type of wild ginger that is toxic and must only be used by licensed acupuncturists trained in proper usage. For well over a thousand years, this herb has been safely used in Chinese herbal medicines by highly trained Chinese medicine physicians; however, widespread consumer access to this herb presents legal complications and challenges."
 
 ### Further references:                          
-[Qingfei Paidu decoction for treating COVID-19: A protocol for a meta-analysis and systematic review of randomized controlled trials; Yuan Zhang, MD, et al.; Medicine (Baltimore); Sep 4, 2020][7]
-
-[Chinese Herbal Medicine For COVID-19 (Coronavirus) Treatment][8]
-
-[Efficacy and Safety of Qingfei Paidu Decoction for Treating COVID-19: A Systematic Review and Meta-Analysis; Qi Wang et al.; Frontiers in Pharmacology; Aug 12, 2021][9]
-
-[Potential Targets for Treatment of Coronavirus Disease 2019 (COVID-19): A Review of Qing-Fei-Pai-Du-Tang and Its Major Herbs; Linda Li Dan Zhong et al.; The American Journal of Chinese Medicine; 2020][10]
-
-[Association between use of Qingfei Paidu Tang and mortality in hospitalized patients with COVID-19: A national retrospective registry study][11]
-
-[Trial with QFPD as the main line of TCM therapy: Prevention and treatment of COVID-19 using Traditional Chinese Medicine: A review; Zhenyu Zhao et al.; Phytomedicine, 2021][12]
-
-[Qingfei Paidu decoction, a Chinese herbal medicine against COVID‑19, elevates the blood levels of pro‑inflammatory cytokines: An open‑label, single‑arm pilot study; Yasunari Kageyama; World Academy of Sciences Journal; Mar 16, 2021][13]
-
-[Protection against COVID-19 injury by qingfei paidu decoction via anti-viral, anti-inflammatory activity and metabolic programming; Jian Chen et al.; Biomedicine & Pharmacotherapy; Sept, 2020][14]
-
-[Malaysia firm launches health tea based on Covid-19 TCM formula, but no health claims; Jan 4, 2021][15]
-
-[Website of late Dr. Joel Penner, OMD, Professor of Traditional Chinese Medicine and Herbologist, with extensive documentation about the herbs used in TCM][16]
-
-[TCM Wiki][17]
+   - [Qingfei Paidu decoction for treating COVID-19: A protocol for a meta-analysis and systematic review of randomized controlled trials; Yuan Zhang, MD, et al.; Medicine (Baltimore); Sep 4, 2020][7]
+   - [Chinese Herbal Medicine For COVID-19 (Coronavirus) Treatment][8]
+   - [Efficacy and Safety of Qingfei Paidu Decoction for Treating COVID-19: A Systematic Review and Meta-Analysis; Qi Wang et al.; Frontiers in Pharmacology; Aug 12, 2021][9]
+   - [Potential Targets for Treatment of Coronavirus Disease 2019 (COVID-19): A Review of Qing-Fei-Pai-Du-Tang and Its Major Herbs; Linda Li Dan Zhong et al.; The American Journal of Chinese Medicine; 2020][10]
+   - [Association between use of Qingfei Paidu Tang and mortality in hospitalized patients with COVID-19: A national retrospective registry study][11]
+   - [Trial with QFPD as the main line of TCM therapy: Prevention and treatment of COVID-19 using Traditional Chinese Medicine: A review; Zhenyu Zhao et al.; Phytomedicine, 2021][12]
+   - [Qingfei Paidu decoction, a Chinese herbal medicine against COVID‑19, elevates the blood levels of pro‑inflammatory cytokines: An open‑label, single‑arm pilot study; Yasunari Kageyama; World Academy of Sciences Journal; Mar 16, 2021][13]
+   - [Protection against COVID-19 injury by qingfei paidu decoction via anti-viral, anti-inflammatory activity and metabolic programming; Jian Chen et al.; Biomedicine & Pharmacotherapy; Sept, 2020][14]
+   - [Malaysia firm launches health tea based on Covid-19 TCM formula, but no health claims; Jan 4, 2021][15]
+   - [Website of late Dr. Joel Penner, OMD, Professor of Traditional Chinese Medicine and Herbologist, with extensive documentation about the herbs used in TCM][16]
+   - [TCM Wiki][17]
 
 ## 2. Jinhua Qinggan (JHQG) granules and Lianhua Qingwen (LHQW) capsules, recommended during medical observation; 
 **Qingfei Paidu or Lung Cleansing and Detoxifying Decoction (QFPD or LCDD)**, recommended for the treatment of both severe and non-severe patients; **Xuanfeibaidu (XFBD) granules**, recommended for treating moderate cases; **Huashibaidu (HSBD)**; **Xuebijing (XBJ) injection**, used in managing severe cases effectively
@@ -173,30 +160,19 @@ At the same time, the outcome of treatment with TCM along with conventional ther
 TCM medications may be expensive to procure in India and other States outside China.
 
 ### Suggested suppliers:
-[Qing Fei Pai Du Tang Veggie Capsules 100 Ct (INR 3727)][23]
-
-[Greenlike Chinese Herbal Formula ClearLungs Qingfei Paidu Tang 10g*15 bag (INR 1384)][24]
-
-[Qing Fei Pai Du Tang Basic Formula Granules 100 Grams (INR 4636)][25]
-
-[ubuy.co.in][26]- An online store that sells Chinese medicines
-
-Have not yet identified TCM suppliers in India, where Ayurveda dominates, and imported product prices range between INR 1300-4700. However there are several listed centers offering TCM cures, and may be contacted for help:
-[IndiaMart directory listing of suppliers of traditional Chinese medicine products across India][27]
+   - [Qing Fei Pai Du Tang Veggie Capsules 100 Ct (INR 3727)][23]
+   - [Greenlike Chinese Herbal Formula ClearLungs Qingfei Paidu Tang 10g*15 bag (INR 1384)][24]
+   - [Qing Fei Pai Du Tang Basic Formula Granules 100 Grams (INR 4636)][25]
+   - [ubuy.co.in][26]- An online store that sells Chinese medicines
+   - Have not yet identified TCM suppliers in India, where Ayurveda dominates, and imported product prices range between INR 1300-4700. However there are several listed centers offering TCM cures, and may be contacted for help: [IndiaMart directory listing of suppliers of traditional Chinese medicine products across India][27]
 
 ### Further references:                          
-[Traditional Chinese Medicine (TCM) in the treatment of COVID-19 and other viral infections: Efficacies and mechanisms; Kai Huang; Mar 31, 2021][28]
-
-[Traditional Chinese medicine to treat COVID-19: the importance of evidence-based research; Jinjing Wang et al.; Drug Discoveries & Therapeutics; 2020][29]
-
-[Qingfei Paidu decoction for treating COVID-19: A protocol for a meta-analysis and systematic review of randomized controlled trials; Yuan Zhang, MD, et al.; Medicine (Baltimore); Sep 4, 2020][30]
-
-[The Chinese Treatment for COVID-19- Nia Pure Nature][31]
-
-An article claiming to refute the significance of TCM in Covid treatment by a team from the UK and Australia:
-[Chinese herbal medicine (""3 medicines and 3 formulations"") for COVID-19: rapid systematic review and meta-analysis; Yangzihan Wang, Trisha Greenhalgh, Jon Wardle, Oxford TCM Rapid Review Team; Journal of Evaluation in Clinical Practice; Sep, 2021][32]
-
-[Trial with QFPD as the main line of therapy: Prevention and treatment of COVID-19 using Traditional Chinese Medicine: A review; Zhenyu Zhao et al.; Phytomedicine, 2021][33]
+   - [Traditional Chinese Medicine (TCM) in the treatment of COVID-19 and other viral infections: Efficacies and mechanisms; Kai Huang; Mar 31, 2021][28]
+   - [Traditional Chinese medicine to treat COVID-19: the importance of evidence-based research; Jinjing Wang et al.; Drug Discoveries & Therapeutics; 2020][29]
+   - [Qingfei Paidu decoction for treating COVID-19: A protocol for a meta-analysis and systematic review of randomized controlled trials; Yuan Zhang, MD, et al.; Medicine (Baltimore); Sep 4, 2020][30]
+   - [The Chinese Treatment for COVID-19- Nia Pure Nature][31]
+   - An article claiming to refute the significance of TCM in Covid treatment by a team from the UK and Australia: [Chinese herbal medicine ("3 medicines and 3 formulations") for COVID-19: rapid systematic review and meta-analysis; Yangzihan Wang, Trisha Greenhalgh, Jon Wardle, Oxford TCM Rapid Review Team; Journal of Evaluation in Clinical Practice; Sep, 2021][32]
+   - [Trial with QFPD as the main line of therapy: Prevention and treatment of COVID-19 using Traditional Chinese Medicine: A review; Zhenyu Zhao et al.; Phytomedicine, 2021][33]
 
 ## 3. Thai traditional / indigenous medicine, Fah Talai Jone / Green Chiretta / Echinacea / Andrographis Paniculata (Kaalamegha / Kiraayat / Nilavempu in Sanskrit / Hindi / Tamil, respectively)
 
@@ -245,21 +221,15 @@ Fah talai jone is a widely used traditional herbal medicine for respiratory infl
 About INR 200
 
 ### Suggested suppliers:
-[Indian Echinacea 1g capsules 60 nos. ($ 28.95)][34]
-
-[biomed: Nilavempu 500 g capsules 90 nos. (INR 200)][35]
-
-[Isha Life: Nilavembu Kashayam Tablet, 60 nos.- A decoction of 9 herbs (INR 199)][36]
+   - [Indian Echinacea 1g capsules 60 nos. ($ 28.95)][34]
+   - [biomed: Nilavempu 500 g capsules 90 nos. (INR 200)][35]
+   - [Isha Life: Nilavembu Kashayam Tablet, 60 nos.- A decoction of 9 herbs (INR 199)][36]
 
 ### Further references:                          
-[sky news- news.sky.com: COVID-19: How Thailand is using a 'cheap and effective' traditional herbal medicine to treat coronavirus][37]-
-Thailand's government is using green chiretta to treat people with asymptomatic or mild coronavirus infections, following a trial in prisons which found that 99% of those who consumed the plant recovered.
-
-[MFU Offers 100,000 Capsules of Green Chiretta (Andrographis paniculata) to Help COVID-19 Patients with Mild Symptoms][38]
-
-[planetayurveda.com: Echinacea- Benefits, Usage and Side Effects][39]
-
-[Echinacea as a Potential Force against Coronavirus Infections? A Mini-Review of Randomized Controlled Trials in Adults and Children; Simon Nicolussi et al.; medRxiv; Dec 24, 2021][40]
+   - [sky news- news.sky.com: COVID-19: How Thailand is using a 'cheap and effective' traditional herbal medicine to treat coronavirus][37] - Thailand's government is using green chiretta to treat people with asymptomatic or mild coronavirus infections, following a trial in prisons which found that 99% of those who consumed the plant recovered.
+   - [MFU Offers 100,000 Capsules of Green Chiretta (Andrographis paniculata) to Help COVID-19 Patients with Mild Symptoms][38]
+   - [planetayurveda.com: Echinacea- Benefits, Usage and Side Effects][39]
+   - [Echinacea as a Potential Force against Coronavirus Infections? A Mini-Review of Randomized Controlled Trials in Adults and Children; Simon Nicolussi et al.; medRxiv; Dec 24, 2021][40]
 
 ## 4. Prescription of Rhizoma Zingiberis Recens or fresh ginger root and Fructus jujube or jujube fruit
 
@@ -297,7 +267,7 @@ Yes
 **VACANT**
 
 ### Further references:                          
-[Thoughts on Traditional Chinese Medicine Treatment of Novel Coronavirus Pneumonia Based on Two Cases: Study involving a prescription of Rhizoma Zingiberis Recens or fresh ginger root, and Fructus jujube or Jujube fruit][41]
+   - [Thoughts on Traditional Chinese Medicine Treatment of Novel Coronavirus Pneumonia Based on Two Cases: Study involving a prescription of Rhizoma Zingiberis Recens or fresh ginger root, and Fructus jujube or Jujube fruit][41]
 				
 ## CTYY
 

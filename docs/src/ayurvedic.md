@@ -82,13 +82,10 @@ Moderately priced for the middle class consumer
 Local suppliers of Ayurvedic medicines like Kottakkal Arya Vaidya Sala pharmacies
 
 ### Further references:                          
-[20 Medicinal Plants of '21 for Covid-19 Care, National Medicinal Plants Board, Ministry of Ayush, Government of India][1]
-
-[Spices and herbs: Potential antiviral preventives and immunity boosters during COVID‐19- Curcumin, Cinnamon, Ginger, Clove, Black pepper, Garlic, Neem, Giloy, Holy basil; Namita Ashish Singh et al.; Phytotherapy Research; Jan 29, 2021][2]
-
-[academia.edu: Indian Medicinal Plants; Sachin Chandran][3]
-
-[Herbal plants as immunity modulators against COVID-19: A primary preventive measure during home quarantine; Kuntal Das; Journal of Herbal Medicine; Aug 5, 2021][4]
+   - [20 Medicinal Plants of '21 for Covid-19 Care, National Medicinal Plants Board, Ministry of Ayush, Government of India][1]
+   - [Spices and herbs: Potential antiviral preventives and immunity boosters during COVID‐19- Curcumin, Cinnamon, Ginger, Clove, Black pepper, Garlic, Neem, Giloy, Holy basil; Namita Ashish Singh et al.; Phytotherapy Research; Jan 29, 2021][2]
+   - [academia.edu: Indian Medicinal Plants; Sachin Chandran][3]
+   - [Herbal plants as immunity modulators against COVID-19: A primary preventive measure during home quarantine; Kuntal Das; Journal of Herbal Medicine; Aug 5, 2021][4]
 
 ## 2. (The Central Ministry) AYUSH-approved National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19
 
@@ -208,55 +205,32 @@ Ayurvedic medicines from Kottakkal Arya Vaidyasala are modestly priced.
 
 ### Suggested suppliers:
 Local trusted Ayurvedic pharmacies like Kottakkal Arya Vaidya Sala and online stores
+   - [1mg.com](http://1mg.com/): Basic Ayurveda Ayush 64 Tablet
 
-[1mg.com](http://1mg.com/): Basic Ayurveda Ayush 64 Tablet
-
-### Further references:                          
-[“AYU SAMVAD” | Ayurveda for Covid 19 | “My Health My Responsibility”; All India Institute of Ayurveda, An Autonomous Institute under Ministry of AYUSH, Government of India, New Delhi-][36] NABH Accredited Tertiary care Hospital and Post Graduate Teaching and Training Institute in Ayurveda
-
-[National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19- Frequently Asked Questions; Government of India, Ministry of Ayush][37]
-
-[National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19, approved by the Ayush Ministry, Government Of India][38]
-
-[Scientific rationale of Indian AYUSH Ministry advisory for COVID-19 prevention, prophylaxis, and immunomodulation; Prashant Kumar Gupta et al.; April 29, 2021][39]
-
-[Significance of AYUSH: India's first line of defence against COVID-19; Journal of Ayurvedic and Integrative Medicine; April 1, 2021][40]
-
-[Ashwagandha: Wonder Herb of India][41]
-
-[Appropriate use of essential oils and their components in the management of upper respiratory tract symptoms in patients with COVID-19; Marco Valussi; Journal of Herbal Medicine; August, 2021][42]
-
-[Do saline water gargling and nasal irrigation confer protection against COVID-19?; Prashanth Panta et al.; Elsevier Public Health Emergency Collection; March, 2021][43]
-
-[An overview of Tulsi (Holy basil); Simranjeet Kaur et al.; European Journal of Molecular & Clinical Medicine; 2020][44]
-
-[Tulsi - Ocimum sanctum: A herb for all reasons; Marc Maurice Cohen; Journal of Ayurveda and Integrative Medicine; 2020][45]
-
-[“Tulsi” - the Wonder Herb (Pharmacological Activities of Ocimum Sanctum); Sai Krishna G. et al.; American Journal of Ethnomedicine; 2014][46]
-
-[A Community-Based Participatory Research to Assess the Feasibility of Ayurveda Intervention in Patients with Mild-to-Moderate COVID-19; Vishwesh Kulkarni; MedRxiv; Jan, 2021][47]
-
-[Economic Times- Healthworld.com: Ashwagandha can be effective COVID-19 preventive drug, finds research by IIT Delhi and Japan's AIST; May, 2020][48]
-
-[Targeting COVID-19 (SARS-CoV-2) main protease through active phytochemicals of ayurvedic medicinal plants – Withania somnifera (Ashwagandha), Tinospora cordifolia (Giloy) and Ocimum sanctum (Tulsi) – a molecular docking study; Priya Shree et al.; Journal of Biomolecular Structure and Dynamics; Aug, 2020][49]
-
-[News 18: Can Giloy Boost Immunity, Fight COVID? IISER Bhopal Researchers Find Out; Sept 6, 2021][50]
-
-[india.com: Here is How Giloy And Ashwagandha Treat Coronavirus:][51] Giloy and Ashwagandha have a significant role to play in the treatment of the novel coronavirus infection.
-
-[An Overview on Ashwagandha: A Rasayana (Rejuvenator) of Ayurveda; Narendra Singh et al.; African Journal of Traditional, Complementary and Alternate Medicine; 2011][52]
-
-[Withania somnifera (Ashwagandha) as a safer option to hydroxychloroquine in the chemoprophylaxis of COVID-19: Results of interim analysis; Arvind Chopra et al.; Complementary Therpies in Medicine; Nov, 2021][53]
-
-[Thermal inactivation of SARS COVID-2 virus: Are steam inhalations a potential treatment; Giancarlo la Marca et al.; Life Sciences; Jan 15, 2021][54]
-
-[A critical analysis of CTRI registered AYUSH studies for COVID- 19; Vedvati Bhapkar et al.; Journal of Ayurveda and Integrative Medicine; Nov 26, 2020][55]
-
-[Targeting COVID-19 (SARS-CoV-2) main protease through active phytochemicals of ayurvedic medicinal plants – Withania somnifera (Ashwagandha), Tinospora cordifolia (Giloy) and Ocimum sanctum (Tulsi) – a molecular docking study; Priya Shree et al.; Journal of Biomolecular Structure and Dynamics; Aug 27, 2020][56]
-
-[CSIR India- Details of AYUSH64][57]
-
-[Planet Ayurveda (TM): Gokshura (Tribulus Terrestris / Puncture vine)- Uses, Benefits, Ayurvedic Effects; Dr. Meenakshi Chauhan; May 7, 2019][58]
+### Further references:
+   - [“AYU SAMVAD” | Ayurveda for Covid 19 | “My Health My Responsibility”; All India Institute of Ayurveda, An Autonomous Institute under Ministry of AYUSH, Government of India, New Delhi-][36] NABH Accredited Tertiary care Hospital and Post Graduate Teaching and Training Institute in Ayurveda
+   - [National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19- Frequently Asked Questions; Government of India, Ministry of Ayush][37]
+   - [National Clinical Management Protocol Based On Ayurveda And Yoga For Management Of Covid-19, approved by the Ayush Ministry, Government Of India][38]
+   - [Scientific rationale of Indian AYUSH Ministry advisory for COVID-19 prevention, prophylaxis, and immunomodulation; Prashant Kumar Gupta et al.; April 29, 2021][39]
+   - [Significance of AYUSH: India's first line of defence against COVID-19; Journal of Ayurvedic and Integrative Medicine; April 1, 2021][40]
+   - [Ashwagandha: Wonder Herb of India][41]
+   - [Appropriate use of essential oils and their components in the management of upper respiratory tract symptoms in patients with COVID-19; Marco Valussi; Journal of Herbal Medicine; August, 2021][42]
+   - [Do saline water gargling and nasal irrigation confer protection against COVID-19?; Prashanth Panta et al.; Elsevier Public Health Emergency Collection; March, 2021][43]
+   - [An overview of Tulsi (Holy basil); Simranjeet Kaur et al.; European Journal of Molecular & Clinical Medicine; 2020][44]
+   - [Tulsi - Ocimum sanctum: A herb for all reasons; Marc Maurice Cohen; Journal of Ayurveda and Integrative Medicine; 2020][45]
+   - [“Tulsi” - the Wonder Herb (Pharmacological Activities of Ocimum Sanctum); Sai Krishna G. et al.; American Journal of Ethnomedicine; 2014][46]
+   - [A Community-Based Participatory Research to Assess the Feasibility of Ayurveda Intervention in Patients with Mild-to-Moderate COVID-19; Vishwesh Kulkarni; MedRxiv; Jan, 2021][47]
+   - [Economic Times- Healthworld.com: Ashwagandha can be effective COVID-19 preventive drug, finds research by IIT Delhi and Japan's AIST; May, 2020][48]
+   - [Targeting COVID-19 (SARS-CoV-2) main protease through active phytochemicals of ayurvedic medicinal plants – Withania somnifera (Ashwagandha), Tinospora cordifolia (Giloy) and Ocimum sanctum (Tulsi) – a molecular docking study; Priya Shree et al.; Journal of Biomolecular Structure and Dynamics; Aug, 2020][49]
+   - [News 18: Can Giloy Boost Immunity, Fight COVID? IISER Bhopal Researchers Find Out; Sept 6, 2021][50]
+   - [india.com: Here is How Giloy And Ashwagandha Treat Coronavirus:][51] Giloy and Ashwagandha have a significant role to play in the treatment of the novel coronavirus infection.
+   - [An Overview on Ashwagandha: A Rasayana (Rejuvenator) of Ayurveda; Narendra Singh et al.; African Journal of Traditional, Complementary and Alternate Medicine; 2011][52]
+   - [Withania somnifera (Ashwagandha) as a safer option to hydroxychloroquine in the chemoprophylaxis of COVID-19: Results of interim analysis; Arvind Chopra et al.; Complementary Therpies in Medicine; Nov, 2021][53]
+   - [Thermal inactivation of SARS COVID-2 virus: Are steam inhalations a potential treatment; Giancarlo la Marca et al.; Life Sciences; Jan 15, 2021][54]
+   - [A critical analysis of CTRI registered AYUSH studies for COVID- 19; Vedvati Bhapkar et al.; Journal of Ayurveda and Integrative Medicine; Nov 26, 2020][55]
+   - [Targeting COVID-19 (SARS-CoV-2) main protease through active phytochemicals of ayurvedic medicinal plants – Withania somnifera (Ashwagandha), Tinospora cordifolia (Giloy) and Ocimum sanctum (Tulsi) – a molecular docking study; Priya Shree et al.; Journal of Biomolecular Structure and Dynamics; Aug 27, 2020][56]
+   - [CSIR India- Details of AYUSH64][57]
+   - [Planet Ayurveda (TM): Gokshura (Tribulus Terrestris / Puncture vine)- Uses, Benefits, Ayurvedic Effects; Dr. Meenakshi Chauhan; May 7, 2019][58]
 
 ## 3. Sh. Bonigi Anandaiah's Ayurvedic treatment for Covid-19 in Krishnapatnam village, Nellore district, Andhra Pradesh				
 ### Objective: 
@@ -300,11 +274,9 @@ Contact, Jayana Rama Govind:
 +91 9440170522
 
 ### Further references:                          
-[AP government gives nod to use of traditional medicine prepared by Ayurveda doctor ][59]
-
-[Move over Coronil, AP villagers ditch masks, vaccine after 'miracle drug', Jagan govt backs it: Herbal concoction by Krishnapatnam resident Anandaiah ‘isn’t Ayurvedic medicine, can’t cure Covid’, say officials; Andhra MLA says govt could restart distribution of the mix][60]
-
-[No objection to use of 'Krishnapatnam medicine': Andhra Pradesh government; May 23, 2021][61]
+   - [AP government gives nod to use of traditional medicine prepared by Ayurveda doctor ][59]
+   - [Move over Coronil, AP villagers ditch masks, vaccine after 'miracle drug', Jagan govt backs it: Herbal concoction by Krishnapatnam resident Anandaiah ‘isn’t Ayurvedic medicine, can’t cure Covid’, say officials; Andhra MLA says govt could restart distribution of the mix][60]
+   - [No objection to use of 'Krishnapatnam medicine': Andhra Pradesh government; May 23, 2021][61]
 
 ## 4. [Patanjali's Divya Swasari Coronil kit][62] 
 **with Coronil**, containing two bottles, 1 each of **Divya Swasari Vati** and **Divya Coronil tablets** (with **Giloy, Ashwagandha and Tulasi in 2:1:1 mixture**) and **Anu taila**
@@ -348,26 +320,16 @@ Rs. 545/- per kit, containing 200 tablets (100 tablets each of Coronil and Swasa
 Patanjali stores and [online suppliers][63]
 
 ### Further references:                          
-[researchgate.net: AN OVERVIEW ON CORONIL DRUG; Tiwari & Talreja; July, 2020][64]
-
-[Randomized placebo-controlled pilot clinical trial on the efficacy of ayurvedic treatment regime on COVID-19 positive patients; Ganpat Devpura et al.; Phytomedicine; April, 2021][65]
-
-A number of news meda platforms, including [TNIE][66], [Alt News][67], The Quint, The Print, Wired, and others, have joined the campaign against this commercial Covid therapy from Patanjali, even though the product and the tri-herbal formulation (**Giloy, Tulasi and Ashwagandha**) used in it have since been [ratified by the AYUSH Ministry][68]. Furthermore, [many have reported benefit from this product][69], and the treatment is largely substantiated by early clinical trials, and now a Randomized Controlled [Trial][70].
-
-[Influence of Patient-Reported Treatment Satisfaction on Psychological Health and Quality of Life Among Patients Receiving Divya-Swasari-Coronil-Kit Against COVID-19: Findings from a Cross-Sectional ""SATISFACTION COVID"" Survey; Acharya Balkrishna; Patient Preference and Adherence; April 29, 2021][71]
-
-Coronil, a Tri-Herbal Formulation, Attenuates Spike-Protein-Mediated SARS-CoV-2 Viral Entry into Human Alveolar Epithelial Cells and Pro-Inflammatory Cytokines Production by Inhibiting Spike Protein-ACE-2 Interaction; Balkrishna A; Journal of Inflammation Research; Dec 19, 2020
-
-Can Ayurveda cure Covid?
-
-[Patanjali Research Against COVID-19][72]
-
-[dnaindia.com](http://dnaindia.com/): ['100% fulfilled all clinical trials': Patanjali on Coronil details conveyed to Centre][73]-
-The Centre on Tuesday said it has taken cognizance of the reports of an Ayurvedic medicine manufactured by Patanjali, which the company claims can cure COVID-19.
-
-[indiatvnews.com: How Patanjali's Coronil will cure coronavirus patients in 14 days?; Shriya Bhasin; June 23, 2020][74]
-
-[Dr. Yashwant Chowdhury: An informal, informed perspective on the objections raised to Coronil; June 24, 2020][75]
+   - [researchgate.net: AN OVERVIEW ON CORONIL DRUG; Tiwari & Talreja; July, 2020][64]
+   - [Randomized placebo-controlled pilot clinical trial on the efficacy of ayurvedic treatment regime on COVID-19 positive patients; Ganpat Devpura et al.; Phytomedicine; April, 2021][65]
+   - A number of news meda platforms, including [TNIE][66], [Alt News][67], The Quint, The Print, Wired, and others, have joined the campaign against this commercial Covid therapy from Patanjali, even though the product and the tri-herbal formulation (**Giloy, Tulasi and Ashwagandha**) used in it have since been [ratified by the AYUSH Ministry][68]. Furthermore, [many have reported benefit from this product][69], and the treatment is largely substantiated by early clinical trials, and now a Randomized Controlled [Trial][70].
+   - [Influence of Patient-Reported Treatment Satisfaction on Psychological Health and Quality of Life Among Patients Receiving Divya-Swasari-Coronil-Kit Against COVID-19: Findings from a Cross-Sectional ""SATISFACTION COVID"" Survey; Acharya Balkrishna; Patient Preference and Adherence; April 29, 2021][71]
+   - Coronil, a Tri-Herbal Formulation, Attenuates Spike-Protein-Mediated SARS-CoV-2 Viral Entry into Human Alveolar Epithelial Cells and Pro-Inflammatory Cytokines Production by Inhibiting Spike Protein-ACE-2 Interaction; Balkrishna A; Journal of Inflammation Research; Dec 19, 2020
+   - Can Ayurveda cure Covid?
+   - [Patanjali Research Against COVID-19][72]
+   - [dnaindia.com](http://dnaindia.com/): ['100% fulfilled all clinical trials': Patanjali on Coronil details conveyed to Centre][73] - The Centre on Tuesday said it has taken cognizance of the reports of an Ayurvedic medicine manufactured by Patanjali, which the company claims can cure COVID-19.
+   - [indiatvnews.com: How Patanjali's Coronil will cure coronavirus patients in 14 days?; Shriya Bhasin; June 23, 2020][74]
+   - [Dr. Yashwant Chowdhury: An informal, informed perspective on the objections raised to Coronil; June 24, 2020][75]
 
 ## 5. Ayush Kwath Churna:
 
@@ -421,13 +383,10 @@ INR 150 for one bottle.
 The formulation may be manufactured and sold in generic name as ‘Ayush Kwath’ or ‘Ayush Kudineer’ or ‘Ayush Joshanda’.
 
 ### Further references:                          
-[COVID-19: AYUSH Ministry recommends taking ‘AYUSH KWATH’ formulation to enhance immunity; Know the recipe; April, 2020][76]
-
-[‘Ayush health promotion product’ for commercial manufacturing by Ayurveda, Siddha and Unani drug manufacturers; Letter to the States and Union Territories from AYUSH Ministry, dated April 24, 2020][77]
-
-[Immunity against COVID-19: Potential role of Ayush Kwath; Shankar Gautam, Arun Gautam et al.; Journal of Ayurveda and Integrative Medicine; Aug 17, 2020][78]
-
-[Herbal plants as immunity modulators against COVID-19: A primary preventive measure during home quarantine; Kuntal Das; Journal of Herbal Medicine; Aug 5, 2021][79]
+   - [COVID-19: AYUSH Ministry recommends taking ‘AYUSH KWATH’ formulation to enhance immunity; Know the recipe; April, 2020][76]
+   - [‘Ayush health promotion product’ for commercial manufacturing by Ayurveda, Siddha and Unani drug manufacturers; Letter to the States and Union Territories from AYUSH Ministry, dated April 24, 2020][77]
+   - [Immunity against COVID-19: Potential role of Ayush Kwath; Shankar Gautam, Arun Gautam et al.; Journal of Ayurveda and Integrative Medicine; Aug 17, 2020][78]
+   - [Herbal plants as immunity modulators against COVID-19: A primary preventive measure during home quarantine; Kuntal Das; Journal of Herbal Medicine; Aug 5, 2021][79]
 
 ## 6. Dr. Swapna Reddy's (MD (Ayurveda)) clinically proven treatment protocol		
 
@@ -554,34 +513,20 @@ Medicines can be procured from reputed Ayurveda pharmacies like Kottakkal Arya V
 6. [Triphala Churnam 100 g (INR 350)][111]
 
 ### Further references:                          
-[Dr. Swapna Reddy shares how Ayurveda and Yoga can boost Immunity during these challenging times][112]
-
-[Isha Yoga's Simha Kriya][113]
-
-[Isha Kriya- Free Online Guided Meditation][114]
-
-[Isha Kriya Instructions- English (PDF)][115]
-
-[healthline.com- Pranic Foods: Types, History, Evidence and More][116]
-
-[healthline.com: What is the Ayurvedic Diet?: Benefits, Downsides, and More][117]
-
-[healthline.com: What Are the Ayurvedic Doshas?- Vata, Pitta and Kapha Explained][118]
-
-[Somatheeram Ayurvedic Health Resort: The Kapha Quality or Prakrti in Ayurveda- Diet, Tips, Characteristics etc.][119]
-
-[Halin drops: Benefits, How to Use, Ingredients, Side Effects][120]
-
-[ToI: Turmeric, neem effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][121]
-
-[en.wikipedia.org: Nasya][122]
-
-[TNIE: Kerala’s ayurvedic fumigant receives national attention; Dinesh Kallungal; May 21, 2020][123]
-Oushadhi — an ayurvedic medicine manufacturing unit — had recently recommended the Ayush Ministry to use the fumigant in isolation wards and quarantine centres.
-
-[pharmascope.org: Review on Role of Dhoopan in the prevention of airborne infections (COVID-19); Rathi et al.][124]
-
-[Microbial growth inhibition by aparajitha dhooma choornam; Cinela Celine; Ancient Science of Life; Jan, 2007][125]
+   - [Dr. Swapna Reddy shares how Ayurveda and Yoga can boost Immunity during these challenging times][112]
+   - [Isha Yoga's Simha Kriya][113]
+   - [Isha Kriya- Free Online Guided Meditation][114]
+   - [Isha Kriya Instructions- English (PDF)][115]
+   - [healthline.com- Pranic Foods: Types, History, Evidence and More][116]
+   - [healthline.com: What is the Ayurvedic Diet?: Benefits, Downsides, and More][117]
+   - [healthline.com: What Are the Ayurvedic Doshas?- Vata, Pitta and Kapha Explained][118]
+   - [Somatheeram Ayurvedic Health Resort: The Kapha Quality or Prakrti in Ayurveda- Diet, Tips, Characteristics etc.][119]
+   - [Halin drops: Benefits, How to Use, Ingredients, Side Effects][120]
+   - [ToI: Turmeric, neem effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][121]
+   - [en.wikipedia.org: Nasya][122]
+   - [TNIE: Kerala’s ayurvedic fumigant receives national attention; Dinesh Kallungal; May 21, 2020][123] - Oushadhi — an ayurvedic medicine manufacturing unit — had recently recommended the Ayush Ministry to use the fumigant in isolation wards and quarantine centres.
+   - [pharmascope.org: Review on Role of Dhoopan in the prevention of airborne infections (COVID-19); Rathi et al.][124]
+   - [Microbial growth inhibition by aparajitha dhooma choornam; Cinela Celine; Ancient Science of Life; Jan, 2007][125]
 
 ## 7. Prof. Dileep Kumar's (PhD, Ayurveda Pharmacology) recommended protocol for Covid-19, AIARD
 
@@ -757,14 +702,11 @@ As both Turmeric and Sesame oil are edible food substances, this extract is non-
 
 ### Further references:                          
 **For further information about the product, treatment modality, suppliers, any contraindications etc., here is a website that provides the names of physicians who offer this therapy, and who can be contacted for more information:**
+   - [Haldi-30][148]
+   - [Haldi-30 on Facebook][149]
+   - [YouTube.com: In conversation with Dr. Vikram Dravid][150]
 
-[Haldi-30][148]
 
-[Haldi-30 on Facebook][149]
-
-[YouTube.com: In conversation with Dr. Vikram Dravid][150]
-
-## CTYY
 
 [1]: https://health.rajasthan.gov.in/content/dam/doitassets/Medical-and-Health-Portal/rajasthan-state-medicinal-plant-board/pdfs/Letter/Final_e-book.pdf
 [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8013177/
@@ -918,155 +860,13 @@ As both Turmeric and Sesame oil are edible food substances, this extract is non-
 [149]: https://www.facebook.com/HALDI-30-100158062230344
 [150]: https://www.youtube.com/watch?v=QuxTvezWN84
 
-[163]: 
-[164]: 
-[165]: 
-[166]: 
-[167]: 
-[168]: 
-[169]: 
-[170]: 
-[171]: 
-[172]: 
-[173]: 
-[174]: 
-[175]: 
-[176]: 
-[177]: 
-[178]: 
-[179]: 
-[180]: 
-[181]: 
-[182]: 
-[183]: 
-[184]: 
-[185]: 
-[186]: 
-[187]: 
-[188]: 
-[189]: 
-[190]: 
-[191]: 
-[192]: 
-[193]: 
-[194]: 
-[195]: 
-[196]: 
-[197]: 
-[198]: 
-[199]: 
-[200]: 
-[206]: 
-[207]: 
-[208]: 
-[209]: 
-[210]: 
-[211]: 
-[212]: 
-[213]: 
-[214]: 
-[215]: 
-[216]: 
-[217]: 
-[218]: 
-[219]: 
-[220]: 
-[214]: 
-[215]: 
-[216]: 
-[217]: 
-[218]: 
-[219]: 
-[220]: 
-[221]: 
-[222]: 
-[223]: 
-[224]: 
-[225]: 
-[226]: 
-[227]: 
-[228]: 
-[229]: 
-[230]: 
-[231]: 
-[232]: 
-[233]: 
-[234]: 
-[235]: 
-[236]: 
-[237]: 
-[238]: 
-[239]: 
-[240]: 
-[241]: 
-[242]: 
-[243]: 
-[244]: 
-[245]: 
-[246]: 
-[247]: 
-[248]: 
-[249]: 
-[250]: 
-[251]: 
-[252]: 
-[253]: 
-[254]: 
-[255]: 
-[256]: 
-[257]: 
-[258]: 
-[259]: 
-[260]: 
-[261]: 
-[262]: 
-[263]: 
-[264]: 
-[265]: 
-[266]: 
-[267]: 
-[268]: 
-[269]: 
-[270]: 
-[271]: 
-[272]: 
-[273]: 
-[274]: 
-[275]: 
-[276]: 
-[277]: 
-[278]: 
-[279]: 
-[280]: 
-[281]: 
-[282]: 
-[283]: 
-[284]: 
-[285]: 
-[286]: 
-[287]: 
-[288]: 
-[289]: 
-[290]: 
-[291]: 
-[292]: 
-[293]: 
-[294]: 
-[295]: 
-[296]: 
-[297]: 
-[298]: 
-[299]: 
-[300]: 
-[301]: 
-[302]: 
-[303]: 
-[304]: 
-[305]: 
-[306]: 
-[307]: 
-[308]: 
-[309]: 
-[310]: 
-[311]: 
-[312]: 
+
+
+
+
+
+
+
+
+
+

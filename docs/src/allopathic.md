@@ -229,61 +229,33 @@ Some quercetin supplement brands, which are cited to contain quercetin dihydrate
 
 ### Further references:                          
 **Research articles evidencing efficacy of the protocol's therapeutic recommendations are embedded in the protocol itself.**
-
    - [Zelenko Protocols against Covid-19][38]
-
    - [A webpage that is a veritable Rosetta Stone of information about effective and evidence-based allopathic treatment protocols for Covid-19: The Zelenko Protocol][39] 
-
    - [Vladimir Zelenko, MD][40]
-
-[Dr. Zelenko's Z-Stack Vitamin Cocktail: Review 2021][41]
-
-[Chloroquine is a potent inhibitor of SARS coronavirus infection and spread; Virology Journal, 2005; Martin J. Vincent, Eric Bergeron, et al.][42]
-
-[Quercetin and Zinc: Zelenko Treatment Protocol ][43]
-
-[Dr. Zelenko's Covid-19 Related Writings][44] 
-
-[covexit.com: Interviews with Dr. Zelenko and a number of informative articles pertaining to the protocol][45]
-
-[COVID-19 Outpatients - Early Risk-Stratified Treatment with Zinc plus Low-Dose Hydroxychloroquine and Azithromycin: A Retrospective Case Series Study ][46]
-
-[Hydroxychloroquine and Zinc With Either Azithromycin or Doxycycline for Treatment of COVID-19 in Outpatient Setting][47] 
-
-[thedesertreview.com: Dr. George Fareed and Dr. Brian Tyson share early treatment protocol (updated);][48] April 6, 2021
-
-[covexit.com: Prophylaxis & Early Treatment in Nursing Homes – a Webinar with Dr Robin Armstrong and Dr George Fareed; Nov 10, 2020][49]
-
-[Drs. Fareed and Tyson: A Protocol for the Prevention and Early Treatment of COVID-19 in Nursing Homes][50]
-
-[Local frontline doctors modify COVID treatment based on results (The Protocol of Drs. Fareed and Tyson)][51]
-
-[Stew Peters interviews Dr. Vladimir Zelenko ][52]
-
-[Covid Outpatient Care - Because Prevention & Early Treatment are Best!][53]
-
-[Ivermectin: Top 15 Articles & Interviews][54]
-
-[Prophylaxis and Early Therapies for Covid-19 in Nursing Homes: Highlights With Robin Armstrong, MD, Texas, George Fareed, MD, California, Prof. Thomas Borody, MD, Australia, Prof. Christian Peronne, MD, France][55]
-
-[covexit.com: A Protocol for the Prevention and Early Treatment of COVID-19 in Nursing Homes; Dr. George Fareed; Dec 9, 2020][56]
-
-[C19Protocols: Early Treatment Protocols][57]
-
-[covexit.com: A number of articles and videos about the Fareed & Tyson Protocol and recommendations for Covid care in nursing homes][58]
-
-[Prospective Cohort of Fluvoxamine for Early Treatment of Coronavirus Disease 19; Seftel & Boulware; Open Forum Infectious Diseases; Feb, 2021][59]
-
-[Do Zinc Supplements Enhance the Clinical Efficacy of Hydroxychloroquine?: a Randomized, Multicenter Trial; Sherief Abd-Elsalam et al.; Biological Trace Element Research; Nov 27, 2020][60]
-
-[Immunopharmacological perspective on zinc in SARS-CoV-2 infection; Sima Heydarzadeh Asl et al.; International Immunopharmacology; July, 2021][61]
-
-[University of Minnesota: Covid-19: Evidence-Based Medicine- Zinc; Feb 13, 2021][62]
-
-[U.S. Pharmacist- Affordable Medicines: Common Supplements Might Reduce COVID Severity; July 10, 2020-][63]
-The Eastern Virginia Medical School (EVMS) and other health organizations recommend a prophylactic combination of the following supplements: vitamin C (500 mg) and quercetin (250 mg-500 mg twice a day) with zinc (75 mg-100 mg per day), melatonin (0.3 mg-2 mg) each night, and vitamin D3 (1,000-4,000 IU per day). Famotidine (20 mg-40 mg per day). (For patients with mild symptoms, EVMS recommends the same combination, with optional additions of ivermectin (150 ug-200 ug per kg as a single dose), and one low-dose or regular aspirin per day.)
-
-[Perspectives on plant flavonoid quercetin-based drugs for novel SARS-CoV-2; Manjesh Saakre et al.; Beni-Suef University Journal of Basic and Applied Sciences; Mar 24, 2021][64]
+   - [Dr. Zelenko's Z-Stack Vitamin Cocktail: Review 2021][41]
+   - [Chloroquine is a potent inhibitor of SARS coronavirus infection and spread; Virology Journal, 2005; Martin J. Vincent, Eric Bergeron, et al.][42]
+   - [Quercetin and Zinc: Zelenko Treatment Protocol ][43]
+   - [Dr. Zelenko's Covid-19 Related Writings][44] 
+   - [covexit.com: Interviews with Dr. Zelenko and a number of informative articles pertaining to the protocol][45]
+   - [COVID-19 Outpatients - Early Risk-Stratified Treatment with Zinc plus Low-Dose Hydroxychloroquine and Azithromycin: A Retrospective Case Series Study ][46]
+   - [Hydroxychloroquine and Zinc With Either Azithromycin or Doxycycline for Treatment of COVID-19 in Outpatient Setting][47] 
+   - [thedesertreview.com: Dr. George Fareed and Dr. Brian Tyson share early treatment protocol (updated);][48] April 6, 2021
+   - [covexit.com: Prophylaxis & Early Treatment in Nursing Homes – a Webinar with Dr Robin Armstrong and Dr George Fareed; Nov 10, 2020][49]
+   - [Drs. Fareed and Tyson: A Protocol for the Prevention and Early Treatment of COVID-19 in Nursing Homes][50]
+   - [Local frontline doctors modify COVID treatment based on results (The Protocol of Drs. Fareed and Tyson)][51]
+   - [Stew Peters interviews Dr. Vladimir Zelenko ][52]
+   - [Covid Outpatient Care - Because Prevention & Early Treatment are Best!][53]
+   - [Ivermectin: Top 15 Articles & Interviews][54]
+   - [Prophylaxis and Early Therapies for Covid-19 in Nursing Homes: Highlights With Robin Armstrong, MD, Texas, George Fareed, MD, California, Prof. Thomas Borody, MD, Australia, Prof. Christian Peronne, MD, France][55]
+   - [covexit.com: A Protocol for the Prevention and Early Treatment of COVID-19 in Nursing Homes; Dr. George Fareed; Dec 9, 2020][56]
+   - [C19Protocols: Early Treatment Protocols][57]
+   - [covexit.com: A number of articles and videos about the Fareed & Tyson Protocol and recommendations for Covid care in nursing homes][58]
+   - [Prospective Cohort of Fluvoxamine for Early Treatment of Coronavirus Disease 19; Seftel & Boulware; Open Forum Infectious Diseases; Feb, 2021][59]
+   - [Do Zinc Supplements Enhance the Clinical Efficacy of Hydroxychloroquine?: a Randomized, Multicenter Trial; Sherief Abd-Elsalam et al.; Biological Trace Element Research; Nov 27, 2020][60]
+   - [Immunopharmacological perspective on zinc in SARS-CoV-2 infection; Sima Heydarzadeh Asl et al.; International Immunopharmacology; July, 2021][61]
+   - [University of Minnesota: Covid-19: Evidence-Based Medicine- Zinc; Feb 13, 2021][62]
+   - [U.S. Pharmacist- Affordable Medicines: Common Supplements Might Reduce COVID Severity; July 10, 2020: ][63]The Eastern Virginia Medical School (EVMS) and other health organizations recommend a prophylactic combination of the following supplements: vitamin C (500 mg) and quercetin (250 mg-500 mg twice a day) with zinc (75 mg-100 mg per day), melatonin (0.3 mg-2 mg) each night, and vitamin D3 (1,000-4,000 IU per day). Famotidine (20 mg-40 mg per day). (For patients with mild symptoms, EVMS recommends the same combination, with optional additions of ivermectin (150 ug-200 ug per kg as a single dose), and one low-dose or regular aspirin per day.)
+   - [Perspectives on plant flavonoid quercetin-based drugs for novel SARS-CoV-2; Manjesh Saakre et al.; Beni-Suef University Journal of Basic and Applied Sciences; Mar 24, 2021][64]
 
 ## 2. MATH+, I-MASK+, I-RECOVER Protocol, first developed by Dr. Paul E. Marik: 
 
@@ -492,45 +464,27 @@ The first line of drugs used in the protocol are commonly used and inexpensive. 
 
 ### Suggested suppliers:
 Nutrient supplements can be bought from high-quality and trusted brands online or at local pharmacies. Prescription medicines like Ivermectin are purchased at local pharmaceutical stores, and to be used under the guidance of a licensed allopathic practitioner.
-
-[Telemedicine portals for Covid-19 prescriptions like Ivermectin.][134]
+   - [Telemedicine portals for Covid-19 prescriptions like Ivermectin.][134]
 
 ### Further references:                          
-[I-MASK+ Protocol for prevention and early outpatient treatment ][135]
-
-[MATH+ Protocol for hospital treatment ][136]
-
-[I-RECOVER Protocol for long haul management of Covid-19 syndrome][137] 
-
-[FLCCC: Summary of the Evidence for Ivermectin in COVID-19][138]
-
-[Ivermectin: Top 15 Articles & Interviews][139]
-
-[Ivermectin - FLCCC I-MASK+ Protocol for Covid-19 (Updated on September 1, 2021)][140]
-
-[EXPOSED! FDA, CDC & WHO is hiding this from you? | Dr Paul Marik FLCCC - Vijaya Viswanathan][141]
-
-[Transcript of The Joe Rogan Experience with Drs. Bret Weinstein and Pierre Kory][142], close collaborators of the highly esteemed intensivist Dr. Paul E. Marik, whoc developed the world renowned Ivermectin protocol. The researchers state the high value of Ivermectin in treating Covid and in neutralizing the spike proteins. 
-
-[Covid Outpatient Care - Because Prevention & Early Treatment are Best!][143]
-
-[Nitazonide][144]
-
-[C19Protocols: Early Treatment Protocols][145]
-
-[Prospective Cohort of Fluvoxamine for Early Treatment of Coronavirus Disease 19; Seftel & Boulware; Open Forum Infectious Diseases; Feb, 2021][146]
-
-[Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19; Pierre Kory, MD, et al.; American Journal of Therapeutics; June, 2021][147]
-
-[A reappraisal of the mucoactive activity and clinical efficacy of bromhexine; Alessandro Zanasi et al.; Multidisciplinary Respiratory Medicine; 2017][148]
-
-[Iota-carrageenan neutralizes SARS-CoV-2 and inhibits viral replication in vitro; Martina Morokutti-Kurz et al.; PLoS One; Feb 17, 2021][149]
-
-[COVID-19 early treatment: real-time analysis of 1,099 studies][150]
-
-[Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][151]
-
-[Role of Magnesium in Vitamin D Activation and Function; Anne Marie Uwitonze & Mohammed S Razzaque; Journal of the American Osteopathic Association; Mar 1, 2018][152]
+   - [I-MASK+ Protocol for prevention and early outpatient treatment ][135]
+   - [MATH+ Protocol for hospital treatment ][136]
+   - [I-RECOVER Protocol for long haul management of Covid-19 syndrome][137] 
+   - [FLCCC: Summary of the Evidence for Ivermectin in COVID-19][138]
+   - [Ivermectin: Top 15 Articles & Interviews][139]
+   - [Ivermectin - FLCCC I-MASK+ Protocol for Covid-19 (Updated on September 1, 2021)][140]
+   - [EXPOSED! FDA, CDC & WHO is hiding this from you? | Dr Paul Marik FLCCC - Vijaya Viswanathan][141]
+   - [Transcript of The Joe Rogan Experience with Drs. Bret Weinstein and Pierre Kory][142], close collaborators of the highly esteemed intensivist Dr. Paul E. Marik, whoc developed the world renowned Ivermectin protocol. The researchers state the high value of Ivermectin in treating Covid and in neutralizing the spike proteins. 
+   - [Covid Outpatient Care - Because Prevention & Early Treatment are Best!][143]
+   - [Nitazonide][144]
+   - [C19Protocols: Early Treatment Protocols][145]
+   - [Prospective Cohort of Fluvoxamine for Early Treatment of Coronavirus Disease 19; Seftel & Boulware; Open Forum Infectious Diseases; Feb, 2021][146]
+   - [Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19; Pierre Kory, MD, et al.; American Journal of Therapeutics; June, 2021][147]
+   - [A reappraisal of the mucoactive activity and clinical efficacy of bromhexine; Alessandro Zanasi et al.; Multidisciplinary Respiratory Medicine; 2017][148]
+   - [Iota-carrageenan neutralizes SARS-CoV-2 and inhibits viral replication in vitro; Martina Morokutti-Kurz et al.; PLoS One; Feb 17, 2021][149]
+   - [COVID-19 early treatment: real-time analysis of 1,099 studies][150]
+   - [Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][151]
+   - [Role of Magnesium in Vitamin D Activation and Function; Anne Marie Uwitonze & Mohammed S Razzaque; Journal of the American Osteopathic Association; Mar 1, 2018][152]
 
 ## 3. Multifaceted highly targeted sequential multidrug treatment algorithm, published by 57 world-renowned physicians, including Drs. Peter McCullough, Paul E. Alexander, Thomas J. Borody, George Fareed, Brian Tyson, Richard Bartlett, Richard G. Urso and Vladimir Zelenko
 
@@ -654,35 +608,22 @@ INR 25-70 for 4 12 mg ivermectin tablets and doxycycline being much cheaper. Nut
 
 ### Suggested suppliers:
 Prescription medicine purchased at local pharmaceutical stores or online, and to be used under the guidance of a licensed allopathic practitioner. The nutraceutical products could be bought online, including at Amazon.
-
-[Telemedicine portals for Covid-19 prescriptions like Ivermectin][154]
+   - [Telemedicine portals for Covid-19 prescriptions like Ivermectin][154]
 
 ### Further references:                          
-[Multifaceted highly targeted sequential multidrug treatment of early ambulatory high-risk SARS-CoV-2 infection (COVID-19); Reviews in Cardiovascular Medicine; Dec 30, 2020][155]
-
-[Early Treatment of the Inflammatory Stage of Covid-19 and its Rationale][156]
-
-[AAPS online educational resource: A Guide to Home-Based COVID Treatment: Step-By-Step Doctors' Plan That Could Save Your Life; Jane M. Orient, MD, Elizabeth Lee Vliet, MD][157]
-
-[The McCullough Report][158]
-
-[Outpatient Early Treatment Algorithm for COVID-19: A Webinar With Dr. Peter McCullough, MD, MPH][159]
-
-[Vaccinated or Not, Acute COVID-19 in High-Risk Patients Demands Early Treatment; Dr. Peter Mc Cullough; Aug 17, 2021][160]
-
-[Prophylaxis and Early Therapies for COVID-19 in Nursing Homes: Highlights with Drs. Robin Armstrong, George Fareed, Thomas Borody, Christian Perronne][161]
-
-[Statistical support for the efficacy of Ivermectin-based treatment protocols from around the world][162]
-
-[thegatewaypundit.com: AMAZING- COVID-19 Cases in Indonesia Plummet After Government Authorizes IVERMECTIN For Treatment][163]
-
-[C19Protocols: Early Treatment Protocols][164]
-
-[Association of American Physicians and Surgeons with Dr. Peter McCullough: Pathophysiologic Basis and Clinical Rationale for Early Ambulatory Treatment of COVID-19; Jan 28, 2021][165]
-
-[[Health Is Number One] Interview: Dr. Peter McCullough Early Treatment for COVID-19][166]
-
-[covexit.com: A few articles and videos making reference to Dr. Peter McCullough's treatment approach and work][167]
+   - [Multifaceted highly targeted sequential multidrug treatment of early ambulatory high-risk SARS-CoV-2 infection (COVID-19); Reviews in Cardiovascular Medicine; Dec 30, 2020][155]
+   - [Early Treatment of the Inflammatory Stage of Covid-19 and its Rationale][156]
+   - [AAPS online educational resource: A Guide to Home-Based COVID Treatment: Step-By-Step Doctors' Plan That Could Save Your Life; Jane M. Orient, MD, Elizabeth Lee Vliet, MD][157]
+   - [The McCullough Report][158]
+   - [Outpatient Early Treatment Algorithm for COVID-19: A Webinar With Dr. Peter McCullough, MD, MPH][159]
+   - [Vaccinated or Not, Acute COVID-19 in High-Risk Patients Demands Early Treatment; Dr. Peter Mc Cullough; Aug 17, 2021][160]
+   - [Prophylaxis and Early Therapies for COVID-19 in Nursing Homes: Highlights with Drs. Robin Armstrong, George Fareed, Thomas Borody, Christian Perronne][161]
+   - [Statistical support for the efficacy of Ivermectin-based treatment protocols from around the world][162]
+   - [thegatewaypundit.com: AMAZING- COVID-19 Cases in Indonesia Plummet After Government Authorizes IVERMECTIN For Treatment][163]
+   - [C19Protocols: Early Treatment Protocols][164]
+   - [Association of American Physicians and Surgeons with Dr. Peter McCullough: Pathophysiologic Basis and Clinical Rationale for Early Ambulatory Treatment of COVID-19; Jan 28, 2021][165]
+   - [[Health Is Number One] Interview: Dr. Peter McCullough Early Treatment for COVID-19][166]
+   - [covexit.com: A few articles and videos making reference to Dr. Peter McCullough's treatment approach and work][167]
 
 ## 4. Experience of a veteran Covid frontline physician Dr. Richard Urso, ophthalmologist and molecular oncologist, Texas, USA, on the early treatment of the Delta variant
 
@@ -738,7 +679,7 @@ The first line of drugs used in the protocol are commonly used and inexpensive. 
 Earlier section on the FLCCC early treatment protocol includes embedded links to online suppliers.
 
 ### Further references:                          
-[The Early Treatment of Delta: Part 4 - Dr. Richard Urso][172]
+   - [The Early Treatment of Delta: Part 4 - Dr. Richard Urso][172]
 
 ## 5. Ivermectin + Doxycycline protocol by Aguirre-Chang, Gustavo et al., using Cyproheptadine
 
@@ -902,17 +843,13 @@ Rs. 25-70 for 4 12 mg ivermectin tablets and doxycycline being much cheaper, whi
 
 ### Suggested suppliers:
 Prescription medicine purchased at local pharmaceutical stores, and to be used under the guidance of a licensed allopathic practitioner
-
-[Telemedicine portal for Covid-19][174]
+   - [Telemedicine portal for Covid-19][174]
 
 ### Further references:                          
-[researchgate.net: TABLE 2021, COVID-19: THERAPEUTIC PLAN AND POTENTIAL THERAPIES; Gustavo Aguirre-Chang et al.; January 2021][175]
-
-[White paper on Ivermectin as a potential therapy for COVID-19; Indian Journal of Tuberculosis; Agam Vora, V. K. Arora, et al. ][176]
-
-[Ivermectin: Top 15 Articles & Interviews][177]
-
-[Prospective Cohort of Fluvoxamine for Early Treatment of Coronavirus Disease 19; Seftel & Boulware; Open Forum Infectious Diseases; Feb, 2021][178]
+   - [researchgate.net: TABLE 2021, COVID-19: THERAPEUTIC PLAN AND POTENTIAL THERAPIES; Gustavo Aguirre-Chang et al.; January 2021][175]
+   - [White paper on Ivermectin as a potential therapy for COVID-19; Indian Journal of Tuberculosis; Agam Vora, V. K. Arora, et al. ][176]
+   - [Ivermectin: Top 15 Articles & Interviews][177]
+   - [Prospective Cohort of Fluvoxamine for Early Treatment of Coronavirus Disease 19; Seftel & Boulware; Open Forum Infectious Diseases; Feb, 2021][178]
 
 ## 6. Ippocrate Protocol
 
@@ -1032,7 +969,7 @@ Supplements and drugs prescribed in Stages 0 & 1 are not expensive.
 Online and physical pharmacies
 
 ### Further references:                          
-[IppocrateOrg: How to treat Covid-19; Dec 19, 2020][181]
+   - [IppocrateOrg: How to treat Covid-19; Dec 19, 2020][181]
 
 ## 7. Dr. Shankara Chetty's 8th Day Therapy
 
@@ -1110,22 +1047,14 @@ Prescription medicine purchased at local pharmaceutical stores, and to be used u
 
 ### Further references:                          
 **For a detailed account of Dr Chetty’s hypersensitivity insights and treatment protocols, go to the digital edition of Modern Medicine magazine, Volume 45, Number 5, Issue 5 2020. There is a short article upfront, followed by the full article by Dr Chetty.**
-
-[A KZN doctor’s observations and treatment of COVID-19 may reveal a missing element][182]
-
-[A video interview with South African doctor, Dr. Shankara Chetty ][183]
-
-[Written Evidence Submitted by Dr Chris Newton, Center for ImmuneMetabolism, Microbiome and Bio-Energetic Research, UK (Limited immune-response data for early Covid-19 has greatly hindered understanding of disease pathogenesis)][184]
-
-[More about the 8th Day Therapy, in Dr. Chetty's own words][185]
-
-[The Delta Variant & its Treatment: Panel discussion with Drs. Ryan Cole, Shankara Chetty, Pierre Kory and Richard Urso (The Covexit.com Podcast) ][186]
-
-[Covid Outpatient Care - Because Prevention & Early Treatment are Best!][187]
-
-[Antihistamines and azithromycin as a treatment for COVID-19 on primary health care – A retrospective observational study in elderly patients; Juan Ignacio Moran Blanco et al.; Pulmonary Pharmacology and Therapeutics; April, 2021][188]
-
-[covexit.com: Interviews and articles pertaining to Dr. Chetty's 8th Day Therapy][189]
+   - [A KZN doctor’s observations and treatment of COVID-19 may reveal a missing element][182]
+   - [A video interview with South African doctor, Dr. Shankara Chetty ][183]
+   - [Written Evidence Submitted by Dr Chris Newton, Center for ImmuneMetabolism, Microbiome and Bio-Energetic Research, UK (Limited immune-response data for early Covid-19 has greatly hindered understanding of disease pathogenesis)][184]
+   - [More about the 8th Day Therapy, in Dr. Chetty's own words][185]
+   - [The Delta Variant & its Treatment: Panel discussion with Drs. Ryan Cole, Shankara Chetty, Pierre Kory and Richard Urso (The Covexit.com Podcast) ][186]
+   - [Covid Outpatient Care - Because Prevention & Early Treatment are Best!][187]
+   - [Antihistamines and azithromycin as a treatment for COVID-19 on primary health care – A retrospective observational study in elderly patients; Juan Ignacio Moran Blanco et al.; Pulmonary Pharmacology and Therapeutics; April, 2021][188]
+   - [covexit.com: Interviews and articles pertaining to Dr. Chetty's 8th Day Therapy][189]
 
 ## 8. The adaptation of Dr. Shankara Chetty's (Port Edward, South Africa) 8th Day Therapy to treat the commonly prevalent, aggressive Delta variant, which emerged during the second or third waves in many countries 
 
@@ -1188,9 +1117,8 @@ The medicines used are available in local pharmacies and inexpensive.
 Local pharmaceutical stores
 
 ### Further references:                          
-[Statistical support for the efficacy of Ivermectin-based protocols, from around the world][190]
-
-[The Early Treatment of the Delta: A Webinar Held on August 21, 2021 With Drs. Cole, Chetty, Kory and Urso][191]
+   - [Statistical support for the efficacy of Ivermectin-based protocols, from around the world][190]
+   - [The Early Treatment of the Delta: A Webinar Held on August 21, 2021 With Drs. Cole, Chetty, Kory and Urso][191]
 
 ## 9. Dr. Thomas J. Borody's Triple Therapy treatment protocol
 
@@ -1238,19 +1166,13 @@ The medicines used are available in local pharmacies and inexpensive.
 GPs can email GP@CDD.com.au to obtain the dosing protocol and COVID-19 treatment information for their patients.
 
 ### Further references:                          
-[Interview with Prof. Thomas Borody- Part 1 of 2][192]
-
-["We know it's curable. It's easier than treating the flu." (Aug 15, 2020][193] 
-
-[Australian GPs Can Legally Prescribe Ivermectin Triple Therapy Protocol - Professor Thomas Borody][194]
-
-[Ivermectin in combination with doxycycline for treating COVID-19 symptoms: a randomized trial][195]
-
-[Prophylaxis and Early Therapies for Covid-19 in Nursing Homes: Highlights With Robin Armstrong, MD, Texas, George Fareed, MD, California, Prof. Thomas Borody, MD, Australia, Prof. Christian Peronne, MD, France][196]
-
-[C19Protocols: Early Treatment Protocols][197]
-
-[covexit.com: Articles and videos describing or making refefrence to Dr. Thomas Borody's Covid-19 treatment protocol][198]
+   - [Interview with Prof. Thomas Borody- Part 1 of 2][192]
+   - ["We know it's curable. It's easier than treating the flu." (Aug 15, 2020][193] 
+   - [Australian GPs Can Legally Prescribe Ivermectin Triple Therapy Protocol - Professor Thomas Borody][194]
+   - [Ivermectin in combination with doxycycline for treating COVID-19 symptoms: a randomized trial][195]
+   - [Prophylaxis and Early Therapies for Covid-19 in Nursing Homes: Highlights With Robin Armstrong, MD, Texas, George Fareed, MD, California, Prof. Thomas Borody, MD, Australia, Prof. Christian Peronne, MD, France][196]
+   - [C19Protocols: Early Treatment Protocols][197]
+   - [covexit.com: Articles and videos describing or making refefrence to Dr. Thomas Borody's Covid-19 treatment protocol][198]
 
 ## 10. Dr. Andrea Stramezzi, MD, PhD, protocol innovator who came to be known as **The Covid Healer** in Italy
 
@@ -1298,7 +1220,7 @@ The medicines used are available in local pharmacies and inexpensive.
 Prescription medication bought from local or online pharmacies, and to be used under the guidance of a physician
 
 ### Further references:                          
-[Interview with Dr. Andrea Stramezzi, aka The Covid Healer][199]
+   - [Interview with Dr. Andrea Stramezzi, aka The Covid Healer][199]
 
 ## 11. Dr. Richard Bartlett's Inhaled Budesonide Covid-19 protocol
 
@@ -1395,35 +1317,21 @@ The total treatment is said to cost under US $ 200.
 Budesonide is a prescription drug that can be bought at local pharmacies, along with the home nebuliser to dispense it in the prescribed way, from a local or online store.
 
 ### Further references:                          
-[Budesonide dosing for outpatient COVID per the Oxford RCT (+ASA, nutraceuticals, etc. at provider’s discretion)][200]
-
-[Inhaled budesonide in the treatment of early COVID-19 illness: a randomised controlled trial. MedRxiv preprint; Ramakrishnan S, Nicolau DV, Langford B, Mahdi M, Jeffers H, Mwasuku C, et al., Univ. of Oxford; Jan 8, 2021][201]
-
-[COVID-19 CURE PROTOCOL: Transcript of Dr. Richard Bartlett’s Bombshell Interview; Published July, 2020][202] 
-
-[Dr. Bartlett’s Suggested Full Treatment Protocol for COVID 19][203] 
-
-[COVID-19 CURE PROTOCOL: Physician Treats Coronavirus Patients With 100% Success Rates][204] 
-
-[COVID-19 Treatments | Dr. Richard Bartlett][205]
-
-[Oxford study confirms Christian doctor’s Covid treatment; Feb,2021][206]
-
-[Innovative Budesonide Treatment Key to West Texas Woman's Remarkable Reocvery][207] 
-
-[Asthma drug Budesonide speeds recovery for at-home Covid-19 patients ][208]
-
-[Covid Outpatient Care - Because Prevention & Early Treatment are Best!][209]
-
-[Richard Bartlett says Budesonide is a ""silver bullet"" for Covid. Is that true?; July, 2020][210]
-
-[The Highwire With Del Bigtree][211]
-
-[Dr Vladimir Zelenko (New York) and Dr Richard Bartlett (Texas) discuss their very postive outcomes in the treatment of coronavirus patients. (July 30, 2020)][212]
-
-[C19Protocols: Early Treatment Protocols][213]
-
-[covexit.com: Articles shedding light on Dr. Bartlett's Budesonoid Protocol][214]
+   - [Budesonide dosing for outpatient COVID per the Oxford RCT (+ASA, nutraceuticals, etc. at provider’s discretion)][200]
+   - [Inhaled budesonide in the treatment of early COVID-19 illness: a randomised controlled trial. MedRxiv preprint; Ramakrishnan S, Nicolau DV, Langford B, Mahdi M, Jeffers H, Mwasuku C, et al., Univ. of Oxford; Jan 8, 2021][201]
+   - [COVID-19 CURE PROTOCOL: Transcript of Dr. Richard Bartlett’s Bombshell Interview; Published July, 2020][202] 
+   - [Dr. Bartlett’s Suggested Full Treatment Protocol for COVID 19][203] 
+   - [COVID-19 CURE PROTOCOL: Physician Treats Coronavirus Patients With 100% Success Rates][204] 
+   - [COVID-19 Treatments | Dr. Richard Bartlett][205]
+   - [Oxford study confirms Christian doctor’s Covid treatment; Feb,2021][206]
+   - [Innovative Budesonide Treatment Key to West Texas Woman's Remarkable Reocvery][207] 
+   - [Asthma drug Budesonide speeds recovery for at-home Covid-19 patients ][208]
+   - [Covid Outpatient Care - Because Prevention & Early Treatment are Best!][209]
+   - [Richard Bartlett says Budesonide is a ""silver bullet"" for Covid. Is that true?; July, 2020][210]
+   - [The Highwire With Del Bigtree][211]
+   - [Dr Vladimir Zelenko (New York) and Dr Richard Bartlett (Texas) discuss their very postive outcomes in the treatment of coronavirus patients. (July 30, 2020)][212]
+   - [C19Protocols: Early Treatment Protocols][213]
+   - [covexit.com: Articles shedding light on Dr. Bartlett's Budesonoid Protocol][214]
 
 ## 12. "The perspective of one of the foremost frontline Covid-care physicians, Dr. Ryan Cole, Idaho, USA, on the adaptation of early treatment protocols to treat the Delta and other aggressive variants, emphasizing 
 
@@ -1478,11 +1386,9 @@ The medicines used are available in local pharmacies and inexpensive.
 Local pharmaceutical stores
 
 ### Further references:                          
-[Statistical support for the efficacy of Ivermectin-based protocols, from around the world][216]
-
-[The Early Treatment of the Delta: A Webinar Held on August 21, 2021 With Drs. Cole, Chetty, Kory and Urso][217]
-
-[COVID-19 early treatment: real-time analysis of 1,057 studies][218]
+   - [Statistical support for the efficacy of Ivermectin-based protocols, from around the world][216]
+   - [The Early Treatment of the Delta: A Webinar Held on August 21, 2021 With Drs. Cole, Chetty, Kory and Urso][217]
+   - [COVID-19 early treatment: real-time analysis of 1,057 studies][218]
 
 ## 13. Vitamin C (oral and intravenous)
 
@@ -1551,38 +1457,24 @@ The online products appear to cost between US $ 15-20.
 
 ### Suggested suppliers:
 Commercial brands like [Limcee][234] offer exclusively, oral vitamin C. There are good commercial brands available online of oral liposomal vitamin C with other nutrients like Glutathione and B-complex for immune support. The following brand, produced from natural Amla and said to be highly bioavailable, may be a good option, even though expensive:
-
-[Vitamin C (+ Zinc) Daily Immunity Booster- Fast&Up Charge Combo of 6 (+ 6 free) (Rs. 2340)][235]
+   - [Vitamin C (+ Zinc) Daily Immunity Booster- Fast&Up Charge Combo of 6 (+ 6 free) (Rs. 2340)][235]
 
 ### Further references:                          
-[Zinc, Vitamin D and Vitamin C: Perspectives for COVID-19 With a Focus on Physical Tissue Barrier Integrity; frontiers in Nutrition; Jose JoaoName, et al.][236]
-
-[Vitamin C Can Shorten the Length of Stay in the ICU: A Meta-Analysis; Harri Hemila, Elizabeth Chalker; Nutrients; April, 2019][237]
-
-[The Many Faces Of Vitamin C ][238]
-
-[Andrew Saul | Doctor Yourself.com- The World's Largest Health Homesteading Website][239]
-
-[Vitamin C in the Prevention and Treatment of Covid-19, by Dr. Richard Z. Cheng, MD, PhD, International Society for Orthomolecular Medicine (ISOM)][240] 
-
-[fastandup.in: How to find the best vitamin C supplement; Andrea Fernandes (Expert & Writer for manufacturer's website Fast&Up Charge); Apr 23, 2019][241]
-
-[Vitamin C for Covid-19- Real-time Meta-Analysis from 24 Studies; Covid Analysis; Nov 9, 2021][242]
-
-[Vitalitymagazine.com: COVID-19 How Can I Cure Thee? Let Me Count the Ways; Dr. Thomas E. Levy, MD, JD; Dec 3, 2020][243]
-
+   - [Zinc, Vitamin D and Vitamin C: Perspectives for COVID-19 With a Focus on Physical Tissue Barrier Integrity; frontiers in Nutrition; Jose JoaoName, et al.][236]
+   - [Vitamin C Can Shorten the Length of Stay in the ICU: A Meta-Analysis; Harri Hemila, Elizabeth Chalker; Nutrients; April, 2019][237]
+   - [The Many Faces Of Vitamin C ][238]
+   - [Andrew Saul | Doctor Yourself.com- The World's Largest Health Homesteading Website][239]
+   - [Vitamin C in the Prevention and Treatment of Covid-19, by Dr. Richard Z. Cheng, MD, PhD, International Society for Orthomolecular Medicine (ISOM)][240] 
+   - [fastandup.in: How to find the best vitamin C supplement; Andrea Fernandes (Expert & Writer for manufacturer's website Fast&Up Charge); Apr 23, 2019][241]
+   - [Vitamin C for Covid-19- Real-time Meta-Analysis from 24 Studies; Covid Analysis; Nov 9, 2021][242]
+   - [Vitalitymagazine.com: COVID-19 How Can I Cure Thee? Let Me Count the Ways; Dr. Thomas E. Levy, MD, JD; Dec 3, 2020][243]
 
 References regarding side effects:
-
-[Padayatty SJ, Sun AY, Chen Q, et al.: Vitamin C: intravenous use by complementary and alternative medicine practitioners and adverse effects; PLoS One 5 (7): e11414, 2010][244]
-
-[Campbell GD, Steinberg MH, Bower JD: Letter: Ascorbic acid-induced hemolysis in G-6-PD deficiency; Ann Intern Med 82 (6): 810, 1975][245]
-
-[Mehta JB, Singhal SB, Mehta BC: Ascorbic-acid-induced haemolysis in G-6-PD deficiency; Lancet 336 (8720): 944, 1990][246]
-
-[Rees DC, Kelsey H, Richards JD: Acute haemolysis induced by high dose ascorbic acid in glucose-6-phosphate dehydrogenase deficiency; BMJ 306 (6881): 841-2, 1993][247]
-
-[Barton JC, McDonnell SM, Adams PC, et al.: Management of hemochromatosis; Hemochromatosis Management Working Group. Ann Intern Med 129 (11): 932-9, 1998][248]
+   - [Padayatty SJ, Sun AY, Chen Q, et al.: Vitamin C: intravenous use by complementary and alternative medicine practitioners and adverse effects; PLoS One 5 (7): e11414, 2010][244]
+   - [Campbell GD, Steinberg MH, Bower JD: Letter: Ascorbic acid-induced hemolysis in G-6-PD deficiency; Ann Intern Med 82 (6): 810, 1975][245]
+   - [Mehta JB, Singhal SB, Mehta BC: Ascorbic-acid-induced haemolysis in G-6-PD deficiency; Lancet 336 (8720): 944, 1990][246]
+   - [Rees DC, Kelsey H, Richards JD: Acute haemolysis induced by high dose ascorbic acid in glucose-6-phosphate dehydrogenase deficiency; BMJ 306 (6881): 841-2, 1993][247]
+   - [Barton JC, McDonnell SM, Adams PC, et al.: Management of hemochromatosis; Hemochromatosis Management Working Group. Ann Intern Med 129 (11): 932-9, 1998][248]
 
 ## 14. "Nutrient supplements containing vitamins A, C, D3, & E, K2, Magnesium (especially Magnesium Chloride), Selenium and Zinc
 
@@ -1646,92 +1538,52 @@ At least 30 doses for one individual
 
 ### Price:
 Many brands of these nutrient supplements are available online. The articles below have embedded links to a few recommended products, and pricing information. Many high-quality nutritional supplements are expensive, in general, and products sourced from stores outside the country are especially so.
-
-[Zelenko Protocols against Covid-19][255]
-
-[Protocols and Dosages for Prevention and Management of Covid-19 and Vaccine Adverse Reactions][256]
-
-[Top Supplements to Help Battle Covid-19: If you want to stay resilient against infection, adding a few immune support products, such as Vitamin C, Vitamin D, Quercetin, Glutathione / NAC, Zinc, and Melatonin can help.][257]
+   - [Zelenko Protocols against Covid-19][255]
+   - [Protocols and Dosages for Prevention and Management of Covid-19 and Vaccine Adverse Reactions][256]
+   - [Top Supplements to Help Battle Covid-19: If you want to stay resilient against infection, adding a few immune support products, such as Vitamin C, Vitamin D, Quercetin, Glutathione / NAC, Zinc, and Melatonin can help.][257]
 
 (Note: When supplementing with vitamin D, it is [important also to supplement with sources of vitamin K2][258], and [Magnesium to improve D absorption][259].)
-
-[10 supplements to boost immunity during Covid-19 pandemic- Vitamin D3, Vitamin A, Vitamin C, Magnesium, Zinc, L-Theanine, Melatonin, N-Acetyl Cysteine (NAC), Probiotics- and some high quality products online containing these nutrients][260] 
-
-[THE MANY FACES OF VITAMIN C][261]
+   - [10 supplements to boost immunity during Covid-19 pandemic- Vitamin D3, Vitamin A, Vitamin C, Magnesium, Zinc, L-Theanine, Melatonin, N-Acetyl Cysteine (NAC), Probiotics- and some high quality products online containing these nutrients][260] 
+   - [THE MANY FACES OF VITAMIN C][261]
 
 ### Suggested suppliers:
 Many brands of these nutrient supplements are available online. The articles below have embedded links to a few recommended products, and pricing information.
-
-[Zelenko Protocols against Covid-19][262]
-
-[Protocols and Dosages for Prevention and Management of Covid-19 and Vaccine Adverse Reactions][263]
-
-[Top Supplements to Help Battle Covid-19: If you want to stay resilient against infection, adding a few immune support products, such as Vitamin C, Vitamin D, Quercetin, Glutathione/NAC, Zinc, and Melatonin can help.][264]
-
-[10 supplements to boost immunity during Covid-19 pandemic- Vitamin D3, Vitamin A, Vitamin C, Magnesium, Zinc, L-Theanine, Melatonin, N-Acetyl Cysteine (NAC), Probiotics- and some high quality products online containing these nutrients][265] 
-
-[THE MANY FACES OF VITAMIN C][266]
-
-[Himalayan Organics Vitamin D3 with K2 as MK7 supplement - 120 Veg Tablets][267]
+   - [Zelenko Protocols against Covid-19][262]
+   - [Protocols and Dosages for Prevention and Management of Covid-19 and Vaccine Adverse Reactions][263]
+   - [Top Supplements to Help Battle Covid-19: If you want to stay resilient against infection, adding a few immune support products, such as Vitamin C, Vitamin D, Quercetin, Glutathione/NAC, Zinc, and Melatonin can help.][264]
+   - [10 supplements to boost immunity during Covid-19 pandemic- Vitamin D3, Vitamin A, Vitamin C, Magnesium, Zinc, L-Theanine, Melatonin, N-Acetyl Cysteine (NAC), Probiotics- and some high quality products online containing these nutrients][265] 
+   - [THE MANY FACES OF VITAMIN C][266]
+   - [Himalayan Organics Vitamin D3 with K2 as MK7 supplement - 120 Veg Tablets][267]
 
 ### Further references:                          
-[Zelenko Protocols against Covid-19][268]
-
-[Protocols and Dosages for Prevention and Management of Covid-19 and Vaccine Adverse Reactions][269]
-
-[Controlled clinical study from Singapore showing the efficacy of supplementation with 1000 IU of vitamin D3, 150 mg of Magnesium and 500 mcg of vitamin B12 in early-stage hospitalized Covid patients aged over 50 ][270]
-
-[Top Supplements to Help Battle Covid-19: If you want to stay resilient against infection, adding a few immune support products, such as Vitamin C, Vitamin D, Quercetin, Glutathione/NAC, Zinc, and Melatonin can help.][271]
-
-[Dr. Roger Seheult's Daily Regimen (Vitamin D, C, Zinc, Quercetin, NAC)][272]
-
-[Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][273]
-
-[Role of Magnesium in Vitamin D Activation and Function; Anne Marie Uwitonze & Mohammed S Razzaque; The Journal of the American Osteopathic Association; Mar 1, 2018][274]
-
-[10 supplements to boost immunity during Covid-19 pandemic- Vitamin D3, Vitamin A, Vitamin C, Magnesium, Zinc, L-Theanine, Melatonin, N-Acetyl Cysteine (NAC), Probiotics- and some high quality products online containing these nutrients ][275]
-
-[THE MANY FACES OF VITAMIN C][276]
-
-[Vitamin C in the Prevention & Treatment of Covid-19][277]
-
-[DoctorYourself.com](http://www.doctoryourself.com/)
-
-[Overviews of Biological Importance of Quercetin: A Bioactive Flavonoid; Pharmacognosy Reviews; Alexander Victor Anand David, et al.][278]
-
-[The effect of oral N-acetylcysteine in chronic bronchitis: a quantitative systematic review; European Respiratory Journal; C Stey, J Steurer, S Bachmann, et al.][279]
-
-[Evidence that Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infections and Deaths; Nutrients; William B Grant, Henry Lahor, et al.][280]
-
-[Impact of vitamin D on the course of COVID-19 during pregnancy: A case control study; Selcan Sinaci, Doga Fatman Ocal, et al.][281]
-
-[Paperback: Magnesium: Reversing Disease; Thomas E. Levy, MD, JD; Nov 1, 2019][282]
-
-Recent research points the way toward a practical nutraceutical strategy for coping with RNA virus infections including influenza and coronavirus:
-
-[Nutraceuticals have potential for boosting the type 1 interferon response to RNA viruses including influenza and coronavirus; Progress in Cardiovascular Diseases; Mark F. McCarty, James J. DiNicolantonio][283]
-
-[Daily Dosage of N-Acetyl Cysteine][284]
-
-[Oral Glutathione][285]
-
-[Well-researched article on How to Raise Glutathione Levels][286]
-
-[On Quercetin][287]
-
-[16 Best Supplements to reduce Cytokine Storm, a Severe Complication from Covid-19 (Updated September, 2021)][288]
-
-[Intravenous nutrient therapy: the "Myers' cocktail"][289]
-
-[Prophetic Medicine-Nigella Sativa (Black cumin seeds) - Potential herb for COVID-19?][290]
-
-[Nigella Sativa in COVID-19: Study results][291]
-
-[Nigella Sativa has potential use in future COVID-19 treatment; Manufaturers' Monthly; Aug 10, 2021][292]
-
-[COVID-19 early treatment: real-time analysis of 1,057 studies][293]
-
-[COVID-19 How Can I Cure Thee? Let Me Count the Ways; Thomas E. Levy, MD, JD; Dec 3, 2020][294]
+   - [Zelenko Protocols against Covid-19][268]
+   - [Protocols and Dosages for Prevention and Management of Covid-19 and Vaccine Adverse Reactions][269]
+   - [Controlled clinical study from Singapore showing the efficacy of supplementation with 1000 IU of vitamin D3, 150 mg of Magnesium and 500 mcg of vitamin B12 in early-stage hospitalized Covid patients aged over 50 ][270]
+   - [Top Supplements to Help Battle Covid-19: If you want to stay resilient against infection, adding a few immune support products, such as Vitamin C, Vitamin D, Quercetin, Glutathione/NAC, Zinc, and Melatonin can help.][271]
+   - [Dr. Roger Seheult's Daily Regimen (Vitamin D, C, Zinc, Quercetin, NAC)][272]
+   - [Vitamin D3 and K2 and their potential contribution to reducing the COVID-19 mortality rate; Simon Goddek; International Journal of Infectious Diseases; Oct, 2020][273]
+   - [Role of Magnesium in Vitamin D Activation and Function; Anne Marie Uwitonze & Mohammed S Razzaque; The Journal of the American Osteopathic Association; Mar 1, 2018][274]
+   - [10 supplements to boost immunity during Covid-19 pandemic- Vitamin D3, Vitamin A, Vitamin C, Magnesium, Zinc, L-Theanine, Melatonin, N-Acetyl Cysteine (NAC), Probiotics- and some high quality products online containing these nutrients ][275]
+   - [THE MANY FACES OF VITAMIN C][276]
+   - [Vitamin C in the Prevention & Treatment of Covid-19][277]
+   - [DoctorYourself.com](http://www.doctoryourself.com/)
+   - [Overviews of Biological Importance of Quercetin: A Bioactive Flavonoid; Pharmacognosy Reviews; Alexander Victor Anand David, et al.][278]
+   - [The effect of oral N-acetylcysteine in chronic bronchitis: a quantitative systematic review; European Respiratory Journal; C Stey, J Steurer, S Bachmann, et al.][279]
+   - [Evidence that Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infections and Deaths; Nutrients; William B Grant, Henry Lahor, et al.][280]
+   - [Impact of vitamin D on the course of COVID-19 during pregnancy: A case control study; Selcan Sinaci, Doga Fatman Ocal, et al.][281]
+   - [Paperback: Magnesium: Reversing Disease; Thomas E. Levy, MD, JD; Nov 1, 2019][282]
+   - Recent research points the way toward a practical nutraceutical strategy for coping with RNA virus infections including influenza and coronavirus: [Nutraceuticals have potential for boosting the type 1 interferon response to RNA viruses including influenza and coronavirus; Progress in Cardiovascular Diseases; Mark F. McCarty, James J. DiNicolantonio][283]
+   - [Daily Dosage of N-Acetyl Cysteine][284]
+   - [Oral Glutathione][285]
+   - [Well-researched article on How to Raise Glutathione Levels][286]
+   - [On Quercetin][287]
+   - [16 Best Supplements to reduce Cytokine Storm, a Severe Complication from Covid-19 (Updated September, 2021)][288]
+   - [Intravenous nutrient therapy: the "Myers' cocktail"][289]
+   - [Prophetic Medicine-Nigella Sativa (Black cumin seeds) - Potential herb for COVID-19?][290]
+   - [Nigella Sativa in COVID-19: Study results][291]
+   - [Nigella Sativa has potential use in future COVID-19 treatment; Manufaturers' Monthly; Aug 10, 2021][292]
+   - [COVID-19 early treatment: real-time analysis of 1,057 studies][293]
+   - [COVID-19 How Can I Cure Thee? Let Me Count the Ways; Thomas E. Levy, MD, JD; Dec 3, 2020][294]
 
 ## 15. Nutraceuticals and OTC medicines to mitigate adverse effects and inflammation caused by the Covid vaccines: 
 A number of protocols published by doctors, scientists, nutritionists and other researchers to **counteract the effects of the dangerous spike glycoprotein** and other toxins associated with the novel coronavirus and introduced into the body by the Covid vaccines.
@@ -1843,50 +1695,27 @@ Most of these products are likely expensive for ordinary Indian consumers.
 
 ### Suggested suppliers:
 Some of these products can be sourced online, and a few could be bought at [Mr. Wolfe's e-commerce store.][300]
-
-[Another product that is claimed to assist detoxification from the spike proteins after vaccination ][301]
-
-[Telemedicine portals for Covid-19.][302]
+   - [Another product that is claimed to assist detoxification from the spike proteins after vaccination ][301]
+   - [Telemedicine portals for Covid-19.][302]
 
 ### Further references:                          
-[salk.edu](http://salk.edu/): [THE NOVEL CORONAVIRUS’ SPIKE PROTEIN PLAYS ADDITIONAL KEY ROLE IN ILLNESS- Salk researchers and collaborators show how the protein damages cells, confirming COVID-19 as a primarily vascular disease; April 30, 2021][303]
-
-[How to Guard Against the Spike Protein Contagion Caused by the Covid-Vaccinated; by Dr. Judy Mikovits][304]
-
-The article cites Dr. Judy Mikovits' statement that Suramin, a powerful antioxidant used to treat African sleeping sickness and river blindness, and extracted from an edible variety of pine needles, is the antidote to the contagious and harmful spike glycoproteins generated in the body by the vaccine. Suramin can only be administered through injection. Dr. Mikovits is cited to have said that adequate quantities of Suramin can be obtained from pine needle tea.
-
-However, the Wikipedia article on Suramin cties that it is not bioavailable and also that it is known to cause significant adverse reactions and be toxic to kidneys. The Wikipedia article on the active antioxidant extract Suramin from pine tea states that Suramin should not be administered to pregnant women, lactating mothers and to kidney patients.
-
-[PINE TEA: Possible Antidote to Spike Protein Transmission; Dr. Ariyana Love][305] 
-
-[Make your own shikimic acid (shikimate) with Star Anise; Dissolve blood clots from spike proteins][306]
-
-[Protocols and Dosages for Prevention and Management of Covid-19 and Vaccine Adverse Reactions][307]
-
-[MERCOLA: Dr. Judy Mikovits discusses the SARS-CoV-2 pandemic with Dr. Joseph Mercola; May 1, 2020][308]
-
-[Dr. Judy Mikovits on the potential antidote to vaccines (Suramin)][309]
-
-The following article throws light on expert consensus that the spike glycoprotein introduced into the body by the Covid vaccinations is a pathogenic protein that precipitates a host of serious adverse reactions ranging from blood clotting and cardiovascular damage to neurological damage and reproductive toxicity. The mRNA from the Pfizer vaccines, for example, enters the bloodstream and accumulates in a variety of organs, primarily the spleen, bone marrow, liver, adrenal glands and, in women, the ovaries. The spike proteins also travel to the heart, brain and lungs, where bleeding and or blood clots can occur as a result, and are expelled in breast milk.
-[Researcher: 'We Made a Big Mistake' on Covid-19 Vaccine; by Dr. Joseph Mercola][310]
-
-[Transcipt of The Joe Rogan Experience with Drs. Bret Weinstein and Pierre Kory, close collaborators of the highly esteemed intensivist Dr. Paul E. Marik, whoc developed the world renowned Ivermectin protocol. The researchers state the high value of Ivermectin in treating Covid and in neutralizing the spike proteins][311] 
-
-[Videos freely available of all sessions of National Vaccine Information Center's (NVIC's) sponsored online conference, The Fifth International Public Conference on Vaccination: Protecting Health and Autonomy in the 21st Century][312] 
-
-[About the conference, at Nia Pure Nature: No-Cost Access to NVIC's Fifth Vaccine Conference][313] 
-
-[In silico Nigellidine (N. sativa) bind to viral spike/active-sites of ACE1/2, AT1/2 to prevent COVID-19 induced vaso-tumult/vascular-damage/comorbidity; Smarajit Maiti et al.; Vascular Pharmacology; June, 2021][314]
-
-OTC Medicines & Nutraceuticals to Prevent / Reduce COVID Post-Vaccination Side Effects
-
-[Summary of David Wolfe's Spike Protein Protocol][315]
-
-[COVID-19 early treatment: real-time analysis of 1,057 studies][316]
-
-[Natural Supplements for COVID19—Background, Rationale, and Clinical Trials; Melody Hermel, MD, et al.; Journal of Evidence-Based Integrative Medicine; Aug 13, 2021][317]
-
-[Biocompatible N-acetyl cysteine reduces graphene oxide and persists at the surface as a green radical scavenger; Valentina Palmieri et al.; Chemical Communications; 2019][318]
+   - [salk.edu](http://salk.edu/): [THE NOVEL CORONAVIRUS’ SPIKE PROTEIN PLAYS ADDITIONAL KEY ROLE IN ILLNESS- Salk researchers and collaborators show how the protein damages cells, confirming COVID-19 as a primarily vascular disease; April 30, 2021][303]
+   - [How to Guard Against the Spike Protein Contagion Caused by the Covid-Vaccinated; by Dr. Judy Mikovits][304]
+   - [PINE TEA: Possible Antidote to Spike Protein Transmission; Dr. Ariyana Love:][305] The article cites Dr. Judy Mikovits' statement that Suramin, a powerful antioxidant used to treat African sleeping sickness and river blindness, and extracted from an edible variety of pine needles, is the antidote to the contagious and harmful spike glycoproteins generated in the body by the vaccine. Suramin can only be administered through injection. Dr. Mikovits is cited to have said that adequate quantities of Suramin can be obtained from pine needle tea. However, the Wikipedia article on Suramin cties that it is not bioavailable and also that it is known to cause significant adverse reactions and be toxic to kidneys. The Wikipedia article on the active antioxidant extract Suramin from pine tea states that Suramin should not be administered to pregnant women, lactating mothers and to kidney patients.
+   - [Make your own shikimic acid (shikimate) with Star Anise; Dissolve blood clots from spike proteins][306]
+   - [Protocols and Dosages for Prevention and Management of Covid-19 and Vaccine Adverse Reactions][307]
+   - [MERCOLA: Dr. Judy Mikovits discusses the SARS-CoV-2 pandemic with Dr. Joseph Mercola; May 1, 2020][308]
+   - [Dr. Judy Mikovits on the potential antidote to vaccines (Suramin)][309]
+   - [Researcher: 'We Made a Big Mistake' on Covid-19 Vaccine; by Dr. Joseph Mercola:][310] The following article throws light on expert consensus that the spike glycoprotein introduced into the body by the Covid vaccinations is a pathogenic protein that precipitates a host of serious adverse reactions ranging from blood clotting and cardiovascular damage to neurological damage and reproductive toxicity. The mRNA from the Pfizer vaccines, for example, enters the bloodstream and accumulates in a variety of organs, primarily the spleen, bone marrow, liver, adrenal glands and, in women, the ovaries. The spike proteins also travel to the heart, brain and lungs, where bleeding and or blood clots can occur as a result, and are expelled in breast milk.
+   - [Transcipt of The Joe Rogan Experience with Drs. Bret Weinstein and Pierre Kory, close collaborators of the highly esteemed intensivist Dr. Paul E. Marik, whoc developed the world renowned Ivermectin protocol. The researchers state the high value of Ivermectin in treating Covid and in neutralizing the spike proteins][311] 
+   - [Videos freely available of all sessions of National Vaccine Information Center's (NVIC's) sponsored online conference, The Fifth International Public Conference on Vaccination: Protecting Health and Autonomy in the 21st Century][312] 
+   - [About the conference, at Nia Pure Nature: No-Cost Access to NVIC's Fifth Vaccine Conference][313] 
+   - [In silico Nigellidine (N. sativa) bind to viral spike/active-sites of ACE1/2, AT1/2 to prevent COVID-19 induced vaso-tumult/vascular-damage/comorbidity; Smarajit Maiti et al.; Vascular Pharmacology; June, 2021][314]
+   - OTC Medicines & Nutraceuticals to Prevent / Reduce COVID Post-Vaccination Side Effects
+   - [Summary of David Wolfe's Spike Protein Protocol][315]
+   - [COVID-19 early treatment: real-time analysis of 1,057 studies][316]
+   - [Natural Supplements for COVID19—Background, Rationale, and Clinical Trials; Melody Hermel, MD, et al.; Journal of Evidence-Based Integrative Medicine; Aug 13, 2021][317]
+   - [Biocompatible N-acetyl cysteine reduces graphene oxide and persists at the surface as a green radical scavenger; Valentina Palmieri et al.; Chemical Communications; 2019][318]
 
 ## 16. Fleming Method: 
 **The Fleming Method for Tissue and Vascular Differentiation and Metabolism (FMTVDM)** using same state single or sequential quantification comparisons. Patent No. 9566037
@@ -1917,11 +1746,9 @@ Dr. Richard M. Fleming, PhD, MD, JD is a scientist/physicist and also a cardiolo
 [The official webpage for the best diagnostic solutions rigorously identified by the Fleming Method in worldwide clinical trials.][319]
 
 ### Protocol and treatment approach:
-[The official and comprehensive webpage for the best diagnostic solutions rigorously identified by the Fleming Method in worldwide clinical trials][320]
-
-[Immune Support for SARS-CoV-2: First Phase with Mild Symptoms][321]
-
-[Treatments to Consider Based Upon the Best Available Evidence Research Results: PROPOSED TREATMENT APPROACHES FOR PROPHYLAXIS, SARS-COV-2, COVID-19, AND POST-VACCINATION; FOR YOU TO DISCUSS WITH YOUR PHYSICIAN. THIS IS NOT A SERVICE, THE SALE, BUYING, OR MARKETING OF A PRODUCT, OR THE PRACTICING OF MEDICINE.][322]
+   - [The official and comprehensive webpage for the best diagnostic solutions rigorously identified by the Fleming Method in worldwide clinical trials][320]
+   - [Immune Support for SARS-CoV-2: First Phase with Mild Symptoms][321]
+   - [Treatments to Consider Based Upon the Best Available Evidence Research Results: PROPOSED TREATMENT APPROACHES FOR PROPHYLAXIS, SARS-COV-2, COVID-19, AND POST-VACCINATION; FOR YOU TO DISCUSS WITH YOUR PHYSICIAN. THIS IS NOT A SERVICE, THE SALE, BUYING, OR MARKETING OF A PRODUCT, OR THE PRACTICING OF MEDICINE.][322]
 
 **The Fleming Method** is a diagnostic technique that integrates with any nuclear camera and any applicable nuclear isotope to produce ""True Quantification"" of regional blood flow difference and metabolism. Conventional nuclear images rely on human visual observation for subjective or ""guestimate"" evaluations. The Fleming Method uses a complex, yet simple method of camera recalibration to turn images into numerical computations removing the human subjective evaluation and associated error. Unlike common nuclear imaging protocols that require two injections of a nuclear isotope, the Fleming Method many times only requires one injection reducing patient venous punctures and radiation exposure.​ Dr. Richard M. Fleming, inventor of Fleming Method calibration, measurement, and imaging patent, recognized that many of these isotopes can be measured sooner than previously expected.  This method enables the identification of conditions such as critical heart disease, cancers, and infections such as COVID-19.  The Fleming Method uses existing FDA approved devices and drugs to provide the computational evaluation to help determine severity of conditions otherwise missed with conventional methods. The Fleming Method is a paradigm shift in nuclear imaging reducing scanning times in some instances by hours with use of existing equipment. 
 
@@ -2000,32 +1827,21 @@ Nutraceutical prophylactic and early treatment products are OTC and can be stock
 The approximate monthly expenditure for immune system support against Covid-19, according to the Fleming Method Protocol, is [estimated at < $50 per month.][323]
 
 ### Suggested suppliers:
-[Physicians offering telemedicine services][324]
+   - [Physicians offering telemedicine services][324]
 
 ### Further references:                          
-[The FMTVDM-Directed Covid-19 Treatment Protocol][325]
-
-[Fleming Method: The Fleming Method for Tissue and Vascular Differentiation and Metabolism (FMTVDM) using same state single or sequential quantification comparisons. Patent No. 9566037][326]
-
-[ClinicalTrials.gov: The Fleming [FMTVDM] Directed CoVid-19 Treatment Protocol (FMTVDM)][327]
-
-[Episode 463 Transcript: Dr. Richard Fleming on the Most Effective Drug-based Treatment for Covid-19, Ashley James with Dr. Richard Fleming][328]
-
-[463 Dr. Richard Fleming, Ph.D., MD, JD on The Most Effective Drug Based Treatments for COVID-19, Understanding SARS-CoV-2 (Audio interview)][329]
-
-[The Fleming Protocol (Diet)][330]
-
-[The Fleming Protocol (Nutrient supplementation)][331]
-
-[The Fleming Method: e-Books][332]
-
-[4-Hour Event 2021, Presentation of Dr. Fleming's Covid-19 research][333]
-
-[Dr. Fleming's Comprehensive Website: FlemingMethod.com][334]
-
-[C19Protocols: Early Treatment Protocols][335]
-
-[COVID-19 early treatment: real-time analysis of 1,057 studies][336]
+   - [The FMTVDM-Directed Covid-19 Treatment Protocol][325]
+   - [Fleming Method: The Fleming Method for Tissue and Vascular Differentiation and Metabolism (FMTVDM) using same state single or sequential quantification comparisons. Patent No. 9566037][326]
+   - [ClinicalTrials.gov: The Fleming [FMTVDM] Directed CoVid-19 Treatment Protocol (FMTVDM)][327]
+   - [Episode 463 Transcript: Dr. Richard Fleming on the Most Effective Drug-based Treatment for Covid-19, Ashley James with Dr. Richard Fleming][328]
+   - [463 Dr. Richard Fleming, Ph.D., MD, JD on The Most Effective Drug Based Treatments for COVID-19, Understanding SARS-CoV-2 (Audio interview)][329]
+   - [The Fleming Protocol (Diet)][330]
+   - [The Fleming Protocol (Nutrient supplementation)][331]
+   - [The Fleming Method: e-Books][332]
+   - [4-Hour Event 2021, Presentation of Dr. Fleming's Covid-19 research][333]
+   - [Dr. Fleming's Comprehensive Website: FlemingMethod.com][334]
+   - [C19Protocols: Early Treatment Protocols][335]
+   - [COVID-19 early treatment: real-time analysis of 1,057 studies][336]
 
 ## 17. Chlorine Dioxide Solution (CDS) 
 possible Oral / intravenous administration, **with the oral CDS protocol for Covid-19 being validated by one Boliviaan study**
@@ -2125,56 +1941,31 @@ A report of intestinal necrosis and perforation that may be associated with Chlo
 Online prices [start at about $25 for a 125 ml bottle.][356]
 
 ### Suggested suppliers:
-[Master Mineral Solution, MMS or WPS Solution - Why has this Product Become so Popular?][357]
-
-[mms-supplement.com: Buy CDS][358]
-
-[Erao Biotech | A leading Chinese disinfectant brand: Chlorine Dioxide Effervescent Tablet:][359] **(Chlorine dioxide concentration in this product is 10 %**, which must be diluted to 30 ppm in a liter of distilled water, and the liter of 30 ppm CDS must be administered in 10 equal doses, as prescribed by the Bolivian study oral CDS protocol)
-
-[mms-supplement.com: Dimethyl Sulfoxide (DMSO)][360]-
-DMSO is commonly added as a carrier of therapeutic agents into cells, and might perhaps be used to increase penetration of CDS, according to this site. Perhaps the advantages are reaped with topical applications of MMS particularly for those who are unable to ingest CDS due to gastrointestinal issues.
+   - [Master Mineral Solution, MMS or WPS Solution - Why has this Product Become so Popular?][357]
+   - [mms-supplement.com: Buy CDS][358]
+   - [Erao Biotech | A leading Chinese disinfectant brand: Chlorine Dioxide Effervescent Tablet:][359] **(Chlorine dioxide concentration in this product is 10 %**, which must be diluted to 30 ppm in a liter of distilled water, and the liter of 30 ppm CDS must be administered in 10 equal doses, as prescribed by the Bolivian study oral CDS protocol)
+   - [mms-supplement.com: Dimethyl Sulfoxide (DMSO):][360] DMSO is commonly added as a carrier of therapeutic agents into cells, and might perhaps be used to increase penetration of CDS, according to this site. Perhaps the advantages are reaped with topical applications of MMS particularly for those who are unable to ingest CDS due to gastrointestinal issues.
 
 ### Further references:                          
-[Determination of the Effectiveness of [Oral] Chlorine Dioxide in the Treatment of COVID-19; Insignares-Carrione Eduardo et al.; Molecular and Genetic Medicine; 2021][361]
-
-[Chlorine dioxide and chlorine derivatives for the prevention or treatment of COVID-19: a systematic review; Alejandra Burela et al.; Revista Peruana de Medicina Experimenta y Salud Publica; Oct-Dec, 2020][362] - A contrasting report to the published study in "Molecular and Genetic Medicine"
-
-[Jim Humble, An active Proponent of Chlorine Dioxide and the Master Mineral Solution][363]
-
-**[Jim Humble: How to make MMS][364] from distilled Water, widely available Sodium hypochlorite (NaOCl, or bleach), a sensitive weighing balance, a food-grade acid like citric acid, and a non-reactive storage container**
-
-[Jim Humble: Important facts regarding MMS][365] 
-
-[Jim Humble: Newsletter Archive on MMS][366]
-
-[truthfreedomhealth.wordpress.com: Clinical Study With Chlorine Dioxide: New Solutions To End The COVID-19 Pandemic][367]
-
-[Master Mineral Solution, MMS or WPS Solution - Why has this Product Become so Popular?][368]
-
-[A Kerry Cassidy Interview: Andreas Kalcker- Forbidden Health, Re. Coronavirus; April 7, 2020][369]
-
-[Doctor says Chlorine Dioxide has cured thousands of patients worldwide- A network of 5000 doctors in 25 countries across the world, and especially in Latin America][370]
-
-[luis46pr.wordpress.com: Researchers: 100% Covid-19 Cure Rate Using Intravenous Chlorine Dioxide; Luis T][371]
-
-[USF Health | College of Public Health: COPH research team finds chlorine dioxide gas 99.91% effective against COVID-19 virus; March 22, 2021][372] - A team of researchers from the USF College of Public Health’s (COPH) Center for Environmental/Occupational Risk Analysis and Management set out to determine how effective commercially available Chlorine dioxide (CD) gas products were in reducing COVID-19 viral loads on face masks and surfaces.  Their findings, “Virucidal Activity of Chlorine Dioxide Gas for Reduction of Coronavirus on Surfaces and PPE,” was published in February, 2021, in the journal Occupational Diseases and Environmental Medicine.
-
-[COVID-19 | Coronavirus - Report: 2020-03-09 The Infection Prevention Strategy; www.IC.tips | info@IC.tips © The Infection Prevention Strategy, 2020; [Comparison of] Surface Disinfection Methods [Including Chlorine dioxide]][373]
-
-[Truth, Freedom and Health: On Chlorine dioxide as disinfectant - Long-lasting Chlorine Dioxide (ClO2) Aqueous Solution Inactivates over 99.99% of SARS-CoV-2 (COVID-19 Virus)][374]
-
-[Chlorine Dioxide in COVID-19: Hypothesis about the Possible Mechanism of Molecular Action in SARS-CoV-2; Eduardo Insignares-Carrione et al.; Journal of Molecular and Genetic Medicine; 2020:][375]
-Viruses generally consist of an outer layer or a protein coat that encapsulates a nucleic acid, which can be DNA or RNA. When chlorine dioxide comes in contact with a virus, a single, highly reactive nascent oxygen atom is released on the target virus. This oxygen binds to specific amino acids in the protein coat of the virus, denaturing the proteins and rendering the virus inactive. Additionally, nascent oxygen atoms bind to guanine, one of the four nucleic acid bases found in RNA and DNA, forming 8-oxoguanine. This oxidation of guanine residues prevents viral nucleic acid replication.
-
-**A 2016 research article discusses the nontoxic antimicrobial properties of ClO2, and mentions ongoing research at the Innerlight Biological Research Foundation, investigating the oral and intravenous therapeutic usage of CLO2 for a very wide variety of at least 25 different clinical applications for over twenty-five years, ranging from herpes, candida and polio to influenza, sinusitis bronchitis and pneumonia:**
-[Chlorine Dioxide (CLO2) As a Non-Toxic Antimicrobial Agent for Virus, Bacteria and Yeast (Candida Albicans); Robert O Young; International Journal of Vaccines and Vaccination; Oct 8, 2016][376]
-
-[Dr. Andreas Kalcker's extensive official website, which validates the efficacy of Chlorine Dioxide Solution: Clinical Studies with Chlorine Dioxide; New Book, ""BYE, BYE COVID""][377]
-
-[The Chlorine dioxide controversy: A deadly poison or a cure for COVID-19?;  Mitchell Brent Liester; International Journal of Medicine and Medical Sciences; July-Dec, 2021][378]
-  Chlorine dioxide has been condemned as a dangerous poison and has been touted as a cure for COVID-19. This narrative review examines the controversy surrounding the use of aqueous chlorine dioxide by investigating evidence-based research articles, government documents, press reports, and the results of the first clinical trial utilizing chlorine dioxide as a treatment for COVID-19. Chlorine dioxide was found to be employed by numerous industries for antimicrobial and other uses. Aqueous chlorine dioxide was found to be safe when ingested in low doses, but when ingested in high doses, it can cause adverse hematologic and renal effects. Additionally, chlorine dioxide was found to be a strong and rapidly acting virucide with activity against a wide range of viruses.
-
-[ScienceDirect: Dimethyl Sulfoxide (DMSO)][379]
+   - [Determination of the Effectiveness of [Oral] Chlorine Dioxide in the Treatment of COVID-19; Insignares-Carrione Eduardo et al.; Molecular and Genetic Medicine; 2021][361]
+   - [Chlorine dioxide and chlorine derivatives for the prevention or treatment of COVID-19: a systematic review; Alejandra Burela et al.; Revista Peruana de Medicina Experimenta y Salud Publica; Oct-Dec, 2020][362] - A contrasting report to the published study in "Molecular and Genetic Medicine"
+   - [Jim Humble, An active Proponent of Chlorine Dioxide and the Master Mineral Solution][363]
+   - **[Jim Humble: How to make MMS][364] from distilled Water, widely available Sodium hypochlorite (NaOCl, or bleach), a sensitive weighing balance, a food-grade acid like citric acid, and a non-reactive storage container**
+   - [Jim Humble: Important facts regarding MMS][365] 
+   - [Jim Humble: Newsletter Archive on MMS][366]
+   - [truthfreedomhealth.wordpress.com: Clinical Study With Chlorine Dioxide: New Solutions To End The COVID-19 Pandemic][367]
+   - [Master Mineral Solution, MMS or WPS Solution - Why has this Product Become so Popular?][368]
+   - [A Kerry Cassidy Interview: Andreas Kalcker- Forbidden Health, Re. Coronavirus; April 7, 2020][369]
+   - [Doctor says Chlorine Dioxide has cured thousands of patients worldwide- A network of 5000 doctors in 25 countries across the world, and especially in Latin America][370]
+   - [luis46pr.wordpress.com: Researchers: 100% Covid-19 Cure Rate Using Intravenous Chlorine Dioxide; Luis T][371]
+   - [USF Health | College of Public Health: COPH research team finds chlorine dioxide gas 99.91% effective against COVID-19 virus; March 22, 2021][372] - A team of researchers from the USF College of Public Health’s (COPH) Center for Environmental/Occupational Risk Analysis and Management set out to determine how effective commercially available Chlorine dioxide (CD) gas products were in reducing COVID-19 viral loads on face masks and surfaces.  Their findings, “Virucidal Activity of Chlorine Dioxide Gas for Reduction of Coronavirus on Surfaces and PPE,” was published in February, 2021, in the journal Occupational Diseases and Environmental Medicine.
+   - [COVID-19 | Coronavirus - Report: 2020-03-09 The Infection Prevention Strategy; www.IC.tips | info@IC.tips © The Infection Prevention Strategy, 2020; [Comparison of] Surface Disinfection Methods [Including Chlorine dioxide]][373]
+   - [Truth, Freedom and Health: On Chlorine dioxide as disinfectant - Long-lasting Chlorine Dioxide (ClO2) Aqueous Solution Inactivates over 99.99% of SARS-CoV-2 (COVID-19 Virus)][374]
+   - [Chlorine Dioxide in COVID-19: Hypothesis about the Possible Mechanism of Molecular Action in SARS-CoV-2; Eduardo Insignares-Carrione et al.; Journal of Molecular and Genetic Medicine; 2020:][375] Viruses generally consist of an outer layer or a protein coat that encapsulates a nucleic acid, which can be DNA or RNA. When chlorine dioxide comes in contact with a virus, a single, highly reactive nascent oxygen atom is released on the target virus. This oxygen binds to specific amino acids in the protein coat of the virus, denaturing the proteins and rendering the virus inactive. Additionally, nascent oxygen atoms bind to guanine, one of the four nucleic acid bases found in RNA and DNA, forming 8-oxoguanine. This oxidation of guanine residues prevents viral nucleic acid replication.
+   - **A 2016 research article discusses the nontoxic antimicrobial properties of ClO2, and mentions ongoing research at the Innerlight Biological Research Foundation, investigating the oral and intravenous therapeutic usage of CLO2 for a very wide variety of at least 25 different clinical applications for over twenty-five years, ranging from herpes, candida and polio to influenza, sinusitis bronchitis and pneumonia:** [Chlorine Dioxide (CLO2) As a Non-Toxic Antimicrobial Agent for Virus, Bacteria and Yeast (Candida Albicans); Robert O Young; International Journal of Vaccines and Vaccination; Oct 8, 2016][376]
+   - [Dr. Andreas Kalcker's extensive official website, which validates the efficacy of Chlorine Dioxide Solution: Clinical Studies with Chlorine Dioxide; New Book, ""BYE, BYE COVID""][377]
+   - [The Chlorine dioxide controversy: A deadly poison or a cure for COVID-19?;  Mitchell Brent Liester; International Journal of Medicine and Medical Sciences; July-Dec, 2021:][378] Chlorine dioxide has been condemned as a dangerous poison and has been touted as a cure for COVID-19. This narrative review examines the controversy surrounding the use of aqueous chlorine dioxide by investigating evidence-based research articles, government documents, press reports, and the results of the first clinical trial utilizing chlorine dioxide as a treatment for COVID-19. Chlorine dioxide was found to be employed by numerous industries for antimicrobial and other uses. Aqueous chlorine dioxide was found to be safe when ingested in low doses, but when ingested in high doses, it can cause adverse hematologic and renal effects. Additionally, chlorine dioxide was found to be a strong and rapidly acting virucide with activity against a wide range of viruses.
+   - [ScienceDirect: Dimethyl Sulfoxide (DMSO)][379]
 
 ## 18. Prone ventilation
 Lying face down or prone, and other positions for dyspnoea
@@ -2214,8 +2005,7 @@ NA
 
 ### Further references:                          
 Does prone positioning improve oxygenation and reduce mortality in patients with acute respiratory distress syndrome?; Canadian Respiratory Journal; William R Henderson, Donald EG Griesdale, et al.
-
-[COPD Support: COPD / Emphysema Takes Your Breath Away- DYSPNOEA POSITIONS][380]
+   - [COPD Support: COPD / Emphysema Takes Your Breath Away- DYSPNOEA POSITIONS][380]
 
 ## 19. Phototherapy with visible light, Photobiomodulation, Disinfection with Far UV-C light
 
@@ -2290,28 +2080,19 @@ NA
 The available of inexpensive light-emitting diodes and abundant availability of sunlight make phototherapy a free, or very cost-effective, and readily accessible option, if incorporated into treatment protocols. In fact, there is evidence that phototherapy with sunlight was avowedly widely used with remarkable success in standard-of-care therapy during the 1918 devastating flu pandemic.
 
 ### Suggested suppliers:
-[Krypton Far-UV Lights (222 nm Far UV-C Excimer Lamp Disinfection lighting)][385]
-
-[Far-UV (222 nm, Excimer lamp) Sterilray disinfection lighting][386]
+   - [Krypton Far-UV Lights (222 nm Far UV-C Excimer Lamp Disinfection lighting)][385]
+   - [Far-UV (222 nm, Excimer lamp) Sterilray disinfection lighting][386]
 
 ### Further references:                          
-[SciTechDaily: Experiments Show Sunlight Destroys COVID Virus 8 Times Faster Than Scientists Thought; Oct 22, 2021][387]- The inactivation of coronavirus by solar radiation happens too quickly to be wholly explained by the theory that this is solely attributable to the effect of UVB radiation in sunlight. Therefore there may be other mechanisms at play in the process.
-
-[Light as a potential treatment for pandemic coronavirus infections: A perspective; Chukuka Samuel Enwemeka et al.; Journal of Photochemistry and Photobiology; June, 2020][388]
-
-[Disinfection with Far-UV (222 nm Ultraviolet light); Jamie Childress et al.; Boeing; 2020][389]
-
-[Far-UVC light: A new tool to control the spread of airborne-mediated microbial diseases; David Welch et al.; Nature; Feb 9, 2018][390]
-
-[Vagelos College of Physicians and Surgeons at Columbia University Irving Medical Center: Far-UVC Light Safely Kills Airborne Coronaviruses; David Brenner; June 24, 2020][391]
-
-[fda.gov: UV Lights and Lamps: Ultraviolet-C Radiation, Disinfection, and Coronavirus][392]: "Given the current outbreak of Coronavirus Disease 2019 (COVID-19) disease caused by the novel coronavirus SARS-CoV-2, consumers may be interested in purchasing ultraviolet-C (UVC) lamps to disinfect surfaces in the home or similar spaces."
-
-[Defefnce Systems Information Analysis Center (DoD): Using 222-nm Ultraviolet (UV) Light for Safer Disinfection][393]
-
-[Sunlight Institute: The Sun and UV Light][394]
-
-[healthyeating.sfgate.com: Can You Get Vitamin D Through a Light Shirt?; Marie Dannie; Dec 17, 2018][395]
+   - [SciTechDaily: Experiments Show Sunlight Destroys COVID Virus 8 Times Faster Than Scientists Thought; Oct 22, 2021][387]- The inactivation of coronavirus by solar radiation happens too quickly to be wholly explained by the theory that this is solely attributable to the effect of UVB radiation in sunlight. Therefore there may be other mechanisms at play in the process.
+   - [Light as a potential treatment for pandemic coronavirus infections: A perspective; Chukuka Samuel Enwemeka et al.; Journal of Photochemistry and Photobiology; June, 2020][388]
+   - [Disinfection with Far-UV (222 nm Ultraviolet light); Jamie Childress et al.; Boeing; 2020][389]
+   - [Far-UVC light: A new tool to control the spread of airborne-mediated microbial diseases; David Welch et al.; Nature; Feb 9, 2018][390]
+   - [Vagelos College of Physicians and Surgeons at Columbia University Irving Medical Center: Far-UVC Light Safely Kills Airborne Coronaviruses; David Brenner; June 24, 2020][391]
+   - [fda.gov: UV Lights and Lamps: Ultraviolet-C Radiation, Disinfection, and Coronavirus][392]: "Given the current outbreak of Coronavirus Disease 2019 (COVID-19) disease caused by the novel coronavirus SARS-CoV-2, consumers may be interested in purchasing ultraviolet-C (UVC) lamps to disinfect surfaces in the home or similar spaces."
+   - [Defefnce Systems Information Analysis Center (DoD): Using 222-nm Ultraviolet (UV) Light for Safer Disinfection][393]
+   - [Sunlight Institute: The Sun and UV Light][394]
+   - [healthyeating.sfgate.com: Can You Get Vitamin D Through a Light Shirt?; Marie Dannie; Dec 17, 2018][395]
 
 ## 20. Iota-Carrageenan nasal spray, the active ingredient in Betadine Cold Defence Nasal Spray
 
@@ -2340,8 +2121,7 @@ It appears that the nutraceutical extract Iota-Carrageenan is [one of the most p
 
 ### Significant side effects:
 Carrageenan is likely safe for most people when taken by mouth in food amounts. There is a chemically altered form of carrageenan that is available in France to treat peptic ulcers. This form is possibly unsafe because there's some evidence that it might cause cancer. Carrageenan might decrease blood pressure. Taking Carrageenan along with medications for high blood pressure (like Captopril and Furosemide) might cause blood pressure to go too low. It is also advisable to exercise caution when taking Carrageenan with anticoagulants like Aspirin, Ibuprofen, Enoxaparin, Heparin and Warfarin.
-
-[Carrageenan- Health benefits, Side effects, Uses, Dose & Precautions][402]
+   - [Carrageenan- Health benefits, Side effects, Uses, Dose & Precautions][402]
 
 ### Recommended quantity for stocking:
 1-2 50 ml bottles
@@ -2350,16 +2130,13 @@ Carrageenan is likely safe for most people when taken by mouth in food amounts. 
 $9 for Betadine Sore Throat Spray on Amazon (Amazon's Choice)
 
 ### Suggested suppliers:
-[Betadine Sore Throat Spray, 50ml, $9][403]
+   - [Betadine Sore Throat Spray, 50ml, $9][403]
 
 ### Further references:                          
-[Efficacy of a Nasal Spray Containing Iota-Carrageenan in the Postexposure Prophylaxis of COVID-19 in Hospital Personnel Dedicated to Patients Care with COVID-19 Disease; Figueroa JM et al.; International Journal of General Medicine; Oct, 2021][404]
-
-[Safety and efficacy of iota-carrageenan nasal spray in treatment and prevention of the common cold; Diana Bichiri et al.; Medicine and Pharmacy Reports; Jan, 2021][405]
-
-[Efficacy and safety of an antiviral Iota-Carrageenan nasal spray: a randomized, double-blind, placebo-controlled exploratory study in volunteers with early symptoms of the common cold; Ron Eccles et al.; Respiratory Research; Aug 10, 2010][406]
-
-[Carrageenan- Health benefits, Side effects, Uses, Dose and Precautions][407]
+   - [Efficacy of a Nasal Spray Containing Iota-Carrageenan in the Postexposure Prophylaxis of COVID-19 in Hospital Personnel Dedicated to Patients Care with COVID-19 Disease; Figueroa JM et al.; International Journal of General Medicine; Oct, 2021][404]
+   - [Safety and efficacy of iota-carrageenan nasal spray in treatment and prevention of the common cold; Diana Bichiri et al.; Medicine and Pharmacy Reports; Jan, 2021][405]
+   - [Efficacy and safety of an antiviral Iota-Carrageenan nasal spray: a randomized, double-blind, placebo-controlled exploratory study in volunteers with early symptoms of the common cold; Ron Eccles et al.; Respiratory Research; Aug 10, 2010][406]
+   - [Carrageenan- Health benefits, Side effects, Uses, Dose and Precautions][407]
 
 ## 21. A reportedly very effective treatment to mitigate Covid-19, treat long-Covid as well as reverse inflammatory effects of vaccines:
 
@@ -2488,22 +2265,13 @@ Inexpensive, can be prepared at home from cheap ingredients
 The solution can be prepared at home from inexpensive ingredients like bleach and Citric acid.
 
 ### Further references:                          
-[Hydrogen peroxide against novel coronavirus; July 7, 2020][429]- **Dr. Jason Bowling, Infectious Diseases Physicians at University Health System and Dr. Ruth Berggren with University of Texas Health Science Center at San Antonio talks about how hydrogen peroxide can be effectively used against novel coronavirus.**
-
-[Effectiveness of hydrogen peroxide as auxiliary treatment for hospitalized COVID-19 patients in Brazil: preliminary results of a randomized double-blind clinical trial; Marielle Bazzo di Domenico et al.; Epidemiology and Health; 2021][430] - 
-A randomized controlled trial was conducted of 40 hospitalized patients who tested positive for SARS-CoV-2. The patients were divided into experimental and control groups, each with n=20. The experimental group were administered gargling with 1.0 % Hydrogen peroxide aqueous solution and nasal wash with 0.5 % Hydrogen peroxide aqueous solution. The protocol was used for 7 days, and the groups were monitored, by being queried for self-reported symptoms, every 2 days for a total of 8 days. There was no significant difference between the 2 groups in the length of hospital stay (p= 0.65). The most frequent symptom on day 0 was coughing (72.0% in the experimental group and 76.5% in the control group), which abated over time. There was no significant difference between the groups in the evaluated symptoms. Most (75.0%) of the patients in the experimental group presented a reduction in dyspnea between days 0 and 2. Few patients reported adverse effects from the use of the solutions.
-
-[Might hydrogen peroxide reduce the hospitalization rate and complications of SARS-CoV-2 infection?; Arturo A Caruso et al.; Infection Control & Hospital Epidemiology; Feb 22, 2020][431] -
-[The SARS-CoV-2 virus is known to persist in the upper respiratory tract for a few days before migrating to the lower respiratory tract.] The efficient inactivation of coronaviruses (eg, SARS and MERS) on inanimate surfaces using hydrogen peroxide (H2O2 0.5% for 1 minute) was assessed by Kampf et al. Based on their findings, and after reviewing the current literature concerning hydrogen peroxide, we propose that hydrogen peroxide, as an antiseptic agent, could play a pivotal role in reducing the hospitalization rate and COVID-19–related complications. The antiseptic efficacy of hydrogen peroxide 3% against SARSCoV-2 on oral and nasal mucosa can be reasonably hypothesized. ... Thus, the overall progression of the infection from the upper to the lower respiratory tract can be reduced.
-
-[Hydrogen Peroxide: Covid Killer? Michael D Gillespie, DDS][432] -
-Hydrogen peroxide [1.5 %] is preferred [in mouth wash] since it is clinically acceptable for virucidal activity, is commercially available, inexpensive, and doesn’t have a terribly displeasing taste. Hydrogen peroxide is quickly degraded by elements in saliva, so the effects are not long lasting. Used as directed (i.e., rinsing the mouth and gargling and nasal wash, for 1 minute with prescribed concentrations), Hydrogen peroxide breaks down into water and oxygen in the mouth and is therefore very safe. Its primary use is in prevention, reducing contagion, and reducing viral load in the early stage of the infection in the upper respiratory tract. **To make pre-rinse at home, dilute generic 3% hydrogen peroxide [available in drugstores] in a ratio of 2 parts water and 1 part hydrogen peroxide.** Peppermint oil can be added for flavour.
-
-[Dr. Thomas E. Levy, MD, JD, on Amazon][433]
-
-[The Future of Medicine Foundation: Defeating Covid-19 by Returning Health to Humanity Through Nutrition-Based Medicine][434]
-
-[Vitalitymagazine.com: COVID-19 How Can I Cure Thee? Let Me Count the Ways; Dr. Thomas E. Levy, MD, JD; Dec 3, 2020][435]
+   - [Hydrogen peroxide against novel coronavirus; July 7, 2020][429]- **Dr. Jason Bowling, Infectious Diseases Physicians at University Health System and Dr. Ruth Berggren with University of Texas Health Science Center at San Antonio talks about how hydrogen peroxide can be effectively used against novel coronavirus.**
+   - [Effectiveness of hydrogen peroxide as auxiliary treatment for hospitalized COVID-19 patients in Brazil: preliminary results of a randomized double-blind clinical trial; Marielle Bazzo di Domenico et al.; Epidemiology and Health; 2021][430] - A randomized controlled trial was conducted of 40 hospitalized patients who tested positive for SARS-CoV-2. The patients were divided into experimental and control groups, each with n=20. The experimental group were administered gargling with 1.0 % Hydrogen peroxide aqueous solution and nasal wash with 0.5 % Hydrogen peroxide aqueous solution. The protocol was used for 7 days, and the groups were monitored, by being queried for self-reported symptoms, every 2 days for a total of 8 days. There was no significant difference between the 2 groups in the length of hospital stay (p= 0.65). The most frequent symptom on day 0 was coughing (72.0% in the experimental group and 76.5% in the control group), which abated over time. There was no significant difference between the groups in the evaluated symptoms. Most (75.0%) of the patients in the experimental group presented a reduction in dyspnea between days 0 and 2. Few patients reported adverse effects from the use of the solutions.
+   - [Might hydrogen peroxide reduce the hospitalization rate and complications of SARS-CoV-2 infection?; Arturo A Caruso et al.; Infection Control & Hospital Epidemiology; Feb 22, 2020][431] - [The SARS-CoV-2 virus is known to persist in the upper respiratory tract for a few days before migrating to the lower respiratory tract.] The efficient inactivation of coronaviruses (eg, SARS and MERS) on inanimate surfaces using hydrogen peroxide (H2O2 0.5% for 1 minute) was assessed by Kampf et al. Based on their findings, and after reviewing the current literature concerning hydrogen peroxide, we propose that hydrogen peroxide, as an antiseptic agent, could play a pivotal role in reducing the hospitalization rate and COVID-19–related complications. The antiseptic efficacy of hydrogen peroxide 3% against SARSCoV-2 on oral and nasal mucosa can be reasonably hypothesized. ... Thus, the overall progression of the infection from the upper to the lower respiratory tract can be reduced.
+   - [Hydrogen Peroxide: Covid Killer? Michael D Gillespie, DDS][432] - Hydrogen peroxide [1.5 %] is preferred [in mouth wash] since it is clinically acceptable for virucidal activity, is commercially available, inexpensive, and doesn’t have a terribly displeasing taste. Hydrogen peroxide is quickly degraded by elements in saliva, so the effects are not long lasting. Used as directed (i.e., rinsing the mouth and gargling and nasal wash, for 1 minute with prescribed concentrations), Hydrogen peroxide breaks down into water and oxygen in the mouth and is therefore very safe. Its primary use is in prevention, reducing contagion, and reducing viral load in the early stage of the infection in the upper respiratory tract. **To make pre-rinse at home, dilute generic 3% hydrogen peroxide [available in drugstores] in a ratio of 2 parts water and 1 part hydrogen peroxide.** Peppermint oil can be added for flavour.
+   - [Dr. Thomas E. Levy, MD, JD, on Amazon][433]
+   - [The Future of Medicine Foundation: Defeating Covid-19 by Returning Health to Humanity Through Nutrition-Based Medicine][434]
+   - [Vitalitymagazine.com: COVID-19 How Can I Cure Thee? Let Me Count the Ways; Dr. Thomas E. Levy, MD, JD; Dec 3, 2020][435]
 
 ## 23. Ozone therapy- 
 The introduction of therapeutic concentrations of Ozone, either mixed with oxygen in the gaseous form and inhaled, or infused into the patient's own blood and administered back intravenously, or perhaps less frequently but even more safely and easily, consumed in small therapeutic doses as Ozonated water.
@@ -2606,44 +2374,18 @@ Inexpensive therapy
 Dr Mili Shah, President, [Ozone Forum of India][452], Trustee, Bisleri Charitable Trust, says “In this crisis time of fighting the pandemic and its surge again, we need to integrate wisdom of conventional medicine with natural healing modalities. We are happy to announce that ozone therapy works well on COVID 19 patients as both our trial reports showed and most importantly it is also very cost effective. Its antimicrobial elements help patients to recover fast and also control the recurrence. Ozone Forum of India has been researching in this therapy since last 18 years and we are only pleased to share our insights to support this pandemic and for the interest of the larger humanity. **Our objective is to reach out to more doctors and patients to be aware of Ozone Therapy and till now we have touched over 2400 doctors in the country who successfully believe and use this therapy.”**
 
 ### Further references:                          
-[Drs.Ozone][453]- **A comprehensive website about oral and parenteral Ozone therapy**
+   - [Drs.Ozone][453]- **A comprehensive website about oral and parenteral Ozone therapy**
+   - [Ozone therapies group and frontiers in Ozone][454]
+   - [Potential Role of Oxygen-Ozone Therapy in Treatment of COVID-19 Pneumonia][455]; **Alberto Hernandez et al.; American Journal of Case Reports; Aug 17, 2020**
+   - **CASE REPORT**: [The authors] report rapidly improved hypoxia with associated decreases in inflammatory markers and D-dimer immediately after 1-4 sessions of oxygen-ozone (O2-O3) therapy in 3 patients with COVID-19 pneumonia who presented with respiratory failure. Invasive mechanical ventilation was not required in these 3 patients. All patients were discharged home on days 3-4 after O2-O3 therapy.
+   - [BioSpectrum- the business of Bio & Health Sciences: Ozone therapy making greater impact in controlling COVID-19; Mar 24, 2021][456] - Ozone Forum of India, a brainchild of Bisleri Charitable Trust by Bisleri International has announced a revolutionary cure towards COVID 19 and post COVID 19 care helping patients to recover faster. **A total of 500 patients (including across various comorbid conditions) out of which 77% have recovered within 5 days and the rest recovered by the 8th day as per clinical trials conducted in mid-2020.** Ozone therapy has a greater impact in controlling the infection as patient suffers from various situations such as circulatory disorders which may lead to clotting or thrombosis, headaches, lung infection, body pain & breathlessness situations. **Doctors recommended that ozone therapy should be taken upto 15 sessions after COVID-19.**
+   - [Ozone therapy for the treatment of COVID-19 pneumonia: A scoping review; Morteza Izadi; International Immunopharmacology; Mar, 2021][457] - Although inhaling ozone (O3) gas has been shown to be toxic to the lungs, recent evidence suggests that its administration via appropriate routes and at small doses can paradoxically induce an adaptive reaction capable of decreasing the endogenous oxidative stress. Ozone therapy is recommended to counter the disruptive effects of severe COVID-19 on lung tissues, especially if administered in early stages of the disease, thereby preventing the progression to ARDS. [Therefore] **Ozone therapy might be an excellent option as a complementary treatment for Covid-19.**
+   - [Ozone therapy in COVID-19: A narrative review; Francesco Cattel et al.; Virus Research; Oct 25, 2020][458]
+   - [Ozone therapy may be an option for COVID-19 patients; M. Sahin et al.; European Review for Medical and Pharmacological Sciences; 2021][459]
+   - [A Plausible ""Penny"" Costing Effective Treatment for Corona Virus - Ozone Therapy; Robert Jay Rowen, MD, and Howard Robins, DPM; Journal of Infectious Diseases and Epidemiology; 2020][460] - Many viruses require reduced sulfhydryl groups for cell fusion and entry. Corona viruses, including SARS-CoV-2 (the cause of the condition now named coronavirus disease 2019 or COVID-19), are rich in cysteine, which residues must be intact for viral activity. Sulfhydryl groups are vulnerable to oxidation. Ozone therapy, a very inexpensive and safe modality may safely exploit this critical vulnerability in many viruses, inclusive of SARS-CoV-2.
+   - [Vitalitymagazine.com: COVID-19 How Can I Cure Thee? Let Me Count the Ways; Dr. Thomas E. Levy, MD, JD; Dec 3, 2020][461]
 
-[Ozone therapies group and frontiers in Ozone][454]
 
-[Potential Role of Oxygen-Ozone Therapy in Treatment of COVID-19 Pneumonia][455]; **Alberto Hernandez et al.; American Journal of Case Reports; Aug 17, 2020**
-**CASE REPORT**: [The authors] report rapidly improved hypoxia with associated decreases in inflammatory markers and D-dimer immediately after 1-4 sessions of oxygen-ozone (O2-O3) therapy in 3 patients with COVID-19 pneumonia who presented with respiratory failure. Invasive mechanical ventilation was not required in these 3 patients. All patients were discharged home on days 3-4 after O2-O3 therapy.
-
-[BioSpectrum- the business of Bio & Health Sciences: Ozone therapy making greater impact in controlling COVID-19; Mar 24, 2021-][456]
-Ozone Forum of India, a brainchild of Bisleri Charitable Trust by Bisleri International has announced a revolutionary cure towards COVID 19 and post COVID 19 care helping patients to recover faster. **A total of 500 patients (including across various comorbid conditions) out of which 77% have recovered within 5 days and the rest recovered by the 8th day as per clinical trials conducted in mid-2020.** Ozone therapy has a greater impact in controlling the infection as patient suffers from various situations such as circulatory disorders which may lead to clotting or thrombosis, headaches, lung infection, body pain & breathlessness situations. **Doctors recommended that ozone therapy should be taken upto 15 sessions after COVID-19.**
-
-[Ozone therapy for the treatment of COVID-19 pneumonia: A scoping review; Morteza Izadi; International Immunopharmacology; Mar, 2021-][457]
-Although inhaling ozone (O3) gas has been shown to be toxic to the lungs, recent evidence suggests that its administration via appropriate routes and at small doses can paradoxically induce an adaptive reaction capable of decreasing the endogenous oxidative stress. Ozone therapy is recommended to counter the disruptive effects of severe COVID-19 on lung tissues, especially if administered in early stages of the disease, thereby preventing the progression to ARDS. [Therefore] **Ozone therapy might be an excellent option as a complementary treatment for Covid-19.**
-
-[Ozone therapy in COVID-19: A narrative review; Francesco Cattel et al.; Virus Research; Oct 25, 2020][458]
-
-[Ozone therapy may be an option for COVID-19 patients; M. Sahin et al.; European Review for Medical and Pharmacological Sciences; 2021][459]
-
-[A Plausible ""Penny"" Costing Effective Treatment for Corona Virus - Ozone Therapy; Robert Jay Rowen, MD, and Howard Robins, DPM; Journal of Infectious Diseases and Epidemiology; 2020-][460]
-Many viruses require reduced sulfhydryl groups for cell fusion and entry. Corona viruses, including SARS-CoV-2 (the cause of the condition now named coronavirus disease 2019 or COVID-19), are rich in cysteine, which residues must be intact for viral activity. Sulfhydryl groups are vulnerable to oxidation. Ozone therapy, a very inexpensive and safe modality may safely exploit this critical vulnerability in many viruses, inclusive of SARS-CoV-2.
-
-[Vitalitymagazine.com: COVID-19 How Can I Cure Thee? Let Me Count the Ways; Dr. Thomas E. Levy, MD, JD; Dec 3, 2020][461]
-
-## CTYY
-
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
 
 
 
