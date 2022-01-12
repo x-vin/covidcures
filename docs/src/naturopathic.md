@@ -252,8 +252,7 @@ Dinner should be finished by 7 PM.
 **Completely avoid all animal protein and unnatural foods, including the following items:**
 Animal proteins like eggs, meat, fish etc.
 Dairy products like milk, cream, tea, coffee, ghee, butter, paneer, ice cream, rusk etc.
-Refined and packaged foods like refined flours and preparations containing them like cakes and biscuits, refined oils, fast foods like pizzas and burgers, cool drinks, refined salt like iodized table salt and refined sugars, and foods containing them
-"
+Refined and packaged foods like refined flours and preparations containing them like cakes and biscuits, refined oils, fast foods like pizzas and burgers, cool drinks, refined salt like iodized table salt and refined sugars, and foods containing them.
 
 ### Typical duration of treatment:
 A healthy recovery and maintenance diet for patients with diabetes mellitus
@@ -267,13 +266,12 @@ According to Dr. BRC's research publications on the DIP Diet, after following th
 
 *Here, a controlled blood glucose level denoted a blood glucose range of < or = 250 mg / dl without medication and / or insulin requirement, along with the prescribed diet. In the people who achieved such a healthier condition, the diet al.one balanced the blood glucose levels, leading to zero requirement of diabetes medication or insulin.
 
-The study, ""Diabetes Reversal by Plant-Based Diet"", cited in the references, conducted on 55 diabetes patients, interestingly, showed better efficacy of the diet with older patients with chronic type-2 diabetes. In follow-ups, those who maintained the diet and were still insulin-dependent were able to gradually reduce their dependency, and those who maintained the diet reported sustained benefits from the regimen."
+The study, *"Diabetes Reversal by Plant-Based Diet"*, cited in the references, conducted on 55 diabetes patients, interestingly, showed better efficacy of the diet with older patients with chronic type-2 diabetes. In follow-ups, those who maintained the diet and were still insulin-dependent were able to gradually reduce their dependency, and those who maintained the diet reported sustained benefits from the regimen."
 
 ### Significant side effects:
-"It has been observed that sometimes patients experience loose motion or diarrhoea while following the Three Step Flu Diet. If this happens more than 6-7 times, the patient should completely stop the fruits and salad in the DIP Diet, and consume only coconut water until the loose motion stops.
+It has been observed that sometimes patients experience loose motion or diarrhoea while following the Three Step Flu Diet. If this happens more than 6-7 times, the patient should completely stop the fruits and salad in the DIP Diet, and consume only coconut water until the loose motion stops.
 
 Patients with Chronic Kidney Disease are advised to adapt the diet to their requirements, as many fruits and vegetables contain relatively high amounts of potassium, oxalates etc. that may not be compatible with a renal diet.
-"
 
 ### Recommended quantity for stocking:
 The diet uses everyday fruits and vegetables that need not be stocked.
@@ -297,9 +295,9 @@ A reportedly highly effective ""N.I.C.E."" (Network of Influenza Care Experts) p
 **N.I.C.E. helpline number: +91 8587059169"**
 
 ### Objective
-"The mitigation of mild or acute Covid-19 symptoms.
+The mitigation of mild or acute Covid-19 symptoms.
 
-In the book, N.I.C.E. way to Cure COVID-19, Dr. Chowdhury states that in the Covid treatment center managaged by his team, of some 5000+ patients that visited the center, about a 1000 had come there with a Covid-positive result, and the remaining were symptomatic but had not tested. There appeared to be no differential symptomatic markers between the two groups, and therefore Covid-19 can only be characterized as an Influenza-Like Illness, to which 40 - 60 % of the general population are shown to have some 'background' or cellular immunity, according to a study published in Cell, May, 2020."
+In the book, N.I.C.E. way to Cure COVID-19, Dr. Chowdhury states that in the Covid treatment center managaged by his team, of some 5000+ patients that visited the center, about a 1000 had come there with a Covid-positive result, and the remaining were symptomatic but had not tested. There appeared to be no differential symptomatic markers between the two groups, and therefore Covid-19 can only be characterized as an Influenza-Like Illness, to which 40 - 60 % of the general population are shown to have some 'background' or cellular immunity, according to a study published in Cell, May, 2020.
 
 ### System
 Naturopathy, Ayurveda and Integrative medicine
@@ -313,9 +311,9 @@ NISA is an alliance of several eminent holistic physcians, including Dr. Biswaro
 ### Protocol and treatment approach:
 **N.I.C.E. helpline number: +91 8587059169**
 
-**The 3 Steps of the N.I.C.E. Protocol for Covid-19:**
+**<ins>The 3 Steps of the N.I.C.E. Protocol for Covid-19:</ins>**
 
-**Step One: Promoting mucosal immunity with prophylactic vitamin C via diet**
+**<ins>Step One:</ins> Promoting mucosal immunity with prophylactic vitamin C via diet**
 The body has three kinds of immunity to external pathogens- mucosal immunity, background or cellular immunity and herd immunity.
 
 According to a study published in Cell, **40 - 60 % of the populace already had cellular background immunity to Covid-19** even from the time that the novel coronavirus emerged, due to previous infections of this family of viruses. If 60 - 70 % of a population already has a degree of immunity to the virus, then the population could be said to possess a measure of **herd immunity** to the novel coronavirus and its variants.
@@ -330,29 +328,19 @@ A third type of external immunity is from the mucus, or Chipchipa Padaarth, as i
    - a handful of raw peas
    - 300 - 400 g of different types of fruits
 
-**Step Two: Three-day curative diet for Influenza-Like Illnesses (ILI)**
+**<ins>Step Two:</ins> Three-day curative diet for Influenza-Like Illnesses (ILI)**
 General protocol to be followed throughout the days of the treatment, 7-15 days, focuses on strengthening the body's own immunity, and especially the first tier of mucosal immunity:
 
-**Day 1 (Liquid diet)- Consume citrus fruit juice and coconut water in the quantity specified below:**
-**Body weight (in kg) / 10 glasses of fresh citrus fruit juice + [Body weight (in kg)] / 10 glasses of fresh tender coconut water**
+**Day 1 (Liquid diet):** 
+   - **Consume citrus fruit juice and coconut water in the quantity specified below: Body weight (in kg) / 10 glasses of fresh citrus fruit juice + [Body weight (in kg)] / 10 glasses of fresh tender coconut water.** Don't consume packed juice, but take fresh citrus fruit without sieving. Take citrus juice and coconut water alternately every hour, sip by sip, spending at least 15 minutes on each glass. This helps to keep temperature under control. The vitamin C in citrus fruit juice supports immunity and helps to eliminate the virus. Tender coconut water helps in hydration and is the best mineral water in the world, made by Nature.
 
-Don't consume packed juice, but take fresh citrus fruit without sieving. Take citrus juice and coconut water alternately every hour, sip by sip, spending at least 15 minutes on each glass. This helps to keep temperature under control. The vitamin C in citrus fruit juice supports immunity and helps to eliminate the virus. Tender coconut water helps in hydration and is the best mineral water in the world, made by Nature.
+**Day 2 (Fluid diet):** 
+   - **Consume the following foods on this day: [Body weight (in kg)] / 20 glasses of fresh citrus fruit juice + [Body weight (in kg)] / 20 glasses of fresh tender coconut water + [Body weight (in kg)] X 5 grams of cucumber and tomatoes.** For example, if the body weight is 60 kg, then (60 / 20 =) 3 glasses of citrus juice and 3 glasses of fresh tender coconut water, as well as (60 X 5 =) 300 grams of cucumber and tomatoes should be consumed on Day 2. Patients may be surprised to see that by the end of Day 2, they start feeling better and their temperature is under control. They would have regained some strength.
 
-**Day 2 (Fluid diet)- Consume the following foods on this day:**
-**[Body weight (in kg)] / 20 glasses of fresh citrus fruit juice + [Body weight (in kg)] / 20 glasses of fresh tender coconut water + [Body weight (in kg)] X 5 grams of cucumber and tomatoes**
-
-For example, if the body weight is 60 kg, then (60 / 20 =) 3 glasses of citrus juice and 3 glasses of fresh tender coconut water, as well as (60 X 5 =) 300 grams of cucumber and tomatoes should be consumed on Day 2. Patients may be surprised to see that by the end of Day 2, they start feeling better and their temperature is under control. They would have regained some strength.
-
-**Day 3 (Solid diet)-** 
-- **For Breakfast, consume**
-**[Body weight (in kg)] / 30 glasses of fresh citrus fruit juice + [Body weight (in kg)] / 30 glasses of fresh tender coconut water**
-For example, if the body weight is 60 kg, then (60 / 3 =) 2 glasses of citrus fruit juice and 2 glasses of fresh tender coconut water should be consumed on Day 3.
-
-- **For Lunch, consume**
-**[Body weight (in kg)] X 5 grams of cucumber and tomatoes**
-For example, if the body weight is 60 kg, then (60 X 5 =) 300 grams of cucumber and tomatoes should be consumed for lunch on Day 3.
-
-- **For Dinner, if the patient has recovered and is feeling fit, they can have normal home-cooked meals prepared according to the dietary principles of naturopathy or the DIP diet, described earlier in this sheet.** With this simple diet, most patients would be back to work on the fourth day after appearance of symptoms.
+**Day 3 (Solid diet):** 
+   - **For Breakfast, consume [Body weight (in kg)] / 30 glasses of fresh citrus fruit juice + [Body weight (in kg)] / 30 glasses of fresh tender coconut water.** For example, if the body weight is 60 kg, then (60 / 3 =) 2 glasses of citrus fruit juice and 2 glasses of fresh tender coconut water should be consumed on Day 3.
+   - **For Lunch, consume [Body weight (in kg)] X 5 grams of cucumber and tomatoes.** For example, if the body weight is 60 kg, then (60 X 5 =) 300 grams of cucumber and tomatoes should be consumed for lunch on Day 3.
+   - **For Dinner, if the patient has recovered and is feeling fit, they can have normal home-cooked meals prepared according to the dietary principles of naturopathy or the DIP diet, described earlier in this sheet.** With this simple diet, most patients would be back to work on the fourth day after appearance of symptoms.
 
 
 **Step Three: Home management of dyspnoea and Emergency management of severe symptoms**
@@ -362,7 +350,7 @@ SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating,
 
 **Yoga and Praanayaama improve respiratory health and overall immunity, but masks achieve the opposite outcome. Masking for prolonged durations can precipitate Covid-like symptoms**, like hypoxia / low oxygen saturation, increase in pulse rate and slightly elevated body temperature. Interestingly, masks and alcohol-based hand sanitizers were invented by the same individual Dr. Joseph Lister, and both these products reduce the body's natural immunity.
 
-**Emergency Management of Covid symptoms, most important:**
+**<ins>Emergency Management of Covid symptoms</ins>, most important:**
 
 - **Breathing management**: If the oxygen saturation is greater than or equal to 88 %, this is manageable. Oxygen therapy is shown in research not to increase a person's life expectancy, and no oxygen is better than some oxygen. The mechanical ventilator, which is the second line of intervention for hypoxia in hospitals, is commonly associated with adverse side effects like Ventilator-Associated Lung Inury (VALI), oxygen toxicity, neurological damage, Ventilator-Associated Pneumonia (VAP). **A handheld or table fan held in front of the patient's nose for 5 minutes usually yields the same benefits as oxygen therapy, and without the toxicity created by inhalation of pure oxygen, especially in higher concentrations. In the minority of cases that the first hypoxia management method of using a handheld fan fails, use the Prone Ventilation method, where the patient is made to lie in a prone position (face down), with the support of pillows under the chest / abdominal-pelvic region for comfort, as required.**
 
@@ -377,7 +365,7 @@ SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating,
 - **Diarrhoea or loose motion management**: Sometimes patients experience loose motions while on the Three-day Flu Diet or the DIP Diet described earlier. **If the loose motion occurs more than 6-7 times, then the citrus fruit juice in the Three-day Flu Diet should be stopped (or the fruits and salads, in the DIP Diet), and only tender coconut water should be consumed until the loose motions completely stop.**
 
 
-**Recommended Treatment Regimen Schedule in the second wave:**
+**<ins>Recommended Treatment Regimen Schedule in the second wave:</ins>**
 
 6:00 AM: Gargle with 3/4 teaspoonful of salt and 1/2 teaspoonful of turmeric in 1 glass of hot water. **Start sunbathing ([with minimal / light, preferably white-coloured attire][42]) and sungazing (no more than 20 seconds at a stretch).**
 
@@ -427,7 +415,7 @@ SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating,
 
 7 - 9 PM: Repeat the **turmeric + salt water gargling** performed at dawn. (Gargle with 3/4 teaspoonful of salt and 1/2 teaspoonful of turmeric in 1 glass of hot water.) The gargling is **followed by steam inhalation**, which is **followed by [banana Kashaaya][63]**, which is **prepared by boiling banana in water along with the peel**. Sip the banana Kashaaya and go to sleep.
 
-**General precautions:**
+**<ins>General precautions:</ins>**
    1. Three-day Protocol is be used only for treatment when fever and other acute symptoms are there. For prevention and after-treatment, another protocol is to be used.
    2. If acute symptoms persist we can extend 3rd day protocol for a few more days until fever subsides.
    3. Keep yourself in a well-ventilated place where there are many trees and plants and fresh, free-flowing air is available.
@@ -447,7 +435,6 @@ SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating,
 ### Outcome:
 After 48 hours of following the Three Step Flu Diet, the following outcomes were observed:
    - 60 % of Covid-19 patients could reverse the disease and tested negative.
-
 After 72 hours of the Three Step Flu Diet on patients, including those who were severely ill with pneumonia, the following outcomes were observed:
    - 100 % of the patients were relieved of all the symptoms.
    - 75 % of the patients tested negative for Covid-19.
@@ -520,7 +507,7 @@ Certainly, if the patient feels comfortable with the regimen while pursuing othe
 Naturopathy and yoga are systems of treatment that have wide empirical basis, and in India, the support of the governmetn in the form of the Ayush Ministry. Many of their prescriptions and observations have not been ratified by mainstream or allopathic medicine.
 
 ### Protocol and treatment approach:
-**Curative dietary principles**:
+**<ins>Curative dietary principles:</ins>**
    1. If there is little or no appetite during an illness, undertake a water fast, by withdrawing from food completely, and consuming only water / coconut water and citrus fruit juice.
    2. If there is appetite, consume only fruits like oranges, apples, watermelons, and other easily digestible foods. Bananas may not be advisable, especially the large varieties (like the Kerala banana or Nendra pazham) that are known to be inflammatory and have a higher calorific value.  Capsicum is said to be supportive of immunity as it is high in magnesium, B6 and lycopene, improves immunity and has other health benefits. Capsicum is best consumed raw in salad, or lightly cooked. Pomegranate juice is also found to kill most Covid-19 viruses in vitro and can even be used as a gargle. Tomatoes are rich in the immune-supportive vitamin C.
    3. Animal protein like meat, fish and dairy products, eggs, nuts, hard lentils and other hard proteins must be completely avoided.
@@ -529,25 +516,16 @@ Naturopathy and yoga are systems of treatment that have wide empirical basis, an
    6. Consume the last main meal of the day before 7 PM, and eat nothing after 8:00 PM.
    7. Drink water away from meals, and preferably about 30 minutes before meals, never during or for about 2 hours ater meals. Naturopathy and traditional medicine suggest that drinking water with meals or during the major part of digestion will dilute gastric juices and diminish digestion. However there is not much mainstream research evidence to corroborate this idea. It is important to not consume foods, like very salty foods that aggravate thirst during meals, and to chew food well as a significant amount of digestion is mediated through enzymes in saliva.
 
-**[Common and frequently recommended cleansing and detoxifying practices in Naturopathy][100]:**
+**[<ins>Common and frequently recommended cleansing and detoxifying practices in Naturopathy</ins>][100]:**
    1. **[Hydrotherapeutic techniques][101], including hip bath and colonic irrigation / cleansing or [enema][102]**
    2. **Mud baths**
    3. **[Jala neti or Nasal irrigation][103]**
    4. **[Periodic fasting][104], consuming only water / coconut water / fruit juice / fruits or in the strictes form, nothing at all, called the dry fast**
 
-**Sleep:**
-Sleep before 10 pm, and rest the mind and body as much as possible.
-
-**Sunbathing or phototherapy:**
-Sunbathe wearing light, white, minimal cotton clothing in the morning and afternoon sun for at least 1-2 hours a day. Sunlight is known to have remarkable healing properties.
-
-**Yoga and Pranayama:**
-Avoid yoga aasanas, but can practise pranayama exercises for respiratory and viral diseases, provided they do not cause any discomfort. The following are a few Pranayamas that have been recommended by research and by traditional practitioners and teachers of therapeutic yoga, the NCBI and Ayush, to enhance lung health, curb comorbidities and the occasionally severe after effects of the disease, and accelerate recovery: Anuloma Viloma, Kapalbhati, Nadi Shodhana, Bhramari, Udgeeth, Sheetkari.
-
-**Prophylaxing diet, healthy diet in naturopathy or nature cure:**
-A healthy naturopathic maintenance diet reduces consumption of dairy products and nonvegetarian foods, and emphasizes the consumption of a variety of nutritious and anti-inflammatory fruits and vegetables, especially in their raw form. Chillies, mustard, onion, garlic are foods that must be avoided in the regular diet and consumed only for their medicinal value. It is advisable to consume only simple lentils like green gram, and not the heavier lentils like black gram and Tuvar dal. Refined sugar should be avoided completely, and substituted by unheated, raw honey, or unrefined palm sugar or raw cane juice. Salt too should be minimized, along with the other so-called [5 white poisons][105]- white or polished rice (but sometimes interpreted as meat containing cholesterol or ""white"" fat), white or refined sugar, white or refined salt (especially iodized salt), milk (especially pasteurized milk from European cows) and white or refined flour or Maida (all-purpose flour). Completely eschew all processed and junk foods, especially those containing manmade chemicals like artificial colours, sweeteners, preservatives and texturizing and flavouring agents. 
-
-"
+   - **Sleep:** Sleep before 10 pm, and rest the mind and body as much as possible.
+   - **Sunbathing or phototherapy:** Sunbathe wearing light, white, minimal cotton clothing in the morning and afternoon sun for at least 1-2 hours a day. Sunlight is known to have remarkable healing properties.
+   - **Yoga and Pranayama:** Avoid yoga aasanas, but can practise pranayama exercises for respiratory and viral diseases, provided they do not cause any discomfort. The following are a few Pranayamas that have been recommended by research and by traditional practitioners and teachers of therapeutic yoga, the NCBI and Ayush, to enhance lung health, curb comorbidities and the occasionally severe after effects of the disease, and accelerate recovery: Anuloma Viloma, Kapalbhati, Nadi Shodhana, Bhramari, Udgeeth, Sheetkari. 
+   - **Prophylaxing diet, healthy diet in naturopathy or nature cure:** A healthy naturopathic maintenance diet reduces consumption of dairy products and nonvegetarian foods, and emphasizes the consumption of a variety of nutritious and anti-inflammatory fruits and vegetables, especially in their raw form. Chillies, mustard, onion, garlic are foods that must be avoided in the regular diet and consumed only for their medicinal value. It is advisable to consume only simple lentils like green gram, and not the heavier lentils like black gram and Tuvar dal. Refined sugar should be avoided completely, and substituted by unheated, raw honey, or unrefined palm sugar or raw cane juice. Salt too should be minimized, along with the other so-called [5 white poisons][105]- white or polished rice (but sometimes interpreted as meat containing cholesterol or ""white"" fat), white or refined sugar, white or refined salt (especially iodized salt), milk (especially pasteurized milk from European cows) and white or refined flour or Maida (all-purpose flour). Completely eschew all processed and junk foods, especially those containing manmade chemicals like artificial colours, sweeteners, preservatives and texturizing and flavouring agents. 
 
 ### Typical duration of treatment:
 Healing is accelerated through the naturopathic regimen, and recovery time is observed to decrease by 1-3 days at least, in the case of viral illnesses. The regimen can be followed in conjunction with any other treatment.
@@ -610,12 +588,12 @@ With a healthy natural immune system, the body's immune reaction to pathogens wo
 
 **These ingredients are admittedly very pungent or spicy or sour to the taste, especially to those who lack core strength, a healthy and pH-neutral body and digestive health. However, if they are consumed in the specific sequence described above, the discomfort due to their sharp taste can be minimized, according to Dr. Eapen. Ginger, which is the most alkalizing, and is also the most pungent to the tastebuds, is consumed first raw and whole, along with its skin, which is its most alkalizing feature. Turmeric water, which has the least pungency and alkalinity can be consumed in slightly warm water last, and washes away the sharpness of the previous ingredients consumed. It is recommended to have more turmedic water if needed after half an hour, in order to feel vitalized.**
 
-**Prescribed principles of a natural and healthy lifestyle for health:**
+**<ins>Prescribed principles of a natural and healthy lifestyle for health:</ins>**
 1. The **timings of food are even more important than the type of food.** Awaken, bathe and have breakfast by sunrise, and around 8 AM. Have lunch around 12 PM, when the gastric juices are at their peak of function. Lunch consumed later in the afternoon can even be harmful. Dinner should be consumed by sunset.
 2. It is very important to **consume food that is predominantly (85 %) alkalizing**. If acidifying food is eaten, then alkalizing food must be eaten to offset or neutralize such food. After an acidifying meal like nonvegetarian food with commercial soft drinks like Coca Cola, the body is effectively imprisoned in a subsequent state of impaired immunity for about 12 hours.
 3. It is important to **reduce sugar intake and exercise regularly**.
 4. It is recommended to **emphasize superfoods like gooseberries, avocado, moringa, spirulina etc. in the diet.**
-5. Try to **choose a green habitat and communities should plant many trees in the environment that affect the ecosystem in a manner akin to ""alkalizing"" it by producing highly oxygenated ""super air"".** Though there has not been much research in this direction, maybe the coconut palm is such a tree, growing in abundance in southern India.
+5. Try to **choose a green habitat and communities should plant many trees in the environment that affect the ecosystem in a manner akin to "alkalizing" it by producing highly oxygenated "super air".** Though there has not been much research in this direction, maybe the coconut palm is such a tree, growing in abundance in southern India.
 6. It is very important to **avoid excessive exposure to EMF radiation**, such as through wifi. There are **many studies that evidence the paramount importance of intercellular communication, and wifi or EMF exposure interferes with these communication pathways, accelerating the process of ageing.**
 7. The doctor observed among healty centenarians in Africa that their habits are **regular and moderate**. Alcohol in moderation is deemed healthy but not when consumed in immoderate amounts. Drinking a Moringa tea everyday might promote good health.
 8. It is advisable to **consume locally growing medicinal plants** like Punarnava (in Sanskrit) in south India, also called Thazhuthama in Malayalam or Boerhavia diffusa, which rejuvenate vital organs like the liver and kidneys and strengthen immunity.
@@ -671,19 +649,19 @@ Allopathic and nutritional medicine
 Yes
 
 ### Status of authorisation:
-Based on published research, and to be found on Dr. Ardis' PDF report ""The Dangers Of The Covid-19 Vaccine Report"", accessible from his website.
-[https://www.thedrardisshow.com/pages/research-links](https://www.thedrardisshow.com/pages/research-links)
+Based on published research, and to be found on Dr. Ardis' PDF report "The Dangers Of The Covid-19 Vaccine Report", accessible from his website.
+   - [The Dr. Ardis Show](https://www.thedrardisshow.com/pages/research-links)
 
 ### Protocol and treatment approach:
 **Prophylactic or preventative care**:
-Vitamic C (ascorbic acid)- 3000 mg / day
-Zinc- 50 mg / day, preferably as zinc gluconate
-Selenium- 200 mcg / day
+   - Vitamic C (ascorbic acid)- 3000 mg / day
+   - Zinc- 50 mg / day, preferably as zinc gluconate
+   - Selenium- 200 mcg / day
 
 **Treatment of Covid symptoms**:
-Vitiman C (ascorbic acid)- 10,000 mg / day
-Zinc- 100 mg / day, preferably as zinc gluconate
-Selenium- 400 mcg / day
+   - Vitiman C (ascorbic acid)- 10,000 mg / day
+   - Zinc- 100 mg / day, preferably as zinc gluconate
+   - Selenium- 400 mcg / day
 
 ### Typical duration of treatment:
 **VACANT VACANT VACANT**
@@ -719,20 +697,19 @@ Yes.
 
 ### Status of authorisation:
 Among the remedies documented here, this remedy may be the least supported by mainstream research evidence, as there are several fact-checking articles online ""debunking the myth"", such as this article, which nonetheless admits that camphor constitutes 4.8 % of the common decongestant and cough mitigant Vicks VapoRub:
-[The Federal: Beware: Camphor doesn’t help improve body’s oxygen level, it can be toxic; May 5, 2021][138]
+   - [The Federal: Beware: Camphor doesn’t help improve body’s oxygen level, it can be toxic; May 5, 2021][138]
 
 Dr. Prakash Gyawali, an Ayurvedic physician, explains that Camphor helps to open the nasal passages in case of cold while Cloves dry the phlegm, Eucalyptus oil is a nasal decongestant and Carom seeds / Ajwain are used in many Ayurvedic medicines for their expectorant and drying properties. However, he too believes that the claim that they increase oxygen saturation in blood is not well-founded in existing research:
-[South Asia Check | Fact Check: A supposed home remedy for boosting blood oxygen levels is unfounded; Deepak Adhikari; April 29, 2021][139]
+   - [South Asia Check | Fact Check: A supposed home remedy for boosting blood oxygen levels is unfounded; Deepak Adhikari; April 29, 2021][139]
 
 It has also been [reported][140] that anosmia or loss of taste and smell, one of the common and peculiar symptoms of Covid-19, especially in the first wave and earlier variants, [attributed also to vitamin D deficiency and Zinc deficiency][141], can be reversed through steam inhalation with [eucalyptus oil][142]. Ajwain has been known to have a bronchodilatory effect and be useful in the treatment of asthma:
-[Bronchodilatory Effect of Carum copticum in Airways of Asthmatic Patients; Mohammad Hossein Boskabady et al.; Therapie; Jan, 2007][143]
-
-[Anti-inflammatory activity of 1.8-cineol (eucalyptol) in bronchial asthma: a double-blind placebo-controlled trial; U R Juergens et al.; Respiratory Medicine; Mar, 2003][144]
+   - [Bronchodilatory Effect of Carum copticum in Airways of Asthmatic Patients; Mohammad Hossein Boskabady et al.; Therapie; Jan, 2007][143]
+   - [Anti-inflammatory activity of 1.8-cineol (eucalyptol) in bronchial asthma: a double-blind placebo-controlled trial; U R Juergens et al.; Respiratory Medicine; Mar, 2003][144]
 
 In fact, Carom seeds (active agents, thymol oil, terpine and linonene) and Eucalyptus oil (active agents, cineole and eucalyptol) [are often prescribed][145] in traditional home remedies to combat shortness of breath, especially for those suffering from asthma, where it is recommended that the oil of Eucalyptus be added to hot water for steam inhalation or that Carom seeds be slightly roasted to release the vapours that are sniffed to dilate the bronchial passages.
 
 In this video, the well-known Ayurveda and Yoga physician and spiritual teacher [Dr. Balaji Tambe][146], prescribes the [Camphor + Ajwain + Abhyang oil Potli][147] for those suffering from hypoxia and breathing difficulty, and mentions the customary use of this breathing aid by unaccustomed travellers to higher altitudes like Amarnath or Badrinath or Ladakh in the Himalayas. **Acharya Tambe recommended that the chest be massaged with the Ayurvedic medicated oil Abhyang before the inhalation of vapours from the Ajwain-Camphor Potli, containing mostly Ajwain and only a pinch of pure camphor.** It should be noted that the camphor used should prefefrably be [natural camphor (obtained from a tree bark)][148] very pure and is the more expensive, expensive variety, which is not toxic even if ingested in very small quantities [(whereas synthetic camphor is inexpensive, and manufactured from oil of turpentine)][149]:
-[Shreeguru Dr. Balaji Tambe: Camphor-Ajwain for Breath; 2020][150]
+   - [Shreeguru Dr. Balaji Tambe: Camphor-Ajwain for Breath; 2020][150]
 
 There is also much [anecdotal evidence from clinicians][151] and patients who have used the technique to mitigate breathing difficulty in Covid-19 patients. [Ayurvedic Breathe Easy Potli][152] is a commercial product that uses this technique to alleviate cough, respiratory distress and improve overall respiratory health and immunity.
 
@@ -780,9 +757,9 @@ Recommended to be used exclusively, before commencing or after stopping allopath
 Sourced from apparently official video documenting Expert guidance from Prof. Dr. Dileep Kumar P. P., MD, PhD (Dravyaguna), Ayurveda Pharmacology, Ambuja Institute of Ayurvedic Research and Documentation, Udayamperoor P.O., Ernakulam, Kerala, Prepared for SIIMSAR Doctors School of Swasthavritta (Social and Preventative Medicine), Navi Mumbai
 
 ### Protocol and treatment approach:
-"Ingredients: 2 pieces of shallots or small onions, 2 star anise, 20 black pepper, 4 tsp coriander seeds, 1/2 tsp fenugreek seeds, 1/2 tsp turmeric powder,
+Ingredients: 2 pieces of shallots or small onions, 2 star anise, 20 black pepper, 4 tsp coriander seeds, 1/2 tsp fenugreek seeds, 1/2 tsp turmeric powder,
 
-Preparation and dosage: Coarsely crush and add these six ingredients to 2 glasses of water, boil and reduce it to 1 glass of the decoction. Filter the decoction and drink it piping hot 3 times a day, freshly prepared for 5 days."
+Preparation and dosage: Coarsely crush and add these six ingredients to 2 glasses of water, boil and reduce it to 1 glass of the decoction. Filter the decoction and drink it piping hot 3 times a day, freshly prepared for 5 days.
 
 ### Typical duration of treatment:
 5 days
@@ -794,7 +771,12 @@ Treatment of Covid-19, including prevention of cytokine storm and SPO2 level mai
 None known, natural remedy
 
 ### Recommended quantity for stocking:
-1/2 kg shallots, 250 g star anise, 200 g black pepper, 250 g coriander seeds, 200 g fenugreek seeds, 100 g gram organic turmeric powder
+   - 1/2 kg shallots
+   - 250 g star anise 
+   - 200 g black pepper
+   - 250 g coriander seeds
+   - 200 g fenugreek seeds
+   - 100 g gram organic turmeric powder
 
 ### Price:
 Common Indian kitchen ingredients
@@ -830,12 +812,10 @@ How to brew a better cup of tea:
    - **It is possible to be creative and combine different teas and other anti-inflammatory herbs, spices like cinnamon and cardamom, or even fruits like lemon or orange slices. Many of these ingredients work together to provide even more health benefits.**
    - **It is also healthful to add 1-2 drops of peppermint oil, rich in Menthol, to a herbal tea, for its anticoagulant property, though those using blood-thinning drugs like Warfarin must be cautious in its use.**
 
-CAUTION: It is important to recognize that while they are generally nontoxic and very safe to consume, even more so than most other pharmaceutical products, these commonly used medicinal herbs may nonetheless be unsuitable for pregnant or lactating mothers, and may be likely to interact adversely with other drugs. Such adverse effects should be investigated and ruled out before they are consumed on a regular basis.
+<ins>CAUTION:</ins> It is important to recognize that while they are generally nontoxic and very safe to consume, even more so than most other pharmaceutical products, these commonly used medicinal herbs may nonetheless be unsuitable for pregnant or lactating mothers, and may be likely to interact adversely with other drugs. Such adverse effects should be investigated and ruled out before they are consumed on a regular basis.
 
-[A traditional, reportedly effective recipe, recommended by Ayurvedic and naturopathic physicians that was used as prophylactic by the holistic health community in South India:][157]
-Ginger + pepper + honey + lemon tea:
-Make decoction with crushed ginger, pepper and sweetener like honey. Add lemon juice  after a while, after taking out from the stove. The decoction can be drunk once or twice a day.
-
+   - [A traditional, reportedly effective recipe, recommended by Ayurvedic and naturopathic physicians that was used as prophylactic by the holistic health community in South India:][157]
+   - Ginger + pepper + honey + lemon tea: Make decoction with crushed ginger, pepper and sweetener like honey. Add lemon juice  after a while, after taking out from the stove. The decoction can be drunk once or twice a day.
 
 [iahas.com](iahas.com):
    - **Cloves and banana mixture**:
@@ -847,7 +827,7 @@ Ginger and Turmeric are full of antioxidants, rich in anti-inflammatory properti
    - **Curative Ayurvedic herbs for wheezing and asthma:**
 Black raisin, Honey and Cloves, Ginger, Turmeric, Cinnamon, Liquorice, Mustard oil
 
-**Amla / Lemon + Cinnamon + Turmeric + Black pepper + Jaggery tea: (Recipe by Raw Food Healer and Nutritionist, Crystal Caisa)**
+**Amla / Lemon + Cinnamon + Turmeric + Black pepper + Jaggery tea: (Recipe by Raw Food Healer and Nutritionist, Crystal Caisa)**<br>
 Fill a large glass with warm wate, not much above body temperature but comfortable to sip. (The temperature must not be too warm because Ayurveda recommends against heating honey.) Add 1 Amla or Gooseberry blended or freshly squeezed Lemon, 1/4 teaspoon Cinnamon, 1/4 tspn Turmeric, 1/4  tspn Black pepper, 1 tspn Jaggery. The proportions of the ingredients can be adjusted to taste.
 
 
