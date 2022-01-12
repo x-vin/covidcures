@@ -112,7 +112,7 @@ None known. However it is recommended to use the medication under the guidance o
 Rs. 90-200 online
 
 ### Suggested suppliers:
-[homeomart.com: Aspidosperma Quebracho Homeopathy Mother Tincture Q][11] (INR 310)
+   - [homeomart.com: Aspidosperma Quebracho Homeopathy Mother Tincture Q][11] (INR 310)
 
 ### Further references:                          
    - [practo.com: Homeopathic Remedies for Asthma; Dr. Jagat Shah][12]
@@ -133,7 +133,7 @@ It is best not to adopt a homeopathy treatment protocol while following an allop
 
 ### Status of authorisation:
 Homeopathic treatment for Covid was recognized by the Kerala government in various ways, and homeopathic prophylactic medicine has been mass-distributed there since early in the pandemic. There is substantial evidence for homeopathic prophylaxing.
-[Combating COVID-19: Kerala government distributes Homeopathy medicine to 45 lakh people across the State][17]
+   - [Combating COVID-19: Kerala government distributes Homeopathy medicine to 45 lakh people across the State][17]
 
 The protocol described here is reputed to be used effectively in Dr. Khader Vali's practice, which emphasizes a millet-based diet; Dr. Vali is the highly esteemed Millet Man of India, who has successfully advocated a diet based on millets or Sirudhaanya for improved immunity against all disease.
 

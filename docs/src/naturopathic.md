@@ -290,9 +290,9 @@ Fruits and vegetables for the diet are best sourced from local stores supplying 
    - [RECIPES To Cure Lifestyle Diseases, by Neerja Roy Chowdhury][41]
 
 ## 5. N.I.C.E.'s Three Step Flu Diet: 
-A reportedly highly effective ""N.I.C.E."" (Network of Influenza Care Experts) protocol published and used by NISA (Natural Immunization Support Alliance) to treat Covid-19 in its treatment camps, especially the Government of Maharashtra Covid Centre 
+A reportedly highly effective "N.I.C.E." (Network of Influenza Care Experts) protocol published and used by NISA (Natural Immunization Support Alliance) to treat Covid-19 in its treatment camps, especially the Government of Maharashtra Covid Centre.
 
-**N.I.C.E. helpline number: +91 8587059169"**
+**N.I.C.E. helpline number: +91 8587059169**
 
 ### Objective
 The mitigation of mild or acute Covid-19 symptoms.
@@ -343,7 +343,7 @@ General protocol to be followed throughout the days of the treatment, 7-15 days,
    - **For Dinner, if the patient has recovered and is feeling fit, they can have normal home-cooked meals prepared according to the dietary principles of naturopathy or the DIP diet, described earlier in this sheet.** With this simple diet, most patients would be back to work on the fourth day after appearance of symptoms.
 
 
-**Step Three: Home management of dyspnoea and Emergency management of severe symptoms**
+**<ins>Step Three</ins>: Home management of dyspnoea and Emergency management of severe symptoms**
 If the infection migrates from the upper to the lower respiratory tract, more severe symptoms such as breathlessness or dyspnoea would begin to manifest, and the oxygen saturation levels would begin to drop to 90 % or below. In such situations, the patient must be educated to not seek artificial ventilation in hospitals, which are known to be associated with a high mortality, but instead create a ventilator at home with **techniques like prone ventilation and other methods. With the first sign of flu, contact the N.I.C.E. team at [www.biswaroop.com/nice](www.biswaroop.com/nice) or +91-8587059169 for free support, guidance and treatment.**
 
 SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating, for which reason it is not easy to develop drug treatments to mitigate the virus or vaccine preventatives. (A University College of London, May, 2020, study discovered 198 mutations of the virus in 7500 people.) The disease is dangerous only when the lower respiratory tract is affected, leading to pneumonia, ARDS (Acute Respiratory Distress Syndrome) or even cardiac injury. **This occurs when medications like antipyretic, antibiotic, antimalarial, anti-HIV, or any other medication directly or indirectly lowers the body's immunity. Rather than the novel coronavirus being the culprit, the real contributor to the death toll is the treatment method prescribed by the WHO, with experimental drugs, and the ICMR's death reporting guidelines. Several countries, like Vietnam, that did not follow these protocols suffered negligible deaths and their doctors are simply asked the patients to take complete rest.** About 10 percent of influenza is attributed to the family of four types of coronaviruses (229E, NL63, OC43, HKU1) known to man for long, and patients usually recover within 3-7 days. SARS-CoV-2 too belongs to the family of similar coronaviruses, to which the human body often has background immunity.
@@ -375,7 +375,7 @@ SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating,
 
 6:30 AM: **Kadha or Kashaaya (Ayurvedic bitter concoction): Boil 0.5 - 1 teaspoonful of [turmeric][44] and 2 pinches of black pepper in a glass of water for 5 minutes. Cover and let the decoction cool. Add jaggery and 1/2 teaspoonful of [ghee][45] or oil, and sip it.**
 
-**Note on Turmeric tea**: Turmeric contains about 3-6 % Curcumin. **1 metric teaspoon of turmeric [weighs about 3.2 g][46], and therefore contains at least about 100 mg of Curcumin.** Various researchers have found [turmeric derivatives useful in the management of influenza virus infections, and doses of 6-7 g of turmeric daily are found to be well tolerated][47]. In fact, 500 mg of Curcumin (purified extract, containing about 95 % of Curcuminoids) twice a day is recommended by at least 3 highly effective allopathic protocols (namely, The Zelenko protocol, FLCCC's I-MASK+ and the Ivermectin+Doxycycline+Cyproheptadine protocol of Aguirre-Chang, Gustavo et al.).  This protocol prescribes 1-2 teaspoonsful of turmeric, which would contain about 100-200 mg of Curcumin.
+**Note on Turmeric tea**: Turmeric contains about 3-6 % Curcumin. **1 metric teaspoon of turmeric [weighs about 3.2 g][46], and therefore contains at least about 100 mg of Curcumin.** Various researchers have found [turmeric derivatives useful in the management of influenza virus infections, and doses of 6-7 g of turmeric daily are found to be well tolerated][47]. In fact, 500 mg of Curcumin (purified extract, containing about 95 % of Curcuminoids) twice a day is recommended by at least 3 highly effective allopathic protocols (namely, [The Zelenko protocol][a], FLCCC's I-MASK+ and the Ivermectin+Doxycycline+Cyproheptadine protocol of Aguirre-Chang, Gustavo et al.).  This protocol prescribes 1-2 teaspoonsful of turmeric, which would contain about 100-200 mg of Curcumin.
 
 [Turmeric and Curcumin are not well absorbed on their own and it is generally best to take turmeric / Curcumin with food containing some fat in order to increase absorption.][48] It is best to combine turmeric / Curcumin with Black pepper, which contains the compound Piperine that has been shown to increase Curcumin absorption by 2,000%. **Thus, this decoction, containing both pepper and ghee is designed to maximize absorption of the Curcumin.**
 
@@ -818,39 +818,26 @@ How to brew a better cup of tea:
    - Ginger + pepper + honey + lemon tea: Make decoction with crushed ginger, pepper and sweetener like honey. Add lemon juice  after a while, after taking out from the stove. The decoction can be drunk once or twice a day.
 
 [iahas.com](iahas.com):
-   - **Cloves and banana mixture**:
-Mix 7 to 8 cloves with a banana. Keep it overnight and have it in the morning. The remedyis said to be very useful for asthma and wheezing.
-   - **Ajwain + Tulasi + Pepper + Ginger Tea:**
-Herbal tea made by mixing Ajwain, Tulasi, pepper, and ginger is effective organic cough medicine for asthma patients. Drink this tea twice daily for best results.
-   - **Ginger and Turmeric milk:**
-Ginger and Turmeric are full of antioxidants, rich in anti-inflammatory properties and very useful in treating Asthma. Mix 1 tbsp of turmeric powder and a little amount of grounded ginger in a cup of hot milk and drink it twice a day. To add flavour and sweetness, use honey and black pepper.
-   - **Curative Ayurvedic herbs for wheezing and asthma:**
-Black raisin, Honey and Cloves, Ginger, Turmeric, Cinnamon, Liquorice, Mustard oil
+   - **Cloves and banana mixture**: Mix 7 to 8 cloves with a banana. Keep it overnight and have it in the morning. The remedyis said to be very useful for asthma and wheezing.
+   - **Ajwain + Tulasi + Pepper + Ginger Tea:** Herbal tea made by mixing Ajwain, Tulasi, pepper, and ginger is effective organic cough medicine for asthma patients. Drink this tea twice daily for best results.
+   - **Ginger and Turmeric milk:** Ginger and Turmeric are full of antioxidants, rich in anti-inflammatory properties and very useful in treating Asthma. Mix 1 tbsp of turmeric powder and a little amount of grounded ginger in a cup of hot milk and drink it twice a day. To add flavour and sweetness, use honey and black pepper.
+   - **Curative Ayurvedic herbs for wheezing and asthma:** Black raisin, Honey and Cloves, Ginger, Turmeric, Cinnamon, Liquorice, Mustard oil
 
 **Amla / Lemon + Cinnamon + Turmeric + Black pepper + Jaggery tea: (Recipe by Raw Food Healer and Nutritionist, Crystal Caisa)**<br>
 Fill a large glass with warm wate, not much above body temperature but comfortable to sip. (The temperature must not be too warm because Ayurveda recommends against heating honey.) Add 1 Amla or Gooseberry blended or freshly squeezed Lemon, 1/4 teaspoon Cinnamon, 1/4 tspn Turmeric, 1/4  tspn Black pepper, 1 tspn Jaggery. The proportions of the ingredients can be adjusted to taste.
 
-
-[thealternativedaily.com/](http://thealternativedaily.com/:): 6 teas that reduce chronic inflammation:
+[thealternativedaily.com](http://thealternativedaily.com/:): 6 teas that reduce chronic inflammation:
    - **Green tea: Green tea contains the highest concentration of powerful antioxidants called polyphenols, since it’s made from unfermented leaves. Of these polyphenols, Epigallocatechin-3-gallate (EGCG) is the most potent. Green tea may help fight inflammatory conditions like Crohn’s disease, ulcerative colitis, inflammatory bowel disease and certain cancers.**
-   - **Ginger tea: Ginger is widely known for its anti-oxidative and anti-inflammatory properties, and its ability to alleviate symptoms of gastrointestinal distress by relaxing and soothing the intestinal tract. Ginger is extensively used by many traditional or indigenous systems of medicine.**
-      (Serves 1.) Boil 1 and 1/2 cups of water and simmer 6 thin slices of raw ginger in the water for 10 minutes. Switch off the burner and allow the ginger pieces to steep in the water as they cool. When the temperature has cooled to slightly above body temperature, add freshly squeezed lemon juice and raw honey or Stevia to flavour the tea. As Ayurveda recommends against heating honey, the temperature must not be too warm.
-   - **Turmeric + Pepper tea: Turmeric contains more than two dozen anti-inflammatory compounds, the most important of which is Curcumin.**
-      (Serves 4.) Boil 4 cups water. Add 1 teaspoon ground turmeric. Simmer for 10 minutes before straining into a cup and allowing to cool. Flavour with the fresh juice of 1 lemon and raw honey to taste. As Ayurveda recommends against heating honey, the temperature must not be too warm. Add a pinch of freshly ground pepper to increase the absorption of the Curcumin in the turmeric.
-   - **Tart cherry tea: Tart cherries have been shown to anti-inflammatory properties comparable to Ibuprofen and Naproxen, but without the adverse effects.**
-      (Serves 4.) Boil 3 parts, like 3/4 cup or 3 cups of water for 1-4 servings. Allow to cool a little before adding 1 part (1/4 or 1 cup, for 1 or 4 servings, respectively) of freshly prepared tart cherry juice. Allow to cool to slightly above body temperature and add the juice of 1/2 lemon and raw honey to taste.
-   - **Pineapple + Ginger + Cinnamon tea: The Bromelain in pineapple reduces chronic inflammation. Some studies concluded that this enzyme was comparable to or even more effective than NSAID painkiller drugs for managing the pain of osteoarthritis. Other studies have also found that Bromelain could be even more effective than prescription anti-inflammatory drugs for various types of pain.**
-      (Serves 2.) Place the peel of 1 Pineapple (with crown and scraps), 1 stick of good Cinnamon and 1 small piece of Ginger into a pot and cover with water. Heat on medium / low and let simmer for about 25 minutes. Turn off the burner, cover the pot with a lid and allow the infusion to steep for about 20 more minutes. Strain into a jar and drink the tea warm or refrigerate the tea if it is preferred cold.
-   - **Dandelion tea: Dandelions can detoxify the body, relieve constipation, reverse type-2 diabetes, soothe an upset stomach, help reduce water weight and help fight inflammation. Dandelion tea is made from the roots or leaves of the plant and has been used in ancient Native American and Chinese medicine for thousands of years. Studies have established that the leaves of the common dandelion plant Taraxacum officinale efficiently blocks the interaction between ACE2 cell surface recceptor and the SARS-CoV-2 spike protein in the original virus and in many mutants.**
-      Boil water and pour the water over dried dandelion leaves. (Dandelion tea can be mildly laxative, so first-timers had better sip it at home until they adapt to the effects.)
+   - **Ginger tea: Ginger is widely known for its anti-oxidative and anti-inflammatory properties, and its ability to alleviate symptoms of gastrointestinal distress by relaxing and soothing the intestinal tract. Ginger is extensively used by many traditional or indigenous systems of medicine.** (Serves 1.) Boil 1 and 1/2 cups of water and simmer 6 thin slices of raw ginger in the water for 10 minutes. Switch off the burner and allow the ginger pieces to steep in the water as they cool. When the temperature has cooled to slightly above body temperature, add freshly squeezed lemon juice and raw honey or Stevia to flavour the tea. As Ayurveda recommends against heating honey, the temperature must not be too warm.
+   - **Turmeric + Pepper tea: Turmeric contains more than two dozen anti-inflammatory compounds, the most important of which is Curcumin.** (Serves 4.) Boil 4 cups water. Add 1 teaspoon ground turmeric. Simmer for 10 minutes before straining into a cup and allowing to cool. Flavour with the fresh juice of 1 lemon and raw honey to taste. As Ayurveda recommends against heating honey, the temperature must not be too warm. Add a pinch of freshly ground pepper to increase the absorption of the Curcumin in the turmeric.
+   - **Tart cherry tea: Tart cherries have been shown to anti-inflammatory properties comparable to Ibuprofen and Naproxen, but without the adverse effects.** (Serves 4.) Boil 3 parts, like 3/4 cup or 3 cups of water for 1-4 servings. Allow to cool a little before adding 1 part (1/4 or 1 cup, for 1 or 4 servings, respectively) of freshly prepared tart cherry juice. Allow to cool to slightly above body temperature and add the juice of 1/2 lemon and raw honey to taste.
+   - **Pineapple + Ginger + Cinnamon tea: The Bromelain in pineapple reduces chronic inflammation. Some studies concluded that this enzyme was comparable to or even more effective than NSAID painkiller drugs for managing the pain of osteoarthritis. Other studies have also found that Bromelain could be even more effective than prescription anti-inflammatory drugs for various types of pain.** (Serves 2.) Place the peel of 1 Pineapple (with crown and scraps), 1 stick of good Cinnamon and 1 small piece of Ginger into a pot and cover with water. Heat on medium / low and let simmer for about 25 minutes. Turn off the burner, cover the pot with a lid and allow the infusion to steep for about 20 more minutes. Strain into a jar and drink the tea warm or refrigerate the tea if it is preferred cold.
+   - **Dandelion tea: Dandelions can detoxify the body, relieve constipation, reverse type-2 diabetes, soothe an upset stomach, help reduce water weight and help fight inflammation. Dandelion tea is made from the roots or leaves of the plant and has been used in ancient Native American and Chinese medicine for thousands of years. Studies have established that the leaves of the common dandelion plant Taraxacum officinale efficiently blocks the interaction between ACE2 cell surface recceptor and the SARS-CoV-2 spike protein in the original virus and in many mutants.** Boil water and pour the water over dried dandelion leaves. (Dandelion tea can be mildly laxative, so first-timers had better sip it at home until they adapt to the effects.)
 
-[healthline.com/](healthline.com/): **More ideas for antiinflammatory teas with common kitchen ingredients:**
-   - **Holy basil or Tulasi tea: 'Tulasi' means “The Incomparable” and is also known as the “Queen of Herbs” due to its wide range of health-promoting properties. Tea prepared from Holy basil or Tulasi may fight inflammation and reduce pain from gout, arthritis, or other inflammatory conditions. It may also lower cholesterol, blood sugar, and blood pressure levels. In a 4-week study in 24 healthy adults, supplementing with 300 mg of holy basil extract significantly increased levels of helper T cells and natural killer cells, both of which are immune cells that help protect and defend the body from viral infections.**
-      To brew Tulasi tea, steep a few leaves of Tulasi in boiling water for a few minutes.
-   - **Rose hip tea: Rose hips are the the coral-red, round, edible pseudo-fruits that are left after a rose bush loses its flowers. Studies show that rose hips reduce pro-inflammatory chemicals and inhibit cox-1 and 2 enzymes, which trigger inflammation and pain. They have been used as an herbal medicine for more than 2,000 years, as they have a high concentration of antioxidants, including beta carotene and vitamins C and E (14).**
-      (Serves 1-2.) To make rosehip tea, use about 10 whole, fresh or dried rose hips and mash or crumble them. Mix them with about 1 1/2 cups (355 ml) of very hot (not boiling) water and let them steep for 6–8 minutes. Strain the drink to remove the solids and add honey if desired, after the misture has cooled sufficiently. Rosehip tea has a deep red-coral color and floral notes.
-   - **Fennel tea: This liquorice-flavoured common spice is full of anti-inflammatory phenolic compounds. Some of the most active ones are Caffeoylquinic acid, Rosmarinic acid, Quercetin, and Kaempferol. Some research indicates that Fennel may reduce pain, especially menstruation-related pain, which may be due to its powerful anti-inflammatory compounds.**
-      (Serves 1.) To prepare fennel tea, pour 1 cup (240 ml) of boiling water over 2 teaspoons of crushed fennel seeds and let them steep for about 10 minutes.
+[healthline.com](healthline.com/): **More ideas for antiinflammatory teas with common kitchen ingredients:**
+   - **Holy basil or Tulasi tea: 'Tulasi' means “The Incomparable” and is also known as the “Queen of Herbs” due to its wide range of health-promoting properties. Tea prepared from Holy basil or Tulasi may fight inflammation and reduce pain from gout, arthritis, or other inflammatory conditions. It may also lower cholesterol, blood sugar, and blood pressure levels. In a 4-week study in 24 healthy adults, supplementing with 300 mg of holy basil extract significantly increased levels of helper T cells and natural killer cells, both of which are immune cells that help protect and defend the body from viral infections.** To brew Tulasi tea, steep a few leaves of Tulasi in boiling water for a few minutes.
+   - **Rose hip tea: Rose hips are the the coral-red, round, edible pseudo-fruits that are left after a rose bush loses its flowers. Studies show that rose hips reduce pro-inflammatory chemicals and inhibit cox-1 and 2 enzymes, which trigger inflammation and pain. They have been used as an herbal medicine for more than 2,000 years, as they have a high concentration of antioxidants, including beta carotene and vitamins C and E (14).** (Serves 1-2.) To make rosehip tea, use about 10 whole, fresh or dried rose hips and mash or crumble them. Mix them with about 1 1/2 cups (355 ml) of very hot (not boiling) water and let them steep for 6–8 minutes. Strain the drink to remove the solids and add honey if desired, after the misture has cooled sufficiently. Rosehip tea has a deep red-coral color and floral notes.
+   - **Fennel tea: This liquorice-flavoured common spice is full of anti-inflammatory phenolic compounds. Some of the most active ones are Caffeoylquinic acid, Rosmarinic acid, Quercetin, and Kaempferol. Some research indicates that Fennel may reduce pain, especially menstruation-related pain, which may be due to its powerful anti-inflammatory compounds.** (Serves 1.) To prepare fennel tea, pour 1 cup (240 ml) of boiling water over 2 teaspoons of crushed fennel seeds and let them steep for about 10 minutes.
 
 **"Covid Tea", from the [lifestyle.inquirer.net](lifestyle.inquirer.net): Shared by Dr. Christine Gonzalez, who is one of the many who are fighting COVID-19 from the front lines.**
 **Turmeric + Ginger + Garlic + Calamansi (also called Calamondin or Philippine lime) tea: This drink rebuilds immunity and is the best anti-inflammatory remedy. It is proven effective for cough, cold, fever, flu-like symptoms, sore throat, etc.**
@@ -868,7 +855,7 @@ Fill a large glass with warm wate, not much above body temperature but comfortab
    - **Sage tea: Sage / Salvia officinalis / Neelamulli / Salvi Tulasi / Salvia / Kamrkash is a commonly used spice in cuisines across the world, and hails from the mint family, like Rosemary, Thyme and Basil. Sage has proven antiviral properties and has been used across many cultures for its medicinal value.**
       Boil a cup of water, and add a teaspoon of dried or a tablespoon of fresh sage leaves. Allow the mixture to steep for 5-7 minutes and leave to cool. Add freshly squeezed lemon juice to taste when the tea is cool enough to be sipped.
    - **Hunza tea: This is a herbal decoction specially recommended by Dr. Biswaroop Roy Chowdhury. Hunza tea is from Hunza valley in Pakistan, where the native people are remarkably healthy and long-lived. The tea is reputed for its anti-ageing properties, promotes skin health and counters diabetes.**
-      (Serves 4.) Bring a little oveer 4 cups of water to boil in a saucepan and add to it the following ingredients: 12 pieces of Mint leaves, 8 pcs Holy basil or Tulasi leaves, 4 pcs green cardamom, 2 g cinnamon, and 20 g fresh ginger. Simmer for 5-7 minutes and switch off the heat. Allow the decoction to steep while cooling, and then add about 20 g organic jaggery and freshly squeezed lemon juice to taste before serving."
+      (Serves 4.) Bring a little oveer 4 cups of water to boil in a saucepan and add to it the following ingredients: 12 pieces of Mint leaves, 8 pcs Holy basil or Tulasi leaves, 4 pcs green cardamom, 2 g cinnamon, and 20 g fresh ginger. Simmer for 5-7 minutes and switch off the heat. Allow the decoction to steep while cooling, and then add about 20 g organic jaggery and freshly squeezed lemon juice to taste before serving.
 
 ### Typical duration of treatment:
 Prophylactic treatment for regular use, mitigates infections without any known adverse effects, immune-supportive
@@ -930,7 +917,7 @@ Natural medicine, herbal and nutritional medicine
 Yes.
 
 ### Status of authorisation:
-**HNS therapy**:
+**<ins>HNS therapy:</ins>**
 
 Evidence-based research, by a team of researchers from various institutes across Pakistan, Chile, Canada and the USA, led by Dr. Sohaib Ashraf, a research fellow at the Massachussetts General Hospital, Harvard Medical School. **The team reported that in a search through the scientific literature for a miracle drug that was globally accessible, with wide ranging efficacy against viruses and other microbes, along with anti-inflammatory, immune-modulatory and anticoagulant properties, as well as with a robust safety profile, they found that honey and Nigella sativa were a perfect fit.** The researchers said that both honey and Nigella sativa showed similar pharmacological profiles, with antiviral, antimicrobial and anti-inflammatory effects, especially in upper respiratory tract infections.
 
@@ -938,9 +925,9 @@ The study was conducted on 313 patients recruited from 4 medical centres in Paki
 
 **A research study investigating the prophylactic potential of Nigella sativa is underway, led by the principal investigator of the HNS study, Dr. Sohaib Ashraf. It is expected to be completed by Feb 15, 2022.**
 
-**NSO therapy**:
+**<ins>NSO therapy:</ins>**
 
-**In another study, all adult patients, with average age 36 years, with mild COVID-19 symptoms (defined as upper respiratory tract infection symptoms in the absence of clinical or radiological signs of pneumonia or hypoxia) presented to King Abdulaziz University Hospital, Jeddah, Saudi Arabia, were recruited for an open label randomized clinical trial (RCT) with Nigella seed oil, whereas the control group received only standard of care. Symptoms were daily monitored via telecommunication. Of these patients, 183 eligible patients were eventually recruited into the RCT with their consent.** The primary outcome focused on the percentage of patients who recovered (symptom-free for 3 days) within 14-days."
+**In another study, all adult patients, with average age 36 years, with mild COVID-19 symptoms (defined as upper respiratory tract infection symptoms in the absence of clinical or radiological signs of pneumonia or hypoxia) presented to King Abdulaziz University Hospital, Jeddah, Saudi Arabia, were recruited for an open label randomized clinical trial (RCT) with Nigella seed oil, whereas the control group received only standard of care. Symptoms were daily monitored via telecommunication. Of these patients, 183 eligible patients were eventually recruited into the RCT with their consent.** The primary outcome focused on the percentage of patients who recovered (symptom-free for 3 days) within 14-days.
 
 ### Protocol and treatment approach:
 N. sativa L., a well-known food spice with a high medicinal value, originates from different historical backgrounds. Several active compounds have been identified in N. sativa L. including thymoquinone, and the antiviral, anti-inflammatory and immunomodulatory properties of the seed are well explored in clinical research.
@@ -948,7 +935,7 @@ N. sativa L., a well-known food spice with a high medicinal value, originates fr
 **Honey + Nigella sativa (HNS) used in the treatment of moderate to severe Covid-19 infection:**
 The study used HNS as an adjunct therapy to standard care therapy as advised by their physician, comprising of antipyretics, antibiotics, supplemental oxygen and mechanical ventilation, if required.
 
-**The Honey + Nigella sativa adjunct therapy involved administering patients 1 g / kg / day of honey and 80 mg / kg / day of Nigella sativa for up to 13 days in each dose. These were given 2-3 times a day, depending on the patient's comfort with the dosage. The honey was dissolved in 1 large cup or 250 mL of warm water, while the Nigella sativa was provided in capsules. (A tablespoon of honey weighs approximately 21 g. A metric teaspoon of Black cumin seeds weighs about 5 g.)***
+**The Honey + Nigella sativa adjunct therapy involved administering patients 1 g / kg / day of honey and 80 mg / kg / day of Nigella sativa for up to 13 days in each dose. These were given 2-3 times a day, depending on the patient's comfort with the dosage. The honey was dissolved in 1 large cup or 250 mL of warm water, while the Nigella sativa was provided in capsules. (A tablespoon of honey weighs approximately 21 g. A metric teaspoon of Black cumin seeds weighs about 5 g.)**
 
 
 **Nigella seed oil (NSO) therapy:**
@@ -985,7 +972,7 @@ Both honey are common cooking ingredients found in Indian kitchens, and if not, 
 ### Price:
 **HNS (Honey + Nigella sativa) therapy**:
 
-The whole treatment course is reported to have cost less than $ 5. Online stores sell Nigella sativa at about INR 200 for 250 g. Honey can cost between INR 350 to INR 1500 per kg, depending on quality."
+The whole treatment course is reported to have cost less than $5. Online stores sell Nigella sativa at about INR 200 for 250 g. Honey can cost between INR 350 to INR 1500 per kg, depending on quality.
 
 ### Suggested suppliers:
 Local groceries and Indian groceries
@@ -1079,7 +1066,7 @@ Online and local stores
    - [Handbook For Health, a compilation of tried and tested home remedies by Kerala naturopath, Albert Y. Zacharia (Inner Expansion Coach, +91 8921697928)][208]
    - [Preprint, bioRxiv.org: Cannabidiol Inhibits SARS-CoV-2 Replication and Promotes the Host Innate Immune Response; Long Chi Nguyen et al.; Mar, 2021][209]
    - [hempurecbd.com: CBD Oil Dosage Chart- How Much CBD Oil Should I Take?; Sabina King][210]
-   - In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ:[Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][211]
+   - In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ: [Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][211]
    - [healthline.com: Turmeric Dosage: How Much Should You Take Per Day?- Benefits, Dosage, Who Shouldn't Take It, Adverse Effects, Buying the Right Kind, Bottom Line; Makayla Meixner, MS, RDN; June 11, 2018][212]
    - [A relatively comprehensive website about turmeric: Turmeric For Health][213]
 
@@ -1192,7 +1179,8 @@ There is substantial research and empirical evidence for the medicinal value of 
 ### Significant side effects:
 **Pregnant and lactating mothers are advised to use herbal remedies with caution, and only after appropriate research and consultation with a knowledgeable physician. Some exotic herbal compounds may provoke allergic reaction in some, and it is always advisable to first test for such allergies on skin, and by consuming small amounts to begin with to note any adverse reactions.**
 
-An equivocal review of existing rigorous research about the beneficial versus adverse effects of a few of these medicinal plants suggests significant potential for interaction with conventional medications, and the need for caution in using them as adjunct therapy: [The risk-benefit profile of commonly used herbal therapies: Ginkgo, St. John's Wort, Ginseng, Echinacea, Saw Palmetto, and Kava; Edzard Ernst; Annals of Internal Medicine; Jan, 2002][248]
+An equivocal review of existing rigorous research about the beneficial versus adverse effects of a few of these medicinal plants suggests significant potential for interaction with conventional medications, and the need for caution in using them as adjunct therapy: 
+   - [The risk-benefit profile of commonly used herbal therapies: Ginkgo, St. John's Wort, Ginseng, Echinacea, Saw Palmetto, and Kava; Edzard Ernst; Annals of Internal Medicine; Jan, 2002][248]
 
 ### Recommended quantity for stocking:
 The more efficacious and cost effective supplements could be stocked for regular / prophylactic use as well. However, most registered dietitians recommend getting nutrients from whole foods rather than supplements whenever possible.
@@ -1500,6 +1488,7 @@ Online pharmacies and local stores
 [268]: https://www.eatthis.com/news-drink-this-after-covid-19-vaccine/
 [269]: https://timesofindia.indiatimes.com/city/lucknow/turmeric-neem-effective-against-coronavirus-says-kgmu-study/articleshow/76165100.cms
 
+[a]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach
 
 
 
