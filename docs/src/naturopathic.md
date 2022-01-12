@@ -232,13 +232,13 @@ Authorised by the Central Government in India, the diet is based on published re
 ### Protocol and treatment approach:
 The DIP Diet Plan is as follows:
 
-**Breakfast:
-Eat only fruits till 12 noon. 3-4 types of seasonal fruits, like banana, grapes, papaya, orange etc.** can be chosen.
+**<ins>Breakfast:</ins>**<br>
+**Eat only fruits till 12 noon. 3-4 types of seasonal fruits, like banana, grapes, papaya, orange etc.** can be chosen.
 Minimum quantity of fruits to be consumed = 
 [(Number of kilograms in body weight) X 10] in grams
 For example, if body weight = W kg, then W X 10 grams of fruits should be consumed before 12 noon as breakfast.
 
-**Lunch and Dinner**:
+**<ins>Lunch and Dinner:</ins>**<br>
 Lunch and dinner should each consist of two plates. 
 **Plate 1 should consist of 3-4 types of raw vegetables like cucumber, tomatoes, capsicum, cauliflower, carrot, spinach etc. The quantity consumed must be as many grams as is equal to 5 times body weight (expressed in kilograms)**. For example, a person weighing 70 kg should consume 70 x 5 = 350 grams of raw vegetables on Plate 1, both for lunch and for dinner.
 **Plate 2** can consist of a traditional wholly plant-based or wholly vegan meal, with negligible oil and salt.
@@ -246,7 +246,7 @@ Lunch and dinner should each consist of two plates.
 **Plate 1 should be finished first before commencing Plate 2. One can eat as much as one likes from Plate 2.**
 Dinner should be finished by 7 PM.
 
-**Snacking:**
+**<ins>Snacking:</ins>**<br>
 **Between lunch and dinner, fruit juice, sprouts, dry fruits (only after soaking at least 4-5 hours in water), herbal tea, green leaves or coconut water can be consumed as snacks** to ward off hunger. The quantity consumed must not exceed as many grams as kilograms in body weight. For example, a person weighing 70 kilograms should not consume more than 70 grams of such snacks.
 
 **Completely avoid all animal protein and unnatural foods, including the following items:**
