@@ -2684,7 +2684,7 @@ Dr Mili Shah, President, [Ozone Forum of India][452], Trustee, Bisleri Charitabl
 [293]: https://c19early.com/
 [294]: https://vitalitymagazine.com/article/covid-19-how-can-i-cure-thee-let-me-count-the-ways/
 [295]: https://dreddymd.com/2021/06/10/breakthrough-ivermectin-inhibits-the-sars-cov-2-spike-protein-from-binding-to-ace2-receptors-in-human-tissue/
-[296]: 
+[296]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-2
 [297]: https://www.sciencedirect.com/science/article/pii/S120197122030624X
 [298]: https://pubmed.ncbi.nlm.nih.gov/29480918/
 [299]: https://childrenshealthdefense.org/defender/covid-ivermectin-could-have-saved-millions-lives/
