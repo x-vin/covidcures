@@ -33,7 +33,7 @@ Unauthorised but evidence-based and presently mainstream, clinical study accepte
 **Low risk patient - Younger than 45, no co-morbidities, and clinically stable**
 **High risk patient - Older than 45, younger than 45 with co-morbidities, or clinically unstable**
 
-**Treatment Options:**
+**<ins>Treatment Options:</ins>**
 
 **Low risk patients - over the counter options:**
 
@@ -48,12 +48,12 @@ Unauthorised but evidence-based and presently mainstream, clinical study accepte
 **Alternative for Quercetin: Epigallocatechin-gallate (EGCG) 400mg 1 time a day for 7 days ([J. Agric. Food Chem][9]) ([Amazon][10])**
 
 **Moderate / High risk patients:**
-Zinc (Elemental) 50-100mg once a day for 7 days
-Vitamin C 1000mg 1 time a day for 7 days
-Vitamin D3 10,000iu once a day for 7 days or 50,000iu once a day for 1-2 days
-Azithromycin 500mg 1 time a day for 5 days ([Clin. Drug. Investig.][11]) OR Doxycycline 100mg 2 times a day for 7 days
-Hydroxychloroquine (HCQ) 200mg 2 times a day for 5-7 days ([ScienceDirect][12]) ([Find a doctor][13]) AND /OR
-Ivermectin 0.4-0.5mg/kg/day for 5-7 days ([ivmmeta.com](http://ivmmeta.com/)) ([Find a Doctor][14])
+   1. Zinc (Elemental) 50-100mg once a day for 7 days
+   2. Vitamin C 1000mg 1 time a day for 7 days
+   3. Vitamin D3 10,000iu once a day for 7 days or 50,000iu once a day for 1-2 days
+   4. Azithromycin 500mg 1 time a day for 5 days ([Clin. Drug. Investig.][11]) OR Doxycycline 100mg 2 times a day for 7 days
+   5. Hydroxychloroquine (HCQ) 200mg 2 times a day for 5-7 days ([ScienceDirect][12]) ([Find a doctor][13]) AND /OR
+   6. Ivermectin 0.4-0.5mg/kg/day for 5-7 days ([ivmmeta.com](http://ivmmeta.com/)) ([Find a Doctor][14])
 
 - **Hydroxychloroquine and ivermectin combined? Either or both HCQ and IVM can be used, and if one only, the second agent may be added after about 2 days of treatment if obvious recovery has not yet been observed etc.**
 - **If HCQ is not available, Quercetin 500mg 3 times a day for 7 days OR EGCG 400mg 2 times a day for 7 days**
@@ -61,138 +61,130 @@ Ivermectin 0.4-0.5mg/kg/day for 5-7 days ([ivmmeta.com](http://ivmmeta.com/)) ([
 **Both protocols can be viewed from Dr. Zelenko's website.**
 
 **Other treatment options:**
-Dexamethasone 6-12mg 1 time a day for 7 days OR Prednisone 20mg twice a day for 7 days, taper as needed (not suitable during viral phase)
-Budesonide 1mg/2cc solution via nebulizer twice a day for 7 days (not suitable during viral phase)
-Blood thinners (i.e. Lovenox, Eliquis, Xarelto, Pradaxa, Aspirin) ([Amazon][15])
-Colchicine 0.6mg 2-3 times a day for 5-7 days ([MedRxiv 2021][16])
-Monoclonal antibodies
-Home IV fluids and [oxygen][17]
-[Curcumin][18]: 500 mg twice a day ([Ref][19]) ([Amazon][20])
-[Fluvoxamine][21]: 50 mg twice daily for 10–14 days. Add to ivermectin if: 1) minimal response after 2 days of ivermectin; 2) in regions with more aggressive variants; 3) treatment started on or after day 5 of symptoms or in pulmonary phase; or 4) numerous co-morbidities/risk factors. Avoid if patient is already on an SSRI (selective serotonin reuptake inhibitor).
-If you can’t get fluvoxamine (Luvox), using 30mg once a day of fluoxetine (Prozac) is equally effective (equivalent to 50mg twice a day of fluvoxamine).
-[Bromhexine][22] 8 mg three times a day ([Ref][23]) ([Lazada Malaysia][24], not available on Amazon)
-Pulse Oximeter: Monitoring your oxygen saturation with a pulse oximeter and to go to the hospital if you get below 94%. ([Amazon][25])
-Mouthwash: 3 x daily – gargle (do not swallow) antiseptic mouthwash with cetylpyridinium chloride (e.g. [Crest, Scope mouthwash][26]), ListerineTM with essential oils, or povidone/iodine 1 % solution as alternative ([Betadine®][27] Antiseptic Sore Throat Gargle). ([Reference][28], page 13)
-Nasal Spray: Xlear Nasal Spray with Xylitol ([Ref][29]) ([Amazon][30])
-Aspirin: 325 mg/day [unless contraindicated][31]. ([Amazon][32]) (not suitable during viral phase)
+   - Dexamethasone 6-12mg 1 time a day for 7 days OR Prednisone 20mg twice a day for 7 days, taper as needed (not suitable during viral phase)
+   - Budesonide 1mg/2cc solution via nebulizer twice a day for 7 days (not suitable during viral phase)
+   - Blood thinners (i.e. Lovenox, Eliquis, Xarelto, Pradaxa, Aspirin) ([Amazon][15])
+   - Colchicine 0.6mg 2-3 times a day for 5-7 days ([MedRxiv 2021][16])
+   - Monoclonal antibodies
+   - Home IV fluids and [oxygen][17]
+   - [Curcumin][18]: 500 mg twice a day ([Ref][19]) ([Amazon][20])
+   - [Fluvoxamine][21]: 50 mg twice daily for 10–14 days. Add to ivermectin if: 1) minimal response after 2 days of ivermectin; 2) in regions with more aggressive variants; 3) treatment started on or after day 5 of symptoms or in pulmonary phase; or 4) numerous co-morbidities/risk factors. Avoid if patient is already on an SSRI (selective serotonin reuptake inhibitor). 
+     If you can’t get fluvoxamine (Luvox), using 30mg once a day of fluoxetine (Prozac) is equally effective (equivalent to 50mg twice a day of fluvoxamine).
+   - [Bromhexine][22] 8 mg three times a day ([Ref][23]) ([Lazada Malaysia][24], not available on Amazon)
+   - Pulse Oximeter: Monitoring your oxygen saturation with a pulse oximeter and to go to the hospital if you get below 94%. ([Amazon][25])
+   - Mouthwash: 3x daily – gargle (do not swallow) antiseptic mouthwash with cetylpyridinium chloride (e.g. [Crest, Scope mouthwash][26]), ListerineTM with essential oils, or povidone/iodine 1 % solution as alternative ([Betadine®][27] Antiseptic Sore Throat Gargle). ([Reference][28], page 13)
+   - Nasal Spray: Xlear Nasal Spray with Xylitol ([Ref][29]) ([Amazon][30])
+   - Aspirin: 325 mg/day [unless contraindicated][31]. ([Amazon][32]) (not suitable during viral phase)
 
-**Fareed/Tyson COVID-19 Treatment Protocol, derived from the Zelenko Protocol:**
+**<ins>Fareed/Tyson COVID-19 Treatment Protocol, derived from the Zelenko Protocol:</ins>**
 
 **Requirements**:
-**HCQ** 200 mg tabs #16 (HCQ = hydroxychloroquine);
-**Zinc sulfate** 22O mg (or elemental Zinc 50 mg) # 15;
-**Azithromycin** 500 mg # 5 (or Z pack) or Doxycycline 100 mg # 14);
-**Ivermectin** 3 mg tabs # 12-20;
-**Aspirin** 325 mg tabs # 30
-**D3** 5000 IU # 30
+   - **HCQ** 200 mg tabs #16 (HCQ = hydroxychloroquine);
+   - **Zinc sulfate** 22O mg (or elemental Zinc 50 mg) # 15;
+   - **Azithromycin** 500 mg # 5 (or Z pack) or Doxycycline 100 mg # 14);
+   - **Ivermectin** 3 mg tabs # 12-20;
+   - **Aspirin** 325 mg tabs # 30 
+   - **D3** 5000 IU # 30
 
 **Start on day 1 of symptom onset.**
 **Day 1:**
-HCQ 2 tablets twice a day
-Zinc capsule or tab twice a day with food
-Doxycycline capsule twice a day with food **OR** Azithromycin tab one per day
-Ivermectin 12-18 mg on day 1 and on day 3, away from food (i.e., on empty stomach, at least 30 minutes before or 2 hours after food)
-Acetyl Salicylic Acid (Aspirin, ASA) 325 mg and
-D3 5000 IU daily
+   - HCQ 2 tablets twice a day
+   - Zinc capsule or tab twice a day with food
+   - Doxycycline capsule twice a day with food **OR** Azithromycin tab one per day
+   - Ivermectin 12-18 mg on day 1 and on day 3, away from food (i.e., on empty stomach, at least 30 minutes before or 2 hours after food)
+   - Acetyl Salicylic Acid (Aspirin, ASA) 325 mg and
+   - D3 5000 IU daily
 
 **Days 2-5:**
-HCQ tab 3 times a day;
-Zinc capsule or tab 3 times a day with food;
-Doxycycline capsule twice a day with food **OR** Azithromycin tab one per day,
-Aspirin (ASA) 325 mg daily;
-**If symptoms warrant**, Ivermectin 12 mg on day 3, away from food.
+   - HCQ tab 3 times a day;
+   - Zinc capsule or tab 3 times a day with food;
+   - Doxycycline capsule twice a day with food **OR** Azithromycin tab one per day,
+   - Aspirin (ASA) 325 mg daily;
+   - **If symptoms warrant**, Ivermectin 12 mg on day 3, away from food.
 
-**Covid-19 MAbs infusion** from an ER / hospital or infusion center, only once, and no later than 7 days after symptoms began.
-(Eli Lilly or Regeneron dual Covid-19 monoclonal antibodies used.)
+**Covid-19 MAbs infusion** from an ER / hospital or infusion center, only once, and no later than 7 days after symptoms began. (Eli Lilly or Regeneron dual Covid-19 monoclonal antibodies used.)
 
 **If respiratory symptoms increase:**
-**Prednisone** 60 mg daily x 5-7 days **OR** Dexamethasone 4 mg twice a day if oxygen saturation < 94 % or wheezing / shortness of breath;
-**Budesonide** 0.5-1 mg / 2 ml vía nebulizer, twice a day;
-**Colchicine** 0.6 mg twice a day x 3 days then 0.6 mg daily x 10 days;
-**Fluvoxamine** 50 mg twice a day x 5 days;
-**Vitamin D3** 5000 IU daily;
-Pepcid 20 mg daily;
-Continue daily Aspirin 325 mg
+   - **Prednisone** 60 mg daily x 5-7 days **OR** Dexamethasone 4 mg twice a day if oxygen saturation < 94 % or wheezing / shortness of breath;
+   - **Budesonide** 0.5-1 mg / 2 ml vía nebulizer, twice a day;
+   - **Colchicine** 0.6 mg twice a day x 3 days then 0.6 mg daily x 10 days;
+   - **Fluvoxamine** 50 mg twice a day x 5 days;
+   - **Vitamin D3** 5000 IU daily;
+   - Pepcid 20 mg daily;
+   - Continue daily Aspirin 325 mg
 
-**Alternative C19 Early Treatment Regimen (Drs. Fareed & Tyson):**
+**<ins>Alternative C19 Early Treatment Regimen (Drs. Fareed & Tyson):</ins>**
 
 **Start on day 1 of symptom onset.**
 **Days 1-5:**
-HCQ tab (200 mg) twice a day for 5 days
-IVM 3 mg tabs take 12-18 mg (5-6 tabs) by mouth daily for 2 days minimum and continue the same dose (12-18 mg) daily until recovered for up to maximum 5 days (Take no more than 5 total doses of IVM.)
-Fluvoxamine 50 mg bid x 5 days
-C19 MAbs infusion from an ER/hospital or infusion center 
-(Eli Lilly or Regeneron dual Covid-19 monoclonal antibodies used.)
+   - HCQ tab (200 mg) twice a day for 5 days
+   - IVM 3 mg tabs take 12-18 mg (5-6 tabs) by mouth daily for 2 days minimum and continue the same dose (12-18 mg) daily until recovered for up to maximum 5 days (Take no more than 5 total doses of IVM.)
+   - Fluvoxamine 50 mg bid x 5 days
+   - C19 MAbs infusion from an ER/hospital or infusion center  (Eli Lilly or Regeneron dual Covid-19 monoclonal antibodies used.)
  
 **Take HCQ 1 tab every week on the same day until pandemic is over.**
 
 **If respiratory symptoms increase (worsen):**
-Prednisone 40 - 60 mg daily x 5-7 days
-**OR** Dexamethasone 4 mg twice a day if Oxygen saturation less than 94% or wheezing or shortness of breath worsening.
-Budesonide 0.5-1 mg / 2 ml vía nebulizer twice a day
-Colchicine 0.6 mg twice a day x 3 days then 0.6 mg daily x 10 days
+   - Prednisone 40 - 60 mg daily x 5-7 days
+**OR** 
+   - Dexamethasone 4 mg twice a day if Oxygen saturation less than 94% or wheezing or shortness of breath worsening.
+   - Budesonide 0.5-1 mg / 2 ml vía nebulizer twice a day
+   - Colchicine 0.6 mg twice a day x 3 days then 0.6 mg daily x 10 days
  
-D3 5000 IU daily
-Pepcid 20 mg daily
-Continue daily ASA 325 mg.
-Zinc 50 mg daily
+   - D3 5000 IU daily
+   - Pepcid 20 mg daily
+   - Continue daily ASA 325 mg.
+   - Zinc 50 mg daily
 
-**Over the counter prevention:**
+**<ins>Over the counter prevention:</ins>**
+   - **Elemental Zinc** 25 mg once a day;
+   - **Vitamin D** 4000 IU once a day;
+   - **Vitamin C** 1000 mg once a day;
+   - **Quercetin** 500 mg once a day;
+   - if Quercetin is unavailable, then use **Epigallocatechin-gallate (EGCG)** 400 mg once a day
 
-**Elemental Zinc** 25 mg once a day;
-**Vitamin D** 4000 IU once a day;
-**Vitamin C** 1000 mg once a day;
-**Quercetin** 500 mg once a day;
-if Quercetin is unavailable, then use **Epigallocatechin-gallate (EGCG)** 400 mg once a day
-
-**Risk Stratification in patients:**
-
-**Low Risk Patients**
-Young healthy people do not need prophylaxis against COVID-19. In young and healthy people, this infection causes mild cold-like symptoms. It is advantageous for these patients to be exposed to COVID-19, build up their antibodies and have their immune system clear the virus. This will facilitate the development of herd immunity and help prevent future COVID-19 pandemics. However, if these patients desire prophylaxis against COVID-19, then they should take the protocol noted below. 
-
-**Moderate-Risk Patients**
-Patients from this category are healthy but have high potential viral-load exposure. This group includes medical personnel, caregivers of high-risk patients, people who use public transportation, first responders and other essential personnel who are crucial to the continued functioning of society. These patients should be encouraged to take prophylaxis against COVID-19 in accordance with the protocol noted below.
-
-**High-Risk Patients**
-Patients are considered high risk if they are over the age of 60, or if they are younger than 60 but they have comorbidities, that is, they have other health conditions that put them at risk. These patients have between a 5 to 10 percent mortality rate if they are infected with COVID-19. These patients should be strongly encouraged to take prophylaxis against COVID-19 in accordance with the protocol noted below. 
+**<ins>Risk Stratification in patients:</ins>**
+   - **Low Risk Patients:** Young healthy people do not need prophylaxis against COVID-19. In young and healthy people, this infection causes mild cold-like symptoms. It is advantageous for these patients to be exposed to COVID-19, build up their antibodies and have their immune system clear the virus. This will facilitate the development of herd immunity and help prevent future COVID-19 pandemics. However, if these patients desire prophylaxis against COVID-19, then they should take the protocol noted below. 
+   - **Moderate-Risk Patients:** Patients from this category are healthy but have high potential viral-load exposure. This group includes medical personnel, caregivers of high-risk patients, people who use public transportation, first responders and other essential personnel who are crucial to the continued functioning of society. These patients should be encouraged to take prophylaxis against COVID-19 in accordance with the protocol noted below.
+   - **High-Risk Patients:** Patients are considered high risk if they are over the age of 60, or if they are younger than 60 but they have comorbidities, that is, they have other health conditions that put them at risk. These patients have between a 5 to 10 percent mortality rate if they are infected with COVID-19. These patients should be strongly encouraged to take prophylaxis against COVID-19 in accordance with the protocol noted below. 
 
 **Protocol for Low and Moderate Risk Patients:**
-Elemental Zinc 25 mg once a day
-Vitamin C 1000 mg once a day
-Quercetin 500 mg once a day 
-If Quercetin is unavailable, then use Epigallocatechin-gallate (EGCG) 400 mg once a day
+   - Elemental Zinc 25 mg once a day
+   - Vitamin C 1000 mg once a day
+   - Quercetin 500 mg once a day 
+   - If Quercetin is unavailable, then use Epigallocatechin-gallate (EGCG) 400 mg once a day
 
 **Protocol for High-Risk Patients:**
-Elemental Zinc 25 mg once a day 
-Hydroxychloroquine (HCQ) 200 mg once a day for five days, then once a week
-If HCQ is unavailable, then use the Protocol for Low and Moderate Risk Patients.
+   - Elemental Zinc 25 mg once a day 
+   - Hydroxychloroquine (HCQ) 200 mg once a day for five days, then once a week
+   - If HCQ is unavailable, then use the Protocol for Low and Moderate Risk Patients.
 
 In fact, Dr. Zev Zelenko recently clarified that the **zinc and quercetin in the prophylactic diet are the key nutritional ingredients that were found to combat Covid** in his clinical trials.
 
-**Fareed/Tyson Prevention and Early Treatment Protocol for Nursing Homes:**
+**<ins>Fareed/Tyson Prevention and Early Treatment Protocol for Nursing Homes:</ins>**
 
 **Pre-Exposure Prophylaxis:**
 This protocol is prescribed for routine adoption, before any resident or staff has been suspected or confirmed to have C19 in the nursing home. This is the regimen that is **recommended, as a preventative measure**, for all residents and staff.
-
-**Vitamin D** 4000 IU Daily
-**Zinc elemental** 25 mg Daily 
-**Ivermectin**: Dose 1 of 0.2 mg / kg (body weight) on Day 1, and then a weekly maintenance dose of 0.05 mg / kg or monthly maintenance dose of 0.2 mg / kg.
-**Vitamin C** and / or a **quality multivitamin supplement** and possibly **Quercetin** also recommended.
+   - **Vitamin D** 4000 IU Daily
+   - **Zinc elemental** 25 mg Daily 
+   - **Ivermectin**: Dose 1 of 0.2 mg / kg (body weight) on Day 1, and then a weekly maintenance dose of 0.05 mg / kg or monthly maintenance dose of 0.2 mg / kg.
+   - **Vitamin C** and / or a **quality multivitamin supplement** and possibly **Quercetin** also recommended.
 
 **Post-Exposure Prophylaxis:**
 This protocol is recommended to be compulsorily adopted when there is even one confirmed case in the nursing home, as this implies that the virus is present and may infect several, many or all the elderly residents. Therefore post-exposure prophylaxis should be provided immediately for all residents and all the staff. The recommended regimen is as follows:
-
-Vitamin D – 4000 iu Daily
-Zinc elemental – 25 mg Daily 
-Ivermectin:  Dose 1 of 0.2 mg / kg (body weight) on Day 1; Dose 2 of 0.2 mg / kg (body weight) on Day 3; Weekly maintenance dose of 0.05 mg / kg (body weight), or a monthly maintenance dose of 0.2 mg / kg.
-Vitamin C and / or a quality multivitamin supplement, and possibly Quercetin also recommended.
+   - Vitamin D – 4000 iu Daily
+   - Zinc elemental – 25 mg Daily 
+   - Ivermectin:  Dose 1 of 0.2 mg / kg (body weight) on Day 1; Dose 2 of 0.2 mg / kg (body weight) on Day 3; Weekly maintenance dose of 0.05 mg / kg (body weight), or a monthly maintenance dose of 0.2 mg / kg.
+   - Vitamin C and / or a quality multivitamin supplement, and possibly Quercetin also recommended.
 
 **Early Outpatient Treatment:**
 For the residents having tested positive, or with suspected COVID-19, even before the confirmatory test result is known, an early outpatient treatment protocol needs to be immediately provided, within 2 days of first symptoms:
-
-Ivermectin – Dose 1 of 0.2 mg / kg (body weight) on Day 1 - Dose 2 of  0.2 mg / kg (body weight) on Day 3 and Dose 3 of 0.2 mg / kg on Day 5
-Doxycycline monohydrate 100 mg twice a day for Days 1 - 5
-Continuation of Vitamin D, Zinc and possibly other supplements.
+   - Ivermectin 
+      - Dose 1 of 0.2 mg / kg (body weight) on Day 1 
+      - Dose 2 of 0.2 mg / kg (body weight) on Day 3 and 
+      - Dose 3 of 0.2 mg / kg on Day 5
+   - Doxycycline monohydrate 100 mg twice a day for Days 1 - 5
+   - Continuation of Vitamin D, Zinc and possibly other supplements.
 
 **Note that the combination of Ivermectin, Doxycycline and Zinc is the protocol that is recommended for C19, including in nursing homes, by the esteemed and internationally recognized Professor Thomas Borody from Australia.**
 
@@ -200,14 +192,14 @@ Continuation of Vitamin D, Zinc and possibly other supplements.
 5 days, after commencement of the mitigating therapy
 
 ### Outcome:
-"Reduced hospitalizations by 84% and five-fold reduction in mortality when used in early stages with high risk patients in Dr. Zelenko's clinic.
+Reduced hospitalizations by 84% and five-fold reduction in mortality when used in early stages with high risk patients in Dr. Zelenko's clinic.
 
-Drs. Fareed & Tyson's protocol too has demonstrated excellent outcomes, reducing CFR to less than 3 %. "
+Drs. Fareed & Tyson's protocol too has demonstrated excellent outcomes, reducing CFR to less than 3 %.
 
 ### Significant side effects:
 HCQ, Ivermectin, and other drugs and artificial nutrients can cause significant side effects if used without the expert supervision or counsel of a knowledgeable physician.  In particular, there are no studies cited of safety in pregnant women, lactating mothers and in children weighing less than 15 kg.
 
-For more information on safety of HCQ and other medicines in the algorithm, check the [c19study.com](http://c19study.com/) website that summarizes more than 278 studies of HCQ-based treatment, which are particularly favorable when HCQ is used in the first few days of COVID-19 symptoms as recommended in the above algorithm."
+For more information on safety of HCQ and other medicines in the algorithm, check the [c19study.com](http://c19study.com/) website that summarizes more than 278 studies of HCQ-based treatment, which are particularly favorable when HCQ is used in the first few days of COVID-19 symptoms as recommended in the above algorithm.
 
 ### Recommended quantity for stocking:
 Commonly available drugs, need not be stocked. Treatment with HCQ / Ivermectin and other prescription drugs must be undertaken under doctor's supervision.
@@ -274,30 +266,17 @@ Drugs like Ivermectin may interact adversly with other drugs.
 The medical evidence to support each drug and nutrient can be found under “[Medical Evidence][65]” on the FLCCC’s website. It was Dr. Pierre Kory who worked tirelessly to bring information about ivermectin to the international stage.
 
 For an up-to-date overview of all published studies on ivermectin in the treatment and prevention of COVID-19 it is recommended to visit [c19ivermectin.com](https://c19ivermectin.com/); in addition, a meta-analysis of all studies can be found at [ivmeta.com](http://ivmeta.com/) (constantly updated). For adoption and regulatory status of ivermectin globally, check out ["Countries using Ivermectin"][66].
-
-June 17, 2021: [Ivermectin for Prevention and Treatment of COVID-19 Infection][67] (Tess Lawrie Ivermectin Meta Analysis)
-A Cochrane-standard (=highest) review and meta-analysis of Ivermectin against Covid-19 by Bryant-Lawrie, now peer-reviewed and published, concludes that the evidence justify the global adoption.
-
-June 7, 2021: [Epidemiologic Analyses on Ivermectin and COVID-19.][68]
-Results of Ivermectin's success in treating COVID-19 outbreaks in India, Mexico, Peru, Paraquay, Argentina, Brazil and Slovakia.
-
-June 1, 2021: [The Drug that Obliterates 97% of New Delhi Cases by Justus R. Hope, MD][69]
-
-May 31, 2021: [COVID deaths plunge after Mexico City introduces Ivermectin (WND.com)][70]
-
-May 19, 2021 - [A study by Juan Chamie][71], Jennifer Hibberd of the University of Toronto and David Scheim of the US Public Health Service, shows the sharp rise, fall and resurgence in excess deaths (among the over 60 year-old cohort) in Peru as the virus waxed, waned and waxed again.
-
-May 16, 2021: [Do the NIH and WHO COVID treatment recommendations need to be fixed?][72] By Steve Kirsch. Published on TrialSiteNews.
-
-May 12, 2021: [FLCCC Alliance Statement on the Irregular Actions of Public Health Agencies and the Widespread Disinformation Campaign Against Ivermectin][73]
-
-May 03, 2021: [Joint Statement on Widespread Use of Ivermectin in India for Prevention and Early Treatment by U.K.][74] Evidence-Based Medicine Consultancy Ltd (E-BMC Ltd) and U.S. FLCCC (Front Line Critical Care Alliance).
-
-Apr 22, 2021: [Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis][75] and Treatment of COVID-19 by Kory et al., published on American Journal of Therapeutics.
-
-Mar, 2021: [Open Letter by U.S. Doctors: JAMA Ivermectin Study Is Fatally Flawed][76]
-
-Mar 26, 2021: [Ivermectin vs Non-ivermectin countries in Africa][77]
+   - June 17, 2021: [Ivermectin for Prevention and Treatment of COVID-19 Infection][67] (Tess Lawrie Ivermectin Meta Analysis). A Cochrane-standard (= highest) review and meta-analysis of Ivermectin against Covid-19 by Bryant-Lawrie, now peer-reviewed and published, concludes that the evidence justify the global adoption.
+   - June 7, 2021: [Epidemiologic Analyses on Ivermectin and COVID-19.][68] Results of Ivermectin's success in treating COVID-19 outbreaks in India, Mexico, Peru, Paraquay, Argentina, Brazil and Slovakia.
+   - June 1, 2021: [The Drug that Obliterates 97% of New Delhi Cases by Justus R. Hope, MD.][69]
+   - May 31, 2021: [COVID deaths plunge after Mexico City introduces Ivermectin (WND.com)][70]
+   - May 19, 2021 - [A study by Juan Chamie][71], Jennifer Hibberd of the University of Toronto and David Scheim of the US Public Health Service, shows the sharp rise, fall and resurgence in excess deaths (among the over 60 year-old cohort) in Peru as the virus waxed, waned and waxed again.
+   - May 16, 2021: [Do the NIH and WHO COVID treatment recommendations need to be fixed?][72] By Steve Kirsch. Published on TrialSiteNews.
+   - May 12, 2021: [FLCCC Alliance Statement on the Irregular Actions of Public Health Agencies and the Widespread Disinformation Campaign Against Ivermectin][73]
+   - May 03, 2021: [Joint Statement on Widespread Use of Ivermectin in India for Prevention and Early Treatment by U.K.][74] Evidence-Based Medicine Consultancy Ltd (E-BMC Ltd) and U.S. FLCCC (Front Line Critical Care Alliance).
+   - Apr 22, 2021: [Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis][75] and Treatment of COVID-19 by Kory et al., published on American Journal of Therapeutics.
+   - Mar, 2021: [Open Letter by U.S. Doctors: JAMA Ivermectin Study Is Fatally Flawed][76]
+   - Mar 26, 2021: [Ivermectin vs Non-ivermectin countries in Africa][77]
 
 The evidence-based treatment protocol was developed by Dr. Paul E. Marik, Professor of Medicine and Chief of the Division of Pulmonary and Critical Care Medicine at the Eastern Virginia Medical School in Norfolk, Virginia, and championed by a team of highly experienced physicians. Dr. Marik has authored 80 book chapters and 500 journal publications, with over 44,000 citations and an h-index of 98. He has delivered over 350 lectures at international conferences, and is co-founder of the Front Line Covid Critical Care Alliance. The scientific protocol, called the EVMS protocol, was developed by Dr. Marik and based on his famous safe, effective treatment protocol for sepsis.
 
@@ -312,76 +291,57 @@ Having said that, Dr. Kory reported that there are very few places in the world 
 
 There is evidence that vitamin C and Quercetin co-administration exerts a synergistic antiviral action due to overlapping antiviral and immuno-modulatory properties and the capacity of Ascorbate to recycle Quercetin, increasing its efficacy. I-MASK+ Prevention & Early Outpatient Treatment Protocol for COVID-19 was designed for use as a prevention and in early outpatient treatment, for those who test positive for COVID-19. Component nutrients include vitamin D, C, Melatonin, [Quercetin and Zinc][78]. All the component medicines are FDA-approved (except Ivermectin), inexpensive, readily available and have been used for decades with well-established safety profiles.
 
-**General Chronic Prevention:**
+**<ins>General Chronic Prevention:</ins>**
 
 **Antivirals and Antiseptics:**
-
-- Gargle mouthwash: 2 x daily – gargle (do not swallow) antiseptic mouthwash with Cetylpyridinium Chloride (e.g. [Scope mouthwash™, Crest mouthwash, Colgate mouthwash][79]) or Povidone / Iodine 1% solution as alternative (e.g. [Betadine® Antiseptic Sore Throat Gargle™][80]).
-
-- **Ivermectin:**
-**Chronic prevention for high-risk individuals**-
-0.2 mg / kg per dose, taken with or after meals; first dose at the start of the treatment, repeated after 48 hours, and then 1 dose weekly for as long as risk is elevated in the community
-**Post-exposure Covid prevention**-
-0.2 mg / kg per dose, taken with or after meals; first dose at the start of the treatment, repeated after 48 hours
+   - Gargle mouthwash: 2 x daily – gargle (do not swallow) antiseptic mouthwash with Cetylpyridinium Chloride (e.g. [Scope mouthwash™, Crest mouthwash, Colgate mouthwash][79]) or Povidone / Iodine 1% solution as alternative (e.g. [Betadine® Antiseptic Sore Throat Gargle™][80]).
+   - **Ivermectin:**
+      - **Chronic prevention for high-risk individuals:** 0.2 mg / kg per dose, taken with or after meals; first dose at the start of the treatment, repeated after 48 hours, and then 1 dose weekly for as long as risk is elevated in the community.
+      - **Post-exposure Covid prevention:** 0.2 mg / kg per dose, taken with or after meals; first dose at the start of the treatment, repeated after 48 hours
 
 **Immune Fortifying / Supportive Therapy:**
-[Vitamin D3][81]: 1000–3000 [IU / day][82]. ([Amazon][83])
-Vitamin C: 500 - 1,000 mg BID ([twice daily][84]) ([Amazon][85]) ([OneDayMD][86])
-[Quercetin][87]: 250 mg [daily][88].  ([Amazon][89]) ([Aesthetics Advisor][90])
-Zinc: 30 - 40 mg / day ([elemental zinc][91]). Zinc lozenges are preferred. ([Amazon][92]) ([OneDayMD][93])
-[Melatonin][94]: 6 mg before bedtime (causes drowsiness). ([Amazon][95]) ([OneDayMD][96])
+   - [Vitamin D3][81]: 1000–3000 [IU / day][82]. ([Amazon][83])
+   - Vitamin C: 500 - 1,000 mg BID ([twice daily][84]) ([Amazon][85]) ([OneDayMD][86])
+   - [Quercetin][87]: 250 mg [daily][88].  ([Amazon][89]) ([Aesthetics Advisor][90])
+   - Zinc: 30 - 40 mg / day ([elemental zinc][91]). Zinc lozenges are preferred. ([Amazon][92]) ([OneDayMD][93])
+   - [Melatonin][94]: 6 mg before bedtime (causes drowsiness). ([Amazon][95]) ([OneDayMD][96])
 
 **Notes:**
-
-- **High risk Individuals**: > 60 years with co-morbidities (hypertension, diabetes, chronic lung disease, chronic kidney disease), obesity, long term care facilities, etc.
-
-- **Post COVID-19 exposure**: To use if a household member is COVID-19 positive, or you have prolonged exposure to a COVID-19 positive patient without wearing a mask.
-
-- **Precautionary Note: Ivermectin has a number of potentially serious drug-drug interactions. Please check for potential drug interaction at Ivermectin Drug Interactions - [Drugs.com][(https://www.drugs.com/drug-interactions/ivermectin.html)]. The most important drug interactions occur with Cyclosporin, Tacrolimus, anti-retroviral drugs, and certain anti-fungal drugs.**
-
-- **Due to the possible drug interaction between Quercetin and Ivermectin (may increase Ivermectin levels), these drugs should not be taken simultaneously (i.e. should be staggered morning and night.** 
-
-- **Ivermectin is also lipophilic and therefore, bioavailability is maximised on a full stomach; or best to be taken with meal.**
-
-- **Vitamin D3 RDA (Recommended Daily Allowance) is 800–1000 IU/day. The safe upper-dose daily limit is likely < 4000 IU/day.** Vitamin D deficiency has been associated with an increased risk of acquiring COVID-19 and from dying from the disease. Vitamin D supplementation may therefore prove to be an effective and cheap intervention to lessen the impact of this disease, particularly in vulnerable populations, i.e. the elderly and obese.
-
-- **It is likely that vitamin C and Quercetin have synergistic prophylactic benefit. Quercetin should be used with caution in patients with hypothyroidism and TSH levels should be monitored.**
-
-- **Please consult with a qualified doctor and only use human Ivermectin. Ivermectin for animals contain excipients (binding and storage compounds such as ethylene glycol) that are known to cause liver failure in high doses.**
+   - **High risk Individuals**: > 60 years with co-morbidities (hypertension, diabetes, chronic lung disease, chronic kidney disease), obesity, long term care facilities, etc.
+   - **Post COVID-19 exposure**: To use if a household member is COVID-19 positive, or you have prolonged exposure to a COVID-19 positive patient without wearing a mask.
+   - **Precautionary Note: Ivermectin has a number of potentially serious drug-drug interactions. Please check for potential drug interaction at Ivermectin Drug Interactions - [Drugs.com][(https://www.drugs.com/drug-interactions/ivermectin.html)]. The most important drug interactions occur with Cyclosporin, Tacrolimus, anti-retroviral drugs, and certain anti-fungal drugs.**
+   - **Due to the possible drug interaction between Quercetin and Ivermectin (may increase Ivermectin levels), these drugs should not be taken simultaneously (i.e. should be staggered morning and night.** 
+   - **Ivermectin is also lipophilic and therefore, bioavailability is maximised on a full stomach; or best to be taken with meal.**
+   - **Vitamin D3 RDA (Recommended Daily Allowance) is 800–1000 IU/day. The safe upper-dose daily limit is likely < 4000 IU/day.** Vitamin D deficiency has been associated with an increased risk of acquiring COVID-19 and from dying from the disease. Vitamin D supplementation may therefore prove to be an effective and cheap intervention to lessen the impact of this disease, particularly in vulnerable populations, i.e. the elderly and obese.
+   - **It is likely that vitamin C and Quercetin have synergistic prophylactic benefit. Quercetin should be used with caution in patients with hypothyroidism and TSH levels should be monitored.**
+   - **Please consult with a qualified doctor and only use human Ivermectin. Ivermectin for animals contain excipients (binding and storage compounds such as ethylene glycol) that are known to cause liver failure in high doses.**
 
 **(Note: When supplementing with vitamin D, it is [important also to supplement with sources of vitamin K2][97], and [also with sources of Calcium and Magnesium][98] for improved bone health.)**
 
 **Helpful Information Related to Procuring Ivermectin and HCQ [in the USA and other countries][99]:**
-- FIND A DOCTOR WHO WILL PRESCRIBE IVERMECTIN, HYDROXYCHLOROQUINE AND EARLY OUTPATIENT TREATMENTS FOR COVID-19 (USA, SEPT 24, 2021)
-- How to Get Ivermectin in the US: Pharmacies (USA, Sept 28, 2021)
-- FIND A DOCTOR WHO WILL PRESCRIBE IVERMECTIN, HYDROXYCHLOROQUINE AND EARLY OUTPATIENT TREATMENTS FOR COVID-19 (IN VARIOUS COUNTRIES, SEPT 6, 2021)
+   - FIND A DOCTOR WHO WILL PRESCRIBE IVERMECTIN, HYDROXYCHLOROQUINE AND EARLY OUTPATIENT TREATMENTS FOR COVID-19 (USA, SEPT 24, 2021)
+   - How to Get Ivermectin in the US: Pharmacies (USA, Sept 28, 2021)
+   - FIND A DOCTOR WHO WILL PRESCRIBE IVERMECTIN, HYDROXYCHLOROQUINE AND EARLY OUTPATIENT TREATMENTS FOR COVID-19 (IN VARIOUS COUNTRIES, SEPT 6, 2021)
 
-**Early Outpatient Treatment Protocol (Updated Sept 1, 2021):**
-
-1. **First line agents (use any or all medicines; listed in order of priority/importance):**
-**Antivirals:**
-- **Ivermectin ([Find a doctor, USA][100]):**
-0.2 - 0.4 mg / kg, taken with or after meals, 1 dose daily for 5 days or until recovery. Use upper dose range if 1) in regions with aggressive variants, 2) treatment started on or after five days of symptoms, or in pulmonary phase, 3) multiple comorbidities or risk factors.
-- **And / Or Nitazoxanide:** 500 mg 2 x daily for 5 days after meals. Combine with Ivermectin (preferred) or substitute if Ivermectin is not available. (Nitazoxanide is often unavailable or high-priced in some countries like the USA)
-
-**Anti-Septic Anti-virals:**
-- **Antiviral mouthwash**: Gargle 3 x daily (do not swallow; must contain Chlorhexidine,  Povidone-Iodine, or Cetylpyridinium Chloride). (e.g. [Scope mouthwash™][101], [Crest mouthwash][102], [Colgate mouthwash][103], [Betadine® Antiseptic Sore Throat Gargle][104])
-- **Iodine Nasal Spray**: Use 1 % **Povidone Iodine** commercial product as per instructions 2–3 x daily. If 1 %-product not available, must first dilute the more widely available 10 %-solution and apply 4–5 drops to each nose every 4 hours. (No more than 5 days in pregnancy.)
-
-**Anti-Coagulants + Immune Fortifying**:
-- **Aspirin**: 325 mg/day unless [contraindicated][105]. ([Amazon][106])
-- **Vitamin D3**: 5,000 IU daily. Preferred forms if available: Calcitriol (Rocaltrol) 0.5 mcg on day 1, then 0.25 mcg daily for 7 days – or Calcifediol 0.5 mg on day 1, then 0.2 mg on days  3 + 7, then 0.2 mg weekly until recovered.
-- **Melatonin**: 10 mg before bedtime (causes drowsiness). ([Amazon][107])
-
-**Adjunctive / Synergistic Therapies**:
-- **Vitamin C**: 500 - 1,000 mg BID (twice daily) ([Amazon][108]) ([iHerb][109])
-- **Quercetin**: 250 mg twice a day. ([Amazon][110]) ([iHerb][111])
-- **Zinc**: 100 mg/day. Zinc lozenges are preferred. ([Amazon][112]) ([iHerb][113])
-- **Pulse Oximeter**: FLCCC also recommend monitoring your oxygen saturation with a pulse oximeter and to go to the hospital if you get below 94%. ([Amazon][114])
-
-2. **Second line agents (listed in order of priority /importance)**:
-
-**Add to first line therapies above if:**
+**<ins>Early Outpatient Treatment Protocol (Updated Sept 1, 2021):</ins>**
+   1. **First line agents (use any or all medicines; listed in order of priority/importance):**
+      - **Antivirals:**
+         - **Ivermectin ([Find a doctor, USA][100]):** 0.2 - 0.4 mg / kg, taken with or after meals, 1 dose daily for 5 days or until recovery. Use upper dose range if 1) in regions with aggressive variants, 2) treatment started on or after five days of symptoms, or in pulmonary phase, 3) multiple comorbidities or risk factors.
+         - **And / Or Nitazoxanide:** 500mg 2 x daily for 5 days after meals. Combine with Ivermectin (preferred) or substitute if Ivermectin is not available. (Nitazoxanide is often unavailable or high-priced in some countries like the USA)
+      - **Anti-Septic Anti-virals:**
+         - **Antiviral mouthwash**: Gargle 3 x daily (do not swallow; must contain Chlorhexidine,  Povidone-Iodine, or Cetylpyridinium Chloride). (e.g. [Scope mouthwash™][101], [Crest mouthwash][102], [Colgate mouthwash][103], [Betadine® Antiseptic Sore Throat Gargle][104])
+         - **Iodine Nasal Spray**: Use 1% **Povidone Iodine** commercial product as per instructions 2–3 x daily. If 1%-product not available, must first dilute the more widely available 10%-solution and apply 4–5 drops to each nose every 4 hours. (No more than 5 days in pregnancy.)
+      - **Anti-Coagulants + Immune Fortifying:**
+         - **Aspirin**: 325 mg/day unless [contraindicated][105]. ([Amazon][106])
+         - **Vitamin D3**: 5,000 IU daily. Preferred forms if available: Calcitriol (Rocaltrol) 0.5mcg on day 1, then 0.25mcg daily for 7 days – or Calcifediol 0.5mg on day 1, then 0.2mg on days 3 + 7, then 0.2mg weekly until recovered.
+         - **Melatonin**: 10 mg before bedtime (causes drowsiness). ([Amazon][107])
+      - **Adjunctive / Synergistic Therapies:**
+         - **Vitamin C**: 500 - 1,000 mg BID (twice daily) ([Amazon][108]) ([iHerb][109])
+         - **Quercetin**: 250 mg twice a day. ([Amazon][110]) ([iHerb][111])
+         - **Zinc**: 100 mg/day. Zinc lozenges are preferred. ([Amazon][112]) ([iHerb][113])
+         - **Pulse Oximeter**: FLCCC also recommend monitoring your oxygen saturation with a pulse oximeter and to go to the hospital if you get below 94%. ([Amazon][114])
+   2. **Second line agents (listed in order of priority /importance)**:
+   - **Add to first line therapies above if:**
 **1) ≥ 5 days of symptoms;** 
 **2) Poor response to therapies above;** 
 **3) Significant comorbidities**
