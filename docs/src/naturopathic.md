@@ -375,7 +375,7 @@ SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating,
 
 6:30 AM: **Kadha or Kashaaya (Ayurvedic bitter concoction): Boil 0.5 - 1 teaspoonful of [turmeric][44] and 2 pinches of black pepper in a glass of water for 5 minutes. Cover and let the decoction cool. Add jaggery and 1/2 teaspoonful of [ghee][45] or oil, and sip it.**
 
-**Note on Turmeric tea**: Turmeric contains about 3-6 % Curcumin. **1 metric teaspoon of turmeric [weighs about 3.2 g][46], and therefore contains at least about 100 mg of Curcumin.** Various researchers have found [turmeric derivatives useful in the management of influenza virus infections, and doses of 6-7 g of turmeric daily are found to be well tolerated][47]. In fact, 500 mg of Curcumin (purified extract, containing about 95 % of Curcuminoids) twice a day is recommended by at least 3 highly effective allopathic protocols (namely, [The Zelenko protocol][a], FLCCC's I-MASK+ and the Ivermectin+Doxycycline+Cyproheptadine protocol of Aguirre-Chang, Gustavo et al.).  This protocol prescribes 1-2 teaspoonsful of turmeric, which would contain about 100-200 mg of Curcumin.
+**Note on Turmeric tea**: Turmeric contains about 3-6 % Curcumin. **1 metric teaspoon of turmeric [weighs about 3.2 g][46], and therefore contains at least about 100 mg of Curcumin.** Various researchers have found [turmeric derivatives useful in the management of influenza virus infections, and doses of 6-7 g of turmeric daily are found to be well tolerated][47]. In fact, 500 mg of Curcumin (purified extract, containing about 95 % of Curcuminoids) twice a day is recommended by at least 3 highly effective allopathic protocols (namely, [The Zelenko protocol][a], [FLCCC's I-MASK+][b] and the [Ivermectin+Doxycycline+Cyproheptadine protocol][c] of Aguirre-Chang, Gustavo et al.).  This protocol prescribes 1-2 teaspoonsful of turmeric, which would contain about 100-200 mg of Curcumin.
 
 [Turmeric and Curcumin are not well absorbed on their own and it is generally best to take turmeric / Curcumin with food containing some fat in order to increase absorption.][48] It is best to combine turmeric / Curcumin with Black pepper, which contains the compound Piperine that has been shown to increase Curcumin absorption by 2,000%. **Thus, this decoction, containing both pepper and ghee is designed to maximize absorption of the Curcumin.**
 
@@ -399,9 +399,9 @@ SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating,
 
 2:00 PM: **Days 1 - 3**: Coconut water
 
-3:00 PM: **Days 1 - 3**: Fruit juice, of any seasonal fruits; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by millet Khichdi, as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary (or the regimen prescribed by India's Millet Man and integrative physician Dr. Khadar Vali).
+3:00 PM: **Days 1 - 3**: Fruit juice, of any seasonal fruits; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by [millet Khichdi][d], as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary ([or the regimen prescribed by India's Millet Man and integrative physician Dr. Khadar Vali][d]).
 
-4:00 PM: **Days 1 - 3**: Kadha or Kashaaya (Ayurvedic bitter concoction): 3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves to be boiled in a suitable small quantity of water; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by millet Khichdi, as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary (or the regimen prescribed by India's Millet Man and integrative physician Dr. Khadar Vali).
+4:00 PM: **Days 1 - 3**: Kadha or Kashaaya (Ayurvedic bitter concoction): 3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves to be boiled in a suitable small quantity of water; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by millet Khichdi, as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary ([or the regimen prescribed by India's Millet Man and integrative physician Dr. Khadar Vali][d]).
 
 4:30 PM: **Massage with Madaar (Aak or Arka, Erukku in Tamil, [Calotropis gigantea][55] / Giant milkweed / Crown flower) leaves**: Pieces of Madaar / Aak / Arka / Erukku (Calotropis Gigantea) leaves dipped in [mustard oil][56] should be heated till they become lukewarm and to be used for a light massage on chest, back and feet. The treatment should be continued until the cough symptom subsides.
 
@@ -1168,7 +1168,7 @@ Stronger amounts of needles to water can be used therapeutically. If it feels to
 Ozone and Oxygen therapies are effective at degrading spike proteins and Graphene oxide. All forms may be recommended, according to one source, from consuming MMS (Miracle Mineral Solution / Chlorine Dioxide Solution) to drinking ozonated water, or using ozonated water for enemas, and even ozone injections by a trained health professional.
 
 **Chlorine Dioxide Solution (CDS) / ClO2 / Miracle Mineral Solution (MMS):**
-CDS / ClO2 was carefully researched for over 13 years by [Andreas Kalcker][247], a German biochemist. The great efficacy of the treatment, though not acknowledged by mainstream scientific platforms, is reported to have been extensively established in wide clinical trials in Central and South America, and especially in Bolivia.
+CDS / ClO2 was carefully researched for over 13 years by [Andreas Kalcker][247], a German biochemist. [The great efficacy of the treatment, though not acknowledged by mainstream scientific platforms, is reported to have been extensively established in wide clinical trials in Central and South America, and especially in Bolivia.][e]
 
 ### Typical duration of treatment:
 The proposed medicinal herbs are prophylactic, and may be recommended to be used for at least 6 months post vaccination, and possibly longer, in addition to adopting anti-inflammatory and immune-supportive lifestyles.
@@ -1489,6 +1489,11 @@ Online pharmacies and local stores
 [269]: https://timesofindia.indiatimes.com/city/lucknow/turmeric-neem-effective-against-coronavirus-says-kgmu-study/articleshow/76165100.cms
 
 [a]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach
+[b]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-2
+[c]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-5
+[d]: https://x-vin.github.io/covidcures/homeopathic.html#protocol-and-treatment-approach-3
+[e]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-17
+[f]: 
 
 
 
