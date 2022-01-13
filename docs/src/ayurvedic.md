@@ -252,8 +252,9 @@ Contact, Jayana Rama Govind:
    - [Move over Coronil, AP villagers ditch masks, vaccine after 'miracle drug', Jagan govt backs it: Herbal concoction by Krishnapatnam resident Anandaiah ‘isn’t Ayurvedic medicine, can’t cure Covid’, say officials; Andhra MLA says govt could restart distribution of the mix][60]
    - [No objection to use of 'Krishnapatnam medicine': Andhra Pradesh government; May 23, 2021][61]
 
-## 4. [Patanjali's Divya Swasari Coronil kit][62] 
-**Patanjali's Divya Swasari Coronil kit with Coronil**, containing two bottles, 1 each of **Divya Swasari Vati** and **Divya Coronil tablets** (with **Giloy, Ashwagandha and Tulasi in 2:1:1 mixture**) and **Anu taila**
+## 4. Patanjali's Divya Swasari Coronil kit 
+**[Patanjali's Divya Swasari Coronil kit][62] with Coronil**, containing two bottles, 1 each of **Divya Swasari Vati** and **Divya Coronil tablets** (with **Giloy, Ashwagandha and Tulasi in 2:1:1 mixture**) and **Anu taila**
+
 
 ### Objective: 
 Prophylactic and curative
@@ -305,7 +306,7 @@ Patanjali stores and [online suppliers][63]
    - [indiatvnews.com: How Patanjali's Coronil will cure coronavirus patients in 14 days?; Shriya Bhasin; June 23, 2020][74]
    - [Dr. Yashwant Chowdhury: An informal, informed perspective on the objections raised to Coronil; June 24, 2020][75]
 
-## 5. Ayush Kwath Churna:
+## 5. Ayush Kwath Churna
 - **Tulsi** / Holy Basil / Ocimum sanctum,
 - Dalchini / **Cinnamon** / Cinnamomum zeylanicum,
 - Sunthi / **Ginger** / Zingiber officinale and

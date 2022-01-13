@@ -4,7 +4,8 @@
 
 **NOTE**: The information in this tabulation about dosages is primarily for adults. The dosages for children have been mentioned in the case of a few over-the-counter remedies where the data was available."
 
-## 1. [Kapasoora Kudineer, Nilavempu][1] (Indian echinacea / Green chiretta / Kaalamegha) Kudineer, Panchamoola (called Panchtikta Kwath Choorna in Ayurveda) Kudineer
+## 1. Kapasoora Kudineer, Nilavempu (Indian echinacea / Green chiretta / Kaalamegha) Kudineer, Panchamoola (called Panchtikta Kwath Choorna in Ayurveda) Kudineer
+   - [Kabasura Kudineer: Benefits, Ingredients and Side Effects][1]
 
 ### Objective: 
 Prophylactic, curative, known to clear respiratory tract and boost immunity, especially against viruses

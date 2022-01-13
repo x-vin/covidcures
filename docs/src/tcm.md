@@ -89,7 +89,7 @@ This herbal formula is unavailable in the USA because the US FDA (Food & Drug Ad
    - [Website of late Dr. Joel Penner, OMD, Professor of Traditional Chinese Medicine and Herbologist, with extensive documentation about the herbs used in TCM][16]
    - [TCM Wiki][17]
 
-## 2. Jinhua Qinggan (JHQG) granules and Lianhua Qingwen (LHQW) capsules, recommended during medical observation; 
+## 2. Jinhua Qinggan (JHQG) granules and Lianhua Qingwen (LHQW) capsules, recommended during medical observation 
 **Qingfei Paidu or Lung Cleansing and Detoxifying Decoction (QFPD or LCDD)**, recommended for the treatment of both severe and non-severe patients; **Xuanfeibaidu (XFBD) granules**, recommended for treating moderate cases; **Huashibaidu (HSBD)**; **Xuebijing (XBJ) injection**, used in managing severe cases effectively
 
 ### Objective: 

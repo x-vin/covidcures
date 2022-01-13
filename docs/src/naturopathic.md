@@ -1493,7 +1493,6 @@ Online pharmacies and local stores
 [c]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-5
 [d]: https://x-vin.github.io/covidcures/homeopathic.html#protocol-and-treatment-approach-3
 [e]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-17
-[f]: 
 
 
 

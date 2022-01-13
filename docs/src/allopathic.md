@@ -257,7 +257,7 @@ Some quercetin supplement brands, which are cited to contain quercetin dihydrate
    - [U.S. Pharmacist- Affordable Medicines: Common Supplements Might Reduce COVID Severity; July 10, 2020: ][63]The Eastern Virginia Medical School (EVMS) and other health organizations recommend a prophylactic combination of the following supplements: vitamin C (500 mg) and quercetin (250 mg-500 mg twice a day) with zinc (75 mg-100 mg per day), melatonin (0.3 mg-2 mg) each night, and vitamin D3 (1,000-4,000 IU per day). Famotidine (20 mg-40 mg per day). (For patients with mild symptoms, EVMS recommends the same combination, with optional additions of ivermectin (150 ug-200 ug per kg as a single dose), and one low-dose or regular aspirin per day.)
    - [Perspectives on plant flavonoid quercetin-based drugs for novel SARS-CoV-2; Manjesh Saakre et al.; Beni-Suef University Journal of Basic and Applied Sciences; Mar 24, 2021][64]
 
-## 2. MATH+, I-MASK+, I-RECOVER Protocol, first developed by Dr. Paul E. Marik: 
+## 2. MATH+, I-MASK+, I-RECOVER Protocol, first developed by Dr. Paul E. Marik
 
 Ivermectin-based prevention and early outpatient treatment, inpatient hospital treatment and long haul treatment and management of Covid-19 syndrome **prescribed by FLCCC (Front Line Covid-19 Critical Care) Alliance, founded by Drs. Pierre Kory and Paul Marik**
 
@@ -1585,7 +1585,8 @@ Many brands of these nutrient supplements are available online. The articles bel
    - [COVID-19 early treatment: real-time analysis of 1,057 studies][293]
    - [COVID-19 How Can I Cure Thee? Let Me Count the Ways; Thomas E. Levy, MD, JD; Dec 3, 2020][294]
 
-## 15. Nutraceuticals and OTC medicines to mitigate adverse effects and inflammation caused by the Covid vaccines: 
+## 15. Nutraceuticals and OTC medicines to mitigate adverse effects and inflammation caused by the Covid vaccines
+
 A number of protocols published by doctors, scientists, nutritionists and other researchers to **counteract the effects of the dangerous spike glycoprotein** and other toxins associated with the novel coronavirus and introduced into the body by the Covid vaccines.
 
 ### Objective: 
@@ -1717,7 +1718,8 @@ Some of these products can be sourced online, and a few could be bought at [Mr. 
    - [Natural Supplements for COVID19—Background, Rationale, and Clinical Trials; Melody Hermel, MD, et al.; Journal of Evidence-Based Integrative Medicine; Aug 13, 2021][317]
    - [Biocompatible N-acetyl cysteine reduces graphene oxide and persists at the surface as a green radical scavenger; Valentina Palmieri et al.; Chemical Communications; 2019][318]
 
-## 16. Fleming Method: 
+## 16. Fleming Method
+
 **The Fleming Method for Tissue and Vascular Differentiation and Metabolism (FMTVDM)** using same state single or sequential quantification comparisons. Patent No. 9566037
 
 **The FMTVDM-directed Covid-19 Treatment Protocol**, which may be the only known study that used a rigorous quantitative measurement technique to analyse and assess a wide variety of physician-led Covid-19 therapies in a globally distributed clinical trial, and identify the most efficacious of these, including therapeutic management of the adverse effects of the Covid vaccines"
@@ -1844,7 +1846,8 @@ The approximate monthly expenditure for immune system support against Covid-19, 
    - [COVID-19 early treatment: real-time analysis of 1,057 studies][336]
 
 ## 17. Chlorine Dioxide Solution (CDS) 
-possible Oral / intravenous administration, **with the oral CDS protocol for Covid-19 being validated by one Boliviaan study**
+
+Possible Oral / intravenous administration, **with the oral CDS protocol for Covid-19 being validated by one Boliviaan study**
 
 ### Objective: 
 The development of a safe and relatively nontoxic alternative allopathic **oral / intravenous treatment protocol for Covid-19**. The protocol is reported from Central and South America to have been highly effective in their pandemic management, but has achieved little consensus in the mainstream scientific community, like many other treatments.
@@ -2852,5 +2855,5 @@ Dr Mili Shah, President, [Ozone Forum of India][452], Trustee, Bisleri Charitabl
 [461]: https://vitalitymagazine.com/article/covid-19-how-can-i-cure-thee-let-me-count-the-ways/
 
 
-[a]: 
+[a]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-7
 [b]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-7

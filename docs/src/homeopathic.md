@@ -71,7 +71,8 @@ Local homeopathy stores or online. One recommended brand is SBL Arsenicum Album 
    - [GUIDELINES for HOMOEOPATHIC PRACTITIONERS for COVID 19; Government of India, Ministry of AYUSH][8]
    - [The book Corona-Handbook, available as a downloadable PDF, attributed to holistic healthcare advocates and food scientists Drs. Khadar Vali and Sarala Khadar, prepared by the group Dr. Khadar Vali Lifestyle, based on the video presentations of Dr. Khadar Vali, known as the Millet Man of India][9]
 
-## 2. [Q Aspidosperma][10] Mother Tincture
+## 2. Q Aspidosperma Mother Tincture
+[Q Aspidosperma][10]
 
 ### Objective: 
 Increase blood oxygen levels
@@ -120,7 +121,8 @@ Rs. 90-200 online
    - [researchgate.net: Bronchial Asthma And Aspidosperma- A Study In 50 Patients; Sukriti et al.; May, 2020][14]
    - [sarkaritel.com: Aspidosperma Effective but Not a Substitute of Oxygen Says Dr.A.K.Gupta; Ameya Sathaye; April 29, 2021][15]
 
-## 3. [Dr. Khadar Vali][16]'s Covid-19 treatment protocol
+## 3. Dr. Khadar Vali's Covid-19 treatment protocol
+[Dr. Khadar Vali][16]
 
 ### Objective: 
 Prophylactic treatment, curative treatment for infection, post-infection treatment for long Covid, treatment to prevent post-vaccine symptoms
