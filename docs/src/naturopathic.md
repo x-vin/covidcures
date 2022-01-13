@@ -10,7 +10,7 @@
 Prophylactic vitamin supplementation and naturopathic healthy lifestyle for Covid-19, as well as an extremely effective, evidence-based and largely nutritional therapy from a reputed American naturopath physician, Dr. Henry Ealy, ND.
 
 ### System:
-Naturopathy, nutrition science and integrative medicine
+Naturopathy, nutrition science and integrative medicine.
 
 ### Can be used alongside other allopathic treatments:
 Yes, if need be.
@@ -19,7 +19,7 @@ Yes, if need be.
 Dr. Henry Ealy holds a Doctorate in Naturopathic Medicine from SCNM and a Bachelor of Science in Mechanical Engineering from UCLA. He is Board Certified in Holistic Nutrition by the NANP, is a Yoga teacher and is the Founder of the Energetic Health Institute in Portland, Oregon. Dr. Ealy has over 20 years of clinical experience. 
 
 ### Protocol and treatment approach:
-**The top 7 nutrients recommended by Dr. Henry Ealy to prevent and mitigate Covid: Vitamins D, C and A, Zn, Glutathione / NAC, L-Arginine, Quercetin**
+**The top 7 nutrients recommended by Dr. Henry Ealy to prevent and mitigate Covid: Vitamins D, C and A, Zn, Glutathione / NAC, L-Arginine, Quercetin.**
 
 Dr. Ealy observes that **vaccines have safety concerns and breakthrough cases of SARS-CoV-2 are commonly reported**. The experimental inoculations are speeding up the evolution of newer aggressive variants. **The primary line of prophylaxis must be the natural human immunity**. People have not been given basic guidance to empower their immune systems, based on existing empirical evidence. There is substantial evidence supporting the efficacy of several vitamins, minerals and other nutrients to prevent and mitigate Covid-19. These include **vitamins D, C, and A, Zinc, Quercetin, Glutathione and N-Acetyl Cysteine (NAC)**. These wonderful nutrients, when input **in therapeutic amounts** into the bloodstream, are proven to be remarkably effective against Covid-19 and other viral infections as well.
 
@@ -51,7 +51,7 @@ The following are the most important recommendations for doctors:
 The following are the essential components and practices for a healthy life:
    1. A positive outlook on life. Turn off the TV, the phone and get outside! Riding a bike, meditation, Praanayaama, Tai Chi, Qigong, Yoga, walking with someone we love and holding their hands releases oxytocin. Hug family members and tell them we love them. 
    2. Getting sunlight, and the darker the eye colour, the longer the time that needs to be spent in the sun. 
-   3. Sleep 8 hours a night. Take a bath before bed and think of some positive things that happened during the day. Burn lavender oil. Such positive and affirmative practices engage the parasympathetic (""Rest & Digest"") nervous system that is so vital for healing."
+   3. Sleep 8 hours a night. Take a bath before bed and think of some positive things that happened during the day. Burn lavender oil. Such positive and affirmative practices engage the parasympathetic ("Rest & Digest") nervous system that is so vital for healing."
 
 ### Typical duration of treatment:
 Recovery was found to be dramatically quickened, and a critical patient with a very aggressive case of Covid-19 in the advanced pulmonary phase recovered with strong nutritional therapy and mild therapy using integrative medicine in just 8 days.
@@ -64,12 +64,12 @@ No adverse side effects are reported when the prescribed nutrients are used in t
    - [Washington Post: The best time of day to take common nutritional supplements][4]
 
 ### Recommended quantity for stocking:
-Recommended to stock the nutrients for regular prophylactic use .
+Recommended to stock the nutrients for regular prophylactic use.
 
 ### Price:
 Nutrient supplements can vary in pricing with the product brand and online store.
 
-Nutraceuticals have potential for boosting the type 1 interferon response to RNA viruses including influenza and coronavirus; Progress in Cardiovascular Diseases; Mark F. McCarty, James J. DiNicolantonio
+Nutraceuticals have potential for boosting the type 1 interferon response to RNA viruses including influenza and coronavirus; Progress in Cardiovascular Diseases; Mark F. McCarty, James J. DiNicolantonio.
 
 ### Suggested suppliers:
    - [Renew Life Adult Probiotics 50 Billion CFU Guaranteed, 12 Strains, For Men & Women, Shelf Stable, Gluten Dairy & Soy Free, 30 Capsules, Ultimate Flora Extra Care][5]
@@ -103,13 +103,13 @@ Nutraceuticals have potential for boosting the type 1 interferon response to RNA
 ## 2. Acharya Arun Sharma's special recommendations in Nature Cure for prophylactic and mitigating protocols for Covid-19, and for mitigation of post-Covid syndrome
 
 ### Objective
-Prophylactic protocol for Covid-19, and recommendations for treatment of disease, especially in the early stages
+Prophylactic protocol for Covid-19, and recommendations for treatment of disease, especially in the early stages.
 
 ### System
-Naturopathy
+Naturopathy.
 
 ### Can be used alongside other allopathic treatments
-Yes, recommended to be used alongside, if allopathic protocol is being followed
+Yes, recommended to be used alongside, if allopathic protocol is being followed.
 
 ### Status of authorisation:
 The Acharya is the disciple and grandson of the pioneer of naturopathy in India, Acharya Lakshmana Sharma, and uses this prescribed protocol to treat symptomatic Covid-19, and for post-Covid syndrome and recovery at the treatment centres of the pioneering international institute of natural hygiene, International Institute of Mahayoga And Natural Hygiene (IMANAH).
@@ -128,22 +128,22 @@ Pranayama- Anuloma Viloma, Bhastrika- and meditation are essential too.
 Active infections can be mitigated through water / citrus juice / coconut water fasting and sunbathing for as long as possible in comfortable sunlight for 2-3 days.
 
 ### Typical duration of treatment:
-1-2 weeks
+1-2 weeks.
 
 ### Outcome:
-A reported zero fatality rate and very good prognosis
+A reported zero fatality rate and very good prognosis.
 
 ### Significant side effects:
-Much progress in overall health
+Much progress in overall health.
 
 ### Recommended quantity for stocking:
-No medicines to be stocked, but need to invest in organic fruits and vegetables in large quantities for a better diet
+No medicines to be stocked, but need to invest in organic fruits and vegetables in large quantities for a better diet.
 
 ### Price:
-No additional expenses, other than buying organic
+No additional expenses, other than buying organic.
 
 ### Suggested suppliers:
-Fruits and vegetables to be purchased from local groceries selling organic and fresh produce
+Fruits and vegetables to be purchased from local groceries selling organic and fresh produce.
 
 ### Further references:
    - [Introductory Session on Post Covid Recovery with Nature Cure |5 Sessions Workshop by Dr. Arun Sharma][30]
@@ -155,13 +155,13 @@ Fruits and vegetables to be purchased from local groceries selling organic and f
 ## 3. Dr. Jacob Vadakkanchery's recommendations for prophylactic and mitigating protocols for Covid-19, and treatment of post-Covid syndrome
 
 ### Objective
-Prophylactic protocol for Covid-19, and recommendations for treatment of disease, especially in the early stages
+Prophylactic protocol for Covid-19, and recommendations for treatment of disease, especially in the early stages.
 
 ### System
-Naturopathy
+Naturopathy.
 
 ### Can be used alongside other allopathic treatments
-Yes, recommended to be used alongside, if allopathic protocol is being followed
+Yes, recommended to be used alongside, if allopathic protocol is being followed.
 
 ### Status of authorisation:
 The treatment is not approved by the Government, even though the naturopathic community guided by eminent naturopathic physician Jacob Vadakkanchery is demonstrably benefiting greatly from these Covid-19 prescriptions and dietary and lifestyle regimen. 
@@ -192,25 +192,25 @@ After fever subsides, drink citrus juices for a few more days. Afterwards, begin
 
 If any meals are had during the course of treatment, have 1-2 flakes of raw garlic dipped in Inthuppu or rock salt or potassium chloride.
 
-Very important not to fear Covid, and feel stressed."
+Very important not to fear Covid, and feel stressed.
 
 ### Typical duration of treatment:
-Perhaps about 1-2 weeks, in most cases
+Perhaps about 1-2 weeks, in most cases.
 
 ### Outcome:
-A reported zero fatality rate and good prognosis
+A reported zero fatality rate and good prognosis.
 
 ### Significant side effects:
 Overall betterment of whole body wellness, no significant adverse side effects likely. A large community of families in Kerala, following the physician's prescriptions for natural health, are able to live with good health during this pandemic.
 
 ### Recommended quantity for stocking:
-No medicines to be stocked, but need to invest in organic fruits and vegetables in large quantities for a better diet
+No medicines to be stocked, but need to invest in organic fruits and vegetables in large quantities for a better diet.
 
 ### Price:
-No additional expenses, other than buying organic
+No additional expenses, other than buying organic.
 
 ### Suggested suppliers:
-Fruits and vegetables to be purchased from local groceries selling organic and fresh produce
+Fruits and vegetables to be purchased from local groceries selling organic and fresh produce.
 
 ### Further references:
 Learnt through personal acquaintance with physician and vernacular language videos.
@@ -218,13 +218,13 @@ Learnt through personal acquaintance with physician and vernacular language vide
 ## 4. Dr. Biswaroop Roy Chowdhury's dietary protocol, allied with naturopathy, called the DIP (Disciplined Intelligent Protocol) diet
 
 ### Objective
-Treatment protocol for Covid-19
+Treatment protocol for Covid-19.
 
 ### System
-Naturopathy
+Naturopathy.
 
 ### Can be used alongside other allopathic treatments
-Yes, recommended to be used alongside, if allopathic protocol is being followed, even though this is reported to be less effective than the DIP diet al.ongwith a naturopathic treatment protocol
+Yes, recommended to be used alongside, if allopathic protocol is being followed, even though this is reported to be less effective than the DIP diet al.ongwith a naturopathic treatment protocol.
 
 ### Status of authorisation:
 Authorised by the Central Government in India, the diet is based on published research. Dr. BRC is an Indian medical nutritionist certified by the Indo-Vietnam Medical Board.
@@ -255,7 +255,7 @@ Dairy products like milk, cream, tea, coffee, ghee, butter, paneer, ice cream, r
 Refined and packaged foods like refined flours and preparations containing them like cakes and biscuits, refined oils, fast foods like pizzas and burgers, cool drinks, refined salt like iodized table salt and refined sugars, and foods containing them.
 
 ### Typical duration of treatment:
-A healthy recovery and maintenance diet for patients with diabetes mellitus
+A healthy recovery and maintenance diet for patients with diabetes mellitus.
 
 ### Outcome:
 According to Dr. BRC's research publications on the DIP Diet, after following the DIP Diet for 72 hours, it is reported that the following outcomes were observed among a group of 55 patients:
@@ -264,9 +264,9 @@ According to Dr. BRC's research publications on the DIP Diet, after following th
    - 52 % of patients could free themselves of dependency on many kinds of medications, including those for B.P., cholesterol and acidity.
    - Patients also experienced an average weight loss of 1.14 kg.
 
-*Here, a controlled blood glucose level denoted a blood glucose range of < or = 250 mg / dl without medication and / or insulin requirement, along with the prescribed diet. In the people who achieved such a healthier condition, the diet al.one balanced the blood glucose levels, leading to zero requirement of diabetes medication or insulin.
+Here, a controlled blood glucose level denoted a blood glucose range of < or = 250 mg / dl without medication and / or insulin requirement, along with the prescribed diet. In the people who achieved such a healthier condition, the diet al.one balanced the blood glucose levels, leading to zero requirement of diabetes medication or insulin.
 
-The study, *"Diabetes Reversal by Plant-Based Diet"*, cited in the references, conducted on 55 diabetes patients, interestingly, showed better efficacy of the diet with older patients with chronic type-2 diabetes. In follow-ups, those who maintained the diet and were still insulin-dependent were able to gradually reduce their dependency, and those who maintained the diet reported sustained benefits from the regimen."
+The study, *"Diabetes Reversal by Plant-Based Diet"*, cited in the references, conducted on 55 diabetes patients, interestingly, showed better efficacy of the diet with older patients with chronic type-2 diabetes. In follow-ups, those who maintained the diet and were still insulin-dependent were able to gradually reduce their dependency, and those who maintained the diet reported sustained benefits from the regimen.
 
 ### Significant side effects:
 It has been observed that sometimes patients experience loose motion or diarrhoea while following the Three Step Flu Diet. If this happens more than 6-7 times, the patient should completely stop the fruits and salad in the DIP Diet, and consume only coconut water until the loose motion stops.
@@ -277,7 +277,7 @@ Patients with Chronic Kidney Disease are advised to adapt the diet to their requ
 The diet uses everyday fruits and vegetables that need not be stocked.
 
 ### Price:
-Everyday food items, moderately priced
+Everyday food items, moderately priced.
 
 ### Suggested suppliers:
 Fruits and vegetables for the diet are best sourced from local stores supplying organic food.
@@ -289,7 +289,7 @@ Fruits and vegetables for the diet are best sourced from local stores supplying 
    - General public update their recoveries from Covid by the 3-step flu diet and the DIP diet on this Telegram channel: [Dr. Biswaroop Roy Chowdhury][40]
    - [RECIPES To Cure Lifestyle Diseases, by Neerja Roy Chowdhury][41]
 
-## 5. N.I.C.E.'s Three Step Flu Diet: 
+## 5. N.I.C.E.'s Three Step Flu Diet
 A reportedly highly effective "N.I.C.E." (Network of Influenza Care Experts) protocol published and used by NISA (Natural Immunization Support Alliance) to treat Covid-19 in its treatment camps, especially the Government of Maharashtra Covid Centre.
 
 **N.I.C.E. helpline number: +91 8587059169**
@@ -300,10 +300,10 @@ The mitigation of mild or acute Covid-19 symptoms.
 In the book, N.I.C.E. way to Cure COVID-19, Dr. Chowdhury states that in the Covid treatment center managaged by his team, of some 5000+ patients that visited the center, about a 1000 had come there with a Covid-positive result, and the remaining were symptomatic but had not tested. There appeared to be no differential symptomatic markers between the two groups, and therefore Covid-19 can only be characterized as an Influenza-Like Illness, to which 40 - 60 % of the general population are shown to have some 'background' or cellular immunity, according to a study published in Cell, May, 2020.
 
 ### System
-Naturopathy, Ayurveda and Integrative medicine
+Naturopathy, Ayurveda and Integrative medicine.
 
 ### Can be used alongside other allopathic treatments
-Yes, recommended to be used alongside, if allopathic protocol is being followed
+Yes, recommended to be used alongside, if allopathic protocol is being followed.
 
 ### Status of authorisation:
 NISA is an alliance of several eminent holistic physcians, including Dr. Biswaroop Roy Chowdhury. They conduct a government-approved Covid camp in Maharashtra, where they have stated that over 50,000 Covid patients, including many with acute symptoms, have all been treated successfully and with zero fatalities in 1-2 weeks. Their very public assertions have not yet been significantly contradicted.
@@ -313,7 +313,7 @@ NISA is an alliance of several eminent holistic physcians, including Dr. Biswaro
 
 **<ins>The 3 Steps of the N.I.C.E. Protocol for Covid-19:</ins>**
 
-**<ins>Step One:</ins> Promoting mucosal immunity with prophylactic vitamin C via diet**
+**<ins>Step One:</ins> Promoting mucosal immunity with prophylactic vitamin C via diet.**<br>
 The body has three kinds of immunity to external pathogens- mucosal immunity, background or cellular immunity and herd immunity.
 
 According to a study published in Cell, **40 - 60 % of the populace already had cellular background immunity to Covid-19** even from the time that the novel coronavirus emerged, due to previous infections of this family of viruses. If 60 - 70 % of a population already has a degree of immunity to the virus, then the population could be said to possess a measure of **herd immunity** to the novel coronavirus and its variants.
@@ -328,22 +328,18 @@ A third type of external immunity is from the mucus, or Chipchipa Padaarth, as i
    - a handful of raw peas
    - 300 - 400 g of different types of fruits
 
-**<ins>Step Two:</ins> Three-day curative diet for Influenza-Like Illnesses (ILI)**
+**<ins>Step Two:</ins> Three-day curative diet for Influenza-Like Illnesses (ILI).**<br>
 General protocol to be followed throughout the days of the treatment, 7-15 days, focuses on strengthening the body's own immunity, and especially the first tier of mucosal immunity:
-
 **Day 1 (Liquid diet):** 
    - **Consume citrus fruit juice and coconut water in the quantity specified below: Body weight (in kg) / 10 glasses of fresh citrus fruit juice + [Body weight (in kg)] / 10 glasses of fresh tender coconut water.** Don't consume packed juice, but take fresh citrus fruit without sieving. Take citrus juice and coconut water alternately every hour, sip by sip, spending at least 15 minutes on each glass. This helps to keep temperature under control. The vitamin C in citrus fruit juice supports immunity and helps to eliminate the virus. Tender coconut water helps in hydration and is the best mineral water in the world, made by Nature.
-
 **Day 2 (Fluid diet):** 
    - **Consume the following foods on this day: [Body weight (in kg)] / 20 glasses of fresh citrus fruit juice + [Body weight (in kg)] / 20 glasses of fresh tender coconut water + [Body weight (in kg)] X 5 grams of cucumber and tomatoes.** For example, if the body weight is 60 kg, then (60 / 20 =) 3 glasses of citrus juice and 3 glasses of fresh tender coconut water, as well as (60 X 5 =) 300 grams of cucumber and tomatoes should be consumed on Day 2. Patients may be surprised to see that by the end of Day 2, they start feeling better and their temperature is under control. They would have regained some strength.
-
 **Day 3 (Solid diet):** 
    - **For Breakfast, consume [Body weight (in kg)] / 30 glasses of fresh citrus fruit juice + [Body weight (in kg)] / 30 glasses of fresh tender coconut water.** For example, if the body weight is 60 kg, then (60 / 3 =) 2 glasses of citrus fruit juice and 2 glasses of fresh tender coconut water should be consumed on Day 3.
    - **For Lunch, consume [Body weight (in kg)] X 5 grams of cucumber and tomatoes.** For example, if the body weight is 60 kg, then (60 X 5 =) 300 grams of cucumber and tomatoes should be consumed for lunch on Day 3.
    - **For Dinner, if the patient has recovered and is feeling fit, they can have normal home-cooked meals prepared according to the dietary principles of naturopathy or the DIP diet, described earlier in this sheet.** With this simple diet, most patients would be back to work on the fourth day after appearance of symptoms.
 
-
-**<ins>Step Three</ins>: Home management of dyspnoea and Emergency management of severe symptoms**
+**<ins>Step Three</ins>: Home management of dyspnoea and Emergency management of severe symptoms.**<br>
 If the infection migrates from the upper to the lower respiratory tract, more severe symptoms such as breathlessness or dyspnoea would begin to manifest, and the oxygen saturation levels would begin to drop to 90 % or below. In such situations, the patient must be educated to not seek artificial ventilation in hospitals, which are known to be associated with a high mortality, but instead create a ventilator at home with **techniques like prone ventilation and other methods. With the first sign of flu, contact the N.I.C.E. team at [www.biswaroop.com/nice](www.biswaroop.com/nice) or +91-8587059169 for free support, guidance and treatment.**
 
 SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating, for which reason it is not easy to develop drug treatments to mitigate the virus or vaccine preventatives. (A University College of London, May, 2020, study discovered 198 mutations of the virus in 7500 people.) The disease is dangerous only when the lower respiratory tract is affected, leading to pneumonia, ARDS (Acute Respiratory Distress Syndrome) or even cardiac injury. **This occurs when medications like antipyretic, antibiotic, antimalarial, anti-HIV, or any other medication directly or indirectly lowers the body's immunity. Rather than the novel coronavirus being the culprit, the real contributor to the death toll is the treatment method prescribed by the WHO, with experimental drugs, and the ICMR's death reporting guidelines. Several countries, like Vietnam, that did not follow these protocols suffered negligible deaths and their doctors are simply asked the patients to take complete rest.** About 10 percent of influenza is attributed to the family of four types of coronaviruses (229E, NL63, OC43, HKU1) known to man for long, and patients usually recover within 3-7 days. SARS-CoV-2 too belongs to the family of similar coronaviruses, to which the human body often has background immunity.
@@ -351,29 +347,18 @@ SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating,
 **Yoga and Praanayaama improve respiratory health and overall immunity, but masks achieve the opposite outcome. Masking for prolonged durations can precipitate Covid-like symptoms**, like hypoxia / low oxygen saturation, increase in pulse rate and slightly elevated body temperature. Interestingly, masks and alcohol-based hand sanitizers were invented by the same individual Dr. Joseph Lister, and both these products reduce the body's natural immunity.
 
 **<ins>Emergency Management of Covid symptoms</ins>, most important:**
-
-- **Breathing management**: If the oxygen saturation is greater than or equal to 88 %, this is manageable. Oxygen therapy is shown in research not to increase a person's life expectancy, and no oxygen is better than some oxygen. The mechanical ventilator, which is the second line of intervention for hypoxia in hospitals, is commonly associated with adverse side effects like Ventilator-Associated Lung Inury (VALI), oxygen toxicity, neurological damage, Ventilator-Associated Pneumonia (VAP). **A handheld or table fan held in front of the patient's nose for 5 minutes usually yields the same benefits as oxygen therapy, and without the toxicity created by inhalation of pure oxygen, especially in higher concentrations. In the minority of cases that the first hypoxia management method of using a handheld fan fails, use the Prone Ventilation method, where the patient is made to lie in a prone position (face down), with the support of pillows under the chest / abdominal-pelvic region for comfort, as required.**
-
-- **Cough management: If there is uncontrolled cough, then immediately along with the Three-day Flu Diet, start turmeric therapy. Consume a small piece (0.5 g) of fresh, raw turmeric 3 times a day, before breakfast, lunch and dinner. If there is no relief, double the dose of raw turmeric, i.e., instead of 3 times a day, take it 6 times a day.** The cough will subside in 2-3 days. Motivate the patient not to lose heart, and the cough will subside soon.
-
-- **Fever management**: If fever is less than or equal to 102 deg F, it is acceptable. **If fever crosses 102 deg F, manage the temperature with cold compresses and cold air for 15 minutes. If the patient starts shivering, stop the treatment process. Do not panic if fever reaches 103-104 deg F, and do not use antipyretic medication, which have no proven efficacy or evidence of preventing seizures.** Even if the temperature is very high, do not panic because the body has its own mechanisms fo homeostasis and will not let the temperature rise unduly high. In Dr. BRC's experience of 12 years of treating ILI, this has not happened even once. Continue to follow the Three-day Flu Diet and provide cold compress and cold air.
-
-- **Vomiting management: If there is vomiting, try to make the patient comfortable and stop his eating and drinking for 4 hours. If need be, ordinary water and coconut water can be given.** Vomiting is one of the healing symptoms of the body and usually need not be cause for concern.
-
-- **Management of nausea and extreme weakness: Nausea and weakness are part of the body's healing process and need not cause undue concern. Take a small piece of fresh ginger 3-4 times a day, which gives strength. If the patient refuses to take the pungent ginger in raw form, crush the ginger, boil it in water, and add lemon juice and honey. This ginger decoction should be sipped slowly and gives a little energy and strength.** When the fever subsides, these other symptoms will subside as well.
-
-- **Diarrhoea or loose motion management**: Sometimes patients experience loose motions while on the Three-day Flu Diet or the DIP Diet described earlier. **If the loose motion occurs more than 6-7 times, then the citrus fruit juice in the Three-day Flu Diet should be stopped (or the fruits and salads, in the DIP Diet), and only tender coconut water should be consumed until the loose motions completely stop.**
-
+   - **Breathing management**: If the oxygen saturation is greater than or equal to 88 %, this is manageable. Oxygen therapy is shown in research not to increase a person's life expectancy, and no oxygen is better than some oxygen. The mechanical ventilator, which is the second line of intervention for hypoxia in hospitals, is commonly associated with adverse side effects like Ventilator-Associated Lung Inury (VALI), oxygen toxicity, neurological damage, Ventilator-Associated Pneumonia (VAP). **A handheld or table fan held in front of the patient's nose for 5 minutes usually yields the same benefits as oxygen therapy, and without the toxicity created by inhalation of pure oxygen, especially in higher concentrations. In the minority of cases that the first hypoxia management method of using a handheld fan fails, use the Prone Ventilation method, where the patient is made to lie in a prone position (face down), with the support of pillows under the chest / abdominal-pelvic region for comfort, as required.**
+   - **Cough management: If there is uncontrolled cough, then immediately along with the Three-day Flu Diet, start turmeric therapy. Consume a small piece (0.5 g) of fresh, raw turmeric 3 times a day, before breakfast, lunch and dinner. If there is no relief, double the dose of raw turmeric, i.e., instead of 3 times a day, take it 6 times a day.** The cough will subside in 2-3 days. Motivate the patient not to lose heart, and the cough will subside soon.
+   - **Fever management**: If fever is less than or equal to 102 deg F, it is acceptable. **If fever crosses 102 deg F, manage the temperature with cold compresses and cold air for 15 minutes. If the patient starts shivering, stop the treatment process. Do not panic if fever reaches 103-104 deg F, and do not use antipyretic medication, which have no proven efficacy or evidence of preventing seizures.** Even if the temperature is very high, do not panic because the body has its own mechanisms fo homeostasis and will not let the temperature rise unduly high. In Dr. BRC's experience of 12 years of treating ILI, this has not happened even once. Continue to follow the Three-day Flu Diet and provide cold compress and cold air.
+   - **Vomiting management: If there is vomiting, try to make the patient comfortable and stop his eating and drinking for 4 hours. If need be, ordinary water and coconut water can be given.** Vomiting is one of the healing symptoms of the body and usually need not be cause for concern.
+   - **Management of nausea and extreme weakness: Nausea and weakness are part of the body's healing process and need not cause undue concern. Take a small piece of fresh ginger 3-4 times a day, which gives strength. If the patient refuses to take the pungent ginger in raw form, crush the ginger, boil it in water, and add lemon juice and honey. This ginger decoction should be sipped slowly and gives a little energy and strength.** When the fever subsides, these other symptoms will subside as well.
+   - **Diarrhoea or loose motion management**: Sometimes patients experience loose motions while on the Three-day Flu Diet or the DIP Diet described earlier. **If the loose motion occurs more than 6-7 times, then the citrus fruit juice in the Three-day Flu Diet should be stopped (or the fruits and salads, in the DIP Diet), and only tender coconut water should be consumed until the loose motions completely stop.**
 
 **<ins>Recommended Treatment Regimen Schedule in the second wave:</ins>**
-
-6:00 AM: Gargle with 3/4 teaspoonful of salt and 1/2 teaspoonful of turmeric in 1 glass of hot water. **Start sunbathing ([with minimal / light, preferably white-coloured attire][42]) and sungazing (no more than 20 seconds at a stretch).**
-
-6:15 AM: [Sniff one pinch each of dried ginger][43] (Chukku in Tamil, Saunth in Hindi) alternately in each nostril.
-
-6:25 AM: Anuloma Viloma Pranayama for 5 minutes
-
-6:30 AM: **Kadha or Kashaaya (Ayurvedic bitter concoction): Boil 0.5 - 1 teaspoonful of [turmeric][44] and 2 pinches of black pepper in a glass of water for 5 minutes. Cover and let the decoction cool. Add jaggery and 1/2 teaspoonful of [ghee][45] or oil, and sip it.**
+   - 6:00 AM: Gargle with 3/4 teaspoonful of salt and 1/2 teaspoonful of turmeric in 1 glass of hot water. **Start sunbathing ([with minimal / light, preferably white-coloured attire][42]) and sungazing (no more than 20 seconds at a stretch).**
+   - 6:15 AM: [Sniff one pinch each of dried ginger][43] (Chukku in Tamil, Saunth in Hindi) alternately in each nostril.
+   - 6:25 AM: Anuloma Viloma Pranayama for 5 minutes
+   - 6:30 AM: **Kadha or Kashaaya (Ayurvedic bitter concoction): Boil 0.5 - 1 teaspoonful of [turmeric][44] and 2 pinches of black pepper in a glass of water for 5 minutes. Cover and let the decoction cool. Add jaggery and 1/2 teaspoonful of [ghee][45] or oil, and sip it.**
 
 **Note on Turmeric tea**: Turmeric contains about 3-6 % Curcumin. **1 metric teaspoon of turmeric [weighs about 3.2 g][46], and therefore contains at least about 100 mg of Curcumin.** Various researchers have found [turmeric derivatives useful in the management of influenza virus infections, and doses of 6-7 g of turmeric daily are found to be well tolerated][47]. In fact, 500 mg of Curcumin (purified extract, containing about 95 % of Curcuminoids) twice a day is recommended by at least 3 highly effective allopathic protocols (namely, [The Zelenko protocol][a], [FLCCC's I-MASK+][b] and the [Ivermectin+Doxycycline+Cyproheptadine protocol][c] of Aguirre-Chang, Gustavo et al.).  This protocol prescribes 1-2 teaspoonsful of turmeric, which would contain about 100-200 mg of Curcumin.
 
@@ -381,39 +366,23 @@ SARS-CoV-2 is an RNA human respiratory influenza virus that is quickly mutating,
 
 [The World Health Organization (WHO) has determined 1.4 mg per pound (0–3 mg/kg) of body weight to be an acceptable daily intake of Curcumin][49], which would be no more than about 200 mg for an individual weighing about 60 kg.
 
-7:30 AM: [Fresh tender coconut water][50]
-
-8:00 AM: [Kadha of peepal leaves][51], only for patients with breathing difficulty
-
-8:30 AM: [Green juice][52], with cucumber or Lauki (bottlegourd) or ash gourd; **can stop sunbathing and sungazing which were begun at 6:00 AM.**
-
-9:30 AM: **Days 1 - 3**: Kadha or Kashaaya (Ayurvedic bitter concoction): 3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves to be boiled in a suitable small quantity of water
-
-10:30 AM: **Days 1 - 3**: Coconut water
-
-11:30 AM: **Days 1 - 3**: Fruit juice, of any seasonal fruits; **Subsequent days of the treatment**: Any seasonal fresh fruits to be eaten, 10 g / kg of body weight, as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary
-
-11:45 AM: Keep 1/4 teaspoonful of [fresh or dry ginger (Chukku or Saunth) in the mouth][53], let it dissolve there, and then swallow.
-
-1:00 PM: **Days 1 - 3: [Kadha or Kashaaya][54] (Ayurvedic bitter concoction): Boil 0.5 - 1 teaspoonful of turmeric and 2 pinches of black pepper in a glass of water for 5 minutes.** Cover and let the decoction cool. Add jaggery and 1/2 teaspoonful of ghee or oil, and sip it.
-
-2:00 PM: **Days 1 - 3**: Coconut water
-
-3:00 PM: **Days 1 - 3**: Fruit juice, of any seasonal fruits; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by [millet Khichdi][d], as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary ([or the regimen prescribed by India's Millet Man and integrative physician Dr. Khadar Vali][d]).
-
-4:00 PM: **Days 1 - 3**: Kadha or Kashaaya (Ayurvedic bitter concoction): 3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves to be boiled in a suitable small quantity of water; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by millet Khichdi, as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary ([or the regimen prescribed by India's Millet Man and integrative physician Dr. Khadar Vali][d]).
-
-4:30 PM: **Massage with Madaar (Aak or Arka, Erukku in Tamil, [Calotropis gigantea][55] / Giant milkweed / Crown flower) leaves**: Pieces of Madaar / Aak / Arka / Erukku (Calotropis Gigantea) leaves dipped in [mustard oil][56] should be heated till they become lukewarm and to be used for a light massage on chest, back and feet. The treatment should be continued until the cough symptom subsides.
-
-5:00 PM: Coconut water
-
-6:00 PM: **Days 1 - 3**: Fruit juice, of any seasonal fruits; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by healthy millet [Khameer][57] (leavened dough / sourdough, without refined sugar or white flour) or [Khichdi][58] as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary
-
-7:00 PM: Adusa juice: 3-4 tender leaves of [Adusa (Justicia adhatoda / Adhatoda vasica / Malabar nut)][59], a small cut piece of [ginger][60] (not more than 1 cm in length), and 5 leaves of [Tulasi][61] manually crushed and juice mixed with 3 drops of honey
-
-8:00 PM: [Kadha or Kashaaya of Peepal leaves][62], only for patients with breathing difficulty: Cut pieces of Peepal leaves boiled in about a glass of water until the water is reduced to about half a glass. Filter the water and drink. **For severe breathing problems, use Peepal bark instead of leaves** and repeat every hour.
-
-7 - 9 PM: Repeat the **turmeric + salt water gargling** performed at dawn. (Gargle with 3/4 teaspoonful of salt and 1/2 teaspoonful of turmeric in 1 glass of hot water.) The gargling is **followed by steam inhalation**, which is **followed by [banana Kashaaya][63]**, which is **prepared by boiling banana in water along with the peel**. Sip the banana Kashaaya and go to sleep.
+   - 7:30 AM: [Fresh tender coconut water][50]
+   - 8:00 AM: [Kadha of peepal leaves][51], only for patients with breathing difficulty
+   - 8:30 AM: [Green juice][52], with cucumber or Lauki (bottlegourd) or ash gourd; **can stop sunbathing and sungazing which were begun at 6:00 AM.**
+   - 9:30 AM: **Days 1 - 3**: Kadha or Kashaaya (Ayurvedic bitter concoction): 3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves to be boiled in a suitable small quantity of water
+   - 10:30 AM: **Days 1 - 3**: Coconut water
+   - 11:30 AM: **Days 1 - 3**: Fruit juice, of any seasonal fruits; **Subsequent days of the treatment**: Any seasonal fresh fruits to be eaten, 10 g / kg of body weight, as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary
+   - 11:45 AM: Keep 1/4 teaspoonful of [fresh or dry ginger (Chukku or Saunth) in the mouth][53], let it dissolve there, and then swallow.
+   - 1:00 PM: **Days 1 - 3: [Kadha or Kashaaya][54] (Ayurvedic bitter concoction): Boil 0.5 - 1 teaspoonful of turmeric and 2 pinches of black pepper in a glass of water for 5 minutes.** Cover and let the decoction cool. Add jaggery and 1/2 teaspoonful of ghee or oil, and sip it.
+   - 2:00 PM: **Days 1 - 3**: Coconut water
+   - 3:00 PM: **Days 1 - 3**: Fruit juice, of any seasonal fruits; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by [millet Khichdi][d], as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary ([or the regimen prescribed by India's Millet Man and integrative physician Dr. Khadar Vali][d]).
+   - 4:00 PM: **Days 1 - 3**: Kadha or Kashaaya (Ayurvedic bitter concoction): 3-4 leaves or 4-inch stem of Giloy, and 15-20 Tulasi leaves to be boiled in a suitable small quantity of water; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by millet Khichdi, as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary ([or the regimen prescribed by India's Millet Man and integrative physician Dr. Khadar Vali][d]).
+   - 4:30 PM: **Massage with Madaar (Aak or Arka, Erukku in Tamil, [Calotropis gigantea][55] / Giant milkweed / Crown flower) leaves**: Pieces of Madaar / Aak / Arka / Erukku (Calotropis Gigantea) leaves dipped in [mustard oil][56] should be heated till they become lukewarm and to be used for a light massage on chest, back and feet. The treatment should be continued until the cough symptom subsides.
+   - 5:00 PM: Coconut water
+   - 6:00 PM: **Days 1 - 3**: Fruit juice, of any seasonal fruits; **Subsequent days of the treatment**: Fresh raw salad to be eaten, 5 g / kg of body weight, followed by healthy millet [Khameer][57] (leavened dough / sourdough, without refined sugar or white flour) or [Khichdi][58] as prescribed in the dietary regimen of Dr. Bishwaroop Roy Choudhary
+   - 7:00 PM: Adusa juice: 3-4 tender leaves of [Adusa (Justicia adhatoda / Adhatoda vasica / Malabar nut)][59], a small cut piece of [ginger][60] (not more than 1 cm in length), and 5 leaves of [Tulasi][61] manually crushed and juice mixed with 3 drops of honey
+   - 8:00 PM: [Kadha or Kashaaya of Peepal leaves][62], only for patients with breathing difficulty: Cut pieces of Peepal leaves boiled in about a glass of water until the water is reduced to about half a glass. Filter the water and drink. **For severe breathing problems, use Peepal bark instead of leaves** and repeat every hour.
+   - 7 - 9 PM: Repeat the **turmeric + salt water gargling** performed at dawn. (Gargle with 3/4 teaspoonful of salt and 1/2 teaspoonful of turmeric in 1 glass of hot water.) The gargling is **followed by steam inhalation**, which is **followed by [banana Kashaaya][63]**, which is **prepared by boiling banana in water along with the peel**. Sip the banana Kashaaya and go to sleep.
 
 **<ins>General precautions:</ins>**
    1. Three-day Protocol is be used only for treatment when fever and other acute symptoms are there. For prevention and after-treatment, another protocol is to be used.
@@ -439,7 +408,7 @@ After 72 hours of the Three Step Flu Diet on patients, including those who were 
    - 100 % of the patients were relieved of all the symptoms.
    - 75 % of the patients tested negative for Covid-19.
 
-The Director General of Poilice of Indore, Sri Hari Narayan Chari Mishra, found similar outcomes with adopting the Three Step Flu Diet with the policemen of Indore, being able to reverse Covid-19 in 3-5 days. His personal coverage of the outcome in the leading newspaper of Indore, the Dainik Bhaskar, is testimony of his work."
+The Director General of Poilice of Indore, Sri Hari Narayan Chari Mishra, found similar outcomes with adopting the Three Step Flu Diet with the policemen of Indore, being able to reverse Covid-19 in 3-5 days. His personal coverage of the outcome in the leading newspaper of Indore, the Dainik Bhaskar, is testimony of his work.
 
 ### Significant side effects:
 It has been observed that sometimes patients experience loose motion or diarrhoea while following the Three Step Flu Diet. If this happens more than 6-7 times, the patient should completely stop the citrus fruit juice in the Three Step Flu Diet, and consume only coconut water until the loose motion stops.
@@ -498,7 +467,7 @@ The protocol mostly uses everyday household ingredients, and fruits and vegetabl
 Mitigating treatment, supports the body's natural immunity during other treatments and greatly aids recovery.
 
 ### System
-Naturopathy
+Naturopathy.
 
 ### Can be used alongside other allopathic treatments
 Certainly, if the patient feels comfortable with the regimen while pursuing other treatment options.
@@ -568,13 +537,13 @@ There are a vast number of online sources to learn the naturopathic or natural l
 ## 7. Dr. Eapen Koshy's prescription for prevention through raising natural immunity by alkalizing the body
 
 ### Objective
-Prophylaxis for and mitigation of Covid
+Prophylaxis for and mitigation of Covid.
 
 ### System
-Naturopathy and indigenous medicine
+Naturopathy and indigenous medicine.
 
 ### Can be used alongside other allopathic treatments
-Yes
+Yes.
 
 ### Status of authorisation:
 The protocol is confirmed as effective through extensive clinical trials in Nigeria and around the world. Described in detail by reputed physician in Lagos, Nigeria, Dr. Eapen Koshy, MBBS, MS, FRCS(London), DNB, MBA, in multiple video testimonies, and it has been reported that Dr. Eapen successfully used the remedy to bring Covid mortality to zero in Nigeria during the "first wave" of the pandemic in 2020.Dr.Koshy has long been researching about gaining health through natural food and lifestyle and is the author of the book, "Beyond Modern Medicine".
@@ -589,38 +558,38 @@ With a healthy natural immune system, the body's immune reaction to pathogens wo
 **These ingredients are admittedly very pungent or spicy or sour to the taste, especially to those who lack core strength, a healthy and pH-neutral body and digestive health. However, if they are consumed in the specific sequence described above, the discomfort due to their sharp taste can be minimized, according to Dr. Eapen. Ginger, which is the most alkalizing, and is also the most pungent to the tastebuds, is consumed first raw and whole, along with its skin, which is its most alkalizing feature. Turmeric water, which has the least pungency and alkalinity can be consumed in slightly warm water last, and washes away the sharpness of the previous ingredients consumed. It is recommended to have more turmedic water if needed after half an hour, in order to feel vitalized.**
 
 **<ins>Prescribed principles of a natural and healthy lifestyle for health:</ins>**
-1. The **timings of food are even more important than the type of food.** Awaken, bathe and have breakfast by sunrise, and around 8 AM. Have lunch around 12 PM, when the gastric juices are at their peak of function. Lunch consumed later in the afternoon can even be harmful. Dinner should be consumed by sunset.
-2. It is very important to **consume food that is predominantly (85 %) alkalizing**. If acidifying food is eaten, then alkalizing food must be eaten to offset or neutralize such food. After an acidifying meal like nonvegetarian food with commercial soft drinks like Coca Cola, the body is effectively imprisoned in a subsequent state of impaired immunity for about 12 hours.
-3. It is important to **reduce sugar intake and exercise regularly**.
-4. It is recommended to **emphasize superfoods like gooseberries, avocado, moringa, spirulina etc. in the diet.**
-5. Try to **choose a green habitat and communities should plant many trees in the environment that affect the ecosystem in a manner akin to "alkalizing" it by producing highly oxygenated "super air".** Though there has not been much research in this direction, maybe the coconut palm is such a tree, growing in abundance in southern India.
-6. It is very important to **avoid excessive exposure to EMF radiation**, such as through wifi. There are **many studies that evidence the paramount importance of intercellular communication, and wifi or EMF exposure interferes with these communication pathways, accelerating the process of ageing.**
-7. The doctor observed among healty centenarians in Africa that their habits are **regular and moderate**. Alcohol in moderation is deemed healthy but not when consumed in immoderate amounts. Drinking a Moringa tea everyday might promote good health.
-8. It is advisable to **consume locally growing medicinal plants** like Punarnava (in Sanskrit) in south India, also called Thazhuthama in Malayalam or Boerhavia diffusa, which rejuvenate vital organs like the liver and kidneys and strengthen immunity.
-9. The doctor and several others have observed a Covid-like illness in the months preceding the official recognition of the outbreak. Whether or not the disease is manmade, **the only sustainable antidote to the virus is for mankind to raise their natural immunity.**
-10. It is important for the detoxification of the body to **walk without footwear, in order to facilitate grounding and the passage of surcess electrons into the earth.**
-11. Milk is a white poison, and its calcium is not well absorbed by the body. **Dairy products are highly acidifying and are best avoided.** It is possible that the cardiovascular problems of lacto-vegetarian communities like the Brahmins are due to their consumption of milk and milk products like curd. **Milk has a strong kapha-producing effect on the body.**
-12. The night and darkness are as important for the body as daylight. **Artificial lighting, especially from screens, is best avoided. Sleep can be assisted by an alkalizing diet at dinnertime.** For example, dinner could consist of two bitter gourds lightly cooked with a little rice. This is highly alkalizing food, and would greatly assist proper sleep at night. Another example would be about 4-5 raw ladies' fingers. Yet another suggestion is a salad consisting of finely chopped cucumbers, carrots, two varieties of fruits like pineapples and apples, and a variety of seeds like almonds or peanuts or cashew nuts, consumed before dinner. **Fruits and fruit salads should be consumed before dinner to prepare the digestive ability in advance. The combined effect of these different items exceeds that of these items consumed individually. It is a mistake to use chemical sedatives to treat insomnia.**
-13. **Fasting is very important for health and should be compulsorily incorporated into one's life. Mahatma Gandhi's fasting was the reason for their inner strength and clarity of intellect. Intermittent fasting is very useful to maintain good health.** When, after the commencement of a fast, the body feels a craving for food, is the point at which the body switches over to utilising the hormone glucagon in drawing on its own stored reserves of energy (from using energy from digested food).
-14. **In order to prevent unhealthy bloating and gas formation after food, it is important to maintain the health of the gut biota. This is achieved by having meals at the proper times, completely eschewing from all artificial chemicals, consuming healthy vegetables and alkalizing foods as prebiotics and good probiotics like Yakult, fermented foods and Kefir.**
+   1. The **timings of food are even more important than the type of food.** Awaken, bathe and have breakfast by sunrise, and around 8 AM. Have lunch around 12 PM, when the gastric juices are at their peak of function. Lunch consumed later in the afternoon can even be harmful. Dinner should be consumed by sunset.
+   2. It is very important to **consume food that is predominantly (85 %) alkalizing**. If acidifying food is eaten, then alkalizing food must be eaten to offset or neutralize such food. After an acidifying meal like nonvegetarian food with commercial soft drinks like Coca Cola, the body is effectively imprisoned in a subsequent state of impaired immunity for about 12 hours.
+   3. It is important to **reduce sugar intake and exercise regularly**.
+   4. It is recommended to **emphasize superfoods like gooseberries, avocado, moringa, spirulina etc. in the diet.**
+   5. Try to **choose a green habitat and communities should plant many trees in the environment that affect the ecosystem in a manner akin to "alkalizing" it by producing highly oxygenated "super air".** Though there has not been much research in this direction, maybe the coconut palm is such a tree, growing in abundance in southern India.
+   6. It is very important to **avoid excessive exposure to EMF radiation**, such as through wifi. There are **many studies that evidence the paramount importance of intercellular communication, and wifi or EMF exposure interferes with these communication pathways, accelerating the process of ageing.**
+   7. The doctor observed among healty centenarians in Africa that their habits are **regular and moderate**. Alcohol in moderation is deemed healthy but not when consumed in immoderate amounts. Drinking a Moringa tea everyday might promote good health.
+   8. It is advisable to **consume locally growing medicinal plants** like Punarnava (in Sanskrit) in south India, also called Thazhuthama in Malayalam or Boerhavia diffusa, which rejuvenate vital organs like the liver and kidneys and strengthen immunity.
+   9. The doctor and several others have observed a Covid-like illness in the months preceding the official recognition of the outbreak. Whether or not the disease is manmade, **the only sustainable antidote to the virus is for mankind to raise their natural immunity.**
+   10. It is important for the detoxification of the body to **walk without footwear, in order to facilitate grounding and the passage of surcess electrons into the earth.**
+   11. Milk is a white poison, and its calcium is not well absorbed by the body. **Dairy products are highly acidifying and are best avoided.** It is possible that the cardiovascular problems of lacto-vegetarian communities like the Brahmins are due to their consumption of milk and milk products like curd. **Milk has a strong kapha-producing effect on the body.**
+   12. The night and darkness are as important for the body as daylight. **Artificial lighting, especially from screens, is best avoided. Sleep can be assisted by an alkalizing diet at dinnertime.** For example, dinner could consist of two bitter gourds lightly cooked with a little rice. This is highly alkalizing food, and would greatly assist proper sleep at night. Another example would be about 4-5 raw ladies' fingers. Yet another suggestion is a salad consisting of finely chopped cucumbers, carrots, two varieties of fruits like pineapples and apples, and a variety of seeds like almonds or peanuts or cashew nuts, consumed before dinner. **Fruits and fruit salads should be consumed before dinner to prepare the digestive ability in advance. The combined effect of these different items exceeds that of these items consumed individually. It is a mistake to use chemical sedatives to treat insomnia.**
+   13. **Fasting is very important for health and should be compulsorily incorporated into one's life. Mahatma Gandhi's fasting was the reason for their inner strength and clarity of intellect. Intermittent fasting is very useful to maintain good health.** When, after the commencement of a fast, the body feels a craving for food, is the point at which the body switches over to utilising the hormone glucagon in drawing on its own stored reserves of energy (from using energy from digested food).
+   14. **In order to prevent unhealthy bloating and gas formation after food, it is important to maintain the health of the gut biota. This is achieved by having meals at the proper times, completely eschewing from all artificial chemicals, consuming healthy vegetables and alkalizing foods as prebiotics and good probiotics like Yakult, fermented foods and Kefir.**
 
 ### Typical duration of treatment:
-Daily regimen for prevention of all disease
+Daily regimen for prevention of all disease.
 
 ### Outcome:
 It is said that this treatment is an excellent prophylaxis for and mitigation of Covid.
 
 ### Significant side effects:
-No adverse effects known, improved overall health and immunity
+No adverse effects known, improved overall health and immunity.
 
 ### Recommended quantity for stocking:
-Everyday foods stocked for the week, 75 g ginger, one pod garlic, 7 lemons for one person each week
+Everyday foods stocked for the week, 75 g ginger, one pod garlic, 7 lemons for one person each week.
 
 ### Price:
-Commonly stocked in kitchens, no extra cost
+Commonly stocked in kitchens, no extra cost.
 
 ### Suggested suppliers:
-Local grocers
+Local grocers.
 
 ### Further references:
    - [Covid-19 pandemic Q/A with Dr. Eapen Koshy | Lagos, Nigeria | Sri. P.V Behanan][124]
@@ -640,13 +609,13 @@ Local grocers
 ## 8. Dr. Bryan Ardis' Natural Protocol for Covid-19
 
 ### Objective
-Prophylactic and treatment of early symptoms
+Prophylactic and treatment of early symptoms.
 
 ### System
-Allopathic and nutritional medicine
+Allopathic and nutritional medicine.
 
 ### Can be used alongside other allopathic treatments
-Yes
+Yes.
 
 ### Status of authorisation:
 Based on published research, and to be found on Dr. Ardis' PDF report "The Dangers Of The Covid-19 Vaccine Report", accessible from his website.
@@ -664,13 +633,13 @@ Based on published research, and to be found on Dr. Ardis' PDF report "The Dange
    - Selenium- 400 mcg / day
 
 ### Outcome:
-The building of immunity against Covid
+The building of immunity against Covid.
 
 ### Significant side effects:
-No significant side effects reported of therapeutic dosages of vitamins and other nutrients
+No significant side effects reported of therapeutic dosages of vitamins and other nutrients.
 
 ### Suggested suppliers:
-Local and online pharmaceutical suppliers
+Local and online pharmaceutical suppliers.
 
 ### Further references:
    - [PINE TEA: Possible Antidote for Spike Protein Transmission][137]
@@ -678,10 +647,10 @@ Local and online pharmaceutical suppliers
 ## 9. Camphor + Ajwain / Carom seeds + Lavang / Cloves + Eucalyptus oil aromatic pouch / Potli for inhalation
 
 ### Objective
-Relief from respiratory congestion and breathing difficulty, and increase blood oxygenation
+Relief from respiratory congestion and breathing difficulty, and increase blood oxygenation.
 
 ### System
-Traditional medicine, recommended also by naturopaths
+Traditional medicine, recommended also by naturopaths.
 
 ### Can be used alongside other allopathic treatments
 Yes.
@@ -708,7 +677,7 @@ There is also much [anecdotal evidence from clinicians][151] and patients who ha
 A pinch of camphor, a spoon of Ajwain / Carom seeds (perhaps roasted to release more vapours), Lavang / Clove, a few drops of Eucalyptus oil, mixed and tied together in a cotton Potli / Kizhi or small pouch, and sniffed in 10-15 deep breaths every 1-2 hours. This treatment can be preceded by a topical massage of the chest with Ayurvedic Abhyang oil.
 
 ### Typical duration of treatment:
-About 24 hours
+About 24 hours.
 
 ### Outcome:
 Patients who have used the Potli therapy report immediate symptomatic relief.
@@ -723,10 +692,10 @@ Household supplies, 1-2 packets of pure natural Camphor and about 200g Ajwain.
 Ordinary household commodities could be used to make this home remedy.
 
 ### Suggested suppliers:
-Local grocery or supermarket
+Local grocery or supermarket.
 
 ### Further references:
-A great deal of anecdotal evidence from clinicians, such as [cardiologist Dr. Shilpa Dane's video testimony][153]. For example, ""Sharing an Incident that happened with Mr. Pramod Malkan. His daughter-in-law was tested positive for Covid and oxygen level went down to 80-85 and immediate hospitalization was recommended. Being skeptical abt the treatments at hospitals, Mr. Pramod decided to use a home remedy instead. He mixed a cube of camphor with a spoon of carom seeds and tied it in a piece of cotton cloth. He then made her smell it 10-15 times with deep breaths and repeat the same action every two hours. Within 24 hrs her oxygen level went to 98-99 without any hospitalization. After this, he helped one of his friends who was hospitalized for covid with the same remedy and as a result, his friend was released from the hospital. Carom seeds is - ajwain अजवाइन (ओवा)""
+A great deal of anecdotal evidence from clinicians, such as [cardiologist Dr. Shilpa Dane's video testimony][153]. For example, "Sharing an Incident that happened with Mr. Pramod Malkan. His daughter-in-law was tested positive for Covid and oxygen level went down to 80-85 and immediate hospitalization was recommended. Being skeptical abt the treatments at hospitals, Mr. Pramod decided to use a home remedy instead. He mixed a cube of camphor with a spoon of carom seeds and tied it in a piece of cotton cloth. He then made her smell it 10-15 times with deep breaths and repeat the same action every two hours. Within 24 hrs her oxygen level went to 98-99 without any hospitalization. After this, he helped one of his friends who was hospitalized for covid with the same remedy and as a result, his friend was released from the hospital. Carom seeds is - ajwain अजवाइन (ओवा)."
 
 Reported to be stocked in ambulances, used to reoxygenate climbers and travellers in high altitude pilgrimage centers like Badrinath and Amarnath, and other Himalayan heights like Ladakh.
    - [Ayurveda Acharya Dr. Balaji Tambe: Camphor-Ajwain for Breath][154]
@@ -739,27 +708,27 @@ A few other (indirect) references from research are cited in the "Status of Auth
 Treatment to prevent cytokine storm in Covid-19 and SPO2 level maintenance. To be only taken by people who have symptoms; it does not matter whether they test positive or not. It is not a preventative medicine.
 
 ### System
-Ayurveda, Naturopathy
+Ayurveda, Naturopathy.
 
 ### Can be used alongside other allopathic treatments
-Recommended to be used exclusively, before commencing or after stopping allopathic medication
+Recommended to be used exclusively, before commencing or after stopping allopathic medication.
 
 ### Status of authorisation:
-Sourced from apparently official video documenting Expert guidance from Prof. Dr. Dileep Kumar P. P., MD, PhD (Dravyaguna), Ayurveda Pharmacology, Ambuja Institute of Ayurvedic Research and Documentation, Udayamperoor P.O., Ernakulam, Kerala, Prepared for SIIMSAR Doctors School of Swasthavritta (Social and Preventative Medicine), Navi Mumbai
+Sourced from apparently official video documenting Expert guidance from Prof. Dr. Dileep Kumar P. P., MD, PhD (Dravyaguna), Ayurveda Pharmacology, Ambuja Institute of Ayurvedic Research and Documentation, Udayamperoor P.O., Ernakulam, Kerala, Prepared for SIIMSAR Doctors School of Swasthavritta (Social and Preventative Medicine), Navi Mumbai.
 
 ### Protocol and treatment approach:
-Ingredients: 2 pieces of shallots or small onions, 2 star anise, 20 black pepper, 4 tsp coriander seeds, 1/2 tsp fenugreek seeds, 1/2 tsp turmeric powder,
+Ingredients: 2 pieces of shallots or small onions, 2 star anise, 20 black pepper, 4 tsp coriander seeds, 1/2 tsp fenugreek seeds, 1/2 tsp turmeric powder.
 
 Preparation and dosage: Coarsely crush and add these six ingredients to 2 glasses of water, boil and reduce it to 1 glass of the decoction. Filter the decoction and drink it piping hot 3 times a day, freshly prepared for 5 days.
 
 ### Typical duration of treatment:
-5 days
+5 days.
 
 ### Outcome:
 Treatment of Covid-19, including prevention of cytokine storm and SPO2 level maintenance in symptomatic patients who are not on allopathic medication.
 
 ### Significant side effects:
-None known, natural remedy
+None known, natural remedy.
 
 ### Recommended quantity for stocking:
    - 1/2 kg shallots
@@ -770,10 +739,10 @@ None known, natural remedy
    - 100 g gram organic turmeric powder
 
 ### Price:
-Common Indian kitchen ingredients
+Common Indian kitchen ingredients.
 
 ### Suggested suppliers:
-Local (Indian) grocery stores
+Local (Indian) grocery stores.
 
 ### Further references:
    - [Spices and herbs: Potential antiviral preventives and immunity boosters during COVID‐19; Namita Ashish Singh et al.; Phytotherapy Research; Jan 29, 2021][155]
@@ -782,16 +751,16 @@ Local (Indian) grocery stores
 ## 12. A variety of anti-inflammatory herbal teas and other home remedies, containing nutrients and other properties that are potently beneficial to the immune system
 
 ### Objective
-The mitigation of inflammation in the body through herbal decoctions based on scientific / empirical evidence, and thereby supporting the immune system
+The mitigation of inflammation in the body through herbal decoctions based on scientific / empirical evidence, and thereby supporting the immune system.
 
 ### System
-Naturopathy / Nutritional medicine / Ayurveda 
+Naturopathy / Nutritional medicine / Ayurveda.
 
 ### Can be used alongside other allopathic treatments
-Yes
+Yes.
 
 ### Status of authorisation:
-Supported by scientific evidence / empirical knowledge / traditional validity / widespread anecdotal evidence
+Supported by scientific evidence / empirical knowledge / traditional validity / widespread anecdotal evidence.
 
 ### Protocol and treatment approach:
 How to brew a better cup of tea:
@@ -805,17 +774,17 @@ How to brew a better cup of tea:
 
 <ins>CAUTION:</ins> It is important to recognize that while they are generally nontoxic and very safe to consume, even more so than most other pharmaceutical products, these commonly used medicinal herbs may nonetheless be unsuitable for pregnant or lactating mothers, and may be likely to interact adversely with other drugs. Such adverse effects should be investigated and ruled out before they are consumed on a regular basis.
 
-   - [A traditional, reportedly effective recipe, recommended by Ayurvedic and naturopathic physicians that was used as prophylactic by the holistic health community in South India:][157]
+   - [A traditional, reportedly effective recipe, recommended by Ayurvedic and naturopathic physicians that was used as prophylactic by the holistic health community in South India][157]
    - Ginger + pepper + honey + lemon tea: Make decoction with crushed ginger, pepper and sweetener like honey. Add lemon juice  after a while, after taking out from the stove. The decoction can be drunk once or twice a day.
 
 [iahas.com](iahas.com):
    - **Cloves and banana mixture**: Mix 7 to 8 cloves with a banana. Keep it overnight and have it in the morning. The remedyis said to be very useful for asthma and wheezing.
    - **Ajwain + Tulasi + Pepper + Ginger Tea:** Herbal tea made by mixing Ajwain, Tulasi, pepper, and ginger is effective organic cough medicine for asthma patients. Drink this tea twice daily for best results.
    - **Ginger and Turmeric milk:** Ginger and Turmeric are full of antioxidants, rich in anti-inflammatory properties and very useful in treating Asthma. Mix 1 tbsp of turmeric powder and a little amount of grounded ginger in a cup of hot milk and drink it twice a day. To add flavour and sweetness, use honey and black pepper.
-   - **Curative Ayurvedic herbs for wheezing and asthma:** Black raisin, Honey and Cloves, Ginger, Turmeric, Cinnamon, Liquorice, Mustard oil
+   - **Curative Ayurvedic herbs for wheezing and asthma:** Black raisin, Honey and Cloves, Ginger, Turmeric, Cinnamon, Liquorice, Mustard oil.
 
 **Amla / Lemon + Cinnamon + Turmeric + Black pepper + Jaggery tea: (Recipe by Raw Food Healer and Nutritionist, Crystal Caisa)**<br>
-Fill a large glass with warm wate, not much above body temperature but comfortable to sip. (The temperature must not be too warm because Ayurveda recommends against heating honey.) Add 1 Amla or Gooseberry blended or freshly squeezed Lemon, 1/4 teaspoon Cinnamon, 1/4 tspn Turmeric, 1/4  tspn Black pepper, 1 tspn Jaggery. The proportions of the ingredients can be adjusted to taste.
+Fill a large glass with warm water, not much above body temperature but comfortable to sip. (The temperature must not be too warm because Ayurveda recommends against heating honey.) Add 1 Amla or Gooseberry blended or freshly squeezed Lemon, 1/4 teaspoon Cinnamon, 1/4 tspn Turmeric, 1/4  tspn Black pepper, 1 tspn Jaggery. The proportions of the ingredients can be adjusted to taste.
 
 [thealternativedaily.com](http://thealternativedaily.com/:): 6 teas that reduce chronic inflammation:
    - **Green tea: Green tea contains the highest concentration of powerful antioxidants called polyphenols, since it’s made from unfermented leaves. Of these polyphenols, Epigallocatechin-3-gallate (EGCG) is the most potent. Green tea may help fight inflammatory conditions like Crohn’s disease, ulcerative colitis, inflammatory bowel disease and certain cancers.**
@@ -849,19 +818,19 @@ Fill a large glass with warm wate, not much above body temperature but comfortab
       (Serves 4.) Bring a little oveer 4 cups of water to boil in a saucepan and add to it the following ingredients: 12 pieces of Mint leaves, 8 pcs Holy basil or Tulasi leaves, 4 pcs green cardamom, 2 g cinnamon, and 20 g fresh ginger. Simmer for 5-7 minutes and switch off the heat. Allow the decoction to steep while cooling, and then add about 20 g organic jaggery and freshly squeezed lemon juice to taste before serving.
 
 ### Typical duration of treatment:
-Prophylactic treatment for regular use, mitigates infections without any known adverse effects, immune-supportive
+Prophylactic treatment for regular use, mitigates infections without any known adverse effects, immune-supportive.
 
 ### Outcome:
-Prophylactic, mitigates infections without any known adverse effects, immune-supportive
+Prophylactic, mitigates infections without any known adverse effects, immune-supportive.
 
 ### Significant side effects:
-None known, supportive of overall health
+None known, supportive of overall health.
 
 ### Recommended quantity for stocking:
 Uses household ingredients available in ordinary Indian grocery cuisine and stores. There may be no need to stock at this early stage.
 
 ### Price:
-Ordinary kitchen ingredients
+Ordinary kitchen ingredients.
 
 ### Suggested suppliers:
 Kitchen ingredients that are regularly used in Indian cooking.
@@ -899,10 +868,10 @@ Kitchen ingredients that are regularly used in Indian cooking.
 ## 13. Honey and Nigella sativa (HNS) OR Nigella sativa seed oil (NSO)
 
 ### Objective
-The mitigation of Covid-19 infection as well as prophylaxing using Nigella sativa
+The mitigation of Covid-19 infection as well as prophylaxing using Nigella sativa.
 
 ### System
-Natural medicine, herbal and nutritional medicine
+Natural medicine, herbal and nutritional medicine.
 
 ### Can be used alongside other allopathic treatments
 Yes.
@@ -928,8 +897,7 @@ The study used HNS as an adjunct therapy to standard care therapy as advised by 
 
 **The Honey + Nigella sativa adjunct therapy involved administering patients 1 g / kg / day of honey and 80 mg / kg / day of Nigella sativa for up to 13 days in each dose. These were given 2-3 times a day, depending on the patient's comfort with the dosage. The honey was dissolved in 1 large cup or 250 mL of warm water, while the Nigella sativa was provided in capsules. (A tablespoon of honey weighs approximately 21 g. A metric teaspoon of Black cumin seeds weighs about 5 g.)**
 
-
-**Nigella seed oil (NSO) therapy:**
+**<ins>Nigella seed oil (NSO) therapy:</ins>**
 **The treatment adopted in the research study involved administering 500 mg NSO (MARNYS® Cuminmar) twice daily for 10 days to adult patients with mild Covid-19 symptoms, as adjunct therapy to standard of care.**
 
 Research published in the journal Vascular Pharmacology shows that a molecule found in Nigella sativa, also known as Black seed or Black cumin, binds to ACE2 receptors in the lungs, potentially stopping spike protein particles from inducing inflammation and vascular damage. The molecule is being studied for possible drug development. Researchers out of India investigated the effects of Nigellidine, an indazole alkaloid of black seed, using molecular docking for binding to different Angiotensin-binding proteins, as well as the spike glycoprotein. They found that nigellidine “strongly binds” to the spike protein at what is known as the hinge region or active site opening, which may in turn hamper its binding to ACE2 receptor surfaces.
@@ -941,13 +909,13 @@ Besides Nigellicine, Nigellidine is found in the seed coat of Nigella sativa. Bo
 Black seed is also recognized as a metabolic protector, helping to improve lipid and blood sugar levels.
 
 ### Typical duration of treatment:
-1-2 weeks, in a research study that used HNS as adjunct therapy to mainstream treatment
+1-2 weeks, in a research study that used HNS as adjunct therapy to mainstream treatment.
 
 A research study reported that **Honey + Nigella Sativa therapy (HNS), used as an adjunct therapy alongside mainstream treatment, was found to alleviate Covid-19 symptoms in 4 and 6 days in moderate and severe cases, respectively, compared to 7 and 13 days, respectively, in the control group. Viral clearance also occurred 4 days earlier for both moderate and severe cases in the HNS group, compared to the control group.**
 
 ### Outcome:
-**Outcome of Honey + Nigella Sativa (HNS) therapy as adjunct to Standard Of Care in its first clinical trial on 313 patients in Pakistan with moderate to severe Covid-19:
-The intervention was found to alleviate Covid-19 symptoms in 4 and 6 days in moderate and severe cases, respectively, compared to 7 and 13 days, respectively, in the control group. Viral clearance also occurred 4 days earlier for both moderate and severe cases in the HNS group, compared to the control group. In addition, HNS reduced mortality among the severe patients. 30-day mortality was reported as 18.87 % in the control group, and 4 %, i.e., over four-fold lower in the HNS treatment group.**
+**Outcome of Honey + Nigella Sativa (HNS) therapy as adjunct to Standard Of Care in its first clinical trial on 313 patients in Pakistan with moderate to severe Covid-19:**
+**The intervention was found to alleviate Covid-19 symptoms in 4 and 6 days in moderate and severe cases, respectively, compared to 7 and 13 days, respectively, in the control group. Viral clearance also occurred 4 days earlier for both moderate and severe cases in the HNS group, compared to the control group. In addition, HNS reduced mortality among the severe patients. 30-day mortality was reported as 18.87 % in the control group, and 4 %, i.e., over four-fold lower in the HNS treatment group.**
 
 The study results show that HNS promotes viral clearance, reduces severity of the disease and mortality, and is a safe and effective therapy for moderate to severe Covid-19 cases, say researchers. Thus, HNS represents an affordable over the counter therapy and can either be used alone or in combination with other treatments to achieve potentiating effects against COVID-19.
 
@@ -966,7 +934,7 @@ Both honey are common cooking ingredients found in Indian kitchens, and if not, 
 The whole treatment course is reported to have cost less than $5. Online stores sell Nigella sativa at about INR 200 for 250 g. Honey can cost between INR 350 to INR 1500 per kg, depending on quality.
 
 ### Suggested suppliers:
-Local groceries and Indian groceries
+Local groceries and Indian groceries.
 
 ### Further references:
    - [nutraingredients-asia.com: Covid-19 RCT: Honey and Black cumin seeds help speed up recovery in Covid-19 patients; Nov 25, 2020][190]
@@ -984,10 +952,10 @@ Local groceries and Indian groceries
 ## 14. Miscellaneous traditional and scientific home remedies for ailments associated with Covid-19
 
 ### Objective
-The treatment of miscellaneous symptoms of Covid-19 using home remedies, the identification of miscellaneous herbs and kitchen ingredients that mitigate symptoms of Covid-19
+The treatment of miscellaneous symptoms of Covid-19 using home remedies, the identification of miscellaneous herbs and kitchen ingredients that mitigate symptoms of Covid-19.
 
 ### System
-Naturopathy, indigenous medicine like Traditional Chinese Medicine and Ayurveda
+Naturopathy, indigenous medicine like Traditional Chinese Medicine and Ayurveda.
 
 ### Can be used alongside other allopathic treatments
 Yes, but discretion is advised, and physician's guidance, while pharmaceutical products like prescription blood thinners. 
@@ -1003,38 +971,29 @@ Many other herbs and herbal decoction described here are long known to be effect
 A preprint research [study][201] reported that Cannabidiol (CBD), a compound produced by the Cannabis plant, whose medicinal properties are well recognized in holistic medicine, inhibits SARS-CoV-2 infection. CBD and its metabolite, 7-OH-CBD, but not congeneric Cannabinoids, potently block SARS-CoV-2 replication in lung epithelial cells. CBD acts after cellular infection, inhibiting viral gene expression and reversing many effects of SARS-CoV-2 on host gene transcription. CBD induces Interferon expression and up-regulates its antiviral signaling pathway. A cohort of human patients previously taking CBD had significantly lower SARSCoV-2 infection incidence of up to an order of magnitude relative to matched pairs or the general population. The study highlighted CBD, and its active metabolite, 7-OH-CBD, as potential preventative agents and therapeutic treatments for SARS-CoV-2 at early stages of infection. Here is a reference page with [dosing information on prophylactic CBD.][202]
 
 [11 scientifically validated natural blood thinners to mitigate thrombocytopenia][203]:
-   1. **[Raw turmeric root][204]**, well-known and used for its anti-inflammatory and antiviral effect as well (with active ingredient, Curcumin)
-   2. **Raw ginger root**, also commonly used for its anti-inflammatory effect (Contains Salicylate, of which Aspirin is a synthetic derivative)
-   3. **Cayenne pepper seeds**, grown in subtropical regions, including in parts of India (with active ingredient Salicylate, reduces blood pressure, improves blood circulation)
-   4. **Vitamin E**, of which **almonds and sunflower seeds and oil** are a common food source
-   5. **Garlic**, which is well-known to have a powerful antithrombotic effect, as well as anti-inflammatory and antibiotic effect
-   6. **Cassia Cinnamon or Chinese Cinnamon bark** (with active ingredient, Coumarin)
-   7. **Gingko Biloba (or maidenhair tree) leaves**, used commonly in Chinese traditional medicine, which was shown in a study to have fibrinolytic effects similar to Streptokinase
+   1. **[Raw turmeric root][204]**, well-known and used for its anti-inflammatory and antiviral effect as well (with active ingredient, Curcumin).
+   2. **Raw ginger root**, also commonly used for its anti-inflammatory effect (Contains Salicylate, of which Aspirin is a synthetic derivative).
+   3. **Cayenne pepper seeds**, grown in subtropical regions, including in parts of India (with active ingredient Salicylate, reduces blood pressure, improves blood circulation).
+   4. **Vitamin E**, of which **almonds and sunflower seeds and oil** are a common food source.
+   5. **Garlic**, which is well-known to have a powerful antithrombotic effect, as well as anti-inflammatory and antibiotic effect.
+   6. **Cassia Cinnamon or Chinese Cinnamon bark** (with active ingredient, Coumarin).
+   7. **Gingko Biloba (or maidenhair tree) leaves**, used commonly in Chinese traditional medicine, which was shown in a study to have fibrinolytic effects similar to Streptokinase.
    8. **[Grape seed extract][205]**; the antioxidants in this extract are, in fact, considered 30-50 times more potent than vitamin C in terms of protecting the body from pathogens.
-   9. **Dong Quai, or Female Ginseng** (with active ingredient, Coumarin)
-   10. **Feverfew leaves and flowerheads**, a medicinal herb from the same family as daisies or Asteraceae, commonly used in fold medicine to treat fever, arthritis, migraine and topical inflammation like insect bites, and is also an anticoagulant
-   11. **Bromelain**, anti-inflammatory and anticoagulant, commonly found in **pineapples**
+   9. **Dong Quai, or Female Ginseng** (with active ingredient, Coumarin).
+   10. **Feverfew leaves and flowerheads**, a medicinal herb from the same family as daisies or Asteraceae, commonly used in fold medicine to treat fever, arthritis, migraine and topical inflammation like insect bites, and is also an anticoagulant.
+   11. **Bromelain**, anti-inflammatory and anticoagulant, commonly found in **pineapples.**
 
-**Miscellaneous recommendations by a practising naturopath, Sh. Albert Y Zacharia :**
-
-**An anticoagulant tea- ginger + raw garlic + turmeric:**
-Boil 2 teaspoonsful of ginger with 1 teaspoonful each of raw garlic and turmeric in half a cup of water, simmer for 5 minutes. Sip while warm. Consume this tea while warm, after dinner.
-
-**Home remedies for cough:**
-   1. 4 teaspoonsful of **liquorice root or root powder with honey**, 3-6 times a day, according to severity
-   2. 5g **raw turmeric** had on an empty stomach before meals, or 1 teaspoonful organic turmeric powder in a glass of warm water, sipped slowly. Warm turmeric water could also be used for gargling.
-
-**A herbal decoction or Kashaya for fever and headache:**
-3-4 **black pepper corns**, 2 inches **Giloy** (Amrutavalli / Guduchi) **stem** crushed, 1 **clove**, 1 **Cardamon** or Elaichi, 10-12 **Tulasi or Holy basil leaves**, 4 g **fresh ginger root**, 4 g **raw turmeric**, boiled in 400 ml or around 1 and 1/2 cups of water till the water is reduced to half. Sip slowly while warm.
-
-**Home remedies for stomach ache and indigestion:**
-Fast on coconut water. Consume 1 teaspoonful each of ginger root juice and mint juice in 50 ml, or less than a quarter cup of water. Place a cool or cold wet cloth on the stomach.
-
-**Kadukkai / Haritaki / Chebulic myrobalan nut powder in warm water:**
-Mix a quarter or half teaspoon powdered dried nut of Haritaki / Chebulic myrobalan / Kadukkai / Terminalia chebula, a bitter nut of tremendous medicinal potency in Ayurveda, in warm water and sip slowly. Sometimes purgative, this treatment greatly assists detoxification of the digestive tract and eventual relief in about an hour. The powder can also be consumed as such, mixed with a little honey for taste and added benefit."
+**<ins>Miscellaneous recommendations by a practising naturopath, Sh. Albert Y Zacharia :</ins>**
+   - **An anticoagulant tea - ginger + raw garlic + turmeric:** Boil 2 teaspoonsful of ginger with 1 teaspoonful each of raw garlic and turmeric in half a cup of water, simmer for 5 minutes. Sip while warm. Consume this tea while warm, after dinner.
+   - **Home remedies for cough:**
+      1. 4 teaspoonsful of **liquorice root or root powder with honey**, 3-6 times a day, according to severity.
+      2. 5g **raw turmeric** had on an empty stomach before meals, or 1 teaspoonful organic turmeric powder in a glass of warm water, sipped slowly. Warm turmeric water could also be used for gargling.
+   - **A herbal decoction or Kashaya for fever and headache:** 3-4 **black pepper corns**, 2 inches **Giloy** (Amrutavalli / Guduchi) **stem** crushed, 1 **clove**, 1 **Cardamon** or Elaichi, 10-12 **Tulasi or Holy basil leaves**, 4 g **fresh ginger root**, 4 g **raw turmeric**, boiled in 400 ml or around 1 and 1/2 cups of water till the water is reduced to half. Sip slowly while warm.
+   - **Home remedies for stomach ache and indigestion:** Fast on coconut water. Consume 1 teaspoonful each of ginger root juice and mint juice in 50 ml, or less than a quarter cup of water. Place a cool or cold wet cloth on the stomach.
+   - **Kadukkai / Haritaki / Chebulic myrobalan nut powder in warm water:** Mix a quarter or half teaspoon powdered dried nut of Haritaki / Chebulic myrobalan / Kadukkai / Terminalia chebula, a bitter nut of tremendous medicinal potency in Ayurveda, in warm water and sip slowly. Sometimes purgative, this treatment greatly assists detoxification of the digestive tract and eventual relief in about an hour. The powder can also be consumed as such, mixed with a little honey for taste and added benefit.
 
 ### Typical duration of treatment:
-Can be used as supplementary treatment for prophylaxis and cure
+Can be used as supplementary treatment for prophylaxis and cure.
 
 ### Outcome:
 The anti-inflammatory and anticoagulant properties of these herbs have been empirically proven in traditional medicine for many centuries or millennia, and in many cases, have been proven in evidence-based research as well.
@@ -1046,10 +1005,10 @@ None reported.
 Stock the food supplements for regular use, for their immune-suppoortive benefits.
 
 ### Price:
-Most ingredients are commonly found in Indian kitchens
+Most ingredients are commonly found in Indian kitchens.
 
 ### Suggested suppliers:
-Online and local stores
+Online and local stores.
 
 ### Further references:
    - [Medical News Today: Blood-thinning foods, drinks, and supplements][206]
@@ -1064,102 +1023,91 @@ Online and local stores
 ## 15. Proposed / evidence-based natural therapies to mitigate adverse effects and inflammation caused by the Covid vaccines
 
 ### Objective
-Naturopathic protocols to protect those who have been injected with the mRNA / DNA producing spike proteins, and to minimize damage from the spike protein and its derivatives, or other toxins due to injection and to protect from spike protein shedding by vaccinated contacts
+Naturopathic protocols to protect those who have been injected with the mRNA / DNA producing spike proteins, and to minimize damage from the spike protein and its derivatives, or other toxins due to injection and to protect from spike protein shedding by vaccinated contacts.
 
 ### System
-Natural and herbal medicine
+Natural and herbal medicine.
 
 ### Can be used alongside other allopathic treatments
-Yes
+Yes.
 
 ### Status of authorisation:
 Most assertions in these recommendations of natural medicine appear to be supported by adequate research evidence and substantial empirical data from centuries of use by traditional and folk therapies.
 
 ### Protocol and treatment approach:
 **Fasting, water and coconut fasting:**
-**Water fasting for 7 days (or as many days as feels comfortable, under a naturopath's guidance), and drinking a lot of water**, are both potent and highly evidence-based naturopathic therapies to detoxify the body at any time, and especially post vaccination. Prolonged and rigorous fasting is best not undertaken more than once an year. **Tender coconut water** is abundant in nourishing electrolytes and is considered a good detoxifying drink.
+   - **Water fasting for 7 days (or as many days as feels comfortable, under a naturopath's guidance), and drinking a lot of water**, are both potent and highly evidence-based naturopathic therapies to detoxify the body at any time, and especially post vaccination. Prolonged and rigorous fasting is best not undertaken more than once an year. **Tender coconut water** is abundant in nourishing electrolytes and is considered a good detoxifying drink.
 
--------
 **[Pine needle tea][214] (with pine, fir, cedar and spruce needles), recommended by Dr. Judy Mikovits:**
+   - **Dr. Judy Mikovits recommended pine needle tea from pine, fir, cedar and spruce needles, for its evidence-based active ingredient [Suramin][215], as a spike protein neutralizing agent. (If foraging pine needles oneself, must bear in mind that the yew is not really a pine and its needle, though of certain therapeutic value, are also known to possess toxicity.)**
+   - **Dosage: 3 cups per day or more of any desired strength** (based on the quantity of needles added to a french press or teapot) with an approximate 1-3 tablespoons of needles per cup of near boiling water. This is a maintenance health-building dose.<br>Stronger amounts of needles to water can be used therapeutically. If it feels too acidic (due to the vitamin C) for your system, moderate the quantity and complement the tea with alkalizing food and dark green herbs or sea vegetables.
 
-**Dr. Judy Mikovits recommended pine needle tea from pine, fir, cedar and spruce needles, for its evidence-based active ingredient [Suramin][215], as a spike protein neutralizing agent. (If foraging pine needles oneself, must bear in mind that the yew is not really a pine and its needle, though of certain therapeutic value, are also known to possess toxicity.)**
-
-**Dosage:**
-**3 cups per day or more of any desired strength** (based on the quantity of needles added to a french press or teapot) with an approximate 1-3 tablespoons of needles per cup of near boiling water. This is a maintenance health-building dose.   
-
-Stronger amounts of needles to water can be used therapeutically. If it feels too acidic (due to the vitamin C) for your system, moderate the quantity and complement the tea with alkalizing food and dark green herbs or sea vegetables.
-
--------
-**[Summary of David Wolfe's Spike Protein Protocol][216]**
+**[<ins>Summary of David Wolfe's Spike Protein Protocol</ins>][216]**
 
 **A number of herbs and herbal formulations containing high concentrations of [Shikimic acid][217], Hesperidin and other beneficial antiviral and anti-inflammatory compounds:**
 **The focus on Shikimic acid has increased for its potent antiviral properties, since it is the the starting material in the commercial synthesis of Oseltamivir phosphate, commonly known as Tamiflu, the only drug effective against various flu viruses.** This has led to tremendous increase in the demand of Shikimic acid worldwide. Currently, it is sourced principally from the seeds of the Chinese plant Star anise (Illicium verum) known to contain about 2 – 7% of Shikimic acid, which is one of the highest reported concentrations in plants.
+   - [Star anise and fennel][218] are reported to be good sources of Shikimic acid, available in Indian stores. **Star anise + Fennel tea** could be made with freshly powdered or crushed Star anise prepared into an extract or decoction with water.
+   - [Dandelion leaves][219]: Studies have established that the leaves of the common dandelion plant Taraxacum officinale efficiently blocks the interaction between ACE2 cell surface recceptor and the SARS-CoV-2 spike protein in the original virus and in many mutants. Dandelion leaves can be consumed as aqueous decoction / tea.
+   - **[Nigella sativa][220] / Krishnajeera / Karumjeerakaam / Kalonji**: Published research establishes that Nigellidine strongly binds to the spike protein, which in turn hampers its binding to the ACE2 cell receptors.
+   - **[Schizandra berry][221] / Fructus schisandrae tea, [rich in Shikimate][222]**, among other highly beneficial properties such as being protective of the liver, and ranked as one of the most potent superherbs; a herb used in Traditional Chinese Medicine.
+   - [Triphala formulations][223]: In Sanskrit, the word Triphala means ""three fruits”: a combination of Indian gooseberry (Emblica officinalis), Black myrobalan (Terminalia chebula) and Belleric myrobalan (Terminalia belerica). The Terminalia fruits are rich in Shikimate, as is Indian gooseberry.
+   - **St. John’s Wort / Hypericum Perforatum / [Choli phulya][224] / Vettai pakku**: Shikimate is found throughout the entire plant and in the flowers.
+   - **Comfrey leaf / Symphytum officinale**, long recognized in traditional medicine for its [wonderful curative qualities][225], is rich in Shikimate.
+   - [Feverfew leaves and flowers][226] are rich in Shikimate, and help the body to remove the prions introduced through the vaccines' spike proteins. Feverfew is available as capsules as well.
+   - [Gingko biloba / Maidenhair tree / Baalkumari leaf][227], available as well in capsules, is also rich in Shikimate.
+   - **[Giant hyssop][228] / Horsemint / Agastache urtifolia**, rich in Shikimate, commonly used in Traditional Chinese Medicine as well.
+   - [Liquid ambar][229] / [Sweet gum tree][229a]: Tea brewed from the spiky seed pods is rich in Shikimate.
+   - [Glycyrrhiza glabra / Liquorice / Yashtimadhu / Mulethi][230]: The root of liquorice is commonly used in indigenous medicine, particularly in Ayurveda and Traditional Chinese Medicine. Glycyrrhizic acid, exttracted from the root of the Liquorice plant, is found to inhibit the spike protein.
+   - [Neem oil and capsules][231]: Neem is a powerful immuno-supportive herb, with over 130 active agents that help mitigate viral and bacterial illnesses, including compounds that have a high binding affinity to the spike protein.
+   - [Tulasi / Holy basil / Ocimum sanctum][232]:  A study found several compounds in Tulasi, methyl eugenol, oleanolic acid and ursolic acid to have a high degree of binding affinity to both surface spike glycoprotein and RNA polymerase of SARS-CoV-2, higher even than the mainstream therapeutic Remdesivir for Covid-19.
+   - [Wheatgrass juice][233]: Aqueous extract of wheatgrass blades have been claimed by some sources to be high in Shikimate. However their immensely potent anti-inflammatory and vitalizing benefits are well-known to traditional, folk and nutritional medicine.
+   - [Organic citrus fruits, especially blood oranges][234], have a higher concentration of [Hesperidin][235], which is a Chalcone like Quercetin, that neutralizes the spike protein.
+   - **Medicinal Mushrooms like Shitake, Lion's mane, Chaga, Turkey tail etc.**
+   - [Ajwah dates][236], the dark brown, almost black, soft dates from the Al-Madinah Al-Munawarah region of Saudi Arabia and [praised by the Prophet Muhammad][237] for its nutritious and vitalizing qualities, which are renowned in the Middle East for their curative powers.
+   - [Plant sprouts][238] are generally considered to be rich in Shikimate, especially of **Red kidney, Moth, Soya, Moong beans. A study revealed that maximum acid concentration was attained at 4 days from the start of germination, after which the content either reached a plateau or started to diminish. [Green gram (Mung)][239] was found to yield ~ 8 mg of Shikimic acid per gram of sprouts (on dry weight basis) which was highest amongst the studied sprouts.**
+   - **Full-spectrum hemp extract, or [full-spectrum Cannabidiol (CBD) oil][240]** is known to have very powerful beneficial [effects on the endocannabinoid system][241], which regulates almost every internal function.
 
-- [Star anise and fennel][218] are reported to be good sources of Shikimic acid, available in Indian stores. **Star anise + Fennel tea** could be made with freshly powdered or crushed Star anise prepared into an extract or decoction with water.
-- [Dandelion leaves][219]: Studies have established that the leaves of the common dandelion plant Taraxacum officinale efficiently blocks the interaction between ACE2 cell surface recceptor and the SARS-CoV-2 spike protein in the original virus and in many mutants. Dandelion leaves can be consumed as aqueous decoction / tea.
-- **[Nigella sativa][220] / Krishnajeera / Karumjeerakaam / Kalonji**: Published research establishes that Nigellidine strongly binds to the spike protein, which in turn hampers its binding to the ACE2 cell receptors.
-- **[Schizandra berry][221] / Fructus schisandrae tea, [rich in Shikimate][222]**, among other highly beneficial properties such as being protective of the liver, and ranked as one of the most potent superherbs; a herb used in Traditional Chinese Medicine
-- [Triphala formulations][223]: In Sanskrit, the word Triphala means ""three fruits”: a combination of Indian gooseberry (Emblica officinalis), Black myrobalan (Terminalia chebula) and Belleric myrobalan (Terminalia belerica). The Terminalia fruits are rich in Shikimate, as is Indian gooseberry.
-- **St. John’s Wort / Hypericum Perforatum / [Choli phulya][224] / Vettai pakku**: Shikimate is found throughout the entire plant and in the flowers.
-- **Comfrey leaf / Symphytum officinale**, long recognized in traditional medicine for its [wonderful curative qualities][225], is rich in Shikimate.
-- [Feverfew leaves and flowers][226] are rich in Shikimate, and help the body to remove the prions introduced through the vaccines' spike proteins. Feverfew is available as capsules as well.
-- [Gingko biloba / Maidenhair tree / Baalkumari leaf][227], available as well in capsules, is also rich in Shikimate.
-- **[Giant hyssop][228] / Horsemint / Agastache urtifolia**, rich in Shikimate, commonly used in Traditional Chinese Medicine as well
-- [Liquid ambar][229] / [Sweet gum tree][229a]: Tea brewed from the spiky seed pods is rich in Shikimate.
-- [Glycyrrhiza glabra / Liquorice / Yashtimadhu / Mulethi][230]: The root of liquorice is commonly used in indigenous medicine, particularly in Ayurveda and Traditional Chinese Medicine. Glycyrrhizic acid, exttracted from the root of the Liquorice plant, is found to inhibit the spike protein.
-- [Neem oil and capsules][231]: Neem is a powerful immuno-supportive herb, with over 130 active agents that help mitigate viral and bacterial illnesses, including compounds that have a high binding affinity to the spike protein.
-- [Tulasi / Holy basil / Ocimum sanctum][232]:  A study found several compounds in Tulasi, methyl eugenol, oleanolic acid and ursolic acid to have a high degree of binding affinity to both surface spike glycoprotein and RNA polymerase of SARS-CoV-2, higher even than the mainstream therapeutic Remdesivir for Covid-19.
-- [Wheatgrass juice][233]: Aqueous extract of wheatgrass blades have been claimed by some sources to be high in Shikimate. However their immensely potent anti-inflammatory and vitalizing benefits are well-known to traditional, folk and nutritional medicine.
-- [Organic citrus fruits, especially blood oranges][234], have a higher concentration of [Hesperidin][235], which is a Chalcone like Quercetin, that neutralizes the spike protein.
-- **Medicinal Mushrooms like Shitake, Lion's mane, Chaga, Turkey tail etc.**
-- [Ajwah dates][236], the dark brown, almost black, soft dates from the Al-Madinah Al-Munawarah region of Saudi Arabia and [praised by the Prophet Muhammad][237] for its nutritious and vitalizing qualities, which are renowned in the Middle East for their curative powers
-- [Plant sprouts][238] are generally considered to be rich in Shikimate, especially of **Red kidney, Moth, Soya, Moong beans. A study revealed that maximum acid concentration was attained at 4 days from the start of germination, after which the content either reached a plateau or started to diminish. [Green gram (Mung)][239] was found to yield ~ 8 mg of Shikimic acid per gram of sprouts (on dry weight basis) which was highest amongst the studied sprouts.**
-- **Full-spectrum hemp extract, or [full-spectrum Cannabidiol (CBD) oil][240]** is known to have very powerful beneficial [effects on the endocannabinoid system][241], which regulates almost every internal function.
-
--------
-**Food sources of [Glutathione][242]-precursors:**
-- **[Milk thistle][243] / Silybum marianum** helps to prevent Glutathione depletion in the liver. It is also a natural liver detoxifier and liver protectant.
-- **Asparagus / Shataavari** is the best plant source of Glutathione.
-- **Okra** is also naturally high in Glutathione and assists in the elimination of the mucoid plaque in the small intestines.
-- **Rice bran**, high in Alpha Lipoic Acid (ALA) promotes the synthesis of Glutathione in the body.
-- Several spices commonly used in Indian cuisine including **Turmeric, Cinnamon, Cardamom and Black cumin / Nigella sativa** contain Glutathione.
-- Rosemary herb
-- **Sulfur-containing, cruciferous vegetables, like kale, broccoli, Brussels sprouts, cabbage, onions, garlic, cauliflower, bok choy, watercress, mustard, horseradish, turnips, rutabagas, kohlrabi etc.**, assist in the making of Glutathione in the body, as Glutathione is a sulfur-containing molecule.
-- **Sulfurous black salt, Saindhava salt / Lavana** in Sanskrit
-- **Bilberry**
-- **Avocado**
-- **Red beets** (available as capsules)
-- **Aloe vera** (available as capsules)
-- **Peaches and Watermelon**, among fruits
-- **Spinach and Parsley**
-- Pycnogenol, from **pine bark**
-- The **Brazil nut** is one of the highest natural sources of Selenium. Selenium is a cofactor for the enzyme Glutathione peroxidase.
-
+**<ins>Food sources of [Glutathione][242]-precursors:</ins>**
+   - **[Milk thistle][243] / Silybum marianum** helps to prevent Glutathione depletion in the liver. It is also a natural liver detoxifier and liver protectant.
+   - **Asparagus / Shataavari** is the best plant source of Glutathione.
+   - **Okra** is also naturally high in Glutathione and assists in the elimination of the mucoid plaque in the small intestines.
+   - **Rice bran**, high in Alpha Lipoic Acid (ALA) promotes the synthesis of Glutathione in the body.
+   - Several spices commonly used in Indian cuisine including **Turmeric, Cinnamon, Cardamom and Black cumin / Nigella sativa** contain Glutathione.
+   - Rosemary herb.
+   - **Sulfur-containing, cruciferous vegetables, like kale, broccoli, Brussels sprouts, cabbage, onions, garlic, cauliflower, bok choy, watercress, mustard, horseradish, turnips, rutabagas, kohlrabi etc.**, assist in the making of Glutathione in the body, as Glutathione is a sulfur-containing molecule.
+   - **Sulfurous black salt, Saindhava salt / Lavana** in Sanskrit.
+   - **Bilberry**
+   - **Avocado**
+   - **Red beets** (available as capsules)
+   - **Aloe vera** (available as capsules)
+   - **Peaches and Watermelon.**, among fruits
+   - **Spinach and Parsley.**
+   - Pycnogenol, from **pine bark.**
+   - The **Brazil nut** is one of the highest natural sources of Selenium. Selenium is a cofactor for the enzyme Glutathione peroxidase.
 **To get the most glutathione out of raw, uncooked foods, the gut must be healthy. Therefore, it is important to have probiotics daily, and modify diet to eliminate candida, achieve heavy metal detoxification and improve gut health to maximize absorption.**
 
--------
 **Other nutraceutical supplements to neutralize the inflammatory spike proteins:**
-- **Chlorine Dioxide Solution (CDS) aka Miracle Mineral Supplement (MMS)**
-- **Coated Silver** (1-6 drops per day, depending on degree of exposure) (Coated silver blocks the sulfur-bearing protein on the spikes from entering the cell. Sulfur-rich amino acids on the spike protein interact with silver causing them to fold incorrectly).
-- **NAC (N-acetyl cysteine)** (accelerates detoxification and is considered a precursor of the super-detoxifier Glutathione in the body) Dosage: 1200-2400 mg per day on an empty stomach. NAC is recommended to detoxify Graphene oxide and SM-102. NAC is tough to find after the FDA recently made it illegal to purchase over the counter in the USA.
-- **Zinc** (30-80 mg per day depending on immunological pressure)
-- **Vitamin D3** (10,000 IU per day), and simultaneously **supplementing also with [vitamin K2][244], and [Calcium and Magnesium][245] if these are deficient**
-- **Lypospheric Vitamin C** (30 ml, twice daily)
-- **Quercetin** (500-1000 mg, twice daily)
-- **Iodine** (dosage depends on brand, more is not better. Iodine is a product you have to start with small dosages and build up over time.
-- **Pyrroloquinoline Quinone (PQQ) (20-40 mg per day)**
-- **C60 (1-3 droppers full per day)**
-- **Charcoal (2-4 capsules a day)**
+   - **Chlorine Dioxide Solution (CDS) aka Miracle Mineral Supplement (MMS).**
+   - **Coated Silver** (1-6 drops per day, depending on degree of exposure) (Coated silver blocks the sulfur-bearing protein on the spikes from entering the cell. Sulfur-rich amino acids on the spike protein interact with silver causing them to fold incorrectly).
+   - **NAC (N-acetyl cysteine)** (accelerates detoxification and is considered a precursor of the super-detoxifier Glutathione in the body) Dosage: 1200-2400 mg per day on an empty stomach. NAC is recommended to detoxify Graphene oxide and SM-102. NAC is tough to find after the FDA recently made it illegal to purchase over the counter in the USA.
+   - **Zinc** (30-80 mg per day depending on immunological pressure).
+   - **Vitamin D3** (10,000 IU per day), and simultaneously **supplementing also with [vitamin K2][244], and [Calcium and Magnesium][245] if these are deficient.**
+   - **Lypospheric Vitamin C** (30 ml, twice daily).
+   - **Quercetin** (500-1000 mg, twice daily).
+   - **Iodine** (dosage depends on brand, more is not better. Iodine is a product you have to start with small dosages and build up over time.
+   - **Pyrroloquinoline Quinone (PQQ) (20-40 mg per day)**
+   - **C60 (1-3 droppers full per day).**
+   - **Charcoal (2-4 capsules a day).**
 
 **Enzymes**:
-- **Nattokinase (enzyme)**: [Natto][246] is a traditional Japanese food made from soybeans that have been fermented with Bacillus subtilis var. natto. Natto (also rich in vascular protective Vitamin K2) and Nattokinase have a history of being used to prevent blood clots. The idea is here is that the enzyme Nattokinase aids in dissolving clots. Dosage: 2000-4000 Fibrinolytic Units per day (2-4 capsules) with or without food.
-- **Serrapeptase (enzyme)**: Serrapeptase is an anti-inflammatory proteolytic enzyme in the Trypsin family. Like other proteolytic enzymes, Serrapeptase helps break down proteins into smaller particles. It can promote healing by reducing fluid and debris accumulation that occur around necrotic or injured tissue. Dosage: 100-200 mg on an empty stomach per day.
+   - **Nattokinase (enzyme)**: [Natto][246] is a traditional Japanese food made from soybeans that have been fermented with Bacillus subtilis var. natto. Natto (also rich in vascular protective Vitamin K2) and Nattokinase have a history of being used to prevent blood clots. The idea is here is that the enzyme Nattokinase aids in dissolving clots. Dosage: 2000-4000 Fibrinolytic Units per day (2-4 capsules) with or without food.
+   - **Serrapeptase (enzyme)**: Serrapeptase is an anti-inflammatory proteolytic enzyme in the Trypsin family. Like other proteolytic enzymes, Serrapeptase helps break down proteins into smaller particles. It can promote healing by reducing fluid and debris accumulation that occur around necrotic or injured tissue. Dosage: 100-200 mg on an empty stomach per day.
 
 **Oxygen Therapies**: 
-Ozone and Oxygen therapies are effective at degrading spike proteins and Graphene oxide. All forms may be recommended, according to one source, from consuming MMS (Miracle Mineral Solution / Chlorine Dioxide Solution) to drinking ozonated water, or using ozonated water for enemas, and even ozone injections by a trained health professional.
+   - Ozone and Oxygen therapies are effective at degrading spike proteins and Graphene oxide. All forms may be recommended, according to one source, from consuming MMS (Miracle Mineral Solution / Chlorine Dioxide Solution) to drinking ozonated water, or using ozonated water for enemas, and even ozone injections by a trained health professional.
 
 **Chlorine Dioxide Solution (CDS) / ClO2 / Miracle Mineral Solution (MMS):**
-CDS / ClO2 was carefully researched for over 13 years by [Andreas Kalcker][247], a German biochemist. [The great efficacy of the treatment, though not acknowledged by mainstream scientific platforms, is reported to have been extensively established in wide clinical trials in Central and South America, and especially in Bolivia.][e]
+   - CDS / ClO2 was carefully researched for over 13 years by [Andreas Kalcker][247], a German biochemist. [The great efficacy of the treatment, though not acknowledged by mainstream scientific platforms, is reported to have been extensively established in wide clinical trials in Central and South America, and especially in Bolivia.][e]
 
 ### Typical duration of treatment:
 The proposed medicinal herbs are prophylactic, and may be recommended to be used for at least 6 months post vaccination, and possibly longer, in addition to adopting anti-inflammatory and immune-supportive lifestyles.
@@ -1177,7 +1125,7 @@ An equivocal review of existing rigorous research about the beneficial versus ad
 The more efficacious and cost effective supplements could be stocked for regular / prophylactic use as well. However, most registered dietitians recommend getting nutrients from whole foods rather than supplements whenever possible.
 
 ### Suggested suppliers:
-Online pharmacies and local stores
+Online pharmacies and local stores.
 
 ### Further references:
    - [researchgate.net: Common dandelion (Taraxacum officinale) efficiently blocks the interaction between ACE2 cell surface receptor and SARS-CoV-2 spike protein D614, mutants D614G, N501Y, K417N and E484K in vitro; Hoai Thi Thu Tran; March, 2021][249]
