@@ -342,41 +342,35 @@ There is evidence that vitamin C and Quercetin co-administration exerts a synerg
          - **Pulse Oximeter**: FLCCC also recommend monitoring your oxygen saturation with a pulse oximeter and to go to the hospital if you get below 94%. ([Amazon][114])
    2. **Second line agents (listed in order of priority /importance)**:
    - **Add to first line therapies above if:**
-**1) ≥ 5 days of symptoms;** 
-**2) Poor response to therapies above;** 
-**3) Significant comorbidities**
+      - **≥ 5 days of symptoms;** 
+      - **Poor response to therapies above;** 
+      - **Significant comorbidities**
 
-**Dual anti-androgen Therapy:**
-- [Spironolactone][115]: 100 mg 2 x daily for ten days
-- [Dutasteride][116]: 2 mg on day 1, followed by 1 mg daily for 10 days. **If dutasteride is not available, use finasteride 10 mg daily for 10 days.**
-
-**Fluvoxamine**:
-- [Fluvoxamine][117]: 50 mg twice daily for 10 days. 
-Consider **Fluoxetine (Prozac) 30mg daily for 10 days as an alternative (as it is often better tolerated).**
-Avoid if patient is already on an SSRI.
-
-**Monoclonal antibody therapy:**
-- **Casirivimab / Imdevimab**: 600 mg each in a single subcutaneous injection for patients with one or more risk factors as follows: Age > 65y; obesity; pregnancy; chronic lung, heart, or kidney disease; diabetes; immunosuppressed; developmental disability; chronic tracheostomy; or tube feeding.
-
-**Alternatives**: 
-Optional: [Betadine nasal spray][118] applied 3 times a day ([Ref][119]) ([Amazon][120]) 
-Optional: Xlear Nasal Spray with Xylitol: use twice a day ([Ref][121]) ([Amazon][122])
-Optional: [Curcumin][123]: 500 mg twice a day ([Ref][124]) ([Amazon][125])
-Optional: Azithromycin 250 mg twice a day. ([Ref][126]) ([Find a Doctor][127]). 
-Optional: [Bromhexine][128] 8 mg three times a day ([Ref][129]) ([Lazada Malaysia][130], unavailable on Amazon)
-
-**Behavioral Prevention:**
-- **Face Masks**: Must wear cloth, surgical, or N95 mask (without valve) in all indoor spaces with non-household persons. Must wear a N95 mask (without valve) during prolonged exposure to non-household persons in any confined, poorly ventilated area.
-- **Social Distancing**: Until the end of the COVID-19 crisis, we recommend keeping a minimum distance of approx. 2 m / 6 feet in public from people who are not from your own household.
-- **Wash Hands**: We recommend, after a stay during and after outings from home (shopping, sub - way etc.), a thorough hand cleaning (20–30 sec. with soap), or also to use a hand disinfectant in between.
+      - **Dual anti-androgen Therapy:**
+         - [Spironolactone][115]: 100mg 2 x daily for ten days
+         - [Dutasteride][116]: 2mg on day 1, followed by 1 mg daily for 10 days. **If dutasteride is not available, use finasteride 10mg daily for 10 days.**
+      - **Fluvoxamine**:
+         - [Fluvoxamine][117]: 50mg twice daily for 10 days. 
+         - Consider **Fluoxetine (Prozac) 30mg daily for 10 days as an alternative (as it is often better tolerated).**
+         - Avoid if patient is already on an SSRI.
+      - **Monoclonal antibody therapy:**
+         - **Casirivimab / Imdevimab**: 600mg each in a single subcutaneous injection for patients with one or more risk factors as follows: Age > 65y; obesity; pregnancy; chronic lung, heart, or kidney disease; diabetes; immunosuppressed; developmental disability; chronic tracheostomy; or tube feeding.
+      - **Alternatives**: 
+         - Optional: [Betadine nasal spray][118] applied 3 times a day ([Ref][119]) ([Amazon][120]) 
+         - Optional: Xlear Nasal Spray with Xylitol: use twice a day ([Ref][121]) ([Amazon][122])
+         - Optional: [Curcumin][123]: 500 mg twice a day ([Ref][124]) ([Amazon][125])
+         - Optional: Azithromycin 250 mg twice a day. ([Ref][126]) ([Find a Doctor][127]). 
+         - Optional: [Bromhexine][128] 8 mg three times a day ([Ref][129]) ([Lazada Malaysia][130], unavailable on Amazon)
+      - **Behavioral Prevention:**
+         - **Face Masks**: Must wear cloth, surgical, or N95 mask (without valve) in all indoor spaces with non-household persons. Must wear a N95 mask (without valve) during prolonged exposure to non-household persons in any confined, poorly ventilated area.
+         - **Social Distancing**: Until the end of the COVID-19 crisis, we recommend keeping a minimum distance of approx. 2m / 6feet in public from people who are not from your own household.
+         - **Wash Hands**: We recommend, after a stay during and after outings from home (shopping, sub - way etc.), a thorough hand cleaning (20–30 sec. with soap), or also to use a hand disinfectant in between.
 
 **Notes**:
-- **The safety of Ivermectin during pregnancy has not been established.**
-- **In some people, Fluvoxamine can produce acute anxiety, which needs to be carefully monitored and treated for by the prescribing physician to prevent escalation to violent or suicidal behaviour.**
-
+   - **The safety of Ivermectin during pregnancy has not been established.**
+   - **In some people, Fluvoxamine can produce acute anxiety, which needs to be carefully monitored and treated for by the prescribing physician to prevent escalation to violent or suicidal behaviour.**
 
 **The detailed descriptions of the MATH+ and I-RECOVER FLCCC Protocols for inpatient hospital management of patients and for the management of long-Covid syndrome are linked to in the references.**
-
 
 **Dr. Pierre Kory's perspective on the adaptation of the I-MASK protocol to the globally prevalent and currently dominant Delta variant:**
 Dr. Kory mentioned that he had caught Covid, a milder form with only sinusitis and nasal congestion, while he was prophylaxing on Ivermectin, which should be considered a breakthrough from the FLCCC prophylactic protocol. These breakthroughs did occasionally occur until Jan / Feb, 2021, when the protocol called for ivermectin dosing once in two weeks. **There have been no known reports of breakthroughs after the frequency was increased to once a week in the updated protocol. The viral loads are orders of magnitude higher with the Delta variant than with the alpha and other common variants. Ivermectin has a very tight dose response relationship with this virus.There is no clear understanding of the right dosing, only a heuristical understanding, which appears to work well.**
