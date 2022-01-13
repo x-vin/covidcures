@@ -110,12 +110,6 @@ Unclear. The treatment is recommended by a knowledgeable traditional physician, 
 ### Significant side effects:
 None known, recommended for continuous use as prophylactic.
 
-### Recommended quantity for stocking:
-**VACANT**
-
-### Price:
-**VACANT**
-
 ### Suggested suppliers:
 It seems ingredients are not commonly available in local shops selling herbal medicine, but are available online.
 
@@ -157,12 +151,6 @@ The recommended Ayurvedic remedies may be available in most good Ayurvedic store
 
 ### Price:
 Ayurvedic medicines are usually available at very reasonable costs.
-
-### Suggested suppliers:
-**VACANT**
-
-### Further references:                          
-**VACANT**
 					
 
 

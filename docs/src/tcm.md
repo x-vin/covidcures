@@ -145,9 +145,6 @@ From these analyses, it would appear that QFPD and HSBD are suitable to be selec
 At the same time, the outcome of treatment with TCM along with conventional therapy seems better with respect to longer term prognosis than Standard Of Care treatment.
 [The long-term consequences of Corona Virus Disease 2019 patients receiving Chinese herbal medicine treatments in acute phase: A protocol for systematic review and meta-analysis; Sun, Yi-ming MS et al.; Medicine; July 23, 2021][22]
 
-### Recommended quantity for stocking:
-**VACANT**
-
 ### Price:
 TCM medications may be expensive to procure in India and other States outside China.
 
@@ -225,38 +222,11 @@ About INR 200
 
 ## 4. Prescription of Rhizoma Zingiberis Recens or fresh ginger root and Fructus jujube or jujube fruit
 
-### Objective: 
-**VACANT**
-
 ### System:
 TCM
 
 ### Can be used alongside other allopathic treatments:
 Yes
-
-### Status of authorisation:
-**VACANT**
-
-### Protocol and treatment approach:
-**VACANT**
-
-### Typical duration of treatment:
-**VACANT**
-
-### Outcome:
-**VACANT**
-
-### Significant side effects:
-**VACANT**
-
-### Recommended quantity for stocking:
-**VACANT**
-
-### Price:
-**VACANT**
-
-### Suggested suppliers:
-**VACANT**
 
 ### Further references:                          
    - [Thoughts on Traditional Chinese Medicine Treatment of Novel Coronavirus Pneumonia Based on Two Cases: Study involving a prescription of Rhizoma Zingiberis Recens or fresh ginger root, and Fructus jujube or Jujube fruit][41]

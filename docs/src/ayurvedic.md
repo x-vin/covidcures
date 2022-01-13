@@ -172,9 +172,6 @@ A [study][34] recorded: The experimental studies of AYUSH-64 have shown that it 
 ### Significant side effects:
 None reported for therapeutic dosages; generally deemed safe and nontoxic. A [study][35] recorded that the experimental studies of AYUSH-64 have shown that it was **safe and non-toxic in the dose of 500 mg/kg of body weight for 12 weeks.**
 
-### Recommended quantity for stocking:
-**VACANT**
-
 ### Price:
 Ayurvedic medicines from Kottakkal Arya Vaidyasala are modestly priced.
 
@@ -208,8 +205,6 @@ Local trusted Ayurvedic pharmacies like Kottakkal Arya Vaidya Sala and online st
    - [Planet Ayurveda (TM): Gokshura (Tribulus Terrestris / Puncture vine)- Uses, Benefits, Ayurvedic Effects; Dr. Meenakshi Chauhan; May 7, 2019][58]
 
 ## 3. Sh. Bonigi Anandaiah's Ayurvedic treatment for Covid-19 in Krishnapatnam village, Nellore district, Andhra Pradesh				
-### Objective: 
-**VACANT**
 
 ### System:
 Ayurveda / Indigenous.
@@ -341,9 +336,6 @@ Based on the traditional understanding of the properties of these herbs, it is e
 
 ### Significant side effects:
 This is a traditional treatment with no known side effects.
-
-### Recommended quantity for stocking:
-**VACANT**
 
 ### Price:
 INR 150 for one bottle.
@@ -605,9 +597,6 @@ The mitigation of Covid-19 in mild, moderate and advanced stages of the disease
 ### System:
 Ayurveda, Integrative medicine
 
-### Can be used alongside other allopathic treatments:
-**VACANT**
-
 ### Status of authorisation:
 **The following webpage documents the journey of the therapy, developed through the innovations of Dr. S. G. Kane and Vaidya Sarang Phadke and being used effectively in the Vaidya's clinic for over 16 years.**
    - [Haldi-30 Ayurvedic Superactive Extract][143]
@@ -652,9 +641,6 @@ The basic methodology for producing such an extremely bioactive extract of any h
 
 ### Significant side effects:
 As both Turmeric and Sesame oil are edible food substances, this extract is non-toxic and proven to be safe, and Vaidya Dr. Sarang Phadke reports that they have been using it as an ingredient in various formulations in clinical practice for 16 years now.
-
-### Recommended quantity for stocking:
-**VACANT**
 
 ### Price:
 **Says Vaidya Dr. Sarang Phadke:**

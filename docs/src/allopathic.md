@@ -824,9 +824,6 @@ Treatment of increased nutrient requirement, oxidative stress, lymphopenia and i
 **Immunoglobulin** (IGIV) AMP- 400 mg / kg / day slow infusion X 3 days
 Use High Flow Nasal Cannula (HFNC).
 
-### Typical duration of treatment:
-**VACANT**
-
 ### Outcome:
 RCTs show that this relatively inexpensive treatment has significant benefits over standard treatments.
 
@@ -952,9 +949,6 @@ Contraindications: Hypertension, hyperglycaemia etc.
 
 ### Typical duration of treatment:
 0-15 days, for the majority of cases, which are asymptomatic, mild or moderate
-
-### Outcome:
-**VACANT**
 
 ### Significant side effects:
 Many of these medications have side effects, especially in excess of therapeutic doses. These may be researched online.
@@ -1937,9 +1931,6 @@ A report of intestinal necrosis and perforation that may be associated with Chlo
 **The research article therefore might be interpreted to suggest that supplementing with Glutathione / N-Acetyl Cysteine might help to further decrease the cytotoxic effects of CDS for human cells**:
 [Can chlorine dioxide prevent the spreading of coronavirus or other viral infections? Medical hypotheses; K Kaly-Kullai et al.; Physiology International; Mar, 2020][355]
 
-### Recommended quantity for stocking:
-**VACANT**
-
 ### Price:
 Online prices [start at about $25 for a 125 ml bottle.][356]
 
@@ -2141,7 +2132,7 @@ $9 for Betadine Sore Throat Spray on Amazon (Amazon's Choice)
    - [Efficacy and safety of an antiviral Iota-Carrageenan nasal spray: a randomized, double-blind, placebo-controlled exploratory study in volunteers with early symptoms of the common cold; Ron Eccles et al.; Respiratory Research; Aug 10, 2010][406]
    - [Carrageenan- Health benefits, Side effects, Uses, Dose and Precautions][407]
 
-## 21. A reportedly very effective treatment to mitigate Covid-19, treat long-Covid as well as reverse inflammatory effects of vaccines:
+## 21. A reportedly very effective treatment to mitigate Covid-19, treat long-Covid as well as reverse inflammatory effects of vaccines
 
 **Dr. Dmitry Kats' Niacin + Melatonin therapy: The Niatonin Protocol**
 
@@ -2217,7 +2208,7 @@ An excellent interview revealing many details of the Protocol and its theoretic 
 
 - [Dr. Dmitry Kats on Facebook][421]
 
-## 22. Hydrogen peroxide therapy, where H2O2 is administered as oral rinse (for prevention), nebulization in the gaseous form, or consumed in very low therapeutic concentrations in drinking water.
+## 22. Hydrogen peroxide therapy, where H2O2 is administered as oral rinse (for prevention), nebulization in the gaseous form, or consumed in very low therapeutic concentrations in drinking water
 
 Hydrogen peroxide and Ozone therapies are recommended by the stalwart of [Orthomolecular medicine][422], [Dr. Thomas E. Levy, MD, JD.][423]
 
@@ -2258,9 +2249,6 @@ Reduces infection
 ### Significant side effects:
 One clinical trial with **oral Hydrogen peroxide** reported that patients frequently felt nausea and sometimes dizziness or vomiting related to the oral treatment.
 
-### Recommended quantity for stocking:
-**VACANT**
-
 ### Price:
 Inexpensive, can be prepared at home from cheap ingredients
 
@@ -2276,7 +2264,7 @@ The solution can be prepared at home from inexpensive ingredients like bleach an
    - [The Future of Medicine Foundation: Defeating Covid-19 by Returning Health to Humanity Through Nutrition-Based Medicine][434]
    - [Vitalitymagazine.com: COVID-19 How Can I Cure Thee? Let Me Count the Ways; Dr. Thomas E. Levy, MD, JD; Dec 3, 2020][435]
 
-## 23. Ozone therapy- 
+## 23. Ozone therapy 
 The introduction of therapeutic concentrations of Ozone, either mixed with oxygen in the gaseous form and inhaled, or infused into the patient's own blood and administered back intravenously, or perhaps less frequently but even more safely and easily, consumed in small therapeutic doses as Ozonated water.
 				
 ### Objective: 

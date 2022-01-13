@@ -97,17 +97,11 @@ Aspidosperma Q - is one of the best remedies for COPD (Chronic obstructive pulmo
 
 Aspidosperma is considered as the digitalis of lungs. Removes temporary obstruction to the oxidation of the blood by stimulating respiratory centers, increasing oxidation and excretion of carbonic acid. It is very useful for cardiac asthma.
 
-### Typical duration of treatment:
-**VACANT**
-
 ### Outcome:
 Increased blood oxygen levels
 
 ### Significant side effects:
 None known. However it is recommended to use the medication under the guidance of a competent homeopath.
-
-### Recommended quantity for stocking:
-**VACANT**
 
 ### Price:
 Rs. 90-200 online

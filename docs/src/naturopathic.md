@@ -663,20 +663,11 @@ Based on published research, and to be found on Dr. Ardis' PDF report "The Dange
    - Zinc- 100 mg / day, preferably as zinc gluconate
    - Selenium- 400 mcg / day
 
-### Typical duration of treatment:
-**VACANT VACANT VACANT**
-
 ### Outcome:
 The building of immunity against Covid
 
 ### Significant side effects:
 No significant side effects reported of therapeutic dosages of vitamins and other nutrients
-
-### Recommended quantity for stocking:
-**VACANT VACANT VACANT**
-
-### Price:
-**VACANT VACANT VACANT**
 
 ### Suggested suppliers:
 Local and online pharmaceutical suppliers
@@ -1184,9 +1175,6 @@ An equivocal review of existing rigorous research about the beneficial versus ad
 
 ### Recommended quantity for stocking:
 The more efficacious and cost effective supplements could be stocked for regular / prophylactic use as well. However, most registered dietitians recommend getting nutrients from whole foods rather than supplements whenever possible.
-
-### Price:
-**VACANT VACANT VACANT**
 
 ### Suggested suppliers:
 Online pharmacies and local stores
