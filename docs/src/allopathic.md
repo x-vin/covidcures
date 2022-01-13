@@ -341,10 +341,10 @@ There is evidence that vitamin C and Quercetin co-administration exerts a synerg
          - **Zinc**: 100 mg/day. Zinc lozenges are preferred. ([Amazon][112]) ([iHerb][113])
          - **Pulse Oximeter**: FLCCC also recommend monitoring your oxygen saturation with a pulse oximeter and to go to the hospital if you get below 94%. ([Amazon][114])
    2. **Second line agents (listed in order of priority /importance)**:
-   - **Add to first line therapies above if:**
-      - **≥ 5 days of symptoms;** 
-      - **Poor response to therapies above;** 
-      - **Significant comorbidities**
+- **Add to first line therapies above if:**
+   1. **≥ 5 days of symptoms;** 
+   2. **Poor response to therapies above;** 
+   3. **Significant comorbidities**
 
       - **Dual anti-androgen Therapy:**
          - [Spironolactone][115]: 100mg 2 x daily for ten days
@@ -394,7 +394,7 @@ Prophylactic treatment or prevention of Covid-19; better outcomes in curative tr
 Dr. Pierre Kory reported that Brazil suffered from the Gamma variant of Covid, which is much more aggressive and violent in progression than the Delta, with patients reaching the ICU as early as 2-3 days after onset of symptoms. **Dr. Flavio Cadegiani, MD, PhD, eminent Brazilian researcher and clinician, reported that while most of the State of Amazonas was ravaged by the Gamma variant and hospitals were overfull and short of oxygen, and cities and hospitals were practically collapsing, its city of Coari remained almost entirely unscathed. The Secretary of Health revealed that the local health officials had been distributing ivermecting throughout the local city population, many people were prophylaxing, and everybody was using it for early treatment. There were a large number of cases in the city and the prophylactic dosage of ivermectin used was 0.2 mg / kg every 7-10 days, which was probably too low for the highly infectious Gamma variant. However, Dr. Cadegiani had observed in his travels through Brazil that there were two types of Covid- the breakthrough infections in those who were prophylaxing on ivermectin were much milder and mostly avoided hospitalization.**
 
 ### Significant side effects:
-[Safety Review of High Dose Ivermectin][132]
+   - [Safety Review of High Dose Ivermectin][132]
 
 Dr. Pierre Kory doesn't believe that there is any risk with twice a week ivermectin prophylaxing, even with 0.4 mg/kg dosing, as the drug has been used extensively, especially very strong doses in cancer therapy. He cites Brazilian Dr. Flavio Cadegiani who has used ivermectin dosages as high as 1.0 mg/kg with Gamma variant infections in hospitalized patients.
 
@@ -406,15 +406,14 @@ Ivermectin is hazardous to those suffering from allergies to the medication, and
 
 Ivermectin is most commonly used in veterinary practice, and it is very important to use human-grade Ivermectin, not from pet stores.
 
-For more information on safety of HCQ and other medicines in the algorithm, check the [c19study.com](http://c19study.com/) website that summarizes more than 278 studies of HCQ-based treatment, which are particularly favorable when HCQ is used in the first few days of COVID-19 symptoms as recommended in the above algorithm."
+For more information on safety of HCQ and other medicines in the algorithm, check the [c19study.com](http://c19study.com/) website that summarizes more than 278 studies of HCQ-based treatment, which are particularly favorable when HCQ is used in the first few days of COVID-19 symptoms as recommended in the above algorithm.
 
 ### Recommended quantity for stocking:
 Treatment can be undertaken only under doctor's guidance and supervision.
 
 ### Price:
 The first line of drugs used in the protocol are commonly used and inexpensive. The prices of many of the drugs, even common medications, as well as their availability, are artificially controlled by the pharmaceutical industry, and may vary widely between countries. Nitazoxanide, for example, is very cheap and commonly available in Brazil and very expensive and hard to procure in the US. Ivermectin, as Dr. Andrea Stramezzi revealed, could not be procured in Italy but was available in other countries of the EU like Italy.
-
-[Israeli scientist says COVID-19 could be treated for under $1/day][133]
+   - [Israeli scientist says COVID-19 could be treated for under $1/day][133]
 
 ### Suggested suppliers:
 Nutrient supplements can be bought from high-quality and trusted brands online or at local pharmacies. Prescription medicines like Ivermectin are purchased at local pharmaceutical stores, and to be used under the guidance of a licensed allopathic practitioner.
@@ -454,105 +453,72 @@ Allopathic treatment protocols can not be intermixed, except under the supervisi
 ### Status of authorisation:
 Peer-reviewed research publications reporting the work of numerous eminent physicians around the world.
 
-"In the absence of evidence from or a commitment to clinical trials of early therapy, other scientific information on the pathophysiology, treated natural history, and clinical judgement together must guide contemporary ambulatory management of COVID-19 (McCullough et al., 2020b). Observational studies reporting outcomes in patient populations managed consistently with empirically derived early intervention regimens currently provide an acceptable level of evidence for safety and efficacy of these widely available, inexpensive and safe alternatives to the current standard of non-intervention (Khan et al., 2020)."" Many countries around the world are providing home-based treatment kits to Covid patients.
+"In the absence of evidence from or a commitment to clinical trials of early therapy, other scientific information on the pathophysiology, treated natural history, and clinical judgement together must guide contemporary ambulatory management of COVID-19 (McCullough et al., 2020b). Observational studies reporting outcomes in patient populations managed consistently with empirically derived early intervention regimens currently provide an acceptable level of evidence for safety and efficacy of these widely available, inexpensive and safe alternatives to the current standard of non-intervention (Khan et al., 2020)." Many countries around the world are providing home-based treatment kits to Covid patients.
 
-All the medications prescribed in this therapeutic algorithm are either long proven for their safety and efficacy, or, as in the case of some monoclonal antibodies, recently granted Emergency Use Approval and proven in recent randomized trials. ""[In the case of monoclonal antibodies,] these results should be interpreted with caution and cannot be characterized as being conclusive or robust, yet as with all therapies discussed in this paper, Casirivimab / Imdevimab can be integrated into an innovative sequenced multi-drug regimen for SARS-CoV-2 infection."
+All the medications prescribed in this therapeutic algorithm are either long proven for their safety and efficacy, or, as in the case of some monoclonal antibodies, recently granted Emergency Use Approval and proven in recent randomized trials. "[In the case of monoclonal antibodies,] these results should be interpreted with caution and cannot be characterized as being conclusive or robust, yet as with all therapies discussed in this paper, Casirivimab / Imdevimab can be integrated into an innovative sequenced multi-drug regimen for SARS-CoV-2 infection."
 
 ### Protocol and treatment approach:
 The protocol evaluated and proposed in the referenced paper emphasizes prompt early initiation of Sequenced Multi Drug Therapy (SMDT) as a widely and currently available soution to stem the tide of hospitalizations and deaths. The multipronged therapeutic approach includes the following components and prescription:
+   - (po bid, i.e. *per os bis in die*, meaning, "taken orally, twice a day";
+   - po qd, i.e. *per os quaque die*, meaning, "taken orally, everyday")
 
-(po bid, i.e. *per os bis in die*, meaning, ""taken orally, twice a day"";
- po qd, i.e. *per os quaque die*, meaning, ""taken orally, everyday"")
-
-1) **Adjuvant nutraceuticals (5-30 days), commenced for ALL patients on the first appearance of symptoms:**
-  -  **5000 IU of vitamin D3 po qd X 5-30 days**, which has been proven in a small study to decrease Covid-19 mortality
-  -  **Vitamin C, 3000 mg po qd X 5-30 days**, as vitamin C has been used in a variety of viral illnesses
-  -  **Zinc, 50 mg elemental Zinc or 220 mg Zinc sulfate**, po bid X 5-30 days, potent inhibitor of viral replication
-  -  **Quercetin, 500 mg po bid X 5-30 days**: Quercetin is a polyphenol that could reduce the activity of a SARS-CoV-2 entry through the ACE2 receptor, inhibit viral proteases via conveyance of zinc, and attenuate inflammatory responses, thereby inhibiting viral replication and favouring immune response.
-
-2) If feasible, therapy with **monoclonal antibodies** for patients aged 50+ or younger patients with one or more comorbidities:
-  -  **Bamlanivimab OR Casirivimab / Imdevimab IV infusion EUA dosing**: Single IV infusion of Bamlanivimab 700 mg administered as soon as possible after positive viral test of SARS-CoV-2 and within 10 days of symptoms onset; the infusion should occur over an hour with another hour of monitoring for systemic reactions, that occur in < 5 % cases.
-
-3) **Combination intracellular anti-infective therapy (all for 5-30 days), commenced on the first appearance of symptoms for all patients aged 50+ years, or younger patients with a single comorbidity:**
-  -  **Hydroxychloroquine, Zinc ionophore, 200 mg po bid, AND Azithromycin 250 mg po bid, AND Doxycycline 100 mg po bid**
+1. **Adjuvant nutraceuticals (5-30 days), commenced for ALL patients on the first appearance of symptoms:**
+   -  **5000 IU of vitamin D3 po qd X 5-30 days**, which has been proven in a small study to decrease Covid-19 mortality
+   -  **Vitamin C, 3000 mg po qd X 5-30 days**, as vitamin C has been used in a variety of viral illnesses
+   -  **Zinc, 50 mg elemental Zinc or 220 mg Zinc sulfate**, po bid X 5-30 days, potent inhibitor of viral replication
+   -  **Quercetin, 500 mg po bid X 5-30 days**: Quercetin is a polyphenol that could reduce the activity of a SARS-CoV-2 entry through the ACE2 receptor, inhibit viral proteases via conveyance of zinc, and attenuate inflammatory responses, thereby inhibiting viral replication and favouring immune response.
+2. If feasible, therapy with **monoclonal antibodies** for patients aged 50+ or younger patients with one or more comorbidities:
+   -  **Bamlanivimab OR Casirivimab / Imdevimab IV infusion EUA dosing**: Single IV infusion of Bamlanivimab 700 mg administered as soon as possible after positive viral test of SARS-CoV-2 and within 10 days of symptoms onset; the infusion should occur over an hour with another hour of monitoring for systemic reactions, that occur in < 5 % cases.
+3. **Combination intracellular anti-infective therapy (all for 5-30 days), commenced on the first appearance of symptoms for all patients aged 50+ years, or younger patients with a single comorbidity:**
+   -  **Hydroxychloroquine, Zinc ionophore, 200 mg po bid, AND Azithromycin 250 mg po bid, AND Doxycycline 100 mg po bid**
 **AND / OR**
-  -  **Ivermectin 6-24 mg po qod, or taken orally every other day, AND Azithromycin 250 mg po bid, AND Doxycycline 100 mg po bid**
+   -  **Ivermectin 6-24 mg po qod, or taken orally every other day, AND Azithromycin 250 mg po bid, AND Doxycycline 100 mg po bid**
 AND / OR
-  -  Favipravir 1800 mg po bid X 1 day loading dose, then 600 mg po bid, AND Azithromycin 250 mg po bid, AND Doxycycline 100 mg po bid
-
-4) **Inhaled / oral corticosteroids, commenced on the first appearance of symptoms for patients aged 50+ years with one or more comorbidities, AND for 50+ aged patients or younger patients with comorbidities on day 5 of illness or on development of respiratory illness:**
-  -  **Inhaled Budesonide 1 mg / 2 ml nebulization or 200 mcg / inhaler upto every 4 hours qd X 5 days, +/- taper, OR**
-  -  **Dexamethasone 6 mg po qd X 5 days, +/- taper, OR**
-  -  **Prednisone 1 mg / kg or body weight po qd X 5 days, +/- taper**
+   -  Favipravir 1800 mg po bid X 1 day loading dose, then 600 mg po bid, AND Azithromycin 250 mg po bid, AND Doxycycline 100 mg po bid
+4. **Inhaled / oral corticosteroids, commenced on the first appearance of symptoms for patients aged 50+ years with one or more comorbidities, AND for 50+ aged patients or younger patients with comorbidities on day 5 of illness or on development of respiratory illness:**
+   -  **Inhaled Budesonide 1 mg / 2 ml nebulization or 200 mcg / inhaler upto every 4 hours qd X 5 days, +/- taper, OR**
+   -  **Dexamethasone 6 mg po qd X 5 days, +/- taper, OR**
+   -  **Prednisone 1 mg / kg or body weight po qd X 5 days, +/- taper**
 AND OPTIONALLY -  Colchicine 0.6 mg po bid
-
-5) **Antiplatelet agents / anticoagulants, commenced on the first appearance of symptoms for patients aged 50+ years with one or more comorbidities, AND for 50+ aged patients or younger patients with comorbidities when there is underlying serious medical condition / Venous Thrombo-Embolism / suspected micro or overt thrombosis:**
-  -  **Aspirin 325 mg po qd X 5-30 days**
+5. **Antiplatelet agents / anticoagulants, commenced on the first appearance of symptoms for patients aged 50+ years with one or more comorbidities, AND for 50+ aged patients or younger patients with comorbidities when there is underlying serious medical condition / Venous Thrombo-Embolism / suspected micro or overt thrombosis:**
+   -  **Aspirin 325 mg po qd X 5-30 days**
 AND OPTIONALLY -  Low molecular weight Heparin OR Apixaban, Rivaroxaban, Edoxaban, Dabigatran, in standard doses X 5-30 days
+6. **Supportive care including supplemental oxygen, monitoring and telemedicine:**
+   -  **Pulse Oxygen delivered home**, if necessary
+   -  **Ventilate room air**.
+   -  Evaluate if symptoms do not respond well to early ambulatory treatment, **escalate clinically and hospitalize, if necessary.**
+   -  Offer **telemedicine** consultancy to patients and GPs.
 
-6) **Supportive care including supplemental oxygen, monitoring and telemedicine:**
-  -  **Pulse Oxygen delivered home**, if necessary
-  -  **Ventilate room air**.
-  -  Evaluate if symptoms do not respond well to early ambulatory treatment, **escalate clinically and hospitalize, if necessary.**
-  -  Offer **telemedicine** consultancy to patients and GPs.
-
-**Dr. Richard Urso's, Texas, USA, perspective on the early treatment of the widely prevalent and aggressive Delta variant:**
+**Dr. Richard Urso's, Texas, USA, perspective on the early treatment of the widely prevalent and aggressive Delta variant.**
 
 ### Typical duration of treatment:
 5-30 days in most patients, with need for hospitalization or clinical escalation in the rare patients with serious underlying medical conditions
 
 ### Outcome:
-**HCQ**:
-"A continuously updated synthesis of
+**HCQ**: A continuously updated synthesis of
 HCQ studies supports the following (COVID-19 Treatment, 2020):
-1) 63% of studies of HCQ administered late in the hospital course have demonstrated benefit,
-2) 100% of the early treatment studies have demonstrated benefit with a composite 64% relative risk reduction in the progression of disease, hospitalization, and death (Arshad et al., 2020; Mikami et al., 2020; Prodromos and Rumschlag, 2020; Rosenberg et al., 2020).
-
+   1. 63% of studies of HCQ administered late in the hospital course have demonstrated benefit,
+   2. 100% of the early treatment studies have demonstrated benefit with a composite 64% relative risk reduction in the progression of disease, hospitalization, and death (Arshad et al., 2020; Mikami et al., 2020; Prodromos and Rumschlag, 2020; Rosenberg et al., 2020).
 The small randomized trials to date are inconclusive for the following reasons: 1) no placebo control, 2) unblinded, 3) altered primary endpoints, 4) biased unblinded physician assigned endpoints (such as need for oxygen), 5) markedly truncated sample sizes and administrative termination of trials, 6) pretreatment with other antivirals."
 
-**Quercetin**:
-The Association of American Physicians and Surgeons (AAPS) states, ""(Quercetin) is much less potent than HCQ as a Zinc transporter, and it does not reach the high concentrations in lung cells that HCQ does. Quercetin may help reduce risk of viral illness if you are basically healthy. But it is not potent enough to replace HCQ for treatment of COVID once you have symptoms, and it does not adequately get into lung tissue unless you take massive doses (3-5 grams a day), which cause significant GI side effects such as diarrhea.""
+**Quercetin**: The Association of American Physicians and Surgeons (AAPS) states, ""(Quercetin) is much less potent than HCQ as a Zinc transporter, and it does not reach the high concentrations in lung cells that HCQ does. Quercetin may help reduce risk of viral illness if you are basically healthy. But it is not potent enough to replace HCQ for treatment of COVID once you have symptoms, and it does not adequately get into lung tissue unless you take massive doses (3-5 grams a day), which cause significant GI side effects such as diarrhea.""
 
-**Ivermectin**:
-Ivermectin (IVM) is a broad spectrum anti-parasitic agent that has been shown to have anti-viral activity against a range of viruses including recently, SARS-CoV-2 (Heidary and Gharebaghi, 2020).  There are a number of randomized and prospective studies and all have shown efficacy in clinical outcomes at the time of this report (Alam et al., 2020; Chowdhury et al., 2020; Gorial et al., 2020; Khan et al., 2020; Nunez et al., 2020). . In the ICON study, IVM use in the hospital was associated with a 48% relative risk reduction in COVID-19 mortality (Rajter et al., 2020). Currently, there are 36 randomized clinical trials of ivermectin alone or in combination for ambulatory and hospitalized patients listed on clinicaltrials.gov.
+**Ivermectin**: Ivermectin (IVM) is a broad spectrum anti-parasitic agent that has been shown to have anti-viral activity against a range of viruses including recently, SARS-CoV-2 (Heidary and Gharebaghi, 2020).  There are a number of randomized and prospective studies and all have shown efficacy in clinical outcomes at the time of this report (Alam et al., 2020; Chowdhury et al., 2020; Gorial et al., 2020; Khan et al., 2020; Nunez et al., 2020). . In the ICON study, IVM use in the hospital was associated with a 48% relative risk reduction in COVID-19 mortality (Rajter et al., 2020). Currently, there are 36 randomized clinical trials of ivermectin alone or in combination for ambulatory and hospitalized patients listed on clinicaltrials.gov.
 
-**Favipravir**:
-Favipiravir is an oral selective inhibitor of RNA-dependent RNA polymerase, and is approved for ambulatory use in COVID19 in multiple countries (Coomes and Haghbayan, 2020). Favipiravir is safe and it shortens viral nasal shedding to less than 7 days in most studies (Ivashchenko et al., 2020; Pilkington et al., 2020).
+**Favipravir**: Favipiravir is an oral selective inhibitor of RNA-dependent RNA polymerase, and is approved for ambulatory use in COVID19 in multiple countries (Coomes and Haghbayan, 2020). Favipiravir is safe and it shortens viral nasal shedding to less than 7 days in most studies (Ivashchenko et al., 2020; Pilkington et al., 2020).
 
 **Antibiotics  with intracellular anti-infective activity:**
-
-**Azithromycin** is a commonly used macrolide antibiotic that has antiviral properties mainly attributed to reduced endosomal transfer of virions as well as established anti-inflammatory effects (Pani et al., 2020). French reports indicated that Azithromycin in combination with HCQ was associated with reduced durations of viral shedding, fewer hospitalizations, and reduced mortality as compared to those untreated (Lagier et al., 2020; Million et al.,
-2020). In a large observational inpatient study (n = 2451), those who received AZM alone had an adjusted hazard ratio for mortality of 1.05, 95% CI 0.68-1.62, P = 0.83 (Colunga Biancatelli et al., 2020). The combination of HCQ and AZM has been considered a standard of care outside the US for COVID-19 in more than 300,000 older adults with multiple comorbidities (Risch, 2020).
-
-**Doxycycline** is another common antibiotic with multiple intracellular effects that may reduce viral replication, cellular damage, and expression of inflammatory factors (Malek et al., 2020; Sodhi and Etminan, 2020). It has been shown to have in vitro activity against COVID-19 at clinically used concentrations, acting in post-entry stages of the infection with SARS-CoV-2 in Vero E6 cells (Gendrot et al., 2020). It has also been shown to concentrate in the lungs at levels twice that of plasma. When combined with Ivermectin early in the infection it appears to enhance efficacy to near complete eradication of COVID-19 in less than 10 days.
-
-**Corticosteroids**:
-"Among COVID-19 patients, serum IL-6 and IL-10 levels are elevated in the critically ill (Han et al., 2020). In COVID-19, some of the first respiratory findings are cough and difficulty breathing. These features are attributable to inflammation and cytokine activation. Early use of oral corticosteroids is a rational intervention for COVID-19 patients with these features as they would be in other inflammatory lung disorders (Kolilekas et al., 2020; Singh et al., 2020). In particular, a meta-analysis involving 1703 critically ill COVID-19 patients found a 36% relative risk reduction in death (Sterne et al., 2020) due to dexamethasone."
-
-**Anticoagulants**:
-"Autopsy studies have described pulmonary micro thrombosis and overt embolism with deep venous thrombus found in over half of fatal COVID-19 cases (Ackermann et al., 2020; Burlacu et al., 2020). These observations support the hypothesis that a unique endothelial injury and thrombosis are playing a role in oxygen desaturation, a cardinal reason for hospitalization and supportive care (Zhang et al., 2020b).
-
-"Preemptive use of low molecular weight heparin or novel anticoagulants have been associated with > 50% reduction in COVID-19 mortality (Billett et al., 2020). Anticoagulants also reduce death in COVID-19 hospitalized patients with thrombotic complications, elevated D-dimer levels, and higher comorbidity scores (Tang et al., 2020) . Finally, many acutely ill outpatients also have general indications or risk
-for cardioembolic/venous thromboembolic prophylaxis applicable to COVID-19 (Moores et al., 2020; Ruocco et al., 2020).
-
-""Given reports of catastrophic stroke and systemic thromboembolism and the large reductions in mortality for both prophylactic and  therapeutic use, administration of Aspirin 325 mg po qd for all COVID-19 high-risk patients and systemic anticoagulation is prudent in patients with a history of heart, lung, kidney, or malignant disease (Yamakawa et al., 2020).""
-
-**Colchine**, in the GRECCO-19 randomized open-label trial in 105 hospitalized patients with COVID-19 (treated with HCQ and Azithromycin in 98 and 93% respectively) found that Colchicine was associated with a reduction in D-dimer levels and improved clinical outcomes (Deftereos et al., 2020).
+   - **Azithromycin** is a commonly used macrolide antibiotic that has antiviral properties mainly attributed to reduced endosomal transfer of virions as well as established anti-inflammatory effects (Pani et al., 2020). French reports indicated that Azithromycin in combination with HCQ was associated with reduced durations of viral shedding, fewer hospitalizations, and reduced mortality as compared to those untreated (Lagier et al., 2020; Million et al., 2020). In a large observational inpatient study (n = 2451), those who received AZM alone had an adjusted hazard ratio for mortality of 1.05, 95% CI 0.68-1.62, P = 0.83 (Colunga Biancatelli et al., 2020). The combination of HCQ and AZM has been considered a standard of care outside the US for COVID-19 in more than 300,000 older adults with multiple comorbidities (Risch, 2020).
+   - **Doxycycline** is another common antibiotic with multiple intracellular effects that may reduce viral replication, cellular damage, and expression of inflammatory factors (Malek et al., 2020; Sodhi and Etminan, 2020). It has been shown to have in vitro activity against COVID-19 at clinically used concentrations, acting in post-entry stages of the infection with SARS-CoV-2 in Vero E6 cells (Gendrot et al., 2020). It has also been shown to concentrate in the lungs at levels twice that of plasma. When combined with Ivermectin early in the infection it appears to enhance efficacy to near complete eradication of COVID-19 in less than 10 days.
+   - **Corticosteroids**: "Among COVID-19 patients, serum IL-6 and IL-10 levels are elevated in the critically ill (Han et al., 2020). In COVID-19, some of the first respiratory findings are cough and difficulty breathing. These features are attributable to inflammation and cytokine activation. Early use of oral corticosteroids is a rational intervention for COVID-19 patients with these features as they would be in other inflammatory lung disorders (Kolilekas et al., 2020; Singh et al., 2020). In particular, a meta-analysis involving 1703 critically ill COVID-19 patients found a 36% relative risk reduction in death (Sterne et al., 2020) due to dexamethasone."
+   - **Anticoagulants**: "Autopsy studies have described pulmonary micro thrombosis and overt embolism with deep venous thrombus found in over half of fatal COVID-19 cases (Ackermann et al., 2020; Burlacu et al., 2020). These observations support the hypothesis that a unique endothelial injury and thrombosis are playing a role in oxygen desaturation, a cardinal reason for hospitalization and supportive care (Zhang et al., 2020b).<br>"Preemptive use of low molecular weight heparin or novel anticoagulants have been associated with > 50% reduction in COVID-19 mortality (Billett et al., 2020). Anticoagulants also reduce death in COVID-19 hospitalized patients with thrombotic complications, elevated D-dimer levels, and higher comorbidity scores (Tang et al., 2020) . Finally, many acutely ill outpatients also have general indications or risk for cardioembolic/venous thromboembolic prophylaxis applicable to COVID-19 (Moores et al., 2020; Ruocco et al., 2020).<br> "Given reports of catastrophic stroke and systemic thromboembolism and the large reductions in mortality for both prophylactic and  therapeutic use, administration of Aspirin 325 mg po qd for all COVID-19 high-risk patients and systemic anticoagulation is prudent in patients with a history of heart, lung, kidney, or malignant disease (Yamakawa et al., 2020)."
+   - **Colchine**, in the GRECCO-19 randomized open-label trial in 105 hospitalized patients with COVID-19 (treated with HCQ and Azithromycin in 98 and 93% respectively) found that Colchicine was associated with a reduction in D-dimer levels and improved clinical outcomes (Deftereos et al., 2020).
 
 ### Significant side effects:
-**HCQ**:
-Hydroxychloroquine was approved by the U.S. Food and Drug Administration in 1955, has been used by hundreds of millions of people worldwide since then, is sold over the counter in many countries and has a well characterized safety profile (Fram et al., 2020; Schrezenmeier and Dörner, 2020). Asymptomatic QT prolongation is well-recognized though an infrequent (< 1%) occurrence with HCQ (Prodromos et al., 2020). In those with glucose6-phosphate dehydrogenase deficiency HCQ should not be used (Aguilar, 2020). In the setting of acute severe COVID-19 illness, symptomatic arrhythmias can develop in the absence of HCQ and are attributed to cytokine storm and critical illness (Elsaid et al., 2020). Data safety and monitoring boards have not declared safety concerns in HCQ clinical trial published to date. Rare patients with a personal or family history of prolonged QT syndrome, those on additional QT prolonging, contraindicated drugs (e.g. dofetilide, sotalol), should be treated with caution and a plan to monitor the QTc in the ambulatory setting. A typical HCQ regimen is 200 mg bid for 5 to 30 days depending on continued symptoms.
-
-**Ivermectin**:
-This drug is well tolerated, has a high therapeutic index and proven safety profile with over 3.7 billion treatments, and has been used alone or combined with either doxycycline or azithromycin in early clinical studies of patients with COVID-19 (Rahman et al., 2020).
-
-For more information on safety of HCQ and other medicines in the algorithm, check the [c19study.com](http://c19study.com/) website that summarizes more than 278 studies of HCQ-based treatment, which are particularly favorable when HCQ is used in the first few days of COVID-19 symptoms as recommended in the above algorithm.
-
-**Corticosteroids**:
-It was reported that safety concerns regarding prolonged viral replication with steroids have not been substantiated (Masiá et al., 2020).
-
-The following scientific article attempts to identify an association between the alarming rise of mucormycosis in advanced Covid patients in India during the second wave, and the common practice of excessive prescription of Zinc (up to 50 mg per day), antibiotics like Azithromycin, and Corticosteroids even in the early days of disease onset, as well as the widespread use of scalding steam to ""disinfect"" the upper respiratory tract by many households:
-[A look into the relationship between outdated coronavirus disease 2019 (COVID-19) treatment protocols and the overwhelming rise of mucormycosis in COVID-19 patients in India; Jamal & Rayapati; Infectious Control & Hospital Epidemiology; Aug 27, 2021][153]
+   - **HCQ**: Hydroxychloroquine was approved by the U.S. Food and Drug Administration in 1955, has been used by hundreds of millions of people worldwide since then, is sold over the counter in many countries and has a well characterized safety profile (Fram et al., 2020; Schrezenmeier and Dörner, 2020). Asymptomatic QT prolongation is well-recognized though an infrequent (< 1%) occurrence with HCQ (Prodromos et al., 2020). In those with glucose6-phosphate dehydrogenase deficiency HCQ should not be used (Aguilar, 2020). In the setting of acute severe COVID-19 illness, symptomatic arrhythmias can develop in the absence of HCQ and are attributed to cytokine storm and critical illness (Elsaid et al., 2020). Data safety and monitoring boards have not declared safety concerns in HCQ clinical trial published to date. Rare patients with a personal or family history of prolonged QT syndrome, those on additional QT prolonging, contraindicated drugs (e.g. dofetilide, sotalol), should be treated with caution and a plan to monitor the QTc in the ambulatory setting. A typical HCQ regimen is 200 mg bid for 5 to 30 days depending on continued symptoms.
+   - **Ivermectin**: This drug is well tolerated, has a high therapeutic index and proven safety profile with over 3.7 billion treatments, and has been used alone or combined with either doxycycline or azithromycin in early clinical studies of patients with COVID-19 (Rahman et al., 2020).<br> For more information on safety of HCQ and other medicines in the algorithm, check the [c19study.com](http://c19study.com/) website that summarizes more than 278 studies of HCQ-based treatment, which are particularly favorable when HCQ is used in the first few days of COVID-19 symptoms as recommended in the above algorithm.
+   - **Corticosteroids**: It was reported that safety concerns regarding prolonged viral replication with steroids have not been substantiated (Masiá et al., 2020).<br> The following scientific article attempts to identify an association between the alarming rise of mucormycosis in advanced Covid patients in India during the second wave, and the common practice of excessive prescription of Zinc (up to 50 mg per day), antibiotics like Azithromycin, and Corticosteroids even in the early days of disease onset, as well as the widespread use of scalding steam to "disinfect" the upper respiratory tract by many households:
+      - [A look into the relationship between outdated coronavirus disease 2019 (COVID-19) treatment protocols and the overwhelming rise of mucormycosis in COVID-19 patients in India; Jamal & Rayapati; Infectious Control & Hospital Epidemiology; Aug 27, 2021][153]
 
 ### Recommended quantity for stocking:
 The OTC nutraceutical products could be bought in advance and stocked for early home-based treatment.
@@ -602,7 +568,7 @@ Dr. Urso **concluded early in the pandemic that the pathology of Covid-19 sugges
 
 Dr. Chetty's **systematization of the disease pathology and observation of the disease presentation at different points of the timeline post vaccination is an example of the keen observation** that a doctor must possess in his clinical practice. This is how clinical practice and community medicine must work, with **doctors sharing information on the ground.**
 
-"**There is always a better mousetrap, there are better solutions.** It is important to adapt therapy to the changing context in the pandemic, and it is always possible to find better solutions. There is no need to be afraid of this challenge. Such challenges are normal, and **therapies must be dynamically changing."" It is important to appreciate that as we go forward, there will emerge better therapeutic solutions to the pandemic.** For example, the following therapeutic products may be repurposed to improve the current best treatment protocols for Covid-19: **Cyclosporine**, the immunosuppressant long used to preempt the body's rejections of transplants, might work. **Fenofibrate**, which is mainly used to lower LDL cholesterol and triglycerides, the HIV and antiretroviral drug **Kaletra**, the anti-inflammatory drug **Colchicine**, **Interferons**, which belong to a class of signalling proteins called cytokines and are used as antiviral therapeutic agents, **Hydroxychloroquine**, **Ivermectin**, the androgen blockers **Spironolactone** and **Eplerenone** (ordinarily used to treat high blood pressure), and more. Dr. Urso has repurposed many of these in his clinical protocols, even in ophthalmology for many years. **Therefore it may not be difficult to innovate new therapeutic options to treat Covid better, even the aggressive variants, and it is exciting to meet the challenges entailed.**
+"**There is always a better mousetrap, there are better solutions.** It is important to adapt therapy to the changing context in the pandemic, and it is always possible to find better solutions. There is no need to be afraid of this challenge. Such challenges are normal, and **therapies must be dynamically changing." It is important to appreciate that as we go forward, there will emerge better therapeutic solutions to the pandemic.** For example, the following therapeutic products may be repurposed to improve the current best treatment protocols for Covid-19: **Cyclosporine**, the immunosuppressant long used to preempt the body's rejections of transplants, might work. **Fenofibrate**, which is mainly used to lower LDL cholesterol and triglycerides, the HIV and antiretroviral drug **Kaletra**, the anti-inflammatory drug **Colchicine**, **Interferons**, which belong to a class of signalling proteins called cytokines and are used as antiviral therapeutic agents, **Hydroxychloroquine**, **Ivermectin**, the androgen blockers **Spironolactone** and **Eplerenone** (ordinarily used to treat high blood pressure), and more. Dr. Urso has repurposed many of these in his clinical protocols, even in ophthalmology for many years. **Therefore it may not be difficult to innovate new therapeutic options to treat Covid better, even the aggressive variants, and it is exciting to meet the challenges entailed.**
 
 **The patients who have the greatest risk of severe infection wiith the delta variant are those with insulin resistance, which is different from the pathology of the previous milder variants. Dr. Urso has been trying to share protocol innovations with clinical practitioners who are seeking to improve upon existing treatment modalities, and especially doctors in ER care.** These protocols **primarily use Ivermectin and / or HCQ.**
 
@@ -626,8 +592,7 @@ Ivermectin / HCQ, vitamin D, K2, (Calcium, Magnesium) and Zinc can be stocked fo
 
 ### Price:
 The first line of drugs used in the protocol are commonly used and inexpensive. The prices of many of the drugs, even common medications, as well as their availability, are artificially controlled by the pharmaceutical industry, and may vary widely between countries. Nitazoxanide, for example, is very cheap and commonly available in Brazil and very expensive and hard to procure in the US. Ivermectin, as Dr. Andrea Stramezzi revealed, could not be procured in Italy but was available in other countries of the EU like Italy.
-
-[Israeli scientist says COVID-19 could be treated for under $1/day][171]
+   - [Israeli scientist says COVID-19 could be treated for under $1/day][171]
 
 ### Suggested suppliers:
 Earlier section on the FLCCC early treatment protocol includes embedded links to online suppliers.
@@ -657,126 +622,100 @@ In Days 1-4, there is very little or no pulmonary involvement. The nose and phar
 
 The viral load is estimated according to response to treatment, 27-30 hours after treatment begins.
 
-**Day 1: I. Nasal, Pharyngeal + Intestinal**
-**Response to treatment, diagnosis and severity:** If treatment is started on day 1 of symptomatic infection and there is rapid response, with improvement from 97% to 100%, then a low viral load is estimated.
-**Therapeutic plan:**
-**Ivermectin**-  0.4 mg per kg of Ivermectin, X 1 dose a day, after lunch or dinner for 3 to 4 days. If there is fever over 38 degrees Celsius for more than 12 hours or semiliquid stool, add the 2nd dose in the day.
-Additional hydration- 1-2 litres / day
-Nasal washes- 3-4 times / day with a 10 ml syringe with 1 glass of water with 0.5 teaspoon of salt
-Gargle- 4-5 times a day. Mix 10 ml of cold boiled water with 5 ml of hydrogen peroxide of 10 volumes, or with 0.05% cetylpyridinium chloride, 10 ml undiluted.
-Contact tracing and administration of Ivermectin to contacts- 0.4 mg / kg of body weight for 3 continued days. For men aged over 70 years, give for 5 days. In caregivers, give for 6 continued days.
-
-Reduce platelet hyperactivity and thrombophilia- **Acetyl Salicylic Acid (ASA)**, 300-500 mg X 1 dose on the day 1 alone. **Ambulation at home, change position every half an hour during the day, avoid crossing the legs, flexion and extension exercises.**
-
-Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction- 
-Avoid coffee, alcohol, nuts, peanuts, almonds, pecans, orange, lemon, tangerine, banana, elderberry, chocolate, seeds, oats, wheat, corn, chillie pepper, tomato, cold cuts, fish and other seafood. Consume more turkey, chicken, egg, beef, mango, potato, quinoa, yoghurt.
-
-**Do not use Paracetamol. Use antipyretics only if fever exceeds 38 deg Celsius.**
-
-**Days 2 & 3: I. Nasal, Pharyngeal + Intestinal**
-**Response to treatment, diagnosis and severity**: If there is partial response to treatment thus far, 25 to 96 % improvement suggests medium viral load. However, if the disease has affected the intestines, severity is high.
-
-**Therapeutic plan:**
-**Ivermectin**- 0.4 mg / kg X 2 doses, after breakfast and dinner for 4 - 7 days.
-Nifuroxazide 200 mg + Atapulgite 350 mg- If there is fever longer than 24 h. and / or diarrhoea, give Nifuroxazide 200 mg + Atapulgite 350 mg, as 2 tablets (400 mg) every 12 hours or every 8 h. X 4 - 8 days, according to severity. If weight more than 90 kg and the viral load is moderate, give 600 mg every 8 h.
-Famotidine- 60 mg at 10 PM, for 7-14 days
-Ranitidine- 300 mg at 10 PM X 7-14 days
-Continue with additional hydration of 1-2 litres / day, nasal washes, gargles, Ivermectin to contacts.
-
-Reduce platelet hyperactivity and thrombophilia-
-**ASA** TB (**Aspirin**)- 200 - 300 mg / day X 7-12 days, as 100 mg after meals. If weight more than 90 kg, give 300-600 mg a day, in 2 or 3 parts, after meals, X 7-12 days.
-Alternatives, or which could be added to ASA- Dipyramidole 75 mg 1 TB 2-4 times / day, away from food, Clopidogrel TB 75 mg, 37.5 to 75 mg / day
-
-Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction- 
-**Zinc**- 150-300 mg X day X 12 days, Not to be taken with food but away from meal times and dairy (11 AM and / or 4 PM)
-**Vit. D**- 30,000 - 90,000 IU / day X 6 days, or 300,000 IU / day
-**Vit. C**- 2 g every 12 hours X 6-12 days
-**Vit. A**- 75,000 - 100,000 IU / day X 3 days. Do not take on the 4th day, and repeat X 3 days the same.
-Sodium bicarbonate- 1 sachet of Andrews salt or 1/2 teaspoon of baking soda in a glass of water at 11 AM and 10 PM X 3 days
-
-**Day 4: I. Nasal, Pharyngeal + Intestinal**
-**Response to treatment, diagnosis and severity**: If response to treatment is < 25 %, high and persistent viral load.
-
-**Therapeutic plan:**
-**Add**:
-Nitazoxanide- 500 mg tablet every 12 hours X 6 days, every 8 hours if your weight is > 80 kg
-Bromhexine- FCO 8 mg (5 ml) every 8 hours X 6-7 days
-If there is no diarrhoea, give Nifuroxazide without Atapulgite- 400 mg tablet every 8 hours X 6-9 days.
-If fever persists, increase dosage of Ivermectin and give Doxycycline 100 mg every 12 hours X 6 days or Azithromycin
-
-Reduce platelet hyperactivity and thrombophilia- Continue previous treatment.
-
-Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction- 
-**Colchicine**- TB 0.5 mg every 12 hours X 15 days. If weight more than 75 kg, give 2 TB in the morning.
-**N-Acetyl cysteine**- 600 mg sachet or TB. 1sachet dissolved PO every 6-8 hours X 6-10 days
-**Cyclesonide or Budenoside**- 2 inhalations in the morning, noon and afternoon X 10 days
-**Lysine**- 2 TB 500 mg, 11 am and 5 am X 14 days
-**Niacin** (B3)- TB 500 mg, 2-3 / day X 6-8 days
-
-
-In days 5 - 14, if progression to pumonary stage or multiple organs affected, hospitalization may be required, may require ICU, VM in days 10 and upward.
-
-**Days 5 & 6: II. Pulmonary**
-
-**Response to treatment, diagnosis and severity**: Progression to lungs, intestines, myocardium-pericardium, muscles; medium to high viral load; initial pulmonary oedema, thrombophilia, gastroenteritis, investigate myocarditis / pericarditis
-
-**Treatment plan:**
-**Ivermectin**- 0.4 mg / kg of weight in each dose X 3 times a day (at breakfast, lunch and dinner). Take up to 2-3 days after symptoms subside.
-Spironolactone- TB 25 or 100 mg, 100 mg / day for 8-14 days
-Fluvoxamine- TB 100 mg, 50 mg on 1st day, then 100 mg / day X 12 days.
-In men, Add one of the following alternatives:
-Dutasteride- 0.5 mg / day, or Bicalutamide- 150 mg / day X 7-14 days, or HCQ- nebulize, grind 200 mg of 1 TB and pour in 8 ml of distilled water, or boiled cold (water?), for 20 min. every 12 hours X 3 days.
-For pulmonary oedema- Put in prone or Mohammedan or Left Lateral position. Do not give sodium chloride, but dextrose 5 %, restrict liquids.
-
-Reduce platelet hyperactivity and thrombophilia- 
-**Enoxaparin** AMP, SC- For < 75 kg weight, 40 mg every 24 hours; for > 75 kg, 60 mg every 24 hours
-Lumbrokinase- TB 20 mg, 4 / day
-**[Curcuma][173]**- TB 500 mg, 1 / day X 14 days
-**Omega 3**- TB 1000 mg, 1 / day X 14 days
-
-Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction- Continue treatment of Day 4.
-
-**Days 7, 8 & 9:**
-
-**Response to treatment, diagnosis and severity**: High viral load; affecting lungs, intestines and heart; moderate ARDS, dissseminated microthrombosis, gastroenteritis, myocarditis / pericarditis, investigate encephalitis
-
-**Treatment plan**: Continue treatment plan of Days 5 & 6.
-In addition- If there is fever, investigate coinfection.
-Alternate oral medication- Cefixime 400, LEVO 750, Moxifloxacin 400
-IV- Ceftriaxone 2 g, Cefipime, Meropenen
-
-Reduce platelet hyperactivity and thrombophilia- 
-**Enoxaparin** AMP SC 40 mg- 0.5 mg / kg every 12 hours. If oxygen saturation drops below 85 %, give 0.5 every 8 hours.
-Alternatives- Heparin AMP; Or AAS 600 mg / day + Lumbrokinase 80 mg / day + **Curcuma** 1000 mg / day
-
-Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction- 
-**Quercetine**- 500 mg, 1-2 every 12 hours X 7 days
-**Vit C** AMP or TB- 50 mg / kg weight, EV or PO every 8 or 12 hours X 3-6 days
-Vitamin B12 TB- 3000 mcg / day X 8-12 days
-**Thyamine** TB- 300 mcg / day X 8-12 days
-**Melatonin** TB- Before sleeping; increase from 3 to 6 to 10 mg
-**Selenium** TB- 200 mcg, 2-3 days X 30 days
-
-**Days 9 - 14**
-
-**Response to treatment, diagnosis and severity**: Very high, total body viral load; moderate / severe ARDS, SIRS, thromboembolic disease, myocarditis; investigate heart-renal failure, encephalitis, investigate brain, kidney, skin, feet
-
-**Treatment plan**:
-Ivermectin- 0.4 mg / kg X 3-4 times a day; see tolerance
-Nifuroxazide 200 mg- 2 TB every 6 hours X 6-9 days; if weight > 90 kg, give 3 TB every 8 hours
-Nitazoxanide- TB 200 mg every 8 hours X 6-12 days; if weight > 90 kg, give 3 TB every 8 hours
-Spironolactone- 100 mg every 12 hours X 6 days, then 100 mg a day for 8 more days
-**Antibiotics**- For aggreg. infection
-**Enoxaparin**- AMP SC 40 mg; dosage for critical cases: if oxygen saturation drops to less than 82 %, give 0.5 mg / kg of body weight every 8 hours X 2-3 days, until oxygen saturation recovers to > 82 %, and then change to every 12 hours
-**Cyproheptadine**- Start with 0.4 mg / kg / day; divide into doses every 8 hours X 3 days, then 0.2 mg / kg
-Fibrinolytics- EV or VO
-
-Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction- 
-**Dexamethasone**- 4 mg TB or AMP 6-8 mg / day X 3-8 days, Or
-**Methylprednisol**- 125 mg X 3 days, Or
-**Cyclosporin**- 6-10 mg / kg / day in 2 doses X 4-7 days, accord. resp.
-**Immunoglobulin** (IGIV) AMP- 400 mg / kg / day slow infusion X 3 days
-Use High Flow Nasal Cannula (HFNC).
+   - **Day 1: I. Nasal, Pharyngeal + Intestinal**
+      - **Response to treatment, diagnosis and severity:** If treatment is started on day 1 of symptomatic infection and there is rapid response, with improvement from 97% to 100%, then a low viral load is estimated.
+      - **Therapeutic plan:**
+         - **Ivermectin:**  0.4 mg per kg of Ivermectin, X 1 dose a day, after lunch or dinner for 3 to 4 days. If there is fever over 38 degrees Celsius for more than 12 hours or semiliquid stool, add the 2nd dose in the day.
+         - Additional hydration: 1-2 litres / day
+         - Nasal washes: 3-4 times / day with a 10 ml syringe with 1 glass of water with 0.5 teaspoon of salt
+         - Gargle: 4-5 times a day. Mix 10 ml of cold boiled water with 5 ml of hydrogen peroxide of 10 volumes, or with 0.05% cetylpyridinium chloride, 10 ml undiluted.
+         - Contact tracing and administration of Ivermectin to contacts: 0.4 mg / kg of body weight for 3 continued days. For men aged over 70 years, give for 5 days. In caregivers, give for 6 continued days.
+      - Reduce platelet hyperactivity and thrombophilia:  **Acetyl Salicylic Acid (ASA)**, 300-500 mg X 1 dose on the day 1 alone. **Ambulation at home, change position every half an hour during the day, avoid crossing the legs, flexion and extension exercises.**
+      - Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction:  
+         - Avoid coffee, alcohol, nuts, peanuts, almonds, pecans, orange, lemon, tangerine, banana, elderberry, chocolate, seeds, oats, wheat, corn, chillie pepper, tomato, cold cuts, fish and other seafood. Consume more turkey, chicken, egg, beef, mango, potato, quinoa, yoghurt.
+      - **Do not use Paracetamol. Use antipyretics only if fever exceeds 38 deg Celsius.**
+   - **Days 2 & 3: I. Nasal, Pharyngeal + Intestinal**
+      - **Response to treatment, diagnosis and severity:** If there is partial response to treatment thus far, 25 to 96 % improvement suggests medium viral load. However, if the disease has affected the intestines, severity is high.
+      - **Therapeutic plan:**
+         - **Ivermectin:** 0.4 mg / kg X 2 doses, after breakfast and dinner for 4 - 7 days.
+         - Nifuroxazide 200 mg + Atapulgite 350 mg: If there is fever longer than 24 h. and / or diarrhoea, give Nifuroxazide 200 mg + Atapulgite 350 mg, as 2 tablets (400 mg) every 12 hours or every 8 h. X 4 - 8 days, according to severity. If weight more than 90 kg and the viral load is moderate, give 600 mg every 8 h.
+         - Famotidine: 60 mg at 10 PM, for 7-14 days
+         - Ranitidine: 300 mg at 10 PM X 7-14 days
+         - Continue with additional hydration of 1-2 litres / day, nasal washes, gargles, Ivermectin to contacts.
+      - Reduce platelet hyperactivity and thrombophilia:
+         - **ASA** TB (**Aspirin**)- 200 - 300 mg / day X 7-12 days, as 100 mg after meals. If weight more than 90 kg, give 300-600 mg a day, in 2 or 3 parts, after meals, X 7-12 days.
+         - Alternatives, or which could be added to ASA- Dipyramidole 75 mg 1 TB 2-4 times / day, away from food, Clopidogrel TB 75 mg, 37.5 to 75 mg / day
+      - Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction:
+         - **Zinc**- 150-300 mg X day X 12 days, Not to be taken with food but away from meal times and dairy (11 AM and / or 4 PM)
+         - **Vit. D**- 30,000 - 90,000 IU / day X 6 days, or 300,000 IU / day
+         - **Vit. C**- 2 g every 12 hours X 6-12 days
+         - **Vit. A**- 75,000 - 100,000 IU / day X 3 days. Do not take on the 4th day, and repeat X 3 days the same.
+         - Sodium bicarbonate- 1 sachet of Andrews salt or 1/2 teaspoon of baking soda in a glass of water at 11 AM and 10 PM X 3 days
+   **Day 4: I. Nasal, Pharyngeal + Intestinal**
+      - **Response to treatment, diagnosis and severity**: If response to treatment is < 25 %, high and persistent viral load.
+      - **Therapeutic plan:**
+         - **Add**:
+            - Nitazoxanide: 500 mg tablet every 12 hours X 6 days, every 8 hours if your weight is > 80 kg
+            - Bromhexine: FCO 8 mg (5 ml) every 8 hours X 6-7 days
+            - If there is no diarrhoea, give Nifuroxazide without Atapulgite- 400 mg tablet every 8 hours X 6-9 days.
+            - If fever persists, increase dosage of Ivermectin and give Doxycycline 100 mg every 12 hours X 6 days or Azithromycin
+      - Reduce platelet hyperactivity and thrombophilia- Continue previous treatment.
+      - Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction: 
+         - **Colchicine:** TB 0.5 mg every 12 hours X 15 days. If weight more than 75 kg, give 2 TB in the morning.
+         - **N-Acetyl cysteine:** 600 mg sachet or TB. 1sachet dissolved PO every 6-8 hours X 6-10 days
+         - **Cyclesonide or Budenoside:** 2 inhalations in the morning, noon and afternoon X 10 days
+         - **Lysine:** 2 TB 500 mg, 11 am and 5 am X 14 days
+         - **Niacin** (B3): TB 500 mg, 2-3 / day X 6-8 days
+   In days 5 - 14, if progression to pumonary stage or multiple organs affected, hospitalization may be required, may require ICU, VM in days 10 and upward.<br><br>
+   
+   **Days 5 & 6: II. Pulmonary**
+      - **Response to treatment, diagnosis and severity**: Progression to lungs, intestines, myocardium-pericardium, muscles; medium to high viral load; initial pulmonary oedema, thrombophilia, gastroenteritis, investigate myocarditis / pericarditis
+      - **Treatment plan:**
+         - **Ivermectin**- 0.4 mg / kg of weight in each dose X 3 times a day (at breakfast, lunch and dinner). Take up to 2-3 days after symptoms subside.
+         - Spironolactone- TB 25 or 100 mg, 100 mg / day for 8-14 days
+         - Fluvoxamine- TB 100 mg, 50 mg on 1st day, then 100 mg / day X 12 days.
+         - In men, Add one of the following alternatives:
+            - Dutasteride- 0.5 mg / day, or Bicalutamide- 150 mg / day X 7-14 days, or HCQ- nebulize, grind 200 mg of 1 TB and pour in 8 ml of distilled water, or boiled cold (water?), for 20 min. every 12 hours X 3 days.
+         - For pulmonary oedema- Put in prone or Mohammedan or Left Lateral position. Do not give sodium chloride, but dextrose 5 %, restrict liquids.
+      - Reduce platelet hyperactivity and thrombophilia- 
+         - **Enoxaparin** AMP, SC- For < 75 kg weight, 40 mg every 24 hours; for > 75 kg, 60 mg every 24 hours
+         - Lumbrokinase- TB 20 mg, 4 / day
+         - **[Curcuma][173]**- TB 500 mg, 1 / day X 14 days
+         - **Omega 3**- TB 1000 mg, 1 / day X 14 days
+      - Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction- Continue treatment of Day 4.
+   **Days 7, 8 & 9:**
+      - **Response to treatment, diagnosis and severity**: High viral load; affecting lungs, intestines and heart; moderate ARDS, dissseminated microthrombosis, gastroenteritis, myocarditis / pericarditis, investigate encephalitis
+      - **Treatment plan**: Continue treatment plan of Days 5 & 6.
+         - In addition- If there is fever, investigate coinfection.
+         - Alternate oral medication- Cefixime 400, LEVO 750, Moxifloxacin 400
+         - IV- Ceftriaxone 2 g, Cefipime, Meropenen
+      - Reduce platelet hyperactivity and thrombophilia- 
+         - **Enoxaparin** AMP SC 40 mg- 0.5 mg / kg every 12 hours. If oxygen saturation drops below 85 %, give 0.5 every 8 hours.
+         - Alternatives- Heparin AMP; Or AAS 600 mg / day + Lumbrokinase 80 mg / day + **Curcuma** 1000 mg / day
+      - Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction- 
+         - **Quercetine**- 500 mg, 1-2 every 12 hours X 7 days
+         - **Vit C** AMP or TB- 50 mg / kg weight, EV or PO every 8 or 12 hours X 3-6 days
+         - Vitamin B12 TB- 3000 mcg / day X 8-12 days
+         - **Thyamine** TB- 300 mcg / day X 8-12 days
+         - **Melatonin** TB- Before sleeping; increase from 3 to 6 to 10 mg
+         - **Selenium** TB- 200 mcg, 2-3 days X 30 days
+   **Days 9 - 14**
+      - **Response to treatment, diagnosis and severity**: Very high, total body viral load; moderate / severe ARDS, SIRS, thromboembolic disease, myocarditis; investigate heart-renal failure, encephalitis, investigate brain, kidney, skin, feet
+      - **Treatment plan**:
+         - Ivermectin- 0.4 mg / kg X 3-4 times a day; see tolerance
+         - Nifuroxazide 200 mg- 2 TB every 6 hours X 6-9 days; if weight > 90 kg, give 3 TB every 8 hours
+         - Nitazoxanide- TB 200 mg every 8 hours X 6-12 days; if weight > 90 kg, give 3 TB every 8 hours
+         - Spironolactone- 100 mg every 12 hours X 6 days, then 100 mg a day for 8 more days
+         - **Antibiotics**- For aggreg. infection
+         - **Enoxaparin**- AMP SC 40 mg; dosage for critical cases: if oxygen saturation drops to less than 82 %, give 0.5 mg / kg of body weight every 8 hours X 2-3 days, until oxygen saturation recovers to > 82 %, and then change to every 12 hours
+         - **Cyproheptadine**- Start with 0.4 mg / kg / day; divide into doses every 8 hours X 3 days, then 0.2 mg / kg
+         - Fibrinolytics- EV or VO
+      - Treatment of increased nutrient requirement, oxidative stress, lymphopenia and immune dysfunction- 
+         - **Dexamethasone**- 4 mg TB or AMP 6-8 mg / day X 3-8 days, Or
+         - **Methylprednisol**- 125 mg X 3 days, Or
+         - **Cyclosporin**- 6-10 mg / kg / day in 2 doses X 4-7 days, accord. resp.
+         - **Immunoglobulin** (IGIV) AMP- 400 mg / kg / day slow infusion X 3 days
+         - Use High Flow Nasal Cannula (HFNC).
 
 ### Outcome:
 RCTs show that this relatively inexpensive treatment has significant benefits over standard treatments.
@@ -814,92 +753,84 @@ Repurposed allopathy
 Only at a competent doctor's discretion
 
 ### Status of authorisation:
-The Ippocrate Movement, centred in Italy, brings together a global network of eminent physicians, researchers, health and social workers, guided and represented by a scientific and medical committee of 23 physicians and scientists of national and international repute, including Dr. Robert Malone, the co-inventor of foundational technology that led to the invention of mRNA vaccines. The purpose of the scientific network is to use the best evidence-based research to formulate the best treatment approaches for Covid-19, and guidance to other physicians to treat their patients. [Ippocrate Movement- Medical Scientific Community][179]
+The Ippocrate Movement, centred in Italy, brings together a global network of eminent physicians, researchers, health and social workers, guided and represented by a scientific and medical committee of 23 physicians and scientists of national and international repute, including Dr. Robert Malone, the co-inventor of foundational technology that led to the invention of mRNA vaccines. The purpose of the scientific network is to use the best evidence-based research to formulate the best treatment approaches for Covid-19, and guidance to other physicians to treat their patients.   
+   - [Ippocrate Movement- Medical Scientific Community][179]
 
 ### Protocol and treatment approach:
 There are 3 main symptomatic stages of the disease, as identified through the clinical observations of a large network of clinicians. The stages and the clinical progression of Covid-19 are described below:
 
-**Early treatment is the winning strategy. Stage 0 Therapy is recommended for all close contacts of infected patients.**
+**<ins>Early treatment is the winning strategy. Stage 0 Therapy is recommended for all close contacts of infected patients.</ins>**
 
-**Days 0 to ~5: STAGE 0: TEST-POSITIVE, ASYMPTOMATIC**
-**Treatment: Immunity boosting and treatment of viral replication with supplements and phytochemicals**
-**THERAPY**: The proper combination of medications from the list will be prescribed by the physician, according to the patient’s needs and characteristics. **The general recommendation, in any case, is to prescribe Vitamins D & C, and Zinc, which are to be continued even in the severe stage of the disease (i.e., Stages 1, 2 and 3).**
-**Vitamin D3:**
-    Adult dosage: 50,000 IU / day for 6 days (if not in prophylaxis); 10,000 IU / day for 6 days (if in prophylaxis), and then 4,000 IU / day (To be consumed with a greasy meal, for example at lunch)
-    Children: 200 IU / Kg / day (Until negative test)
-    Contraindications: Severe Chronic Kidney Insufficiency (CKD), Hypercalcemia
-(**Note**: When supplementing with vitamin D, it is [important also to supplement with vitamin K2][180].)
-**Vitamin C**: From 1 g / day
-    Contraindications: Severe Chronic Kidney Disease (CKD), deficit G6PD
-**Zinc picolinate**: 30-50 mg / day; No contraindications
-**Esperidine**: 100 mg / day; No contraindications
-**Quercetin**: Up to 250 mg x 2 / day; No contraindications
-**Lactoferrin**: Up to 200 mg x 2 / day
-**Bromhexine**: 8 mg x 3 / day
-**Pelargonium S.**:
-    > 12 y-o: 20 mg x 3 / day for 7 days
-    6-12 y-o: 13 mg x 3 / day for 7 days
-    Contraindications: Hemorrhagic diathesis; F.E in patient in treatment with blood thinners
-**Suffumigation**: 3 times / day; No contraindications
-**Hydrossitirosol and α-cyclodestrine**: 2-3 puffs x 3-4 / day in the throat
-**Other active ingredients known for their antiviral action:**
-**Vitamin A**: Up to 30,000 IU / day
-    Contraindications: Pregnancy
-**Resveratrol**: Up to 1000 mg / day; No contraindications
-
-**Days ~5 to ~10: STAGE 1: EARLY INFECTION**
-**Pathopsychology**: Viral replication
-**Clinical symptoms**: Fever, joint and muscle pain, headache, weakness and other influenza symptoms
-**Treatment: Drug-based treatment of viral replication and controlling symptoms:**
-**THERAPY:**
-**ASA**: Up to 100 mg / day till asymptomatic; No contraindications
-**Ivermectin**: 0.2 mg / kg (i.e., 12 mg to 20 mg daily) for 5 days; in case of poor clinical response, advanced disease, or obesity, higher doses should be used (target 0.4 - 0.6 mg / kg); No contraindications
-**Hydroxychloroquine (HCQ)**: 200 mg x 2 / day for 7 days
-    Contraindications: Arrhythmias, retinopathy, deficit G6PDH
-
-**Azithromycin**: 500 mg / day for 3 days, stop 2 days, then repeat
-    Contraindications: Long QT Syndrome
-**OR Doxycycline**: 100 mg x 2 / day for 7 days
-
-**Colchicine**: 0.5 mg x 2 / day for 14 days
-Contraindications: Cardiac insuffufficiency, CKD
-Drug interaction: Do not use with Clarithromicin.
-
-**Days ~10 to ~15: STAGE 2: PULMONARY PHASE**
-**Pathopsychology**: Infection affects lower respoiratory tract and lungs
-**Clinical symptoms**: Cough, dyspnoea (difficult or laboured breathing), polypnea (rapid or panting respiration)
-**Treatment: Treatment of inflammation, superinfection and help with breathing**
-
-**Stage 2A: PULMONARY PHASE WITHOUT HYPOXIA (OXYGEN DEFICIENCY)**
-**THERAPY: Practitioner will evaluate if patient needs corticosteroid in therapy, as in stage 2B. It is advisable to do thoracic ecography and / or CT scan.**
-**Montelukast**: 10 mg 2 hours after dinner for 14 days
-**Amoxi / Clavulanic Acid OR other antibiotics**: 875 mg + 125 mg x 3 / day for 8-10 days; In association with Azithromycin in case of superinfection
-**Acetyl-Cysteine**: 600 mg up to x 3 / day, for 7 days
-**Levodropropizine**: 60 mg as needed, up to x 3 / day
-**Enoxaparin**:
-If weight < 70 kg: 4,000 IU x 1-2 / day for 10 days
-Weight 70 - 100 kg: 6,000 IU x 1-2 / day for 10 days
-Contraindications: Hemorrhagic diathesis, thrombocytopenia
-
-**Stage 2B: PULMONARY PHASE WITH HYPOXIA**
-**THERAPY**:
-**Oxygen therapy**: 1-6 L / min if SpO2 < 92 % in AA
-**Enoxaparin**: 100 IU / Kg / 12 hours
-
-**Corticosteroids- DO NOT ASSOCIATE the steroids but use them alternatively; NEVER AT THE BEGINNING, but only at the end of the viral stage; Associate gastroprotection**; Use for 6-7 days then diminish; Recocmmended as one morning dose, but 2 doses if the patient is suffering (Deflazacort always to be prescribed, for its fast action)
-Contraindications: Hypertension, hyperglycaemia etc.
-    **Dexamethasone**: 6 mg / morning OR 3 mg x 2 / day
-    **Betamethasone**: 8 mg / morning OR 4 mg x 2 / day
-    **Methylprednisolone**: 32 mg / morning OR 16 mg x 2 / day
-    **Prednisone**: 40 mg / morning OR 20 mg x 2 / day
-    **Deflazacort**: 30 mg x 2 / day
-
-**Antibiotics**: According to the physician's judgement
-
-**Days ~15 onwards: STAGE 3: HYPERINFLAMMATION PHASE**
-**Pathopsychology**: Hypercytokinemia or cytokine storm
-**Clinical symptoms**: Severe Acute Respiratory Syndrome (SARS), vasculitis, microembolism, microthrombosis, multiorgan failure
-**Treatment: Requires hospitalization; In case Oxygen > 6 L / min OR SpO2 persistently < 92 %, HOSPITALISATION IS MANDATORY.**
+**Days 0 to ~5: <ins>STAGE 0</ins>: TEST-POSITIVE, ASYMPTOMATIC**
+   - **Treatment: Immunity boosting and treatment of viral replication with supplements and phytochemicals**
+      - **THERAPY**: The proper combination of medications from the list will be prescribed by the physician, according to the patient’s needs and characteristics. **The general recommendation, in any case, is to prescribe Vitamins D & C, and Zinc, which are to be continued even in the severe stage of the disease (i.e., Stages 1, 2 and 3).**
+         - **Vitamin D3:**
+            - Adult dosage: 50,000 IU / day for 6 days (if not in prophylaxis); 10,000 IU / day for 6 days (if in prophylaxis), and then 4,000 IU / day (To be consumed with a greasy meal, for example at lunch)
+            - Children: 200 IU / Kg / day (Until negative test)
+            - Contraindications: Severe Chronic Kidney Insufficiency (CKD), Hypercalcemia
+            - (**Note**: When supplementing with vitamin D, it is [important also to supplement with vitamin K2][180].)
+         - **Vitamin C**: From 1 g / day
+            - Contraindications: Severe Chronic Kidney Disease (CKD), deficit G6PD
+         - **Zinc picolinate**: 30-50 mg / day; No contraindications
+         - **Esperidine**: 100 mg / day; No contraindications
+         - **Quercetin**: Up to 250 mg x 2 / day; No contraindications
+         - **Lactoferrin**: Up to 200 mg x 2 / day
+         - **Bromhexine**: 8 mg x 3 / day
+         - **Pelargonium S.**:
+            - > 12 y-o: 20 mg x 3 / day for 7 days
+            - 6-12 y-o: 13 mg x 3 / day for 7 days
+            - Contraindications: Hemorrhagic diathesis; F.E in patient in treatment with blood thinners
+         - **Suffumigation**: 3 times / day; No contraindications
+         - **Hydrossitirosol and α-cyclodestrine**: 2-3 puffs x 3-4 / day in the throat
+         - **Other active ingredients known for their antiviral action:**
+            - **Vitamin A**: Up to 30,000 IU / day
+               - Contraindications: Pregnancy
+            - **Resveratrol**: Up to 1000 mg / day; No contraindications
+**Days ~5 to ~10: <ins>STAGE 1</ins>: EARLY INFECTION**
+   - **Pathopsychology**: Viral replication
+   - **Clinical symptoms**: Fever, joint and muscle pain, headache, weakness and other influenza symptoms
+   - **Treatment: Drug-based treatment of viral replication and controlling symptoms:**
+      - **THERAPY:**
+         - **ASA**: Up to 100 mg / day till asymptomatic; No contraindications
+         - **Ivermectin**: 0.2 mg / kg (i.e., 12 mg to 20 mg daily) for 5 days; in case of poor clinical response, advanced disease, or obesity, higher doses should be used (target 0.4 - 0.6 mg / kg); No contraindications
+         - **Hydroxychloroquine (HCQ)**: 200 mg x 2 / day for 7 days
+            - Contraindications: Arrhythmias, retinopathy, deficit G6PDH
+         - **Azithromycin**: 500 mg / day for 3 days, stop 2 days, then repeat
+            - Contraindications: Long QT Syndrome
+            - **OR Doxycycline**: 100 mg x 2 / day for 7 days
+         - **Colchicine**: 0.5 mg x 2 / day for 14 days
+            - Contraindications: Cardiac insuffufficiency, CKD
+            - Drug interaction: Do not use with Clarithromicin.
+**Days ~10 to ~15: <ins>STAGE 2</ins>: PULMONARY PHASE**
+   - **Pathopsychology**: Infection affects lower respoiratory tract and lungs
+   - **Clinical symptoms**: Cough, dyspnoea (difficult or laboured breathing), polypnea (rapid or panting respiration)
+   - **Treatment: Treatment of inflammation, superinfection and help with breathing**
+**<ins>Stage 2A</ins>: PULMONARY PHASE WITHOUT HYPOXIA (OXYGEN DEFICIENCY)**
+   - **THERAPY: Practitioner will evaluate if patient needs corticosteroid in therapy, as in stage 2B. It is advisable to do thoracic ecography and / or CT scan.**
+      - **Montelukast**: 10 mg 2 hours after dinner for 14 days
+      - **Amoxi / Clavulanic Acid OR other antibiotics**: 875 mg + 125 mg x 3 / day for 8-10 days; In association with Azithromycin in case of superinfection
+      - **Acetyl-Cysteine**: 600 mg up to x 3 / day, for 7 days
+      - **Levodropropizine**: 60 mg as needed, up to x 3 / day
+      - **Enoxaparin**:
+         - If weight < 70 kg: 4,000 IU x 1-2 / day for 10 days
+         - Weight 70 - 100 kg: 6,000 IU x 1-2 / day for 10 days
+         - Contraindications: Hemorrhagic diathesis, thrombocytopenia
+**<ins>Stage 2B</ins>: PULMONARY PHASE WITH HYPOXIA**
+   - **THERAPY**:
+      - **Oxygen therapy**: 1-6 L / min if SpO2 < 92 % in AA
+      - **Enoxaparin**: 100 IU / Kg / 12 hours
+      - **Corticosteroids- DO NOT ASSOCIATE the steroids but use them alternatively; NEVER AT THE BEGINNING, but only at the end of the viral stage; Associate gastroprotection**; Use for 6-7 days then diminish; Recocmmended as one morning dose, but 2 doses if the patient is suffering (Deflazacort always to be prescribed, for its fast action)
+            - Contraindications: Hypertension, hyperglycaemia etc.
+         - **Dexamethasone**: 6 mg / morning OR 3 mg x 2 / day
+         - **Betamethasone**: 8 mg / morning OR 4 mg x 2 / day
+         - **Methylprednisolone**: 32 mg / morning OR 16 mg x 2 / day
+         - **Prednisone**: 40 mg / morning OR 20 mg x 2 / day
+         - **Deflazacort**: 30 mg x 2 / day
+      - **Antibiotics**: According to the physician's judgement
+**Days ~15 onwards: <ins>STAGE 3</ins>: HYPERINFLAMMATION PHASE**
+   - **Pathopsychology**: Hypercytokinemia or cytokine storm
+   - **Clinical symptoms**: Severe Acute Respiratory Syndrome (SARS), vasculitis, microembolism, microthrombosis, multiorgan failure
+   - **Treatment: Requires hospitalization; In case Oxygen > 6 L / min OR SpO2 persistently < 92 %, HOSPITALISATION IS MANDATORY.**
 
 ### Typical duration of treatment:
 0-15 days, for the majority of cases, which are asymptomatic, mild or moderate
@@ -936,35 +867,39 @@ With ample anecdotal evidence from clinical practice, the 8th Day Therapy strate
 Not a single one of Dr. Chetty's several thousands of patients is reported to have succumbed to Covid-19 or even required oxygen with this treatment approach. Patients in the hypersensitive phase do not require more than 2 weeks to recover, and often recover much quicker.
 
 ### Protocol and treatment approach:
-**8th Day Therapy: Prednisone 80 mg, Promethazine 25 mg, Monteleukast 10 mg, Aspirin 325 mg**
+**8th Day Therapy:** 
+   - Prednisone 80 mg
+   - Promethazine 25 mg 
+   - Monteleukast 10 mg 
+   - Aspirin 325 mg
 
 **Dr. Chetty's 8th Day Therapy protocol views the inflammatory response in some patients after Covid as a hypersensitivity reaction and aggressively treats symptoms accordingly on the 8th day after initial appearance of symptoms.** The treatment modality worked very well and can be adapted to use in rural settings as well as ICUs. The doctor, practising in South Africa, has a considerable experience with the outpatient treatment of COVID-19. He holds a degree in medicine and surgery and also has advanced education in genetics, advanced biology, biochemistry and microbiology. 
 
 **Dr. Chetty's observations of Covid symptoms in his patients, and the motivation for his protocol:**
 Dr. Chetty observed that the new disease Covid presented as a **bi-phasic illness**, where the initial illness was an ordinary respiratory illness, with unusual symptoms such as loss of smell and taste and sore throat, The entire course of the illness presented with an unusual non-linear progression of symptoms where many patients retrogressed sharply on the eighth day after commencement of the first symptoms, even after seeming (like other patients) to be improving steadily after the fourth or fifth day. In fact, a majority of patients recovered from the first phase of illness by the sixth day, so much so that even some patients who relapsed had been preparing to return to work very soon. **Doxycycline was a drug of choice added to treatment of the first phase of the illness**, for its anti-inflammatory and antiviral properties through inhibition of protein synthesis and viral replication. **Primary contacts were also prophylactically treated with Doxycyclin**, which was therefore a mainstay of the treatment. **Aspirin too was added to the early protocol to address the blood clotting issues that occurred later**, depending on patient's D-dimer results and predisposition.
 
-The relapse manifested as breathlessness or dyspnoea, and in a few such patients, the disability took weeks or even months to resolve (""long Covid""). These observations led to the inference that the supposed relapse of severe symptoms were not owing so much to the Covid pathogen, as due to the body's own **hypersensitivity** or severe allergic response. **In other words, the hospitalized patients were not suffering from the viral pneumonia with which they were misdiagnosed and treated, but from hypersensitivity pneumonitis, and high definition CT and X-ray could not tell the two apart.**
+The relapse manifested as breathlessness or dyspnoea, and in a few such patients, the disability took weeks or even months to resolve ("long Covid"). These observations led to the inference that the supposed relapse of severe symptoms were not owing so much to the Covid pathogen, as due to the body's own **hypersensitivity** or severe allergic response. **In other words, the hospitalized patients were not suffering from the viral pneumonia with which they were misdiagnosed and treated, but from hypersensitivity pneumonitis, and high definition CT and X-ray could not tell the two apart.**
 
 In Dr.Chetty's own words, **“With hyper-sensitivity, the most important thing is to start treatment early. The longer you leave it, the cascade of mediators will result in other sequalae and culminate into a cytokine storm. But like with other hyper-sensitivity reactions, if caught early, they are easy to cut in. So my entire focus became the eighth day. When patients came into my practice, I would Interrogate them about the onset of the symptoms, the exact day they started feeling unwell. I would then advise them about what might transpire exactly a week later, which is the eighth day, and what symptoms to start looking for. In the second wave, I notice there was a collection of symptoms  that seemed to idle the onset of this hypersensitivity reaction, and not necessarily dyspnea, but body aches and pains. This seemed to be very typical of an allergic reaction, that you would see with rheumatoid arthritis, with joint pain. There was fatigue, to the point that patients wanted to sleep, or the onset of dyspnea. I educated patients about these symptoms, and that they should not discount these symptoms, even if it was a solitary symptom and mild. Any change from the 7th to the 8th day should be reported.”** Dr. Chetty reports that a large percentage of patients, about 70 %, did not report any worsening of symptoms on the 8th day, and thus did not enter the second, hypersensitivty phase. However those that did express the hypersensitivity symptoms on the 8th day sometimes advanced to a critical stage in a very short duration of time, needing hospitalization and intensive care in a day or two. Some others had only mild symptoms. Yet others had moderate symptoms that, if not treated properly, would persist for a long time and be classified as long-Covid.
 
 The speed to recovery when using medication is vitally important. Therefore he adopted the measure of preempting the hypersensitivity phase, the severe eighth-day immune response, through quick and simple treatment, in the form of **starting patients on a simple H1-antihistamine like Promethazine 25 mg, and 80 mg Prednisone, upon the first onset of dypnoea**. Dr. Chetty's preferred antihistamine was promethazine, a first-generation antihistamine and antipsychotic for its broad diversity of effect, that also is mildly sedative to relieve anxiety in patients who tended to feel it, and which had been used to alleviate sleeping difficulties. This diagnostic approach, of treating dyspnoea as an inflammatory response to Covid than a symptom of Covid, and **using an antihistamine in addition to steroids, proved very effective**, and patients often began recovery within hours after presenting with dyspnoea. Being hypersensitivity, **Monteleukast** was added to the therapy on the appearance of symptoms on the 8th day, being a commonly prescribed medication for asthmatic and anaphylactoid reactions, especially where the offending allergen is unknown. **With Promethazine and Monteleukast, the recovery was found to be much quicker than with steroids alone.**
 
 **Corticosteroid Prednisone, using the following dosage:**
-- **50 mg started on the first day seemed adequate as a starting dose for most patients in the first wave, but which needed to be escalated according to the severity of symptoms.**
-- **80-100 mg was found to be required from the first day in the second wave, with the more aggressive South African variant.**
-- It was found very important not to use too low a dosage as this often results in scarring and impedes full recovery. The lower the dosage of steroid used, the longer the time taken to turnaround and longer the exposure to steroids. Therefore a very high dosage of steroid was administered in Dr. Chetty's treatments.
-- It is important to escalate the dosage to suit severity of symptoms, especially if there is not noticeable improvement after the first day.
+   - **50 mg started on the first day seemed adequate as a starting dose for most patients in the first wave, but which needed to be escalated according to the severity of symptoms.**
+   - **80-100 mg was found to be required from the first day in the second wave, with the more aggressive South African variant.**
+   - It was found very important not to use too low a dosage as this often results in scarring and impedes full recovery. The lower the dosage of steroid used, the longer the time taken to turnaround and longer the exposure to steroids. Therefore a very high dosage of steroid was administered in Dr. Chetty's treatments.
+   - It is important to escalate the dosage to suit severity of symptoms, especially if there is not noticeable improvement after the first day.
 
 **Interleukins and CRP levels were used to assess the extent of inflammation and efficacy of treatment during the 8th Day Therapy. These markers changed exponentially post the 8th day in patients who suffered from the severe hypersensitivity phase. Even very high values (interleukins in 500s, CRPs in 8900s) of these biomarkers could be turned around in 3-4 days.** 
 
 **Other observations:**
-- Dr. Chetty has used **Budesonoid**, which appeared to work as well, especially with patients who had a chronic cough, but not in the powder formulations.
-- **The antihistamine Promethazine appears to have had the greatest efficacy in reducing the severity of the hypersensitivity response.**
-- **The antihistamine (Promethazine), Montelukast 10 mg, Aspirin (Ecotrin) 325 mg have to be continued for at least a month after the resolution of symptoms, for if stopped too early, there is a possibility of rebound.**
-- Dr. Chetty also observed that preexisting allergies tend to be exacerbated by Covid, and therefore need better management as well.
-- **He believes that long Covid is simply untreated or undertreated Covid,.**
-- Speed to recovery can be hastened using intramuscular antihistamines and IV steroids.
-- The treatment protocol included the use of hydrochloroquine, azithromycin and doxycycline to combat the viral component and antihistamines, leukotriene receptor antagonists and steroids, amongst others, for the Type 1 hypersensitivity reaction.
+   - Dr. Chetty has used **Budesonoid**, which appeared to work as well, especially with patients who had a chronic cough, but not in the powder formulations.
+   - **The antihistamine Promethazine appears to have had the greatest efficacy in reducing the severity of the hypersensitivity response.**
+   - **The antihistamine (Promethazine), Montelukast 10 mg, Aspirin (Ecotrin) 325 mg have to be continued for at least a month after the resolution of symptoms, for if stopped too early, there is a possibility of rebound.**
+   - Dr. Chetty also observed that preexisting allergies tend to be exacerbated by Covid, and therefore need better management as well.
+   - **He believes that long Covid is simply untreated or undertreated Covid,.**
+   - Speed to recovery can be hastened using intramuscular antihistamines and IV steroids.
+   - The treatment protocol included the use of hydrochloroquine, azithromycin and doxycycline to combat the viral component and antihistamines, leukotriene receptor antagonists and steroids, amongst others, for the Type 1 hypersensitivity reaction.
 
 **Second Wave:**
 It became obvious in the second wave that the culprit provoking the hypersensitivity response on the 8th day was the spike protein, as the variants were mutated only in the spike protein. The variants had greater affinity for the gut ACE receptors, and there were gastrointestinal disorders among the symptoms. Also the second wave was far more contagious and triggered a far more severe hypersensitivity reaction on the 8th day, which required a far higher dose of steroid to suppress than in the first wave. **In the third wave, the Delta variant was predominant in South Africa. [The unique pathologies of this variant and adaptation of the therapy to them are described in a later section.][a]**
@@ -1088,7 +1023,7 @@ Says Prof. Borody, **“The three medications are now on chemist shelves right n
 
 Ivermectin was discovered in the 1970s and is on the World Health Organization (WHO) list of essential medicines.
 
-**There is mounting worldwide clinical literature pointing to a 100% cure rate using Ivermectin Triple Therapy,” said Professor Borody.**
+**"There is mounting worldwide clinical literature pointing to a 100% cure rate using Ivermectin Triple Therapy,” said Professor Borody.**
 
 Prof. Borody holds 162 patents for different treatments and therapies for various diseases, and in Oct, 2021, it was reported that an application had been filed for a US patent for the Ivermectin Triple Therapy, and alleged that this presented a conflict of interest that had not been widely advertised by the applicant.
 
@@ -1140,14 +1075,13 @@ When HCQ, then the mainstay of the treatment protocol was banned in Italy about 
 
 ### Protocol and treatment approach:
 The principles of Dr. Stramezzi's protocol are briefly outlined as follows:
-
-1. The first principle of the protocol is to **begin treatment at the earliest after the onset of symptoms.**
-2. **Hydroxychloroquine** was used since the early days of the treatment, but now **Ivermectin** is preferred as the treatment of choice when available, due to its efficacy at stopping viral replication. However Ivermectin is more difficult to obtain in Italy due to its approval there only for veterinary use, and must be procured from certain countries of the EU, such as France, where its human use is legal. HCQ was found to work its best in the first days of the infection, whereas **Ivermectin was found to work well at all stages of the disease, and even for long Covid.** Dr. Stramezzi prefers to start with Ivermectin in early treatment if it is available.
-3. Antiinflammatory drug like **Acetyl Salicylic Acid (Aspirin)** is very important to prevent viral pneumonia. The virus colonizes all tissues, and so anti-inflammatory medication is crucial, and another drug used is **Bromexine**.
-4. The virus also replicates in the gut microbiota, and so it is important to use **antibiotics**.
-5. In some patients- in fact, in about 10 % patients with a naive infection, i.e.,who are infected for the first time- the infection triggers a severe autoimmune condition called the cytokine storm after 14-15 days, when the SARS-CoV-2 antibodies that were produced start to decline. This severe reaction appears to be triggered in these vulnerable patients due to a genetic proclivity. This was primarily treated with **Cortisone, Dexamethasone, Enoxaparin by infusion** (under control, in hospital, **not subcutaneously**), and with **vitamins C and K as anticoagulant against blood clots**, C and K needing to be administered in different meals, as they are mutually antagonistic).
-6. **Vitamin D** was administered to everyone, though no strong correlation with the infection was noticed.
-7. Dr. Stramezzi has stated that any textbook of microbiology would pronounce it extremely ill-advised to start a vaccine campaign in the middle of the pandemic, as this would give rise to more infectious variants, and he doesn't understand why virologists are not protesting to stop the pandemic.
+   1. The first principle of the protocol is to **begin treatment at the earliest after the onset of symptoms.**
+   2. **Hydroxychloroquine** was used since the early days of the treatment, but now **Ivermectin** is preferred as the treatment of choice when available, due to its efficacy at stopping viral replication. However Ivermectin is more difficult to obtain in Italy due to its approval there only for veterinary use, and must be procured from certain countries of the EU, such as France, where its human use is legal. HCQ was found to work its best in the first days of the infection, whereas **Ivermectin was found to work well at all stages of the disease, and even for long Covid.** Dr. Stramezzi prefers to start with Ivermectin in early treatment if it is available.
+   3. Antiinflammatory drug like **Acetyl Salicylic Acid (Aspirin)** is very important to prevent viral pneumonia. The virus colonizes all tissues, and so anti-inflammatory medication is crucial, and another drug used is **Bromexine**.
+   4. The virus also replicates in the gut microbiota, and so it is important to use **antibiotics**.
+   5. In some patients- in fact, in about 10 % patients with a naive infection, i.e.,who are infected for the first time- the infection triggers a severe autoimmune condition called the cytokine storm after 14-15 days, when the SARS-CoV-2 antibodies that were produced start to decline. This severe reaction appears to be triggered in these vulnerable patients due to a genetic proclivity. This was primarily treated with **Cortisone, Dexamethasone, Enoxaparin by infusion** (under control, in hospital, **not subcutaneously**), and with **vitamins C and K as anticoagulant against blood clots**, C and K needing to be administered in different meals, as they are mutually antagonistic).
+   6. **Vitamin D** was administered to everyone, though no strong correlation with the infection was noticed.
+   7. Dr. Stramezzi has stated that any textbook of microbiology would pronounce it extremely ill-advised to start a vaccine campaign in the middle of the pandemic, as this would give rise to more infectious variants, and he doesn't understand why virologists are not protesting to stop the pandemic.
 
 ### Typical duration of treatment:
 1-3 weeks
@@ -1193,50 +1127,39 @@ Having said that, several prominent doctors, including Dr. Pierre Kory of the FL
 ### Protocol and treatment approach:
 
 **Dr. Bartlett's coronavirus protocol is simple and two-fold:**
-
-1. **First, individuals who suspect they have been infected should get tested for COVID-19 as soon as possible so they can be treated early in the disease process.**
-2. **Secondly, a specific protocol should be followed that uses a nebulizer to deliver the steroid medication Budesonide deep into the lungs at the source of the infection.**
-
+   1. **First, individuals who suspect they have been infected should get tested for COVID-19 as soon as possible so they can be treated early in the disease process.**
+   2. **Secondly, a specific protocol should be followed that uses a nebulizer to deliver the steroid medication Budesonide deep into the lungs at the source of the infection.**
 The protocol hinges on the use of **Budesonide, a commonly used inexpensive inhaled drug for asthma, Zinc and Clarithromycin to suppress secondary infection** as the inhaled steroid would suppress the immune system. The following is one published Budesonide protocol:
-
-**Budesonide 0.5-1 mg / 2 ml respules**
-Sig:1 respule q 2 hours PRN severe symptoms
-Dispense 2 boxes
-
-**Clarithromycin** 500 mg
-Sig: 1 Tab Orally, Twice daily, With food
-Dispense 14. Refills X 1
-
-**Zinc** 50 mg
-Sig: 1 Orally, Once daily
-Dispense 30 Refills X 1
+   - **Budesonide 0.5-1 mg / 2 ml respules**
+      - Sig:1 respule q 2 hours PRN severe symptoms
+      - Dispense 2 boxes
+   - **Clarithromycin** 500 mg
+      - Sig: 1 Tab Orally, Twice daily, With food
+      - Dispense 14. Refills X 1
+   - **Zinc** 50 mg
+      - Sig: 1 Orally, Once daily
+      - Dispense 30 Refills X 1
 
 **For Adults**:
-Coated **Aspirin** 81 mg
-Sig: 1 Orally, Once daily
-Dispense 90 Refills X 3
+   - Coated **Aspirin** 81 mg
+      - Sig: 1 Orally, Once daily
+      - Dispense 90 Refills X 3
 
-**The Budesonide powder-inhalation Protocol validated through the Oxford RCT:**
+**<ins>The Budesonide powder-inhalation Protocol validated through the Oxford RCT:</ins>**
+   - **Inhaled budesonide powder (Pulmicort)**
+      - **180 mcg/puff, 3 puffs tid = 1,620 mcg/day**
+      - **One Pulmicort 180 mcg/puff Flexhaler provides 120 puffs, sufficient for 13.3 days.**
+      - **OR 400 mcg/puff, 2 puffs bid = 1,600 mcg/day**
 
-**Inhaled budesonide powder (Pulmicort)**
-
-**180 mcg/puff, 3 puffs tid = 1,620 mcg/day**
-**One Pulmicort 180 mcg/puff Flexhaler provides 120 puffs, sufficient for 13.3 days.**
-**OR 400 mcg/puff, 2 puffs bid = 1,600 mcg/day**
-
-**One Pulmicort 400 mcg / puff Turbohaler provides 50 puffs, sufficient for 12.5 days.** The systemic effect looks equivalent to ~51 mg oral hydrocortisone, consistent with what would be needed to properly regulate the immune response in the absence of a robust endogenous adrenal cortisol stress response. Dosage in this optimal range will likely be key: Just enough to replicate a more optimal adrenal cortisol response and put a light hand brake on the inflammatory response but not so much it over-suppresses immune function.
-
-**ASA 325 mg/day (to help counter COVID’s pro-thrombotic effect)**
-
-**Etc. at provider’s discretion**
+      **One Pulmicort 400 mcg / puff Turbohaler provides 50 puffs, sufficient for 12.5 days.** The systemic effect looks equivalent to ~51 mg oral hydrocortisone, consistent with what would be needed to properly regulate the immune response in the absence of a robust endogenous adrenal cortisol stress response. Dosage in this optimal range will likely be key: Just enough to replicate a more optimal adrenal cortisol response and put a light hand brake on the inflammatory response but not so much it over-suppresses immune function.
+   - **ASA 325 mg/day (to help counter COVID’s pro-thrombotic effect) etc. at provider’s discretion**
 
 **Potentially helpful nutraceuticals:**
-
-- **Vitamin D3 10,000 IU/day. After recovery, reduce to 5,000 IU/day and maintain long-term.**
-- **Zinc 50 mg/day elemental**
-- **Quercetin 500 mg bid (zinc ionophore; to enhance Zn antiviral effect)**
-- **Vitamin C 3,000 mg/day**
-- **Melatonin 1 - 3 mg at bedtime (antiviral; may be added pro re nata, i.e., as needed, as it can cause daytime drowsiness)**
+   - **Vitamin D3 10,000 IU/day. After recovery, reduce to 5,000 IU/day and maintain long-term.**
+   - **Zinc 50 mg/day elemental**
+   - **Quercetin 500 mg bid (zinc ionophore; to enhance Zn antiviral effect)**
+   - **Vitamin C 3,000 mg/day**
+   - **Melatonin 1 - 3 mg at bedtime (antiviral; may be added pro re nata, i.e., as needed, as it can cause daytime drowsiness)**
 
 (**Note**: When supplementing with vitamin D, it is **important also to supplement with vitamin K2.**)"
 
@@ -1281,10 +1204,10 @@ Budesonide is a prescription drug that can be bought at local pharmacies, along 
    - [C19Protocols: Early Treatment Protocols][213]
    - [covexit.com: Articles shedding light on Dr. Bartlett's Budesonoid Protocol][214]
 
-## 12. "The perspective of one of the foremost frontline Covid-care physicians, Dr. Ryan Cole, Idaho, USA, on the adaptation of early treatment protocols to treat the Delta and other aggressive variants, emphasizing 
-
-1) The vital importance of maintaining pre-infection vitamin D levels above 50,
-2) The appropriate and calibrated use of anticoagulants, corticosteroids, monoclonal antibodies, Zinc + HCQ / Quercetin, other nutrients like vitamin C and glutathion-precursor NAC, melatonin / Fluvoxamin, androgen-blockers, antihistamines like cyproheptadine, mouthwashes like chlorhexadine etc. to manage the viral infection and symptoms in the inflammatory phase"
+## 12. The perspective of one of the foremost frontline Covid-care physicians, Dr. Ryan Cole, Idaho, USA, on the adaptation of early treatment protocols to treat the Delta and other aggressive variants.
+He emphasizes:
+   1. The vital importance of maintaining pre-infection vitamin D levels above 50,
+   2. The appropriate and calibrated use of anticoagulants, corticosteroids, monoclonal antibodies, Zinc + HCQ / Quercetin, other nutrients like vitamin C and glutathion-precursor NAC, melatonin / Fluvoxamin, androgen-blockers, antihistamines like cyproheptadine, mouthwashes like chlorhexadine etc. to manage the viral infection and symptoms in the inflammatory phase"
 
 ### Objective: 
 The early treatment of Delta, Gamma and other aggressive variants of Covid-19, which manifested in South Africa, Brazil, India and other regions of the world, especially in the second and subsequent waves of the pandemic
@@ -1299,7 +1222,7 @@ Only by an experienced physician at his discretion
 The evolving perspectives of world-renowned physicians like Dr. Pierre Kory, Dr. Paul E. Marik, and Drs. Cole, Chetty and Urso are based on extensive evidence from their clinical practices in treating a variety of manifestations of Covid, and the broad, pooled experience of their worldwide network of physicians like the reputed researcher **Dr. Flavio Cadegiani, MD, Brazil**, who are deveeloping highly effective allopathic protocols for Covid. There are a large number of research publications now supporting these recommendations.
 
 ### Protocol and treatment approach:
-**The early treatment of the Delta variant:**
+**<ins>The early treatment of the Delta variant:</ins>**
 
 With the **Delta variant**, both vaccinated and unvaccinated persons are at risk, and this variant spreads faster, being estimated to be 40-60 % more transmissible. The symptoms start sooner and are slightly different from the original symptoms associated with Covid-19 in the first wave in 2020. They are fever, sore throat, cough, runny nose, headache, loose GI. The loss of smell is not as common as with the other variants. The Delta variant is escaping vaccine immunity and great surge of infections in countries with high vaccination rates, like Gibraltar, Iceland, UK, Israel, Seychelles, Australia etc. The viral load is higher, but the infection is not necessarily deadlier as infections historically have mutated to become more transmissible but less deadly. This appears to be true of the Delta variant as well, which is now predominant in North Americal, as 90 % of SARS-CoV-2 infections.
 
@@ -1307,7 +1230,16 @@ With the **Delta variant**, both vaccinated and unvaccinated persons are at risk
 
 (**Note**: When supplementing with vitamin D, it is [important also to supplement with vitamin K2][215].)
 
-**The comorbidities that pose the highest risk of needing hospitalization and intensive care with the Delta variant: 1. Obesity, 2. Fear and anxiety disorders, 3. Diabetes with complications, 4. Chronic Kidney Disease, 5. Neurocognitive disorders, 6. COPD**, 7. Aplastic anaemia, 8. Coronary artery disease etc. It is **very important to eat anti-inflammatory diets by cutting carbohydrates and sugars in the diet. Intermittent Fasting** will reduce C-Reactive Protein and other inflammatory markers. The #1 factor that predisposed the individual to poor outcomes was Sugar, according to a large AI-driven study using pandemic research data. **Sleep too is critical to overall immune health and T-cell function.**
+**The comorbidities that pose the highest risk of needing hospitalization and intensive care with the Delta variant:** 
+   1. **Obesity**
+   2. **Fear and anxiety disorders**
+   3. **Diabetes with complications**
+   4. **Chronic Kidney Disease**
+   5. **Neurocognitive disorders**
+   6. **COPD**
+   7. Aplastic anaemia
+   8. Coronary artery disease etc. 
+It is **very important to eat anti-inflammatory diets by cutting carbohydrates and sugars in the diet. Intermittent Fasting** will reduce C-Reactive Protein and other inflammatory markers. The #1 factor that predisposed the individual to poor outcomes was Sugar, according to a large AI-driven study using pandemic research data. **Sleep too is critical to overall immune health and T-cell function.**
 
 The **foremost treatment decision** that improves prognosis in patients is **early treatment, not wait to start treatment, faster and quicker in the Delta variant. Covid is a clotting disease.** Therefore it is **crucial to use Aspirin in outpatient treatment.** Clinicians can use **Plavix**. Most important drugs used in therapy: Monoclonal antibodies, which are underutilized, HCQ with Zinc, Ivermectin, Fenofibrate (can bend the shape of the spike protein and help neutralize spike toxicity, according to UK study), Faviprivir, Fluvoxamine, Azithromycin (Z Pak), Doxycycline, Colchicine (anti-inflammatory), antihistamines Cyproheptadine / Famotidine (Pepcid), nasal lavage with Betadine spray / Povidine iodine, oral gargling with Chlorhexadine / original yellow Listerine etc., alternate treatment with Sativa Nigra seeds, elderberry extracts, Colloidal silver, Zn + Quercetine, NAC (Glutathione precursor), high-dose vitamin D (regulate gene signalling, clotting T-cell function), vitamin C, Zinc, Melatonin, Selenium
 
@@ -1354,15 +1286,14 @@ Allopathic treatment endorsed by a small minority of allopathic physicians, but 
 
 ### Protocol and treatment approach
 **Emergency use (IV):**
-25 g x 4 / day IV for 2-4 days in an emergency, for acute Covid in adults
-There are reports of 50 - 60 g infusions being life-saving.
+   - 25 g x 4 / day IV for 2-4 days in an emergency, for acute Covid in adults
+   - There are reports of 50 - 60 g infusions being life-saving.
 
 **One recommended protocol for prophylactic use of oral vitamin C:**
-For adults- 3 g vitamin C in a glass of water, with a pinch of acidity regulator, X 2-3 times daily
-For children- 1 g vitamin C, X 2 times daily
+   - For adults- 3 g vitamin C in a glass of water, with a pinch of acidity regulator, X 2-3 times daily
+   - For children- 1 g vitamin C, X 2 times daily
 
-**Dr. Thomas E. Levy, MD, JD, writes:**
-"An especially noteworthy example of the suppression of good medicine is seen with vitamin C. The continued avoidance of the use of intravenous [vitamin C, especially in septic patients in the intensive unit][219],  stands out as a clear example of flagrant malpractice. Conservatively, thousands of ICU patients around the world, on a daily basis, would be saved or at least spared substantial suffering with a simple protocol utilizing intravenous vitamin C. And the morbidity and mortality of many different infections and toxin exposures outside of the ICU setting would also be readily mitigated and even resolved with vitamin C-based protocols. But this is not happening, even though the literature has unequivocally indicated [the clinical importance (and safety) of vitamin C][220] for over 80 years."
+**Dr. Thomas E. Levy, MD, JD, writes:** "An especially noteworthy example of the suppression of good medicine is seen with vitamin C. The continued avoidance of the use of intravenous [vitamin C, especially in septic patients in the intensive unit][219],  stands out as a clear example of flagrant malpractice. Conservatively, thousands of ICU patients around the world, on a daily basis, would be saved or at least spared substantial suffering with a simple protocol utilizing intravenous vitamin C. And the morbidity and mortality of many different infections and toxin exposures outside of the ICU setting would also be readily mitigated and even resolved with vitamin C-based protocols. But this is not happening, even though the literature has unequivocally indicated [the clinical importance (and safety) of vitamin C][220] for over 80 years."
 
 **Vitamin C [prevents, improves, cures]:**
 
@@ -1371,20 +1302,13 @@ For children- 1 g vitamin C, X 2 times daily
 Along with hydrogen peroxide, intravenous vitamin C has also been documented to be [highly effective against the debilitating pain of Chikungunya virus][224]. [Intravenous vitamin C has also resolved influenza.][225] A high degree of protection against infection by many other pathogens is also achievable with a variety of treatments featuring oral forms of vitamin C.
 
 **[In an ongoing clinical study on hospitalized COVID-19 patients][226], a combination of vitamin C, methylprednisolone, heparin, and thiamine has already resulted in a dramatic decrease in hospital mortality rate.**
-
-[Hydrocortisone, Vitamin C, and Thiamine for the Treatment of Severe Sepsis and Septic Shock: A Retrospective Before-After Study; Paul E. Marik et al.; Chest; Jun, 2017][227]
-
-[Curing the Incurable: Vitamin C, Infectious Diseases, and Toxins, 3rd Edition Paperback; MD JD Thomas E. Levy; August 1, 2011][228]
-
-[High Dose Intravenous Vitamin C Treatment for Zika Fever; Michael J Gonzales et al.; Journal of Orthomolecular Medicine; Jan, 2016 ][229]
-
-[Intravenous ascorbic acid and hydrogen peroxide in the management of patients with chikungunya; Victor Marcial-Vega et al.; Boletin de la Associacion de Puerto Rico; Jan-Mar, 2015][230]
-
-[High Dose Vitamin C and Influenza: A Case Report; Journal of Orthomolecular Medicine; Michael J Gonzales et al.; 2021][231]
-
-[High-Dose Intravenous Ascorbic Acid in COVID-19 Patients: A Case Report; Journal of Orthomolecular Medicine; Alexander J Audette & Richard Russell Johnson; Oct 15, 2021][232]
-
-[Frontline COVID-19 Critical Care Alliance (2020)][233]
+   - [Hydrocortisone, Vitamin C, and Thiamine for the Treatment of Severe Sepsis and Septic Shock: A Retrospective Before-After Study; Paul E. Marik et al.; Chest; Jun, 2017][227]
+   - [Curing the Incurable: Vitamin C, Infectious Diseases, and Toxins, 3rd Edition Paperback; MD JD Thomas E. Levy; August 1, 2011][228]
+   - [High Dose Intravenous Vitamin C Treatment for Zika Fever; Michael J Gonzales et al.; Journal of Orthomolecular Medicine; Jan, 2016 ][229]
+   - [Intravenous ascorbic acid and hydrogen peroxide in the management of patients with chikungunya; Victor Marcial-Vega et al.; Boletin de la Associacion de Puerto Rico; Jan-Mar, 2015][230]
+   - [High Dose Vitamin C and Influenza: A Case Report; Journal of Orthomolecular Medicine; Michael J Gonzales et al.; 2021][231]
+   - [High-Dose Intravenous Ascorbic Acid in COVID-19 Patients: A Case Report; Journal of Orthomolecular Medicine; Alexander J Audette & Richard Russell Johnson; Oct 15, 2021][232]
+   - [Frontline COVID-19 Critical Care Alliance (2020)][233]
 
 ### Typical duration of treatment:
 General, prophylactic use, or usage over 3-5 days for treament involving very high IV dosing in acute cases
@@ -1424,7 +1348,7 @@ References regarding side effects:
    - [Rees DC, Kelsey H, Richards JD: Acute haemolysis induced by high dose ascorbic acid in glucose-6-phosphate dehydrogenase deficiency; BMJ 306 (6881): 841-2, 1993][247]
    - [Barton JC, McDonnell SM, Adams PC, et al.: Management of hemochromatosis; Hemochromatosis Management Working Group. Ann Intern Med 129 (11): 932-9, 1998][248]
 
-## 14. "Nutrient supplements containing vitamins A, C, D3, & E, K2, Magnesium (especially Magnesium Chloride), Selenium and Zinc
+## 14. Nutrient supplements containing vitamins A, C, D3, & E, K2, Magnesium (especially Magnesium Chloride), Selenium and Zinc
 
 Additionally, **vitamin B12, Quercetin, Glutathione and N-Acetyl Cysteine (NAC)** are known to promote recuperation in Covid patients.
 
@@ -1446,13 +1370,12 @@ Can be used as prophylactic treatment by the uninfected.
 Authorised by mainstream medicine, and the mainstay of highly effective alternate, holistic and naturopathic treatment protocols
 
 ### Protocol and treatment approach:
-(A prophylaxing regimen suggested by veteran physicians in Kerala:
-Immumen (or West Coast Immuneed Original) supplement contains 500 mg vitamin C, 2000 IU vitamin D3 or cholecalciferol, 25 mg vitamin E, 50 mg Zinc acetate, amoung other ingredients. A tablet a day for 15 days, followed by 15 days gap before next 15 day supplementation period.)
+(A prophylaxing regimen suggested by veteran physicians in Kerala: Immumen (or West Coast Immuneed Original) supplement contains 500 mg vitamin C, 2000 IU vitamin D3 or cholecalciferol, 25 mg vitamin E, 50 mg Zinc acetate, amoung other ingredients. A tablet a day for 15 days, followed by 15 days gap before next 15 day supplementation period.)
 
-A(nother recommendation from a knowledgeable practitioner of integrative medicine:
-- Vit C 1000 mg daily, during infection
-- Zinc and Magnesium supplements daily, and especially after heavy physical exertion
-- Vit D3 5000 IU daily)
+Another recommendation from a knowledgeable practitioner of integrative medicine:
+   - Vit C 1000 mg daily, during infection
+   - Zinc and Magnesium supplements daily, and especially after heavy physical exertion
+   - Vit D3 5000 IU daily)
 
 (Note: **When supplementing with vitamin D, [it is important also to supplement with vitamin K2 and Magnesium to improve D absorption.][249]**)
 
@@ -1538,94 +1461,77 @@ Many brands of these nutrient supplements are available online. The articles bel
 A number of protocols published by doctors, scientists, nutritionists and other researchers to **counteract the effects of the dangerous spike glycoprotein** and other toxins associated with the novel coronavirus and introduced into the body by the Covid vaccines.
 
 ### Objective: 
-Allopathic and nutraceutical protocols to protect those who have been injected with the mRNA / DNA producing spike proteins, and to minimize damage from the spike protein and its derivatives, or other toxins due to injection and to protect from spike protein shedding by vaccinated contacts
+Allopathic and nutraceutical protocols to protect those who have been injected with the mRNA / DNA producing spike proteins, and to minimize damage from the spike protein and its derivatives, or other toxins due to injection and to protect from spike protein shedding by vaccinated contacts.
 
 ### System:
-Allopathy and nutrition science, Integrative medicine
+Allopathy and nutrition science, Integrative medicine.
 
 ### Can be used alongside other allopathic treatments:
-Yes
+Yes.
 
 ### Status of authorisation:
 Unclear, but based on naturopathy advocate and nutrition entrepreneur Mr. David Wolfe's website.
 
 ### Protocol and treatment approach:
-**Ivermectin:**
-Ivermectin for protection against COVID infection is recommended at a dosage of 0.2 mg/ kilogram of
-body weight (typically around 12 - 18 mg/dose). An often cited protocol is to take one dose, then
-after 48 hours take a second dose, and then to take once per week.
+   - **Ivermectin:** Ivermectin for protection against COVID infection is recommended at a dosage of 0.2 mg/ kilogram of body weight (typically around 12 - 18 mg/dose). An often cited protocol is to take one dose, then after 48 hours take a second dose, and then to take once per week.
+      - [dreddymd.com: Breakthrough: Ivermectin inhibits the SARS-CoV-2 spike protein from binding to ACE2 receptors in human tissue; Dr. Eddy Bettermann, MD][295]
+      - Dr. Paul E. Marik and his close collaborators Drs. Bret Weinstein and Pierre Kory have cited the known effectiveness of Ivermectin as a potent neutralizer of the spike proteins. [Dr. Marik's prophylactic and preventative protocols have been described in detail in an earlier section.][296]
+   - **Black cumin seed / Nigella sativa oil:** Black cumin is long revered as a traditional medicinal plant, considered even as a ""panacea"" in ancient Greece and Rome. Research published in the journal Vascular Pharmacology shows that a molecule found in Nigella sativa, also known as Black seed or Black cumin (Kalonji / Krishnajeera / Karunjeerakam), binds to ACE2 receptors in the lungs, potentially stopping spike protein particles from inducing inflammation and vascular damage. The molecule is being studied for possible drug development. Researchers out of India investigated the effects of Nigellidine, an Indazole alkaloid of Black seed, using molecular docking for binding to different angiotensin-binding proteins, as well as the spike glycoprotein. They found that Nigellidine “strongly binds” to the spike protein at what is known as the hinge region or active site opening, which may in turn hamper its binding to ACE2 receptor surfaces. 
 
-[dreddymd.com: Breakthrough: Ivermectin inhibits the SARS-CoV-2 spike protein from binding to ACE2 receptors in human tissue; Dr. Eddy Bettermann, MD][295]
+------------------
 
-Dr. Paul E. Marik and his close collaborators Drs. Bret Weinstein and Pierre Kory have cited the known effectiveness of Ivermectin as a potent neutralizer of the spike proteins. [Dr. Marik's prophylactic and preventative protocols have been described in detail in an earlier section.][296]
-
--------
-**Black cumin seed / Nigella sativa oil:**
-Black cumin is long revered as a traditional medicinal plant, considered even as a ""panacea"" in ancient Greece and Rome. Research published in the journal Vascular Pharmacology shows that a molecule found in Nigella sativa, also known as Black seed or Black cumin (Kalonji / Krishnajeera / Karunjeerakam), binds to ACE2 receptors in the lungs, potentially stopping spike protein particles from inducing inflammation and vascular damage. The molecule is being studied for possible drug development. Researchers out of India investigated the effects of Nigellidine, an Indazole alkaloid of Black seed, using molecular docking for binding to different angiotensin-binding proteins, as well as the spike glycoprotein. They found that Nigellidine “strongly binds” to the spike protein at what is known as the hinge region or active site opening, which may in turn hamper its binding to ACE2 receptor surfaces. 
-
--------
 **Recommended ingredients for nutritionist Mr. David Wolfe's Spike Protein Protocol:**
-**Nutrient supplements:**
-- Zinc (30-80 mg per day depending on immunological pressure)
-- Vitamin D3 (Note: Vitamin D supplementation best [accompanied by supplementation with K2][297] and [Magnesium][298] for better action and bioavailability)
-- Nattokinase, a fermented soybean derivate that is known to protect the cardiovascular system from developing a bloodclotting cascade (4000 Fibrinolytic Units twice per day or 200 mg twice per day),
-- Lypospheric Vitamin C (30 ml, twice a day),
-- Quercetin (500-1000 mg, twice a day),
-- Iodine,
-- PQQ,
-- C60 (1-3 droppersful per day), which is claimed to counteract the differential magnetization of the injected site, and the C60 SuperConcentrate is particularly recommended,
-- Charcoal as an excellent detoxifier (2-4 capsules a day, on an empty stomach to activate a blood purification process known as intestitial dialysis), especially the product Kohlbitr, sold on Mr. Wolfe's e-commerce website, that is said to be a premium brand of coconut charcoal, or the more gentle birch charcoal,
+   - **Nutrient supplements:**
+      - Zinc (30-80 mg per day depending on immunological pressure)
+      - Vitamin D3 (Note: Vitamin D supplementation best [accompanied by supplementation with K2][297] and [Magnesium][298] for better action and bioavailability)
+      - Nattokinase, a fermented soybean derivate that is known to protect the cardiovascular system from developing a bloodclotting cascade (4000 Fibrinolytic Units twice per day or 200 mg twice per day),
+      - Lypospheric Vitamin C (30 ml, twice a day),
+      - Quercetin (500-1000 mg, twice a day),
+      - Iodine,
+      - PQQ,
+      - C60 (1-3 droppersful per day), which is claimed to counteract the differential magnetization of the injected site, and the C60 SuperConcentrate is particularly recommended,
+      - Charcoal as an excellent detoxifier (2-4 capsules a day, on an empty stomach to activate a blood purification process known as intestitial dialysis), especially the product Kohlbitr, sold on Mr. Wolfe's e-commerce website, that is said to be a premium brand of coconut charcoal, or the more gentle birch charcoal.
+   - **Superherbs:**
+      - Pine needle tea for shikimic acid or shikimate and their derivates that have cancer-fighting, antiviral, antimicrobial, anticoagulant and antithrombotic properties (prepared only from green, edible, i.e. nontoxic, pine needles, the tea to be along with the oil / resin that accumulates),
+      - Fennel and / or Star anise tea, which are also an exceellent source of shikimate or shikimic aicd which are known to cause the spike protein to be neutralized,
+      - Citrus fruit, and especially blood oranges for their high content of hesperidin, which is a chalcone-like quercetin that deactivates spike proteins,
+      - Peppermint, very high in hesperidin,
+      - Wheatgrass and Wheatgrass juice, of which the blades are high in shikimate,
+      - Triphala formulations in Ayurveda (a combination of Indian gooseberry or Amla, black myrobalan and bellerIc myrobalan),
+      - St. John's wort, the entire plant,
+      - Comfrey leaf,
+      - Feverfew, of which the leaves and flowers are suitable for this use,
+      - Gingko biloba leaf,
+      - Giant hyssop or Horsemint or Agastache urtifolia,
+      - Liquid ambar or Sweet gum tree, of which a tea might be prepared with the spiky seed pods, which all are exceptionally rich in shikimate
 
-**""Superherbs"":**
-- Pine needle tea for shikimic acid or shikimate and their derivates that have cancer-fighting, antiviral, antimicrobial, anticoagulant and antithrombotic properties (prepared only from green, edible, i.e. nontoxic, pine needles, the tea to be along with the oil / resin that accumulates),
-- Fennel and / or Star anise tea, which are also an exceellent source of shikimate or shikimic aicd which are known to cause the spike protein to be neutralized,
-- Citrus fruit, and especially blood oranges for their high content of hesperidin, which is a chalcone-like quercetin that deactivates spike proteins,
-- Peppermint, very high in hesperidin,
-- Wheatgrass and Wheatgrass juice, of which the blades are high in shikimate,
-- Triphala formulations in Ayurveda (a combination of Indian gooseberry or Amla, black myrobalan and bellerIc myrobalan),
-- St. John's wort, the entire plant,
-- Comfrey leaf,
-- Feverfew, of which the leaves and flowers are suitable for this use,
-- Gingko biloba leaf,
-- Giant hyssop or Horsemint or Agastache urtifolia,
-- Liquid ambar or Sweet gum tree, of which a tea might be prepared with the spiky seed pods,
-which all are exceptionally rich in shikimate
+----------------
 
--------
 **Dr. Mercola's Protocol for neutralizing the spike protein:**
-- **From Dr. Mercola's perspective, the best thing one can do is to build the innate immune system. To do that, it is necessary to become metabolically flexible and optimize the diet. You’ll also want to make sure your vitamin D level is optimized to between 60 ng/mL and 80 ng/mL (100 nmol/L to 150 nmol/L), ideally through sensible sun exposure. Sunlight also has other benefits besides making vitamin D.**
+   - **From Dr. Mercola's perspective, the best thing one can do is to build the innate immune system. To do that, it is necessary to become metabolically flexible and optimize the diet. You’ll also want to make sure your vitamin D level is optimized to between 60 ng/mL and 80 ng/mL (100 nmol/L to 150 nmol/L), ideally through sensible sun exposure. Sunlight also has other benefits besides making vitamin D.**
+   - **Time-restricted eating must be practised to optimize autophagy, i.e., all meals for the day must be eaten within a six- to eight-hour window. All vegetable oils and processed foods must be avoided. and only certified-organic foods consumed to minimize glyphosate exposure. Plenty of sulfur-rich foods must be included in the diet to keep mitochondria and lysosomes healthy. Both are important for the clearing of cellular debris, including these spike proteins.**
+   - **Sulfate levels can also be boosted by taking Epsom salt baths. Sauna therapy**, which upregulates heat shock proteins, will help refold misfolded proteins and also tag damaged proteins and target them for removal. It is important that the sauna is hot enough (around 170 degrees Fahrenheit) and does not have high magnetic or electric fields.
+   - **Hydroxychloroquine and ivermectin treatments.** Ivermectin appears particularly promising as it actually binds to the spike protein. [The interview that Brett Weinstein did with Dr. Pierre Kory, one of Dr. Paul Marik’s collaborators][299]
+   - **Low-dose antiretroviral therapy to reeducate the immune system**
+   - **Low-dose interferons such as Paximune**, developed by interferon researcher Dr. Joe Cummins, to stimulate the immune system
+   - **Peptide T (an HIV entry inhibitor** derived from the HIV envelope protein gp120; it blocks binding and infection of viruses that use the CCR5 receptor to infect cells)
+   - **Cannabis**, to strengthen Type I interferon pathways
+   - **Dimethylglycine or betaine (trimethylglycine)** to enhance methylation, thereby suppressing latent viruses
+   - **Silymarin or milk thistle** to help cleanse your liver
 
-- **Time-restricted eating must be practised to optimize autophagy, i.e., all meals for the day must be eaten within a six- to eight-hour window. All vegetable oils and processed foods must be avoided. and only certified-organic foods consumed to minimize glyphosate exposure. Plenty of sulfur-rich foods must be included in the diet to keep mitochondria and lysosomes healthy. Both are important for the clearing of cellular debris, including these spike proteins.**
+----------------
 
-- **Sulfate levels can also be boosted by taking Epsom salt baths. Sauna therapy**, which upregulates heat shock proteins, will help refold misfolded proteins and also tag damaged proteins and target them for removal. It is important that the sauna is hot enough (around 170 degrees Fahrenheit) and does not have high magnetic or electric fields.
-
-- **Hydroxychloroquine and ivermectin treatments.** Ivermectin appears particularly promising as it actually binds to the spike protein. [The interview that Brett Weinstein did with Dr. Pierre Kory, one of Dr. Paul Marik’s collaborators][299]
-
-- **Low-dose antiretroviral therapy to reeducate the immune system**
-
-- **Low-dose interferons such as Paximune**, developed by interferon researcher Dr. Joe Cummins, to stimulate the immune system
-
-- **Peptide T (an HIV entry inhibitor** derived from the HIV envelope protein gp120; it blocks binding and infection of viruses that use the CCR5 receptor to infect cells)
-
-- **Cannabis**, to strengthen Type I interferon pathways
-
-- **Dimethylglycine or betaine (trimethylglycine)** to enhance methylation, thereby suppressing latent viruses
-
-- **Silymarin or milk thistle** to help cleanse your liver
-
--------
 **Conventional OTC medications and nutraceuticals recommended to counteract inflammation post-vaccine and breakthrough infection:**
-
-**Aspirin (anti-thrombotic):** 325 mg/day for 4 weeks beginning the day before vaccination.
-**Ibuprofen (anti-inflammatory):** Two 200 mg caplets 3 times/day the day before, day of and day after vaccination. Continue as needed if symptomatic (fever, muscle aches, headache, etc.)
-**Loratadine (Claritin or generic equivalent; H1 blocker, anti-inflammatory)**: 10 mg/day the day before, day of and day after vaccination.
-**Famotidine (Pepcid or generic equivalent; H2 blocker, anti-inflammatory)**: 20 mg twice per day the day before, day of and day after vaccination.
-**Vitamin D3 (potent anti-inflammatory effects at sufficient dosage; anti-viral immune enhancement)**: One dose of 50,000 IU five to seven days before vaccination (serum levels peak on average at 7 days), then daily 15,000 IU until 5 days after vaccination. Subsequently continue with maintenance dosage of 5,000 - 10,000 IU/day.
+   - **Aspirin (anti-thrombotic):** 325 mg/day for 4 weeks beginning the day before vaccination.
+   - **Ibuprofen (anti-inflammatory):** Two 200 mg caplets 3 times/day the day before, day of and day after vaccination. Continue as needed if symptomatic (fever, muscle aches, headache, etc.)
+   - **Loratadine (Claritin or generic equivalent; H1 blocker, anti-inflammatory)**: 10 mg/day the day before, day of and day after vaccination.
+   - **Famotidine (Pepcid or generic equivalent; H2 blocker, anti-inflammatory)**: 20 mg twice per day the day before, day of and day after vaccination.
+   - **Vitamin D3 (potent anti-inflammatory effects at sufficient dosage; anti-viral immune enhancement)**: One dose of 50,000 IU five to seven days before vaccination (serum levels peak on average at 7 days), then daily 15,000 IU until 5 days after vaccination. Subsequently continue with maintenance dosage of 5,000 - 10,000 IU/day.
 
 **For extra protection against breakthrough Covid infection during the approximately two-week window before immunity starts:**
-**Zinc (anti-viral):** 50 mg/day started as far ahead of vaccination as possible and continued three weeks or indefinitely.
-**Quercetin (zinc ionophore, to enhance zinc anti-viral effect; anti-inflammatory; anti-thrombotic)**: 250 mg twice per day for 3 weeks starting the day before vaccination.
-**Vitamin C (anti-viral; anti-inflammatory)**: 3,000 mg/day started as far ahead of vaccination as possible and continued 3 weeks or indefinitely.
+   - **Zinc (anti-viral):** 50 mg/day started as far ahead of vaccination as possible and continued three weeks or indefinitely.
+   - **Quercetin (zinc ionophore, to enhance zinc anti-viral effect; anti-inflammatory; anti-thrombotic)**: 250 mg twice per day for 3 weeks starting the day before vaccination.
+   - **Vitamin C (anti-viral; anti-inflammatory)**: 3,000 mg/day started as far ahead of vaccination as possible and continued 3 weeks or indefinitely.
 
 ### Typical duration of treatment:
 Presumably 3-4 weeks for a detox regimen
@@ -1674,12 +1580,10 @@ Some of these products can be sourced online, and a few could be bought at [Mr. 
 
 ### Objective: 
 Four objectives that are defined and achieved by The Fleming Method for Tissue and Vascular Differentiation and Metabolism:
-
-1. Measuring changes in regional blood flow and metabolism differentiating healthy from diseased tissue.
-2. Quantitatively measure what is happening at the tissue level distinguishing dead from normal tissue, from inflammation & infection, from early and later coronary artery blood flow disease, from dysfunctionally abnormal tissue, from pre-cancers and cancer.
-3. Enable clinicians and researchers to more precisely determine if a treatment is working in each individual.
-4. Enable rapid determination of what research drugs and treatments work by measuring their effect at the tissue level where it matters.
-
+   1. Measuring changes in regional blood flow and metabolism differentiating healthy from diseased tissue.
+   2. Quantitatively measure what is happening at the tissue level distinguishing dead from normal tissue, from inflammation & infection, from early and later coronary artery blood flow disease, from dysfunctionally abnormal tissue, from pre-cancers and cancer.
+   3. Enable clinicians and researchers to more precisely determine if a treatment is working in each individual.
+   4. Enable rapid determination of what research drugs and treatments work by measuring their effect at the tissue level where it matters.
 The Method can be used in conjunction with treatments for multiple diseases, including heart disease, cancer, and now Covid-19.
 
 ### System:
@@ -1692,72 +1596,66 @@ Yes, and recommended to be sed with any treatment, to improve efficacy through b
 Patented diagnostic technology, efficacy established through clinical trials.
 
 Dr. Richard M. Fleming, PhD, MD, JD is a scientist/physicist and also a cardiologist who discovered that inflammation and heart disease go hand in hand and have patented the Fleming Method (FMTVDM). He led a clinical trial on COVID-19 treatment protocols.
-
-[The official webpage for the best diagnostic solutions rigorously identified by the Fleming Method in worldwide clinical trials.][319]
+   - [The official webpage for the best diagnostic solutions rigorously identified by the Fleming Method in worldwide clinical trials.][319]
 
 ### Protocol and treatment approach:
    - [The official and comprehensive webpage for the best diagnostic solutions rigorously identified by the Fleming Method in worldwide clinical trials][320]
    - [Immune Support for SARS-CoV-2: First Phase with Mild Symptoms][321]
    - [Treatments to Consider Based Upon the Best Available Evidence Research Results: PROPOSED TREATMENT APPROACHES FOR PROPHYLAXIS, SARS-COV-2, COVID-19, AND POST-VACCINATION; FOR YOU TO DISCUSS WITH YOUR PHYSICIAN. THIS IS NOT A SERVICE, THE SALE, BUYING, OR MARKETING OF A PRODUCT, OR THE PRACTICING OF MEDICINE.][322]
 
-**The Fleming Method** is a diagnostic technique that integrates with any nuclear camera and any applicable nuclear isotope to produce ""True Quantification"" of regional blood flow difference and metabolism. Conventional nuclear images rely on human visual observation for subjective or ""guestimate"" evaluations. The Fleming Method uses a complex, yet simple method of camera recalibration to turn images into numerical computations removing the human subjective evaluation and associated error. Unlike common nuclear imaging protocols that require two injections of a nuclear isotope, the Fleming Method many times only requires one injection reducing patient venous punctures and radiation exposure.​ Dr. Richard M. Fleming, inventor of Fleming Method calibration, measurement, and imaging patent, recognized that many of these isotopes can be measured sooner than previously expected.  This method enables the identification of conditions such as critical heart disease, cancers, and infections such as COVID-19.  The Fleming Method uses existing FDA approved devices and drugs to provide the computational evaluation to help determine severity of conditions otherwise missed with conventional methods. The Fleming Method is a paradigm shift in nuclear imaging reducing scanning times in some instances by hours with use of existing equipment. 
+**The Fleming Method** is a diagnostic technique that integrates with any nuclear camera and any applicable nuclear isotope to produce "True Quantification" of regional blood flow difference and metabolism. Conventional nuclear images rely on human visual observation for subjective or "guestimate" evaluations. The Fleming Method uses a complex, yet simple method of camera recalibration to turn images into numerical computations removing the human subjective evaluation and associated error. Unlike common nuclear imaging protocols that require two injections of a nuclear isotope, the Fleming Method many times only requires one injection reducing patient venous punctures and radiation exposure.​ Dr. Richard M. Fleming, inventor of Fleming Method calibration, measurement, and imaging patent, recognized that many of these isotopes can be measured sooner than previously expected.  This method enables the identification of conditions such as critical heart disease, cancers, and infections such as COVID-19.  The Fleming Method uses existing FDA approved devices and drugs to provide the computational evaluation to help determine severity of conditions otherwise missed with conventional methods. The Fleming Method is a paradigm shift in nuclear imaging reducing scanning times in some instances by hours with use of existing equipment. 
 
 The Fleming method was used in a large clinical trial involving over 500 patients across the world in which a large number of allopathic treatment modalities were assessed for efficacy using the FMTVDM, with deference to the particcipating physicians' discretion in choosing the treatment modality that they thought would best suit their patients. From these studies, certain treatment modalities fared better than others and the most effective of these modalities are described below:
 
-**The FMTVDM-directed Covid-19 Treatment Protocol:**
+**<ins>The FMTVDM-directed Covid-19 Treatment Protocol:</ins>**
 **In the outpatient setting, begins with stabilizing the immune response and opening airways to improve oxygenation:**
 
-**I. Immune support to stabilize the immune response:**
-- Folate (B9)) 3 mg by mouth daily
-- Magnesium 400 mg by mouth daily
-- Calcium carbonate 400 mg by mouth daily
-- Cobalamin (B12) 3 mg by mouth daily
-- Pyridoxine (B6) 30 mg by mouth daily
-- Dehydroepiandrosterone (DHEA) 50 mg by mouth daily
-- Ascorbic acid (C) 2000 mg by mouth daily
-- Zinc 10 mg by mouth daily
-- 1,25 dihydroxycholecalciferol (D3) 1500 IU by mouth daily
-
-**II. Respiratory support to open airways and improve oxygenation:**
-- Atrovent nebulizer or inhaler, 2 puffs every 4 hours
-
-**The third component of treatment in the outpatient setting includes Aminoquinolines and antibiotics.**
-
-**III. Aminoquinolines and Antibiotics, that reduce viral attachment to cells and reduce viral replication (but not to address seccondary bacterial infection):**
-**i) 100 % effective treatment strategy:**
-- Primaquine 200 mg by mouth on Day 1
-- Clindamycin 150 mg by mouth every 6 hours for 7 days
-- Hydroxychloroquine 200 mg by mouth every 8 hours for 10 days
-**ii) 97.9 % effective:**
-- Clindamycin 150 mg by mouth every 6 hours for 7 days
-- Hydroxychloroquine 200 mg by mouth every 8 hours for 10 days
-**iii) 74.2 % effective:**
-- Hydroxychloroquine 200 mg by mouth every 8 hours for 10 days
-- Azithromycin 500 mg by mouth on Day 1, then 250 mg by mouth on days 2 through 5
-**iv) 69.1 % effective:**
-- Hydroxychloroquine 200 mg by mouth every 8 hours for 10 days
-- Doxycycline 100 mg by mouth every 12 hours for 10 days
+   - **I. Immune support to stabilize the immune response:**
+      - Folate (B9)) 3 mg by mouth daily
+      - Magnesium 400 mg by mouth daily
+      - Calcium carbonate 400 mg by mouth daily
+      - Cobalamin (B12) 3 mg by mouth daily
+      - Pyridoxine (B6) 30 mg by mouth daily
+      - Dehydroepiandrosterone (DHEA) 50 mg by mouth daily
+      - Ascorbic acid (C) 2000 mg by mouth daily
+      - Zinc 10 mg by mouth daily
+      - 1,25 dihydroxycholecalciferol (D3) 1500 IU by mouth daily
+   - **II. Respiratory support to open airways and improve oxygenation:**
+      - Atrovent nebulizer or inhaler, 2 puffs every 4 hours
+*The third component of treatment in the outpatient setting includes Aminoquinolines and antibiotics.*
+   - **III. Aminoquinolines and Antibiotics, that reduce viral attachment to cells and reduce viral replication (but not to address seccondary bacterial infection):**
+      - **i) 100 % effective treatment strategy:**
+         - Primaquine 200 mg by mouth on Day 1
+         - Clindamycin 150 mg by mouth every 6 hours for 7 days
+         - Hydroxychloroquine 200 mg by mouth every 8 hours for 10 days
+      - **ii) 97.9 % effective:**
+         - Clindamycin 150 mg by mouth every 6 hours for 7 days
+         - Hydroxychloroquine 200 mg by mouth every 8 hours for 10 days
+      - **iii) 74.2 % effective:**
+         - Hydroxychloroquine 200 mg by mouth every 8 hours for 10 days
+         - Azithromycin 500 mg by mouth on Day 1, then 250 mg by mouth on days 2 through 5
+      - **iv) 69.1 % effective:**
+         - Hydroxychloroquine 200 mg by mouth every 8 hours for 10 days
+         - Doxycycline 100 mg by mouth every 12 hours for 10 days
 
 **The adaptation of this treatment regimen to inpatients in the hospital setting:**
-**The 3 different Regimens:**
-
-**Case 1) If prior Aminoquinoline treatment has been provided, adopt the following two treatment Regimens:**
-**Regimen 1:**
-- Methylprednisolone 125 mg IntraVenously every 6 hours for 3 days
-    - Then 125 mg IV every 12 hours for 2 days
-    - Then 125 mg IV daily for 2 days
-    - Then 60 mg IV daily for 2 days (with each infusion administered over 30 minutes)
-    - Then Solumedrol dose pack to taper off steroids
-**Regimen 2:**
-- Tocilizumab 8 mg / kg (IBW, i.e. Ideal Body Weight), not to exceed 800 mg intravenously infused over 1 hour.
-    - May be repeated every 8 hours for a maximum of 4 doses
-- Interferon-α2b (5 million units per nebulizer every 12 hours for 7 days)
-
-**Case 2) If no prior Aminoquinoline treatment has been provided, adopt the following Regimen:**
-**Regimen 3:**
-- Primaquine 200 mg by mouth on Day 1
-- Clindamycin 150 mg by mouth every 6 hours for 7 days
-- Tocilizumab and Interferon-α2b using the same doses as in **Regimen 2.**
+   - **The 3 different Regimens:**
+      - **Case 1) If prior Aminoquinoline treatment has been provided, adopt the following two treatment Regimens:**
+         - **Regimen 1:**
+            - Methylprednisolone 125 mg IntraVenously every 6 hours for 3 days
+            - Then 125 mg IV every 12 hours for 2 days
+            - Then 125 mg IV daily for 2 days
+            - Then 60 mg IV daily for 2 days (with each infusion administered over 30 minutes)
+            - Then Solumedrol dose pack to taper off steroids
+         - **Regimen 2:**
+            - Tocilizumab 8 mg / kg (IBW, i.e. Ideal Body Weight), not to exceed 800 mg intravenously infused over 1 hour.
+               - May be repeated every 8 hours for a maximum of 4 doses
+            - Interferon-α2b (5 million units per nebulizer every 12 hours for 7 days)
+      - **Case 2) If no prior Aminoquinoline treatment has been provided, adopt the following Regimen:**
+         - **Regimen 3:**
+            - Primaquine 200 mg by mouth on Day 1
+            - Clindamycin 150 mg by mouth every 6 hours for 7 days
+            - Tocilizumab and Interferon-α2b using the same doses as in **Regimen 2.**
 
 **Dr. Fleming has also developed well-researched guidelines for diet and nutritional supplementation, some details of which are shared in the references.**                     "
 
@@ -1797,7 +1695,7 @@ The approximate monthly expenditure for immune system support against Covid-19, 
 
 Possible Oral / intravenous administration, **with the oral CDS protocol for Covid-19 being validated by one Boliviaan study**
 
-### Objective: 
+### Objective:
 The development of a safe and relatively nontoxic alternative allopathic **oral / intravenous treatment protocol for Covid-19**. The protocol is reported from Central and South America to have been highly effective in their pandemic management, but has achieved little consensus in the mainstream scientific community, like many other treatments.
 
 **The reactivity of ClO2 to the coronavirus' spike glycoprotein suggests its potential use in very low dosage in combating inflammation produced by the Covid vaccinations as well.**
@@ -1810,8 +1708,7 @@ Yes.
 
 ### Status of authorisation:
 Chlorine dioxide has been demonized in the medical community, perhaps by confusion with Sodium chlorite / hypochlorite or bleach that is commonly known for its toxicity, and which can be used as precusrors in the manufacture Chlorine and Chlorine dioxide. 
-
-[Food Safety | 10 Reasons Why You Should be Using Chlorine Dioxide (as a Disinfectant in the Food Industry):][337]
+   - [Food Safety | 10 Reasons Why You Should be Using Chlorine Dioxide (as a Disinfectant in the Food Industry):][337]
 Chlorine dioxide has 2.6 times the oxidizing power of waterborne Chlorine, does not react with water and is effective over a wide range of pH, is considered an excellent bactericide, fungicide and antimicrobial agent, and has been FDA-approved as a sanitizer in food processing plants. Unlike bleach and Chlorine, which break down to carcinogenic byproducts like trihalomethanes, Chlorine dioxide donates Oxygen, and breaks down to water and salts. Therefore Chlorine dioxide is much less corrosive to equipment and far less toxic to the environment.
 
 **Efficacy established through large-scale clinical trials in countries of Central and South America, predominantly Bolivia, as reported in one study:**
@@ -1821,33 +1718,29 @@ The only study conducted for the use of water-solubilized ClO2 (CDS) ingested by
 While there was a rebound in cases from epidemiological week 49 to 53, mortality remained relatively low. Some **doctors linked to the research group (in Bolivia more than 220 doctors)** provided feedback that the population reduced the consumption of CDS and that could be a possible explanation for the peak, and the increase in the consumption of chlorine dioxide again reduced the peak to the previous levels, maintaining a reduced comparative mortality.
 
 ### Protocol and treatment approach:
-**MMS (Master / Miracle Mineral Solution)- The base ingredient of Chlorine Dioxide Solution**
-
-[Jim Humble: How to make MMS at home:][339]
+**MMS (Master / Miracle Mineral Solution): The base ingredient of Chlorine Dioxide Solution**
+   - [Jim Humble: How to make MMS at home:][339]
 **Precautions:**
-- Never ever use anything metal when mixing or storing or using Sodium chlorite. Sodium chlorite or MMS solution should never touch metal. Don’t stir with a metal spoon, or use metal bowls to mix, or metal containers to store—this includes stainless steel. Storage containers / bottles for MMS should have plastic lids, not metal, as the sodium chlorite will eventually eat through and corrode the metal. The metal starts eating into the lid and it starts dropping down in to your MMS. This will introduce metal in the MMS and this is poisonous.
-- Storage containers for MMS (22.4% solution of sodium chlorite in distilled water) should preferably be glass. Tinted glass such as amber color or green is best. If you must use plastic a good quality plastic that is HDPE plastic is best.
+   - Never ever use anything metal when mixing or storing or using Sodium chlorite. Sodium chlorite or MMS solution should never touch metal. Don’t stir with a metal spoon, or use metal bowls to mix, or metal containers to store—this includes stainless steel. Storage containers / bottles for MMS should have plastic lids, not metal, as the sodium chlorite will eventually eat through and corrode the metal. The metal starts eating into the lid and it starts dropping down in to your MMS. This will introduce metal in the MMS and this is poisonous.
+   - Storage containers for MMS (22.4% solution of sodium chlorite in distilled water) should preferably be glass. Tinted glass such as amber color or green is best. If you must use plastic a good quality plastic that is HDPE plastic is best.
 
-**Step 1- Making Master Mineral Solution:**
-**MMS is made from distilled Water, widely available Sodium hypochlorite (NaOCl, or bleach), a sensitive weighing balance, a food-grade acid like citric acid, and a non-reactive storage container. MMS is a 22.4% solution of sodium chlorite in water.** One hundred milliliters of MMS liquid should weigh 122 grams, this is the ideal. If it falls in the range of 120 grams to 124 grams it is usable, but 122 grams, or very close to it, is best.
-
-**Step 2- Preparing activated MMS, or Chlorine dioxide solution:**
-MMS Protocols for health recovery call for “activated MMS”. MMS needs a food-grade acid to activate it and the two combined produce chlorine dioxide. There are several acids that can activate MMS, including the juice of a fresh lemon or lime, or vinegar. However, we most often use either 50% citric acid, or 4% HCl (hydrochloric acid). When using these two acids in these percentages always use 1 drop of acid to 1 drop of MMS. Both of these acids, in these percentages, are a 1-to-1 ratio with MMS. In other words, mix 1 drop of either of 50% citric acid or 1 drop of 4% HCl, to every 1 drop of MMS. The standard activation time for mixing these drop-for-drop doses using 50% citric acid or 4% HCl is 30 seconds. [See the MMS Health Recovery Guidebook for full instructions on how to mix and use MMS][340]. This includes for instructions on how to activate MMS using lemon, lime or vinegar as the proportions and activation time is different for these than when using 50% citric acid or 4% HCl. 500g citric acid powder and 500g of distilled water makes a solution of 50% citric acid.
+**Step 1: Making Master Mineral Solution:**
+   **MMS is made from distilled Water, widely available Sodium hypochlorite (NaOCl, or bleach), a sensitive weighing balance, a food-grade acid like citric acid, and a non-reactive storage container. MMS is a 22.4% solution of sodium chlorite in water.** One hundred milliliters of MMS liquid should weigh 122 grams, this is the ideal. If it falls in the range of 120 grams to 124 grams it is usable, but 122 grams, or very close to it, is best.
+**Step 2: Preparing activated MMS, or Chlorine dioxide solution:**
+   MMS Protocols for health recovery call for “activated MMS”. MMS needs a food-grade acid to activate it and the two combined produce chlorine dioxide. There are several acids that can activate MMS, including the juice of a fresh lemon or lime, or vinegar. However, we most often use either 50% citric acid, or 4% HCl (hydrochloric acid). When using these two acids in these percentages always use 1 drop of acid to 1 drop of MMS. Both of these acids, in these percentages, are a 1-to-1 ratio with MMS. In other words, mix 1 drop of either of 50% citric acid or 1 drop of 4% HCl, to every 1 drop of MMS. The standard activation time for mixing these drop-for-drop doses using 50% citric acid or 4% HCl is 30 seconds. [See the MMS Health Recovery Guidebook for full instructions on how to mix and use MMS][340]. This includes for instructions on how to activate MMS using lemon, lime or vinegar as the proportions and activation time is different for these than when using 50% citric acid or 4% HCl. 500g citric acid powder and 500g of distilled water makes a solution of 50% citric acid.
 
 **References of clinical trials:**
 
-The medicine may be administered orally or intravenously. ""In vitro and in vivo studies demonstrate that low doses of water-solubilized ClO2 exhibit potent and rapid antiviral activity against a wide range of viruses. In a study on drinking water in the Netherlands, Jin et al. found that treatment with ClO2 at concentrations of 0.5 ppm for 25 minutes, or 1.5 ppm for 10 minutes, or 2 ppm for 5 minutes achieved at least a 4 log reduction of enterovirus. Schijven et al. demonstrated that municipal drinking water treated with ClO2 (0.1 ppm in summer and 0.05 ppm in winter) significantly reduced adenovirus levels to levels that are considered safe for drinking water. Alvarez and O'Brien found a ClO2 concentration of 40 ppm added to wastewater seeded with SARS-CoV that completely inactivated the SARS-CoV in 30 minutes. The dose used in this research is 30 mg per day for 21 days, which is well below the NOAEL (No Observed Adverse Effect Level), or in the worst case the same as the NOAEL.""
-[Determination of the Effectiveness of Chlorine Dioxide in the Treatment of COVID-19; Insignares-Carrione Eduardo et al.; Molecular and Genetic Medicine; 2021][341]
+The medicine may be administered orally or intravenously. "In vitro and in vivo studies demonstrate that low doses of water-solubilized ClO2 exhibit potent and rapid antiviral activity against a wide range of viruses. In a study on drinking water in the Netherlands, Jin et al. found that treatment with ClO2 at concentrations of 0.5 ppm for 25 minutes, or 1.5 ppm for 10 minutes, or 2 ppm for 5 minutes achieved at least a 4 log reduction of enterovirus. Schijven et al. demonstrated that municipal drinking water treated with ClO2 (0.1 ppm in summer and 0.05 ppm in winter) significantly reduced adenovirus levels to levels that are considered safe for drinking water. Alvarez and O'Brien found a ClO2 concentration of 40 ppm added to wastewater seeded with SARS-CoV that completely inactivated the SARS-CoV in 30 minutes. The dose used in this research is 30 mg per day for 21 days, which is well below the NOAEL (No Observed Adverse Effect Level), or in the worst case the same as the NOAEL."
+   - [Determination of the Effectiveness of Chlorine Dioxide in the Treatment of COVID-19; Insignares-Carrione Eduardo et al.; Molecular and Genetic Medicine; 2021][341]
 
 [In the Bolivian study][342] (which was in fact, conducted on 20 patient volunteers whose informed consent was sought, from **Bolivia, Equador, Mexico and Peru, but officially conducted in Bolivia**, due to legal ethical restrictions on therapeutic use of CDS in other countries), **the base medication used is Chlorine dioxide 3000 ppm in × 120 cc bottles marked with a planned label and administered according to the standard established in the research protocol, and each patient received the therapeutic dosage of CDS medication exclusively (i.e., not as adjunct therapy)**, whereas the control group received Standard Of Care treatment with anti-inflammatory medication (Ibuprofen), antibiotics (Azithromycin), antihistamines (Hydrazine), corticosteroids (Methylprednisolone) and other supportive care. The patients received the Chlorine Dioxide base preparation at 3,000 ppm, produced by electrolysis with ultrapure Chlorine Dioxide generating equipment, brand Medalab [www.ClO2.com](http://www.clo2.com/), with precise written instructions on how to prepare, drink and preserve dilutions. The chemists of the research team controlled the standardization of the water used for the base preparation of the Dioxide at 3000 ppm, as well as the water used for diluting and drinking; the controlled variables were: conditions and characteristics of the preparation process, standardized characteristics of the container, use of standardized Merck 28% sodium chlorite, standardized sterile double-distilled water, buffered at pH 7 and Chlorine Dioxide concentration at 3,000 ppm [in the base solution, which the protocol requires to dilute to about a hundredth of this concentration, i.e., about 30 mg / liter].
-
-[Chlorine dioxide administration protocols used in Covid-19:][343]
+   - [Chlorine dioxide administration protocols used in Covid-19:][343]
 
 **Initial protocol, loading or protocol (F):**
-**10 ml of Chlorine Dioxide 3000 ppm is added to 1 liter of water (i.e., about 30 mg / liter or 30 ppm), and the liter is taken in two hours, divided into eight (8) equal doses.**
-
+   - **10 ml of Chlorine Dioxide 3000 ppm is added to 1 liter of water (i.e., about 30 mg / liter or 30 ppm), and the liter is taken in two hours, divided into eight (8) equal doses.**
 **Maintenance protocol:**
-**10 ml of Chlorine Dioxide 3000 ppm is added to 1 liter of water (i.e. about 30 mg / liter), and the liter is given to drink divided into ten (10) equal doses, during the day, every hour.**
+   - **10 ml of Chlorine Dioxide 3000 ppm is added to 1 liter of water (i.e. about 30 mg / liter), and the liter is given to drink divided into ten (10) equal doses, during the day, every hour.**
 
 **The medication is orally dissolved in the mouth, at least 60 minutes before or after a meal.** There were no remnants or shortages in the medication delivered and the original protocol were strictly adhered to. There is no abandonment of treatment.
 
@@ -1855,11 +1748,9 @@ The medicine may be administered orally or intravenously. ""In vitro and in vivo
 1-3 weeks
 
 ### Outcome:
-[The CDS therapy was revealed to be nearly completely effective against Covid-19 and other viral illnesses.][344] One doctor avers that of thousands of complicated cases across age groups he treated, the recovery rate was over 99 %.
-
-[The results of the Bolivian (South American) study on 20 patients were deemed statistically highly significant both statistically and clinically.][345] **As an empirical observation, the researchers’ report that patients who consumed chlorine dioxide as a treatment for COVID-19, substantially reduced post COVID-19 symptoms compared to patients with the disease, not treated with dioxide.**
-
-Andreas Kalcker Official on [odysee.com](http://odysee.com/): [Over 100 Recovered from Covid-19 with CDS by Physicians of the AEMEMI; May 18th, 2020.][346]
+   - [The CDS therapy was revealed to be nearly completely effective against Covid-19 and other viral illnesses.][344] One doctor avers that of thousands of complicated cases across age groups he treated, the recovery rate was over 99 %.
+   - [The results of the Bolivian (South American) study on 20 patients were deemed statistically highly significant both statistically and clinically.][345] **As an empirical observation, the researchers’ report that patients who consumed chlorine dioxide as a treatment for COVID-19, substantially reduced post COVID-19 symptoms compared to patients with the disease, not treated with dioxide.**
+   - Andreas Kalcker Official on [odysee.com](http://odysee.com/): [Over 100 Recovered from Covid-19 with CDS by Physicians of the AEMEMI; May 18th, 2020.][346]
 
 ### Significant side effects:
 **No significant adverse effects were reported in the 21-day Bolivian study, which observed the following:**
@@ -1869,21 +1760,20 @@ The safety / toxicity of ClO2 depends on several variables, including the route 
 In the Bolivian study, a parallel instrument was designed to record possible adverse effects of Chlorine Dioxide where the data of each patient and their adherence process are placed. In two patients, a slight sensation of gastritis was registered, 7 days after treatment, temporary, which resolved without intervention and did not require stopping the medication.
 
 Despite important reported evidence for Chlorine dioxide's remarkable efficacy from a few Latin American doctors and a small number of publisheed studies, several regulatory authorities and mainstream media platforms like the BBC and The Guardian have criticized the treatment as being not evidence-based and potentially dangerous. They have also misreported that the treatment involved the therapeutic use of bleach / NaClO / Sodium hypochlorite, whereas in fact CDS / Chlorine Dioxide Solution was used. Moreover, some reported adverse effects were owing to prophylactic use of CDS, [whereas CDS is not intended to be used as prophylactic, only to mitigate infection:][347]
-[Health Desk: Why is chlorine dioxide dangerous if taken for COVID-19?; Dec 15, 2020][348]
-[WebMD: Chlorine dioxide][349]
-[Reuters: Bolivians try chlorine dioxide for COVID-19, despite health ministry warnings][350]
-[The Guardian: Bleach touted as 'miracle cure' for Covid being sold on Amazon; 2020][351]
+   - [Health Desk: Why is chlorine dioxide dangerous if taken for COVID-19?; Dec 15, 2020][348]
+   - [WebMD: Chlorine dioxide][349]
+   - [Reuters: Bolivians try chlorine dioxide for COVID-19, despite health ministry warnings][350]
+   - [The Guardian: Bleach touted as 'miracle cure' for Covid being sold on Amazon; 2020][351]
 
 A report of intestinal necrosis and perforation that may be associated with Chlorine dioxide consumption over 9 months as prophylactic therapy for Covid-19:
-[Intestinal perforation associated with chlorine dioxide ingestion: an adult chronic consumer during COVID-19 pandemic; Gregorio Arellano-Gutiérrez et al.; Clinical Journal of Gastroenterology; Oct 18, 2021][352]
+   - [Intestinal perforation associated with chlorine dioxide ingestion: an adult chronic consumer during COVID-19 pandemic; Gregorio Arellano-Gutiérrez et al.; Clinical Journal of Gastroenterology; Oct 18, 2021][352]
 
 [Dr. Andreas Kalcker asserts that the therapeutic quantities of CDS used][353] are about 15 mg / day over a 14-day duration, and each dose is only 0.1 mg / kg body weight, whereas the official German toxic limit is defined to be 292 mg / kg body weight over a 14-day period. In fact, CDS, far from being toxic at such low doses, is seen to improve blood flow and oxygenation and have an anti-thrombotic effect.
 
-[Protection of human tissues against the oxidative effect of ClO2:][354]
-**Human cells also contain glutathione in mM concentrations, as well as other antioxidants likevitamin C and E, which work together with glutathione to reduce ClO2.** As a human cell is much larger than a bacterium, consequently its Glutathione reserve and Glutathione production potential are also greater, so even an isolated human cell can survive much longer in a ClO2 environment than a planktonic bacterium. Considering that human cells are not isolated but form tissues, their Glutathione stock may be many orders of magnitude greater than that of a planktonic bacterium. However, continuous ClO2 entry can ﬁnally exhaust the cell's Glutathione (and other antioxidant) capacity even if the cell produces such antioxidants continuously. At this point, ClO2 can enter into the previously protected zones of the cell and react with the reactive amino acid residues, causing denaturation of the affected proteins and ultimately cell death. 
+[Protection of human tissues against the oxidative effect of ClO2:][354] **Human cells also contain glutathione in mM concentrations, as well as other antioxidants likevitamin C and E, which work together with glutathione to reduce ClO2.** As a human cell is much larger than a bacterium, consequently its Glutathione reserve and Glutathione production potential are also greater, so even an isolated human cell can survive much longer in a ClO2 environment than a planktonic bacterium. Considering that human cells are not isolated but form tissues, their Glutathione stock may be many orders of magnitude greater than that of a planktonic bacterium. However, continuous ClO2 entry can ﬁnally exhaust the cell's Glutathione (and other antioxidant) capacity even if the cell produces such antioxidants continuously. At this point, ClO2 can enter into the previously protected zones of the cell and react with the reactive amino acid residues, causing denaturation of the affected proteins and ultimately cell death. 
 
-**The research article therefore might be interpreted to suggest that supplementing with Glutathione / N-Acetyl Cysteine might help to further decrease the cytotoxic effects of CDS for human cells**:
-[Can chlorine dioxide prevent the spreading of coronavirus or other viral infections? Medical hypotheses; K Kaly-Kullai et al.; Physiology International; Mar, 2020][355]
+**The research article therefore might be interpreted to suggest that supplementing with Glutathione / N-Acetyl Cysteine might help to further decrease the cytotoxic effects of CDS for human cells**: 
+   - [Can chlorine dioxide prevent the spreading of coronavirus or other viral infections? Medical hypotheses; K Kaly-Kullai et al.; Physiology International; Mar, 2020][355]
 
 ### Price:
 Online prices [start at about $25 for a 125 ml bottle.][356]
@@ -1968,8 +1858,7 @@ Yes.
 
 ### Status of authorisation:
 **Photobiomodulation with visible light:**
-**Historical and recent evidence (c.f. References):**
-There is historical evidence from the Spanish flu pandemic of 1918, during which it was reported in one anonymous editorial that the Massachusetts State Health Department found sunlight therapy to be “the most valuable factor in reducing mortality,” decreasing fatality of hospitalized patients from 40% to 13%, boosting flu immunity among physicians and nurses, and overall, besting the outcome of vaccines, which were then in their early stages of development. Evidence indicates that available reports of the pandemic clearly show that sunlight was effective in reducing flu-related mortality and morbidity, and person-to-person infection. Patients with severe infections exposed to sunlight therapy outdoors recovered better than those treated indoors, and the treatment prevented death among patients and infections among the healthcare workers. Thus records indicate that, **phototherapy, one of the most effective tools used to minimize the impact of the 1918 pandemic and other disease epidemics, has been overlooked.**
+**Historical and recent evidence (c.f. References):** There is historical evidence from the Spanish flu pandemic of 1918, during which it was reported in one anonymous editorial that the Massachusetts State Health Department found sunlight therapy to be “the most valuable factor in reducing mortality,” decreasing fatality of hospitalized patients from 40% to 13%, boosting flu immunity among physicians and nurses, and overall, besting the outcome of vaccines, which were then in their early stages of development. Evidence indicates that available reports of the pandemic clearly show that sunlight was effective in reducing flu-related mortality and morbidity, and person-to-person infection. Patients with severe infections exposed to sunlight therapy outdoors recovered better than those treated indoors, and the treatment prevented death among patients and infections among the healthcare workers. Thus records indicate that, **phototherapy, one of the most effective tools used to minimize the impact of the 1918 pandemic and other disease epidemics, has been overlooked.**
 
 There is also historical evidence that the ancient Egyptians, Mesopotamians, Babylonians, Greeks and Romans, and Africans too from ancient times, venerated the sun for its healing powers and practised sunbathing.
 
@@ -1980,18 +1869,16 @@ Newer studies demonstrate that various wavelengths in the blue spectrum are anti
 There is a recent report that **the common cold virus—a coronavirus—is inactivated by light. In this recent study, broad spectrum light—mimicking sunlight—was tested on aerosolized influenza virus at 20% and 70% relative humidity, while the decay constant and half-life of the virus were measured as indices of survival. The results showed that relative humidity had no effect. The simulated sunlight alone significantly inactivated the virus, resulting in 0.29 ± 0.09 min−1 decay constant and a half-life of approximately 2.4 min compared to non-irradiated controls, which had 0.02 ± 0.06 min−1 decay constant and 31.1 min half-life. The resulting 93% increase in decay constant and the concomitant 92.3% decline in half-life due to light is impressive.** 
 
 **Disinfection with Far-UV spectrum light  (207–222 nm):**
-In 2018, a pioneering study [(David Welch et al.; Nature)][381] showed for the first time that **far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2 mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus. Continuous very low dose-rate far-UVC light in indoor public locations is a promising, safe and inexpensive tool to reduce the spread of airborne-mediated microbial diseases through disinfecting the environment. The sanitization treatment is FDA-approved.**
+In 2018, a pioneering study [(David Welch et al.; Nature)][381] showed for the first time that **far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus. Continuous very low dose-rate far-UVC light in indoor public locations is a promising, safe and inexpensive tool to reduce the spread of airborne-mediated microbial diseases through disinfecting the environment. The sanitization treatment is FDA-approved.**
 
 ### Protocol and treatment approach:
 **Phototherapy with visible light:**
 A part of the solar light spectrum lies in the range of ultraviolet (UV) radiation.  UV light is invisible because its wavelength is shorter than the violet wavelengths of the solar spectrum.  UV light is available year round in the tropics and during part of the year farther north and south.  UV is also produced by sun lamps.  There are three main wavelength ranges of UV light- UVA, UVB and UVC.  UV wavelengths are measured in nanometers (one billionth of a meter).
-
-- UVA has a wavelength of 380-315 nanometers and when contacting the skin can penetrate beyond the outer layer (epidermis) into a layer called the dermis. UVA does not stimulate vitamin D production.
-- **UVB light has a wavelength of 315-290 nanometers and penetrates only the epidermis when it contacts the skin. UVB stimulates the skin, which then produces vitamin D.**
-- **UVC light has a wavelength of 280-10 nanometers and is filtered out by the Earth’s outer atmosphere. It is an invisible part of the solar spectrum.**
+   - UVA has a wavelength of 380-315 nanometers and when contacting the skin can penetrate beyond the outer layer (epidermis) into a layer called the dermis. UVA does not stimulate vitamin D production.
+   - **UVB light has a wavelength of 315-290 nanometers and penetrates only the epidermis when it contacts the skin. UVB stimulates the skin, which then produces vitamin D.**
+   - **UVC light has a wavelength of 280-10 nanometers and is filtered out by the Earth’s outer atmosphere. It is an invisible part of the solar spectrum.**
 
 **Of the three types of UV, it is UVB that stimulates the production of vitamin D when it contacts the skin.  Ninety percent of all vitamin D in human beings is produced by sunlight exposure. Vitamin D is vital to immune health.** Although some vitamin D can be obtained through fish, eggs, mushrooms and other dietary sources, the amount is miniscule.  Vitamin D is also available through supplementation, which is also produced by the irradiation of lanolin by UVB. The only truly natural way to obtain vitamin D is through exposure to sunlight or other UVB sources.
-
 
 **Photobiomodulation (c.f. References):**
 The development of lasers in the late 50s and the early 60s, and the subsequent evolution of light emitting diodes transformed phototherapy; it gave rise to laser therapy or light therapy, which, in turn, evolved into **photobiomodulation** as a variety of light-emitting technologies were devised. Today, photobiomodulation, which takes advantage of the photochemical effects of low power lasers, LEDs and other monochromatic sources of light to treat various diseases and ailments, has evolved scientifically, allowing evidence-based practice. This development now enables clinicians and others to exploit the specific effect of each wavelength or spectrum of light for treatment purposes. Advances in light technology and steady development of photobiomodulation through research and continual adaptation to evolving technologies have enabled science to uncover the beneficial effects of several spectra of light—in particular, violet/blue light, red light and near infrared light.
@@ -2000,10 +1887,10 @@ The development of lasers in the late 50s and the early 60s, and the subsequent 
 
 A recent development buttresses the suggestion that **blue light, in particular, pulsed blue light, which reports have shown to be 40 to 100 times more potent than the commonly available continuous wave blue light**, has great potential to inactivate COVID-19 and other coronaviruses, in addition to suppressing related opportunistic bacterial infections.
 
-**Disinfection with Far-UV spectrum light  (207–222 nm):**
+**Disinfection with Far-UV spectrum light  (207–222 nm):**
 A direct approach to prevent airborne transmission is inactivation of airborne pathogens, and the airborne antimicrobial potential of UVC ultraviolet light has long been established; however, its widespread use in public settings is limited because **conventional UVC light sources are both carcinogenic and cataractogenic. By contrast, research studies have previously shown that far-UVC light (207–222 nm) efficiently inactivates bacteria without harm to exposed mammalian skin. This is because, due to its strong absorbance in biological materials, far-UVC light cannot penetrate even the outer (nonliving) layers of human skin or eye; however, because bacteria and viruses are of micrometer or smaller dimensions, far-UVC can penetrate and inactivate them.**
 
-**In 2018, a pioneering study [(David Welch et al.; Nature)][382] showed for the first time that far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2 mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus.** Continuous very low dose-rate far-UVC light in indoor public locations is a promising, safe and inexpensive tool to reduce the spread of airborne-mediated microbial diseases."
+**In 2018, a pioneering study [(David Welch et al.; Nature)][382] showed for the first time that far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2 mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus.** Continuous very low dose-rate far-UVC light in indoor public locations is a promising, safe and inexpensive tool to reduce the spread of airborne-mediated microbial diseases.
 
 ### Typical duration of treatment:
 **1-2 hours of phototherapy with sunlight, aka sunbathing, daily might be expected, in the light of historical evidence, to yield remarkable mitigation of influenza-like disease over 3-5 days of treatment.** In fact, this simple technique has been long used in naturopathy and nature cure to reverse chronic, even debilitating and fatal ailments.
@@ -2012,12 +1899,11 @@ A direct approach to prevent airborne transmission is inactivation of airborne p
 
 ### Outcome:
 Highly effective mitigation of bacterial and viral infections, and especially pulmonary disease, through photobiomodulation and also by phototherapy with sunlight.
-
-[The Stew Peters Show: UV Light Fixtures Would End COVID Tyranny, And They're Available Now!][383]
+   - [The Stew Peters Show: UV Light Fixtures Would End COVID Tyranny, And They're Available Now!][383]
 
 ### Significant side effects:
 No significant side effects to sunbathing, when the phototherapy is applied in therapeutic doses; very beneficial to holistic health. However there are concerns that excessive exposure can induce immunosuppression.
-[Sunlight Effects on Immune System: Is There Something Else in addition to UV-Induced Immunosuppression?; D. H. González Maglio et al.; BioMed Research International; Dec, 2016][384]
+   - [Sunlight Effects on Immune System: Is There Something Else in addition to UV-Induced Immunosuppression?; D. H. González Maglio et al.; BioMed Research International; Dec, 2016][384]
 
 With respect to far-UVC irradiation, research studies have shown that ffar-UVC light (207–222 nm) efficiently inactivates bacteria without harm to exposed mammalian skin. This is because, due to its strong absorbance in biological materials, far-UVC light cannot penetrate even the outer (nonliving) layers of human skin or eye; however, because bacteria and viruses are of micrometer or smaller dimensions, far-UVC can penetrate and inactivate them. Thus, in contrast to the known human health safety issues associated with conventional germicidal 254-nm broad-spectrum UVC light, far-UVC light does not appear to be cytotoxic to exposed human cells and tissues in vitro or in vivo, to the extent that the subject has been researched.
 
@@ -2102,16 +1988,16 @@ Not necessarily, must be verified with a competent practitioner
 ### Status of authorisation:
 These remedies, though largely based on some research evidence and usually reported to be highly effective in clinical practice, are not endorsed by mainstream health policy and regulatory organizations. These treatments have not been explored much, and not much information was found to vouchsafe their outcomes. However, this is in itself not indicative of their benefit, because it is widely acknowledged among highly credible protocol innovators that excellent, [very evidence-based protocols][408] are being suppressed by regulatory authorities in order to promote inferior solutions at the expense of public health.
 
-**The Niatonin Protocol**: [The FDA clamps down on the Niacin + Melatonin protocol.][409]
+**The Niatonin Protocol**: 
+   - [The FDA clamps down on the Niacin + Melatonin protocol.][409]
 
 ### Protocol and treatment approach:
 **The Niatonin Protocol, Dr. Dmitry Kats:**
 
 1. **Dr. Dmitry Kats' (PhD in Epidemiology from the University of North Carolina and degree in Biostatistics)**
-[The Niatonin Protocol][410] with [Niacin][411] + [Melatonin][412]
-**Objective**: Treat Covid-19, long-haul Covid symptoms and injury the Covid vaccines.
-[OSF Preprints: Sufficient niacin supply: the missing puzzle piece to COVID-19, and beyond?; Dr. Dmitry Kats; Jan 11, 2021][413]
-
+   - [The Niatonin Protocol][410] with [Niacin][411] + [Melatonin][412]
+      - **Objective**: Treat Covid-19, long-haul Covid symptoms and injury the Covid vaccines.
+      - [OSF Preprints: Sufficient niacin supply: the missing puzzle piece to COVID-19, and beyond?; Dr. Dmitry Kats; Jan 11, 2021][413]
 2. [Breakthrough from the Niatonin Protocol for Covid long-haulers][414]: **Telemedicine consultation service**
 
 The protocol uses **Niacin (B3) as Nicotinic acid, which is the only form of Niacin that is shown not to cause liver damage, and the only form which is effective in the Niatonin Protocol.** The Niacin is **best to be used in the powder form**. If not available as a powder, the veg capsules are the next best form, and tablet form is acceptable as well.
@@ -2123,20 +2009,17 @@ Reportedly, about a week
 
 ### Outcome:
 **The Niatonin Protocol:**
-
-- Reportedly, [screenshots of testimonials for the Niatonin Protocol][415]
-
-- [Screenshot of mind map of the Niatonin Protocol 2.0][416], from its official website
+   - Reportedly, [screenshots of testimonials for the Niatonin Protocol][415]
+   - [Screenshot of mind map of the Niatonin Protocol 2.0][416], from its official website
 
 ### Significant side effects:
 No significant side effects reported for the use of these agents in therapeutic doses.
 
 ### Recommended quantity for stocking:
 Can be obtained only on consultation with Dr. Dmitry Kats.
-
-**JOIN OUR TELEGRAM**: [t.me/vaccinereversal](t.me/vaccinereversal)
-**TO BOOK APPOINTMENT:** [niatonin.youcanbook.me](niatonin.youcanbook.me)
-**Contact Dr. Dmitry Kats and team:**
+   - **JOIN OUR TELEGRAM**: [t.me/vaccinereversal](t.me/vaccinereversal)
+   - **TO BOOK APPOINTMENT:** [niatonin.youcanbook.me](niatonin.youcanbook.me)
+   - **Contact Dr. Dmitry Kats and team:**
 [https://niacincurescovid.com/contact-us](https://niacincurescovid.com/contact-us)
 
 ### Price:
@@ -2144,23 +2027,17 @@ These therapeutic products are mostly inexpensive.
 
 ### Suggested suppliers:
 **The Niatonin Protocol:**
-
-**JOIN OUR TELEGRAM**: [t.me/vaccinereversal](t.me/vaccinereversal)
-**TO BOOK APPOINTMENT:** [niatonin.youcanbook.me](niatonin.youcanbook.me)
-**Contact Dr. Dmitry Kats and team:**
-[https://niacincurescovid.com/contact-us](https://niacincurescovid.com/contact-us)
+   - **JOIN OUR TELEGRAM**: [t.me/vaccinereversal](t.me/vaccinereversal)
+   - **TO BOOK APPOINTMENT:** [niatonin.youcanbook.me](niatonin.youcanbook.me)
+   - **Contact Dr. Dmitry Kats and team:**
+   [https://niacincurescovid.com/contact-us](https://niacincurescovid.com/contact-us)
 
 ### Further references:                          
-- **Thomas Paine Podcast: Masterclass**: [Dr. Dmitry Kats Ph.D Details His Niacin Protocol "Niatonin"][417]
-
-- **Serious Shot With CHCA**: [Dr. Kats discusses Niacin as a prevention and treatment for Covid and other prevalent diseases][418]; July 27, 2021
-An excellent interview revealing many details of the Protocol and its theoretic background.
-
-- [Network Pharmacology and bioinformatics analyses identify intersection genes of niacin and COVID-19 as potential therapeutic targets][419]; Rong Li et al.; Briefings in Bioinformatics; March, 2021
-
-- [Clinical Trials for Use of Melatonin to Fight against COVID-19 Are Urgently Needed][420]; Konrad Kleszczynski et al.; Nutrients; Sept, 2020
-
-- [Dr. Dmitry Kats on Facebook][421]
+   - **Thomas Paine Podcast: Masterclass**: [Dr. Dmitry Kats Ph.D Details His Niacin Protocol "Niatonin"][417]
+   - **Serious Shot With CHCA**: [Dr. Kats discusses Niacin as a prevention and treatment for Covid and other prevalent diseases][418]; July 27, 2021 - An excellent interview revealing many details of the Protocol and its theoretic background.
+   - [Network Pharmacology and bioinformatics analyses identify intersection genes of niacin and COVID-19 as potential therapeutic targets][419]; Rong Li et al.; Briefings in Bioinformatics; March, 2021
+   - [Clinical Trials for Use of Melatonin to Fight against COVID-19 Are Urgently Needed][420]; Konrad Kleszczynski et al.; Nutrients; Sept, 2020
+   - [Dr. Dmitry Kats on Facebook][421]
 
 ## 22. Hydrogen peroxide therapy, where H2O2 is administered as oral rinse (for prevention), nebulization in the gaseous form, or consumed in very low therapeutic concentrations in drinking water
 
@@ -2180,19 +2057,16 @@ Evidence-based but not mainstream, reportedly few clinical trials
 
 ### Protocol and treatment approach:
 **Hydrogen peroxide** has been used for many years as a monotherapy as well as part of many different treatment protocols for a wide variety of infections, reports [Dr. Thomas E. Levy][424]. A clinically effective dose will typically cost less than a dime. During a severe epidemic of influenza in 1919 a protocol of intravenous hydrogen peroxide given only to the most severely ill patients dramatically decreased the death rate.
-
-[Influenzal Pneumonia: The Intravenous Injection of Hydrogen Peroxide; T.H. Oliver, M.A., B.CH. CANTAB., M.D. VICT. (Resident Medical Officer, The Royal Infirmary, Manchester) & D.V. Murphy, M.B.; CH.B. N.U.I. (Captain, R.A.M.C.); The Lancet; Feb 21, 1920][425]
+   - [Influenzal Pneumonia: The Intravenous Injection of Hydrogen Peroxide; T.H. Oliver, M.A., B.CH. CANTAB., M.D. VICT. (Resident Medical Officer, The Royal Infirmary, Manchester) & D.V. Murphy, M.B.; CH.B. N.U.I. (Captain, R.A.M.C.); The Lancet; Feb 21, 1920][425]
 
 [Hydrogen Peroxide as an Adjuvant Therapy for COVID-19: A Case Series of Patients and Caregivers in the Mexico City Metropolitan Area; Arturo Cervantes Trejo et al.; Evidence-Based Complementary and Alternative Medicine; 2021][426] - The article reports a **consecutive case series of twenty-three COVID-19 patients (of 36 initially enrolled) who had been diagnosed by their primary care physician (mean age: 39, range: 8 months–70 years; 74% male) and twenty-eight caregivers in the Mexico City Metropolitan Area** who received a complementary and alternative medicine (CAM) telemedicine treatment with **H2O2 taken by mouth (PO, at a concentration of 0.06%), oral rinse (mouthwash, 1.5%), and / or nebulization (0.2%)**. We describe the treatment program and report the response of the COVID-19 patients and their caregivers. **The patients mainly recovered well, reporting feeling “completely better” at 9.5 days on average. Two (9%) were hospitalized prior to joining the study, and one did not fully recover.** Patients frequently reported nausea and sometimes dizziness or vomiting related to the oral treatment. None of the twenty-eight caregivers in close contact with the patients reported contracting COVID-19. Given its low cost and medical potential and considering its relative safety if used properly, it is suggested that randomized controlled trials should be conducted. 
 
 Due to its well-documented and potent antipathogen properties, along with producing no toxic byproducts upon killing pathogens, Hydrogen peroxide is now being proposed in the literature for an off-label use via oral and nasal washing, a regimen of gargling, and administration via nebulization immediately upon symptom appearance with the presumptive diagnosis of COVID-19. **Impressive anecdotal evidence already indicates that this application, especially via nebulization, appears to be a powerful preventive and even curative therapy against all respiratory-acquired infections, viral or otherwise.**
-
-[Might hydrogen peroxide reduce the hospitalization rate and complications of SARS-CoV-2 infection?; Arturo A Caruso et al.; Infection Control and Hospital Epidemiology; Nov, 2020][427]
-
-[Hydrogen peroxide and viral infections: A literature review with research hypothesis definition in relation to the current covid-19 pandemic; Arturo Armone Caruso et al.; Medical Hypotheses;  Nov, 2020][428]
+   - [Might hydrogen peroxide reduce the hospitalization rate and complications of SARS-CoV-2 infection?; Arturo A Caruso et al.; Infection Control and Hospital Epidemiology; Nov, 2020][427]
+   - [Hydrogen peroxide and viral infections: A literature review with research hypothesis definition in relation to the current covid-19 pandemic; Arturo Armone Caruso et al.; Medical Hypotheses;  Nov, 2020][428]
 
 **Preparation at home:**
-**To make H2O2 pre-rinse at home, dilute generic 3% hydrogen peroxide [available in drugstores] in a ratio of 2 parts water and 1 part hydrogen peroxide. Peppermint oil can be added for flavour.**
+   - **To make H2O2 pre-rinse at home, dilute generic 3% hydrogen peroxide [available in drugstores] in a ratio of 2 parts water and 1 part hydrogen peroxide. Peppermint oil can be added for flavour.**
 
 ### Typical duration of treatment:
 1-2 weeks
@@ -2229,59 +2103,44 @@ Alternate allopathy, Orthomolecular / Integrative medicine
 
 ### Can be used alongside other allopathic treatments:
 [It appears so][436], but Ozone is known to be a monotherapy that is effective in a relatively short treatment duration. One study reports that **the reported efficacy of Ozone used as adjunct therapy is smaller than [the reported efficacy of its usage as monotherapy][437]**, while [another][438] reported clinically significant efficacy as adjunct therapy.
-
-[Effectiveness of ozone therapy in addition to conventional treatment on mortality in patients with COVID-19; Şahin Çolak et al.; International Journal of Clinical Practice; May 10, 2021][439]
-
-[Safety and efficacy of ozone therapy in mild to moderate COVID-19 patients: A phase 1/11 randomized control trial (SEOT study);][440] Mili Shah et al.; International Immunopharmacology; Feb, 2021
+   - [Effectiveness of ozone therapy in addition to conventional treatment on mortality in patients with COVID-19; Şahin Çolak et al.; International Journal of Clinical Practice; May 10, 2021][439]
+   - [Safety and efficacy of ozone therapy in mild to moderate COVID-19 patients: A phase 1/11 randomized control trial (SEOT study);][440] Mili Shah et al.; International Immunopharmacology; Feb, 2021
 
 ### Status of authorisation:
 Highly evidence-based, but not authorized by regulatory authorities, who insist that all treatments except vaccination are futile against Covid-19.
 
 ### Protocol and treatment approach:
 A comprehensive evidence-based website on therapeutic uses of Ozone: [drsozone.com](http://drsozone.com/) 
+   - [Hindustan Times: What is ozone therapy and how it helps Covid-19 patients heal faster][441]; Parmita Uniyal; Sept 24, 2021- **In Ozone therapy, medical-grade Ozone, which is a mixture of Oxygen and Ozone, is introduced into the body to speed up recovery. It has been found effective in the treatment of Covid-19 (and also post-Covid syndrome, and is a well nigh a safe panacea for a host of other severe and chronic ailments, ranging from eczema, brain disorders and liver disease to tuberculosis and even cancer).**
 
-[Hindustan Times: What is ozone therapy and how it helps Covid-19 patients heal faster][441]; Parmita Uniyal; Sept 24, 2021-
-**In Ozone therapy, medical-grade Ozone, which is a mixture of Oxygen and Ozone, is introduced into the body to speed up recovery. It has been found effective in the treatment of Covid-19 (and also post-Covid syndrome, and is a well nigh a safe panacea for a host of other severe and chronic ailments, ranging from eczema, brain disorders and liver disease to tuberculosis and even cancer).**
-
-**Ozone is probably the single most potent anti-pathogenic agent available today, according to a report by [Dr. Thomas E. Levy][442]. ""It readily eradicates all pathogenic bacteria, fungi, viruses, and protozoa. It has many routes of administration and can be utilized as an effective monotherapy, although it positively supports all treatment protocols in an adjunctive and usually synergistic fashion as well.**
+**Ozone is probably the single most potent anti-pathogenic agent available today, according to a report by [Dr. Thomas E. Levy][442]. "It readily eradicates all pathogenic bacteria, fungi, viruses, and protozoa. It has many routes of administration and can be utilized as an effective monotherapy, although it positively supports all treatment protocols in an adjunctive and usually synergistic fashion as well."**
 
 **Method and principles of treatment:**
-
-[Ozone Therapy as a Possible Option in COVID-19 Management; Alessandra Gavazza et al.; Frontiers in Public Health; Aug 25, 2021-][443]
-For medical purposes, **Ozone can be administered parenterally with minimal side effects**, beside the only exception of not being injected intravenously as a gas because of the risk of embolism. As a powerful oxidant, when Ozone comes into contact with blood or other body fluids, it releases reactive oxygen species (ROS), and lipid oxidation products (LOPs) both of which are responsible for the biological results. **The main form of ROS is Hydrogen peroxide (H2O2) which is easily transferred from plasma into the cells. When H2O2 abruptly appears above the threshold medical concentration in the cytoplasm of cells it represents the triggering stimulus for the possibly simultaneous activation of different biochemical pathways in erythrocytes, leukocytes and platelets in addition to other numerous biological effects, such as antimicrobial, immunostimulant, and antioxidant ones.** H2O2 is then suddenly inactivated into water by the high concentration of Glutathione (GSH), Catalase (CAT), and Glutathione peroxidase (GSH-Px) enzymatic systems, reducing its harmful potential. Although the exact mechanism of action of ozone is far to be fully elucidated, it has been characterized to have different biological properties.
-
-[Ozone Therapies Group and Frontiers in Ozone: THE OZONE REFERENCE BOOK: ""ADVANCES OF OZONE THERAPY IN MEDICINE & DENTISTRY"", By Dr. Silvia A. Menendez, PhD (Chemistry) and Mark T. Weiser, DDS, Fellow, Academy of Laser Dentistry][444]- "The aim of this book is to give a clear idea about the ozone mechanism of action, as well as to understand what is known about ozone therapy and what new things we should try to learn about it."
-
-"Ozone has been documented to cure advanced cases of Ebola virus, for which there are still no known effective mainstream medical therapies. For someone with ready access to ozone, different applications of ozone could certainly be used to prevent COVID-19 and other respiratory viruses as well. However, with the other simple and effective antiviral measures listed in this article, using ozone for prevention is not really needed."
-
-[RAPID RESOLUTION OF HEMORRHAGIC FEVER (EBOLA) IN SIERRA LEONE WITH OZONE THERAPY; Robert Jay Rowen, MD, et al.; African Journal of Infectious Diseases; 2016-][445]
-"Ebola Virus Disease (EVD) has ravaged three countries in West Africa. The mortality rate is extremely high, and it is perceived not only as threat to all of Africa but to the entire world. There is no known treatment to date other than administration of convalescent blood or experimental monoclonal antibodies, which both often fail. Ozone therapy (OT) has been in clinical use for decades and has been found to have physiological effects, which should directly inactivate the virus itself, as well as modulate its damaging effects. We present the scientific background and the possibility of ozone therapy as a cure or prevention for EVD in five consecutive patients."
+   - [Ozone Therapy as a Possible Option in COVID-19 Management; Alessandra Gavazza et al.; Frontiers in Public Health; Aug 25, 2021-][443] For medical purposes, **Ozone can be administered parenterally with minimal side effects**, beside the only exception of not being injected intravenously as a gas because of the risk of embolism. As a powerful oxidant, when Ozone comes into contact with blood or other body fluids, it releases reactive oxygen species (ROS), and lipid oxidation products (LOPs) both of which are responsible for the biological results. **The main form of ROS is Hydrogen peroxide (H2O2) which is easily transferred from plasma into the cells. When H2O2 abruptly appears above the threshold medical concentration in the cytoplasm of cells it represents the triggering stimulus for the possibly simultaneous activation of different biochemical pathways in erythrocytes, leukocytes and platelets in addition to other numerous biological effects, such as antimicrobial, immunostimulant, and antioxidant ones.** H2O2 is then suddenly inactivated into water by the high concentration of Glutathione (GSH), Catalase (CAT), and Glutathione peroxidase (GSH-Px) enzymatic systems, reducing its harmful potential. Although the exact mechanism of action of ozone is far to be fully elucidated, it has been characterized to have different biological properties.
+   - [Ozone Therapies Group and Frontiers in Ozone: THE OZONE REFERENCE BOOK: ""ADVANCES OF OZONE THERAPY IN MEDICINE & DENTISTRY"", By Dr. Silvia A. Menendez, PhD (Chemistry) and Mark T. Weiser, DDS, Fellow, Academy of Laser Dentistry][444]- "The aim of this book is to give a clear idea about the ozone mechanism of action, as well as to understand what is known about ozone therapy and what new things we should try to learn about it."
+   - "Ozone has been documented to cure advanced cases of Ebola virus, for which there are still no known effective mainstream medical therapies. For someone with ready access to ozone, different applications of ozone could certainly be used to prevent COVID-19 and other respiratory viruses as well. However, with the other simple and effective antiviral measures listed in this article, using ozone for prevention is not really needed."
+   - [RAPID RESOLUTION OF HEMORRHAGIC FEVER (EBOLA) IN SIERRA LEONE WITH OZONE THERAPY; Robert Jay Rowen, MD, et al.; African Journal of Infectious Diseases; 2016-][445] "Ebola Virus Disease (EVD) has ravaged three countries in West Africa. The mortality rate is extremely high, and it is perceived not only as threat to all of Africa but to the entire world. There is no known treatment to date other than administration of convalescent blood or experimental monoclonal antibodies, which both often fail. Ozone therapy (OT) has been in clinical use for decades and has been found to have physiological effects, which should directly inactivate the virus itself, as well as modulate its damaging effects. We present the scientific background and the possibility of ozone therapy as a cure or prevention for EVD in five consecutive patients."
 
 **Ozonated water therapy:**
+   - [Ozone water therapy protocol- How to make and use ozonated water, even at home:][446] Ozonated water can be produced at home using 1) an Oxygen cylinder, 2) Ozone generator, 3) an optional ""destruct"" (if the generator does not provide one) to reduce the excess, toxic Ozone (O3) gas back to Oxygen (O2) before being released into the room air, and 4) a flask of distilled or Reverse Osmosis water into which the generated Ozone is passed to be dissolved. Typically, the time for which Ozone must be bubbled through 240 mL or 8 ounces of pure (distilled / RO) water is 12 minutes, to make Ozonated therapeutic water.
 
-[Ozone water therapy protocol- How to make and use ozonated water, even at home:][446]
-Ozonated water can be produced at home using 1) an Oxygen cylinder, 2) Ozone generator, 3) an optional ""destruct"" (if the generator does not provide one) to reduce the excess, toxic Ozone (O3) gas back to Oxygen (O2) before being released into the room air, and 4) a flask of distilled or Reverse Osmosis water into which the generated Ozone is passed to be dissolved. Typically, the time for which Ozone must be bubbled through 240 mL or 8 ounces of pure (distilled / RO) water is 12 minutes, to make Ozonated therapeutic water.
-
-**Guidelines for typical dosage in Ozone water therapy protocol:**
+**Guidelines for typical dosage in Ozone water therapy protocol:**<br>
 "[Drinking ozone water][447] has a multitude of anecdotal testimonies touting benefits for digestion, infections, and inflammation, but the scientific community has not produced enough research yet to take a definitive stance."
-
-Ozone concentration ranges: 20-90+ ug/ml (Gamma).
-Ozone water can be administered the following ways: 
-- Drinking
-- Oral Swishing for pre-post dental work
-- Wound Cleansing
+   - Ozone concentration ranges: 20-90+ ug/ml (Gamma).
+   - Ozone water can be administered the following ways: 
+      - Drinking
+      - Oral Swishing for pre-post dental work
+      - Wound Cleansing
 
 [COMMON PROTOCOL FOR DRINKING OZONE WATER:][448]
-
-**Low and Slow Approach:**
-1. Start with 16 ounces of water at around 20 Gamma or roughly ¼ LPM (Liter per min) 2-3 times a week.
-2. After 1 week, patient can move up to 32 ounces at or around 20 Gamma for 2-3 times a week.
-3. Patient can then titrate up to as high of a level of gamma as desired by Medical Practitioner - see Helpful Hints below for adverse reactions
-
-**Aggressive Approach:**
-1. Start with 16 ounces of water at around 20 Gamma or roughly ¼ LPM (Liter per min) 2 times per day/5 times a week.
-2. After 1st week have the patient work up in strength / Gamma by 10 every every 2-3 days on the same regimen of 16 ounces 2 times per day.
-3. Patient can then titrate up to as high of a level of Gamma as desired by Medical Practitioner - see Helpful Hints below for adverse reactions.
+   - **Low and Slow Approach:**
+      1. Start with 16 ounces of water at around 20 Gamma or roughly ¼ LPM (Liter per min) 2-3 times a week.
+      2. After 1 week, patient can move up to 32 ounces at or around 20 Gamma for 2-3 times a week.
+      3. Patient can then titrate up to as high of a level of gamma as desired by Medical Practitioner - see Helpful Hints below for adverse reactions
+   - **Aggressive Approach:**
+      1. Start with 16 ounces of water at around 20 Gamma or roughly ¼ LPM (Liter per min) 2 times per day/5 times a week.
+      2. After 1st week have the patient work up in strength / Gamma by 10 every every 2-3 days on the same regimen of 16 ounces 2 times per day.
+      3. Patient can then titrate up to as high of a level of Gamma as desired by Medical Practitioner - see Helpful Hints below for adverse reactions.
 
 **HELPFUL HINTS:**
 Ozone water has a very short half life, so it is best if you drink it right after you make it in order for it to be as effective as possible. There really is no hard data on how much Ozone water a patient can or cannot drink as of this writing, but it is widely believed that Ozone water is not harmful. **Make sure not to use a plastic cup to drink Ozone water as ozone can react to some materials. Glass or stainless steel cups are best.** There are people who like it strong and others who like it very weak, so the titration part of Ozone water is critical to find what works best for each patient.
@@ -2294,11 +2153,8 @@ About 5-8 days, according to [one clinical trial, announced by the Ozone Forum o
 
 ### Outcome:
 Reportedly, relatively rapid recovery.
-
-[Indian Express: Ozone therapy shows 77% success in Covid care in first five days: Study; Dec 14, 2020][450]
-“The use of ozone therapy in mild to moderate cases has shown 77 per cent success rate in the first five days,” Dr Mili Shah, vice-president, Ozone Forum of India, said at a press conference.
-
-[BioSpectrum reported][451]: "A total of 500 patients (including across various comorbid conditions) out of which 77% have recovered within 5 days and the rest recovered by the 8th day as per clinical trials conducted in mid-2020."
+   - [Indian Express: Ozone therapy shows 77% success in Covid care in first five days: Study; Dec 14, 2020][450] - “The use of ozone therapy in mild to moderate cases has shown 77 per cent success rate in the first five days,” Dr Mili Shah, vice-president, Ozone Forum of India, said at a press conference.
+   - [BioSpectrum reported][451]: "A total of 500 patients (including across various comorbid conditions) out of which 77% have recovered within 5 days and the rest recovered by the 8th day as per clinical trials conducted in mid-2020."
 
 ### Significant side effects:
 No significant side effects reported in therapeutic dosages.
@@ -2311,10 +2167,10 @@ Inexpensive therapy
 
 ### Suggested suppliers:
 **Ozone Forum of India:**
-**Bisleri Charitable Trust, c/o Bisleri International Pvt. Ltd.,**
-**3rd Flr, Bisleri Tower, Western Express Highway,**
-**Andheri (E) Mumbai 400 099, Maharashtra, INDIA.**
-**022.6144 7000 (Board)/ 6144 7093 (Ozone Center) / **info@ozoneforumofindia.com**
+   **Bisleri Charitable Trust, c/o Bisleri International Pvt. Ltd.,**
+   **3rd Flr, Bisleri Tower, Western Express Highway,**
+   **Andheri (E) Mumbai 400 099, Maharashtra, INDIA.**
+   **022.6144 7000 (Board)/ 6144 7093 (Ozone Center) / **info@ozoneforumofindia.com**
 
 Dr Mili Shah, President, [Ozone Forum of India][452], Trustee, Bisleri Charitable Trust, says “In this crisis time of fighting the pandemic and its surge again, we need to integrate wisdom of conventional medicine with natural healing modalities. We are happy to announce that ozone therapy works well on COVID 19 patients as both our trial reports showed and most importantly it is also very cost effective. Its antimicrobial elements help patients to recover fast and also control the recurrence. Ozone Forum of India has been researching in this therapy since last 18 years and we are only pleased to share our insights to support this pandemic and for the interest of the larger humanity. **Our objective is to reach out to more doctors and patients to be aware of Ozone Therapy and till now we have touched over 2400 doctors in the country who successfully believe and use this therapy.”**
 
