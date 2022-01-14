@@ -7,13 +7,13 @@
 ## 1. Traditional Chinese Medicine: Qing Fei Pai Du Tang (QFPD), a Lung Cleansing and Detoxifying Decoction
 
 ### Objective: 
-Treatment of Covid-19 in the mild to severe stages, and to clear congestive ailments of the lungs
+Treatment of Covid-19 in the mild to severe stages, and to clear congestive ailments of the lungs.
 
 ### System:
-TCM
+TCM.
 
 ### Can be used alongside other allopathic treatments:
-Yes
+Yes.
 
 ### Status of authorisation:
 The Chinese Government is an ardent promoter of TCM. Qingfei Paidu decoction. **QFPD has been widely used in treating COVID-19 in China, and is reported, in fact, to be the most commonly used decoction in the clinical treatment of Covid-19 in mild, moderate and severe stages.**
@@ -26,30 +26,30 @@ The traditional remedy is not authorized in the US by the FDA.
 **Qing Fei Pai Du Tang is comprised of multiple concordant prescriptions, including Maxing Shigan decoction, Shegan Mahuang decoction, Xiaochaihu decoction, and Wuling powder, which contribute to the symptomatic efficacy of QFPD. It is based on 21 herbs from 4 different herbal formulas, originally found in the Shang Han Lun (Treatise on Cold Damage Diseases).** This Han dynasty clinical textbook was compiled by Zhang Zhongjing prior to 220 CE. A study of the pharmacological action of QFPD demonstrated that the therapy possessed **five functional modules including immune regulation, anti-infection, anti-inflammation, and multi-organ protection**, which is attributed to the multi-component, multi-target, and multi-pathway characteristics of QFPD.
 
 The herbs in Qing Fei Pai Du Tang are the following:
-1. Ma Huang 9g (Ephedra sinica)
-2. Zhi Gan Cao 6g (Glycyrrhiza glabra / Liquorice)
-3. Bai Zhu 9g (Atractylodes macrocephala)
-4. Shan Yao 12g (Dioscorea / Red yeast rice)
-5. Ku Xing Ren 9g (Semen armeniacae amarae / Bitter apricot seed)
-6. Shi Gao 15-30g (Gypsum fibrosum / Gypsum)
-7. Gui Zhi 9g (Ramulus cinnamomi cassiae / Cinnamon twig)
-8. Ze Xie 9g (Rhizoma alismatis / Water plantain rhizome)
-9. Zhu Ling 9g (Polyporus / Umbel polypore mushroom / Pig fungus)
-10. Fu Ling 15g (Sclerotium Poriae Cocos / Tuckahoe / China-root / Indian bread)
-11. Huo Xiang 9g (Herba agastaches / Pogostemonis / Patchouli / Wrinkled giant hyssop / Rugose giant hyssop)
-12. Chai Hu 16g (Radix bupleuri / Hare's ear root / Thorowax root / Asian buplever root)
-13. Huang Qin 6g (Radix scutellariae / Baical skullcap root / Scutellaria / Scute)
-14. Jiang Ban Xia 9g (Pinelliae rhizoma / Pinellia tube or root)
-15. Zi Wan 9g (Radix asteris / Aster root / Purple aster / Tatarian aster)
-16. Sheng Jiang 9g (Rhizoma zingiberis recens / Fresh ginger root)
-17. Kuan Dong Hua 9g (Flos farfarae / Tussilago flower / Coltsfoot flower)
-18. She Gan 9g (Rhizoma belamcandae / Belamcanda rhizome / Blackberry lily rhizome)
-19. Xi Xin 6g (Herba cum radix asar / Asarum / Chinese wild ginger / Manchurian wild ginger / Seoul wild ginger / Siebold wild ginger)
-20. Zhi Shi 6g (Fructus aurantii immaturus / Immature or unripe bitter orange)
-21. Chen Pi 6g (Pericarpium citri reticulatae / Aged or ripe tangerine rind / Orange peel)
+   1. Ma Huang 9g (Ephedra sinica)
+   2. Zhi Gan Cao 6g (Glycyrrhiza glabra / Liquorice)
+   3. Bai Zhu 9g (Atractylodes macrocephala)
+   4. Shan Yao 12g (Dioscorea / Red yeast rice)
+   5. Ku Xing Ren 9g (Semen armeniacae amarae / Bitter apricot seed)
+   6. Shi Gao 15-30g (Gypsum fibrosum / Gypsum)
+   7. Gui Zhi 9g (Ramulus cinnamomi cassiae / Cinnamon twig)
+   8. Ze Xie 9g (Rhizoma alismatis / Water plantain rhizome)
+   9. Zhu Ling 9g (Polyporus / Umbel polypore mushroom / Pig fungus)
+   10. Fu Ling 15g (Sclerotium Poriae Cocos / Tuckahoe / China-root / Indian bread)
+   11. Huo Xiang 9g (Herba agastaches / Pogostemonis / Patchouli / Wrinkled giant hyssop / Rugose giant hyssop)
+   12. Chai Hu 16g (Radix bupleuri / Hare's ear root / Thorowax root / Asian buplever root)
+   13. Huang Qin 6g (Radix scutellariae / Baical skullcap root / Scutellaria / Scute)
+   14. Jiang Ban Xia 9g (Pinelliae rhizoma / Pinellia tube or root)
+   15. Zi Wan 9g (Radix asteris / Aster root / Purple aster / Tatarian aster)
+   16. Sheng Jiang 9g (Rhizoma zingiberis recens / Fresh ginger root)
+   17. Kuan Dong Hua 9g (Flos farfarae / Tussilago flower / Coltsfoot flower)
+   18. She Gan 9g (Rhizoma belamcandae / Belamcanda rhizome / Blackberry lily rhizome)
+   19. Xi Xin 6g (Herba cum radix asar / Asarum / Chinese wild ginger / Manchurian wild ginger / Seoul wild ginger / Siebold wild ginger)
+   20. Zhi Shi 6g (Fructus aurantii immaturus / Immature or unripe bitter orange)
+   21. Chen Pi 6g (Pericarpium citri reticulatae / Aged or ripe tangerine rind / Orange peel)
 
 ### Typical duration of treatment:
-1-2 weeks
+1-2 weeks.
 
 ### Outcome:
    - [Use of traditional Chinese medicine as an adjunctive treatment for COVID-19: A systematic review and meta-analysis][1]
@@ -66,7 +66,7 @@ Some herbs in the concoction are known to be toxic, and therefore it is necessar
 Recommended to stock QFPD for at least 60 servings for one individual, for a twice daily dosing for a month in the presence of symptoms.
 
 ### Price:
-Expensive, INR 1300 - 4600 if bought from suppliers in the US
+Expensive, INR 1300 - 4600 if bought from suppliers in the US.
 
 ### Suggested suppliers:
    - [Qing Fei Pai Du Tang Veggie Capsules 100 Ct (INR 3727)][3]
@@ -74,7 +74,7 @@ Expensive, INR 1300 - 4600 if bought from suppliers in the US
    - [Qing Fei Pai Du Tang Basic Formula Granules 100 Grams (INR 4636)][5]
    - [ubuy.co.in][6]
 
-This herbal formula is unavailable in the USA because the US FDA (Food & Drug Administration) has severe restrictions on the sale of Ma Huang and has made Xi Xin a banned herb. Xi Xin is a type of wild ginger that is toxic and must only be used by licensed acupuncturists trained in proper usage. For well over a thousand years, this herb has been safely used in Chinese herbal medicines by highly trained Chinese medicine physicians; however, widespread consumer access to this herb presents legal complications and challenges."
+This herbal formula is unavailable in the USA because the US FDA (Food & Drug Administration) has severe restrictions on the sale of Ma Huang and has made Xi Xin a banned herb. Xi Xin is a type of wild ginger that is toxic and must only be used by licensed acupuncturists trained in proper usage. For well over a thousand years, this herb has been safely used in Chinese herbal medicines by highly trained Chinese medicine physicians; however, widespread consumer access to this herb presents legal complications and challenges.
 
 ### Further references:                          
    - [Qingfei Paidu decoction for treating COVID-19: A protocol for a meta-analysis and systematic review of randomized controlled trials; Yuan Zhang, MD, et al.; Medicine (Baltimore); Sep 4, 2020][7]
@@ -89,14 +89,15 @@ This herbal formula is unavailable in the USA because the US FDA (Food & Drug Ad
    - [Website of late Dr. Joel Penner, OMD, Professor of Traditional Chinese Medicine and Herbologist, with extensive documentation about the herbs used in TCM][16]
    - [TCM Wiki][17]
 
-## 2. Jinhua Qinggan (JHQG) granules and Lianhua Qingwen (LHQW) capsules, recommended during medical observation 
-**Qingfei Paidu or Lung Cleansing and Detoxifying Decoction (QFPD or LCDD)**, recommended for the treatment of both severe and non-severe patients; **Xuanfeibaidu (XFBD) granules**, recommended for treating moderate cases; **Huashibaidu (HSBD)**; **Xuebijing (XBJ) injection**, used in managing severe cases effectively
+## 2. Jinhua Qinggan (JHQG) granules and Lianhua Qingwen (LHQW) capsules, recommended during medical observation
+
+**Qingfei Paidu or Lung Cleansing and Detoxifying Decoction (QFPD or LCDD)**, recommended for the treatment of both severe and non-severe patients; **Xuanfeibaidu (XFBD) granules**, recommended for treating moderate cases; **Huashibaidu (HSBD)**; **Xuebijing (XBJ) injection**, used in managing severe cases effectively.
 
 ### Objective: 
-The mitigation of Covid-19 in asymptomatic, mild and sevre stages of the diseases
+The mitigation of Covid-19 in asymptomatic, mild and sevre stages of the diseases.
 
 ### System:
-TCM
+TCM.
 
 ### Can be used alongside other allopathic treatments:
 Yes.
@@ -119,16 +120,27 @@ HSBD and XFBD were specially formulated for Covid. HSBD can be used in the treat
 
 **Summary of treatment modality options with the 6 key medications recommended for the treatment of Covid-19 in TCM:**
 Safety indicator values, rating out of 1.0, attributed to each medication is specified next to it, according to one AI-driven study of adverse effects associated with these 6 medications:
-[Evaluating the Traditional Chinese Medicine (TCM) Officially Recommended in China for COVID-19 Using Ontology-Based Side-Effect Prediction Framework (OSPF) and Deep Learning; Zeheng Wang et al.; Journal of Ethnopharmacology; Feb 22, 2021][20]
+   - [Evaluating the Traditional Chinese Medicine (TCM) Officially Recommended in China for COVID-19 Using Ontology-Based Side-Effect Prediction Framework (OSPF) and Deep Learning; Zeheng Wang et al.; Journal of Ethnopharmacology; Feb 22, 2021][20]
 
-**Medical observation / Early stage of Covid-19, Mild stage with fatigue & fever**: QFPD / LCDD decoction (1.0), HSBD (1.0), **LHQW** capsules **(0.20), JHQG** granules **(0.06)**
-**Moderate stage of infection: QFPD / LCDD** decoction **(1.0)**, HSBD (1.0), **XFBD** granules **(0.85)**
-**Severe infection: QFPD / LCDD** decoction **(1.0)**, HSBD (1.0), **XBJ** as injection **(0.01)**
+- **Medical observation / Early stage of Covid-19**
+   - **Mild stage with fatigue & fever**: 
+      - QFPD / LCDD decoction (1.0)
+      - HSBD (1.0)
+      - **LHQW** capsules **(0.20)
+      - JHQG** granules **(0.06)**
+   - **Moderate stage of infection:** 
+      - QFPD / LCDD decoction **(1.0)**
+      - HSBD (1.0)
+      - **XFBD** granules **(0.85)**
+   - **Severe infection:** 
+      - QFPD / LCDD decoction **(1.0)**
+      - HSBD (1.0)
+      - **XBJ** as injection **(0.01)**
 
 **Safety indicator values of the six key medications could be used to guide treatment choices, and the safety study cited deduced that QFPD, HSBD and XFBD are the medications here that are the least associated with adverse effects, but disease development may require the use of other medications.**
 
 ### Typical duration of treatment:
-1 week to 2 months
+1 week to 2 months.
 
 ### Outcome:
 Studies have identified these six traditional herbal medicines as being the most effective at treating Covid. **TCM's curative effect was outstanding, with a national participation rate of over 90%.** More than 70,000 people were cured of COVID-19 and discharged from the hospital.
@@ -143,7 +155,7 @@ The commonly prescribed effective drugs with the least rating on the safety indi
 From these analyses, it would appear that QFPD and HSBD are suitable to be selected as a main line of therapy in the mild and severe stages of the disease, coupled with XFBD used in the treatment of moderate infection.
 
 At the same time, the outcome of treatment with TCM along with conventional therapy seems better with respect to longer term prognosis than Standard Of Care treatment.
-[The long-term consequences of Corona Virus Disease 2019 patients receiving Chinese herbal medicine treatments in acute phase: A protocol for systematic review and meta-analysis; Sun, Yi-ming MS et al.; Medicine; July 23, 2021][22]
+   - [The long-term consequences of Corona Virus Disease 2019 patients receiving Chinese herbal medicine treatments in acute phase: A protocol for systematic review and meta-analysis; Sun, Yi-ming MS et al.; Medicine; July 23, 2021][22]
 
 ### Price:
 TCM medications may be expensive to procure in India and other States outside China.
@@ -166,10 +178,10 @@ TCM medications may be expensive to procure in India and other States outside Ch
 ## 3. Thai traditional / indigenous medicine, Fah Talai Jone / Green Chiretta / Echinacea / Andrographis Paniculata (Kaalamegha / Kiraayat / Nilavempu in Sanskrit / Hindi / Tamil, respectively)
 
 ### Objective: 
-Effective early treatment of Covid-19
+Effective early treatment of Covid-19.
 
 ### System:
-Indigenous or traditional herbal medicine
+Indigenous or traditional herbal medicine.
 
 ### Can be used alongside other allopathic treatments:
 Probably can be used alongside Standard Of Care therapy, as it is found that herbal medications are suitable to be used as adjunct therapy.
@@ -207,7 +219,7 @@ Fah talai jone is a widely used traditional herbal medicine for respiratory infl
 1-2 containers of these products could be stocked for prophylactic use after exposure.
 
 ### Price:
-About INR 200
+About INR 200.
 
 ### Suggested suppliers:
    - [Indian Echinacea 1g capsules 60 nos. ($ 28.95)][34]
@@ -223,10 +235,10 @@ About INR 200
 ## 4. Prescription of Rhizoma Zingiberis Recens or fresh ginger root and Fructus jujube or jujube fruit
 
 ### System:
-TCM
+TCM.
 
 ### Can be used alongside other allopathic treatments:
-Yes
+Yes.
 
 ### Further references:                          
    - [Thoughts on Traditional Chinese Medicine Treatment of Novel Coronavirus Pneumonia Based on Two Cases: Study involving a prescription of Rhizoma Zingiberis Recens or fresh ginger root, and Fructus jujube or Jujube fruit][41]

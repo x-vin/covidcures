@@ -8,10 +8,10 @@
    - [Kabasura Kudineer: Benefits, Ingredients and Side Effects][1]
 
 ### Objective: 
-Prophylactic, curative, known to clear respiratory tract and boost immunity, especially against viruses
+Prophylactic, curative, known to clear respiratory tract and boost immunity, especially against viruses.
 
 ### System:
-Tamil Siddha
+Tamil Siddha.
 
 ### Can be used alongside other allopathic treatments:
 Yes, with the caveat that the patient experiences no discomfort in doing so.
@@ -70,7 +70,7 @@ As usual, official statistics are hard to find on alternate or holistic remedies
 Nilavembu / Kapasoora Kudineer powders cost INR 60-70 for 50 g, INR 10 for salt Padigaram in Naattu Marunthu Kadai. Popular brands of Ayurvedic Panchtikta Kwatha Choorna cost between about INR 150 to INR 750 for 100 g bottle.
 
 ### Suggested suppliers:
-All Siddha or Ayurveda shops, and Naattu Marunthu Kadai in TN, like Impcops in Chennai, and a number of online suppliers as well
+All Siddha or Ayurveda shops, and Naattu Marunthu Kadai in TN, like Impcops in Chennai, and a number of online suppliers as well.
 
 ### Further references:                          
    - [Herbs to Boost Immunity Against Coronovirus - Ayya Dr. Maragathamani, Siddha Practitioner][5]: In this short video, the physician Ayya Maragathamani gives two good protocols for prevention and treatment of Covid, the last of which is the one mentioned here.
@@ -87,10 +87,10 @@ All Siddha or Ayurveda shops, and Naattu Marunthu Kadai in TN, like Impcops in C
 ## 2. **Adathodai** (in Tamil; also called Vasaka / Malabar nut, botanical name, Adhatoda vasica), **Thulasi** (Holy Basil), **Pavazha malligai** (in Tamil; also called Pavizhamalli / Parijatak/ Harsringar, botanical name, Nyctanthes arbor-tristis), **Avuri** (in Tamil; botanical name, Indigofera tinctoria) root, **broken Black pepper**
 
 ### Objective: 
-Prophylactic, curative, known to clear respiratory tract and boost immunity, especially against viruses
+Prophylactic, curative, known to clear respiratory tract and boost immunity, especially against viruses.
 
 ### System:
-Tamil Siddha
+Tamil Siddha.
 
 ### Can be used alongside other allopathic treatments:
 Yes, with the caveat that the patient experiences no discomfort in doing so.
@@ -116,32 +116,31 @@ It seems ingredients are not commonly available in local shops selling herbal me
 ### Further references:                          
    - [Herbs to Boost Immunity Against Coronovirus - Ayya Dr. Maragathamani, Siddha Practitioner:][15] In this short video, the physician Ayya Maragathamani gives two good protocols for prevention and treatment of Covid, the first of which is the one mentioned here.
 
-
 ## 3. Miscellaneous excellent therapies in Ayurveda and Siddha
 					
 ### Objective: 
-Mitigation
+Mitigation.
 
 ### System:
-Tamil Siddha
+Tamil Siddha.
 
 ### Can be used alongside other allopathic treatments:
-Yes, but the conventional therapy may defeat the purpose of these medications
+Yes, but the conventional therapy may defeat the purpose of these medications.
 
 ### Status of authorisation:
-Prescribed by a very erudite researcher, pharmacologist as well as traditional physician, who has treated hundreds of cases of active Covid infections with Siddha and Ayurveda therapy, and observed hundred percent success rates for these cures
+Prescribed by a very erudite researcher, pharmacologist as well as traditional physician, who has treated hundreds of cases of active Covid infections with Siddha and Ayurveda therapy, and observed hundred percent success rates for these cures.
 
 ### Protocol and treatment approach:
 The treatment is commenced only if a patient who tests positive for Covid  presents with signs of active infection.
-1. One possible treatment involves **a combination of Gorochanaadi, Amruthaarishtam, Vaasaarishtam, and Dasamoolaarishtam administered for three days at the early signs of symptoms**. If the patient has not recovered in three days, a certain Siddha treatment is begun, and if that fails, there is yet another extremely effective Siddha remedy that cures with a single dose. These Siddha remedies were not revealed.
-2. **Jeevanthyaadi kashayam with Vilvaadi gulam**
-3. **Shadanga kashayam with powdered Mruthyanjaya gulam**
+   1. One possible treatment involves **a combination of Gorochanaadi, Amruthaarishtam, Vaasaarishtam, and Dasamoolaarishtam administered for three days at the early signs of symptoms**. If the patient has not recovered in three days, a certain Siddha treatment is begun, and if that fails, there is yet another extremely effective Siddha remedy that cures with a single dose. These Siddha remedies were not revealed.
+   2. **Jeevanthyaadi kashayam with Vilvaadi gulam.**
+   3. **Shadanga kashayam with powdered Mruthyanjaya gulam.**
 
 ### Typical duration of treatment:
-3-7 days
+3-7 days.
 
 ### Outcome:
-Reported to be very effective treatment, with not a single patient in this therapy needing ventilator support
+Reported to be very effective treatment, with not a single patient in this therapy needing ventilator support.
 
 ### Significant side effects:
 No significant side effects reported.
