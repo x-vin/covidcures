@@ -7,10 +7,10 @@
 ## 1. Arsenicum album 30C (or Arsalb with potency 30), or 200 C for more severe cases; Camphor 1 M
 
 ### Objective: 
-Prophylactic as well as curative
+Prophylactic as well as curative.
 
 ### System:
-Homeopathic
+Homeopathic.
 
 ### Can be used alongside other allopathic treatments:
 Yes, with the caveat that the patient experiences no discomfort in doing so.
@@ -45,7 +45,7 @@ Widely used by those who subscribe to homeopathy. No declared side effects even 
 Unnecessary to stock as the medicine is commonly available in local homeopathy stores.
 
 ### Price:
-Very inexpensive, INR 50-60 for 15 ml (half-ounce) bottle, which can be used for prophylaxing for several months
+Very inexpensive, INR 50-60 for 15 ml (half-ounce) bottle, which can be used for prophylaxing for several months.
 
 ### Suggested suppliers:
 Local homeopathy stores or online. One recommended brand is SBL Arsenicum Album 30 CH dilution, bottle of 30 ml dilution, for INR 72. Can be bought online, for example, at www.1mg.com. The SBL brand can also be bought at local stores.
@@ -66,36 +66,36 @@ Local homeopathy stores or online. One recommended brand is SBL Arsenicum Album 
 [Q Aspidosperma][10]
 
 ### Objective: 
-Increase blood oxygen levels
+Increase blood oxygen levels.
 
 ### System:
-Homeopathy
+Homeopathy.
 
 ### Can be used alongside other allopathic treatments:
-Presumably
+Presumably.
 
 ### Status of authorisation:
-Conventional homeopathy drug, recommended by physicians
+Conventional homeopathy drug, recommended by physicians.
 
 ### Protocol and treatment approach:
 **When oxygen level falls, drink a solution of 20 drops of Aspidosperma Q in 1/4 to 1 cup of water, and oxygen level in the blood would rise immediately. Could be drunk  about three times a day to maintain oxygen levels.**
 
-Aspidosperma is very well indicated for asthma and conditions of the lower respiratory tract. Doctors also recommend it to loosen chest congestion and as a respiratory tract stimulant
+Aspidosperma is very well indicated for asthma and conditions of the lower respiratory tract. Doctors also recommend it to loosen chest congestion and as a respiratory tract stimulant.
 
 **The medicine is sourced from Quebracho**, an evergreen tree native to South America that grows up to 30 meters.
 
-Aspidosperma Q - is one of the best remedies for COPD (Chronic obstructive pulmonary disease, a chronic inflammatory lung disease) and it is considered a tonic for lungs. Aspidosperma removes temporary obstruction to the oxidation of blood by stimulating respiratory centers. Another guiding symptom is want of breath during exertion 
+Aspidosperma Q - is one of the best remedies for COPD (Chronic obstructive pulmonary disease, a chronic inflammatory lung disease) and it is considered a tonic for lungs. Aspidosperma removes temporary obstruction to the oxidation of blood by stimulating respiratory centers. Another guiding symptom is want of breath during exertion.
 
 Aspidosperma is considered as the digitalis of lungs. Removes temporary obstruction to the oxidation of the blood by stimulating respiratory centers, increasing oxidation and excretion of carbonic acid. It is very useful for cardiac asthma.
 
 ### Outcome:
-Increased blood oxygen levels
+Increased blood oxygen levels.
 
 ### Significant side effects:
 None known. However it is recommended to use the medication under the guidance of a competent homeopath.
 
 ### Price:
-Rs. 90-200 online
+Rs. 90-200 online.
 
 ### Suggested suppliers:
    - [homeomart.com: Aspidosperma Quebracho Homeopathy Mother Tincture Q][11] (INR 310)
@@ -110,10 +110,10 @@ Rs. 90-200 online
 [Dr. Khadar Vali][16]
 
 ### Objective: 
-Prophylactic treatment, curative treatment for infection, post-infection treatment for long Covid, treatment to prevent post-vaccine symptoms
+Prophylactic treatment, curative treatment for infection, post-infection treatment for long Covid, treatment to prevent post-vaccine symptoms.
 
 ### System:
-Homeopathy
+Homeopathy.
 
 ### Can be used alongside other allopathic treatments:
 It is best not to adopt a homeopathy treatment protocol while following an allopathic protocol, except in the case of allopathic medications for chronic illnesses like diabetes or hypertension However it may be acceptable to switch to a homeopathic protocol from an allopathic treatment protocol, should a patient wish to do so.
@@ -125,107 +125,84 @@ Homeopathic treatment for Covid was recognized by the Kerala government in vario
 The protocol described here is reputed to be used effectively in Dr. Khader Vali's practice, which emphasizes a millet-based diet; Dr. Vali is the highly esteemed Millet Man of India, who has successfully advocated a diet based on millets or Sirudhaanya for improved immunity against all disease.
 
 ### Protocol and treatment approach:
-**Precautionary measures for prophylaxis or prevention:**
+**<ins>Precautionary measures for prophylaxis or prevention:</ins>**
 
 **Homeopathic medicines for immediate and short-term immunity:**
-**Bryonia (Alba) 200, Rhus toxicodendron (Rhus tox) 200**
-Take 3 pills **(for adults)** of each of these medicines, dissolve in half a glass of water, and consume as far as possible away from meals, i.e., at least half an hour before a main meal. Repeat the dosage 2 times a day, morning and evening, for 3 days.
+   - **Bryonia (Alba) 200, Rhus toxicodendron (Rhus tox) 200:** Take 3 pills **(for adults)** of each of these medicines, dissolve in half a glass of water, and consume as far as possible away from meals, i.e., at least half an hour before a main meal. Repeat the dosage 2 times a day, morning and evening, for 3 days.
+   - **Ayurvedic Saptapatra Kashaayas for long-term immunity:** One can enjoy an everlasting immunity by consuming Saptapatra Kashayas once in every 6 months and Siridhanya or millet grains as staple food.<br>Prepare a Kashaaya of each of the 7 leaves listed below, one at a time, and consume it for 2 consecutive days. This process would take 7 x 2 = 14 days. Then reiterate the cycle for the next 14 days, and repeat the entire regimen every six months.
+      - **The 7 leaves of the Saptapatra Kashaaya are as follows:**
+         1. Bermuda grass / Cynodon dactylon / Dhruva or Durva grass
+         2. Holy basil / Ocimum tenuiflorum / Ocimum sanctum / Tulasi or Tulsi
+         3. Giloy / Tinospora cordifolia / Amrutavalli or Guduchi
+         4. Bengal quince or stone apple or wood apple / Aegle Marmelos / Bael or Bilva
+         5. Indian beech / Pongamia pinnata / Poonga or Karanja or Karum
+         6. Neem / Azadirachta indica
+         7. Sacred fig / Ficus religiosa / Peepal
+   - **Structured water and its preparation:** Structured water is water in which the molecules are organized or structured loosely around hydrophilic cores, or water molecular arrangement that retains memory of its environment. Structured water is claimed to have healing properties. Dr. Vali recommends to create structured water by immersing a copper plate in a mud or steel vessel filled with water for 7 hours or overnight. The water thus prepared is said to have healing properties and can be used for cooking and drinking. The copper plate used must be cleaned daily with tamarind water or lemon and salt.
+   - **Preparation of Kashaaya:** The Kashaaya or medicinal decoction should ideally be prepared from fresh leaves. Half a fistful of small leaves or 3-4 big leaves should be sufficient for a day's dosage. If the leaves are bought from outside, then they should first be purged of pesticides through a suitable method such as soaking for 10 minutes in 2 % salt water solution, though the method suggested in the protocol is to soak for 10 minutes in a tamarind water solution (20 g tamarind squeezed in 3 litres of structured water), and later rinse off the soaked leaves in structured water. To prepare the Kashaaya, bring 200 ml of structured water to boil, add the leaves to the boiling water, and lower the flame to simmer the water for 2-3 minutes before switching off the flame. Cover the Kashaaya with a lid and allow it to cool for a few minutes. Add palm jaggery syrup if required, and consume it lukewarm.
+   - **Method of preparation of Ambali:**
+      - [Ambali preparation recipe][18]
+      - Grind required quantity of a whole grain millet for 2 seconds in a blender using the Whip mode. Then wash the flour in sufficient water and drain or filter off the water. Soaked the washed broken millet grains for 8 hours in sufficient quantity (2.5 to 3 times the volume of flour) of structured water, to soften the fibre. Then boil the broken grains in the same water, in an open mud pot, until the grains are cooked. After cooking, close the mud pot with a clean cotton cloth and leave to ferment for 8 hours. Add salt to taste before eating.
+      - **Dietary regimen:** Consume **Ambali** prepared from one of the Sirudhaaniya or millets at least once a day. Subsequently other millet preparations could be consumed as well. There is evidence that sprouting and fermentation reduce the content of antinutrients in the millet bran. Abstain from tea, coffee, alcohol and nonvegetarian and inflammatory foods.
 
-**Ayurvedic Saptapatra Kashaayas for long-term immunity:**
-One can enjoy an everlasting immunity by consuming Saptapatra Kashayas once in every 6 months and Siridhanya or millet grains as staple food.
-Prepare a Kashaaya of each of the 7 leaves listed below, one at a time, and consume it for 2 consecutive days. This process would take 7 x 2 = 14 days. Then reiterate the cycle for the next 14 days, and repeat the entire regimen every six months.
-
-**The 7 leaves of the Saptapatra Kashaaya are as follows:**
-1. Bermuda grass / Cynodon dactylon / Dhruva or Durva grass
-2. Holy basil / Ocimum tenuiflorum / Ocimum sanctum / Tulasi or Tulsi
-3. Giloy / Tinospora cordifolia / Amrutavalli or Guduchi
-4. Bengal quince or stone apple or wood apple / Aegle Marmelos / Bael or Bilva
-5. Indian beech / Pongamia pinnata / Poonga or Karanja or Karum
-6. Neem / Azadirachta indica
-7. Sacred fig / Ficus religiosa / Peepal
-
-**Structured water and its preparation:**
-Structured water is water in which the molecules are organized or structured loosely around hydrophilic cores, or water molecular arrangement that retains memory of its environment. Structured water is claimed to have healing properties. Dr. Vali recommends to create structured water by immersing a copper plate in a mud or steel vessel filled with water for 7 hours or overnight. The water thus prepared is said to have healing properties and can be used for cooking and drinking. The copper plate used must be cleaned daily with tamarind water or lemon and salt.
-
-**Preparation of Kashaaya:**
-The Kashaaya or medicinal decoction should ideally be prepared from fresh leaves. Half a fistful of small leaves or 3-4 big leaves should be sufficient for a day's dosage. If the leaves are bought from outside, then they should first be purged of pesticides through a suitable method such as soaking for 10 minutes in 2 % salt water solution, though the method suggested in the protocol is to soak for 10 minutes in a tamarind water solution (20 g tamarind squeezed in 3 litres of structured water), and later rinse off the soaked leaves in structured water. To prepare the Kashaaya, bring 200 ml of structured water to boil, add the leaves to the boiling water, and lower the flame to simmer the water for 2-3 minutes before switching off the flame. Cover the Kashaaya with a lid and allow it to cool for a few minutes. Add palm jaggery syrup if required, and consume it lukewarm.
-
-**Method of preparation of Ambali:**
-[Ambali preparation recipe][18]
-
-Grind required quantity of a whole grain millet for 2 seconds in a blender using the Whip mode. Then wash the flour in sufficient water and drain or filter off the water. Soaked the washed broken millet grains for 8 hours in sufficient quantity (2.5 to 3 times the volume of flour) of structured water, to soften the fibre. Then boil the broken grains in the same water, in an open mud pot, until the grains are cooked. After cooking, close the mud pot with a clean cotton cloth and leave to ferment for 8 hours. Add salt to taste before eating.
-
-**Dietary regimen:**
-Consume **Ambali** prepared from one of the Sirudhaaniya or millets at least once a day. Subsequently other millet preparations could be consumed as well. There is evidence that sprouting and fermentation reduce the content of antinutrients in the millet bran. Abstain from tea, coffee, alcohol and nonvegetarian and inflammatory foods.
-
---
 **Recommended treatment and diet for corona-positive patients:**
-
-**Homeopathic medicine for active infections:**
-
-**Arsenicum album 200**
-**Bryonia (Alba) 200**
-**Camphor 200**
-
-**Schedule (for adults)-**
-3 pills each in half cup of water, , and consume as far as possible away from meals (i.e., at least half an hour before a main meal), 4 times a day for two days.
-Next 3 times a day for two days,
-Next twice a day for two days,
-Then once a day for a week.
-
-
-**Meal plan for corona-positive patients:**
-Consume only Ambali made from millets for all three meals of the day. On the first day, have only foxtail millet (Tinai in Tamil / Korralu in Telugu) Ambali. On the second day, consume Ambali prepared from kodo millet (Varagu in Tamil / Arikelu in Telugu), and on the third day, Ambali from little millet (Saamai in Tamil / Saamalu in Telugu). Thereafter, repeat the cycle.
-
-**Kashaaya regimen for patients:**
-Consume Kashaayas prepared from the following medicinal leaves at the following prescribed timings:
-Medicinal leaves-
-   1. Japanese mugwort / Artemesia vulgaris / Machi patram, 
-   2. Night jasmine / Nyctanthes arbor-tristis / Paarijaata / Pavizhamalli, 
-   3. Giloy / Tinospora cordifolia / Amrutavalli / Guduchi
-
-Kashaaya timings:
-   6 AM-  Machi patram; 
-   9 AM-  Pavizhamalli; 
-   12 PM-  Amrutavalli or Giloy; 
-   3 PM-  Machi patram; 
-   6 PM-  Pavizhamalli; 
-   9 PM- Amrutavalli or Giloy
+   - **Homeopathic medicine for active infections:**
+      - **Arsenicum album 200**
+      - **Bryonia (Alba) 200**
+      - **Camphor 200**
+      - **Schedule (for adults):**
+         - 3 pills each in half cup of water, , and consume as far as possible away from meals (i.e., at least half an hour before a main meal), 4 times a day for two days.
+         - Next 3 times a day for two days.
+         - Next twice a day for two days.
+         - Then once a day for a week.
+   - **Meal plan for corona-positive patients:** Consume only Ambali made from millets for all three meals of the day. On the first day, have only foxtail millet (Tinai in Tamil / Korralu in Telugu) Ambali. On the second day, consume Ambali prepared from kodo millet (Varagu in Tamil / Arikelu in Telugu), and on the third day, Ambali from little millet (Saamai in Tamil / Saamalu in Telugu). Thereafter, repeat the cycle.
+   - **Kashaaya regimen for patients:** Consume Kashaayas prepared from the following medicinal leaves at the following prescribed timings:
+      - Medicinal leaves:
+         1. Japanese mugwort / Artemesia vulgaris / Machi patram
+         2. Night jasmine / Nyctanthes arbor-tristis / Paarijaata / Pavizhamalli
+         3. Giloy / Tinospora cordifolia / Amrutavalli / Guduchi
+      - Kashaaya timings:
+         - 6 AM-  Machi patram; 
+         - 9 AM-  Pavizhamalli; 
+         - 12 PM-  Amrutavalli or Giloy; 
+         - 3 PM-  Machi patram; 
+         - 6 PM-  Pavizhamalli; 
+         - 9 PM- Amrutavalli or Giloy
 
 **Measures to be followed by those who have completed 2 cycles of Saptapatra Kashaaya, and also patients recovered from Covid-19:**
-Consume only Ambali prepared from these 5 millets for all three meals, with each millet being exclusively eaten on 2 consecutive days. The 5 millets are as follows:
-Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu)
-
-The 3 Kashaayas to be consumed, morning and evening, for 9 weeks, with each Kashaaya consumed exclusively twice a day for 3 consecutive days each, before commencing the next one:
-Japanese mugwort / Machi patram, Night jasmine / Pavizhamalli, Giloy / Amrutavalli
-
-Take in the ochre rays of sunlight at sunrise and sunset every day for at least 15 minutes each, for vitamin D. Take foods rich in vitamin C, like guava, citrus fruits, gooseberry or Amla, papaya, pineapple, and vegetables like capsisum, green leafy vegetables, tomatoes etc. Eat only homemade pickles.
+   - Consume only Ambali prepared from these 5 millets for all three meals, with each millet being exclusively eaten on 2 consecutive days. The 5 millets are as follows:
+      1. Foxtail millet (Tinai)
+      2. Kodo millet (Varagu)
+      3. Little millet (Saamai) 
+      4. Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu) 
+      5. Browntop millet (Pala pul in Tamil / Korralu in Telugu)
+   - The 3 Kashaayas to be consumed, morning and evening, for 9 weeks, with each Kashaaya consumed exclusively twice a day for 3 consecutive days each, before commencing the next one:
+      1. Japanese mugwort / Machi patram
+      2. Night jasmine / Pavizhamalli
+      3. Giloy / Amrutavalli
+   - Take in the ochre rays of sunlight at sunrise and sunset every day for at least 15 minutes each, for vitamin D. Take foods rich in vitamin C, like guava, citrus fruits, gooseberry or Amla, papaya, pineapple, and vegetables like capsisum, green leafy vegetables, tomatoes etc. Eat only homemade pickles.
 
 **General precautions**: Wear masks when visiting crowded places and practise social distancing in such places.
 
---
 **Homeopathic medicine after vaccination to mitigate adverse effects:**
+   - **Mancinella 200**
+   - **Thuja 200**
+   - **Schedule:** 3 pills each in half cup of water, Twice a day for 4 days, away from food.
 
-**Mancinella 200**
-**Thuja 200**
-
-**Schedule-**
-3 pills each in half cup of water, Twice a day for 4 days, away from food
-
-----
 **Some principles of homeopathic treatment, as advised by a practising homeopath:**
+
 Homeopaths administer symptomatic treatment that is nonetheless tailored to the physiological context of the individual patient. Thus in homeopathy, the same symptoms may not be prescribed the same remedy in different patients. In the case of the widely prescribed and proven prophylactic Arsalb 30 C, perhaps the underlying reason for its efficacy is due to a common global context created by the pandemic.
 
 For this reason (that treatment modalities are tailored also to the individual and not merely to symptoms), it is advisable to visit a homeopath in person when there is an ailment. However, in the case of the current prescription, Bryonia 200 is known to prevent pneumonia and Rhus Tox 200 is for body ache. These are administered in the early stage of a disease. Camphor 200 is used to treat fever, when the symptom is present. Like all homeopathic medication, they should be consumed at least half an hour before a main meal, as far as possible on an empty stomach. There are no especial dietary precautions to be followed, except to abstain from coffee and tea, and if possible, nonvegetarian food, and to eat light, easily digestible meals during illness.
 
 ### Typical duration of treatment:
-1-4 weeks
+1-4 weeks.
 
 ### Outcome:
-Covid prevention, reported relief from symptoms of Covid, post-Covid, a measure of relief from vaccine side effects
+Covid prevention, reported relief from symptoms of Covid, post-Covid, a measure of relief from vaccine side effects.
 
 ### Significant side effects:
-None reported, overall improvement of health
+None reported, overall improvement of health.
 
 ### Recommended quantity for stocking:
 Arsalb 30 C is advisable to stock for several months, especially as the medicine is very low-priced.
@@ -234,7 +211,7 @@ Arsalb 30 C is advisable to stock for several months, especially as the medicine
 The dietary food supplies and homeopathic medicine are low-priced.
 
 ### Suggested suppliers:
-Local or online homeopathy stores
+Local or online homeopathy stores.
 
 ### Further references:                          
    - [The book, available as a downloadable PDF, **Corona Hand Book**, attributed to holistic healthcare advocates and food scientists Drs. Khadar Vali and Sarala Khadar, prepared by the group Dr. Khadar Vali Lifestyle, based on the video presentations of Dr. Khadar Vali, known as the Millet Man of India][19]
@@ -258,13 +235,13 @@ Local or online homeopathy stores
 ## 4. Homeopathic treatments to mitigate the inflammation caused by the spike glycoproteins post-vaccination; using medications Thuja 200 and Merc sol 30
 
 ### Objective: 
-Primarily to counteract the effects of the spike protein toxicity of the Covid-19 vaccines
+Primarily to counteract the effects of the spike protein toxicity of the Covid-19 vaccines.
 
 ### System:
-Homeopathy
+Homeopathy.
 
 ### Can be used alongside other allopathic treatments:
-No drug interactions reported, however this may require further study
+No drug interactions reported, however this may require further study.
 
 ### Status of authorisation:
 Prescribed by a practising homeopathy physician. (However, it is observed that in homeopathy, exact protocols can often differ significantly between practitioners.)
@@ -272,31 +249,30 @@ Prescribed by a practising homeopathy physician. (However, it is observed that i
 The esteemed homeopath [Dr. Pratik Bannerji, of Prasanta Bannerji Homeopathic Research Foundation (PBHRF), Kolkatta][35], has stated that they use [Thuja 200 as a very effective remedy for Covid-19.][36]
 
 ### Protocol and treatment approach:
-**Thuja 200** for 5 days, 1 dose or pill at night;
-the regimen is to be started 1 day prior to the vaccination
-
-**Merc sol** 30 for 5 days, 2 doses or pills daily following vaccination
+   - **Thuja 200** for 5 days, 1 dose or pill at night;
+the regimen is to be started 1 day prior to the vaccination.
+   - **Merc sol** 30 for 5 days, 2 doses or pills daily following vaccination.
 
 ### Typical duration of treatment:
-6 days, commencing on the day before the vaccination
+6 days, commencing on the day before the vaccination.
 
 ### Outcome:
-Homeopaths claim that this protocol would remedy the vastly underreported toxicity of the Covid-19 vaccines
+Homeopaths claim that this protocol would remedy the vastly underreported toxicity of the Covid-19 vaccines.
 
 ### Significant side effects:
-None known or reported
+None known or reported.
 
 ### Recommended quantity for stocking:
 To be bought and stocked to begin dosing on the day before vaccination.
 
 ### Price:
-Inexpensive
+Inexpensive.
 
 ### Suggested suppliers:
-Local homeopathic stores and online stores
+Local homeopathic stores and online stores.
 
 ### Further references:                          
-Anecdotal evidence, after consultation with homeopaths
+Anecdotal evidence, after consultation with homeopaths.
 
 
 
