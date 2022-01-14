@@ -27,19 +27,10 @@ Homeopaths like Dr. Md Al-Emran Ali of Government Medical College Hospital, Bang
 Homeopaths administer symptomatic treatment that is nonetheless tailored to the physiological context of the individual patient. Thus in homeopathy, the same symptoms may not be prescribed the same remedy in different patients. In the case of the widely prescribed and proven prophylactic Arsalb 30 C, perhaps the underlying reason for its efficacy is due to a common global context created by the pandemic. Arsalb 30 is a preventative, not curative, and is meant to address the common symptoms of cold, fever, sneezing and other ailment due to coronaviruses. Arsalb 30 also engages the parasympathetic nervous system and calms anxiety or fear.
 
 **Prophylactic protocols:**
-
-**Arsenicum Album 30 C:**
-There are multiple, slightly different protocols. One of them, for prophylactic treatment, recommends 4 pills **(for adults, 2 pills for children)** for 4 days every 3-4 weeks empty stomach before brushing teeth, after rinsing mouth.
-
-Alternatively, can have 3-4 drops for adults **(1 drop for children)** of liquid Arsalb (potency 30) diluted in 20-30 ml (2-3 tablespoons) of water, instead of the pills.
-
-**Consume no food, tea, coffee or even water for the next 1 hour. Repeat every 3-4 weeks.**
-
-**Camphor 1 M:**
-The dosage of Camphor 1 M for adults is four pills half an hour after morning breakfast, four pills half an hour after lunch and four pills half an hour after dinner. The dosage is halved for children. The regimen has to be followed for three days.
-
-
-**There are no especial dietary precautions to be followed for Arsalb prophylaxing, except to abstain from coffee and tea, and if possible, nonvegetarian food. While prophylaxing with Camphor 1 M, one should avoid consumption of onion, garlic and hing. It is also advisable to not consume anything for half an hour after taking Camphor 1M.**
+   - **Arsenicum Album 30 C:** There are multiple, slightly different protocols. One of them, for prophylactic treatment, recommends 4 pills **(for adults, 2 pills for children)** for 4 days every 3-4 weeks empty stomach before brushing teeth, after rinsing mouth.<br> Alternatively, can have 3-4 drops for adults **(1 drop for children)** of liquid Arsalb (potency 30) diluted in 20-30 ml (2-3 tablespoons) of water, instead of the pills.
+   - **Consume no food, tea, coffee or even water for the next 1 hour. Repeat every 3-4 weeks.**
+   - **Camphor 1 M:** The dosage of Camphor 1 M for adults is four pills half an hour after morning breakfast, four pills half an hour after lunch and four pills half an hour after dinner. The dosage is halved for children. The regimen has to be followed for three days.
+   - **There are no especial dietary precautions to be followed for Arsalb prophylaxing, except to abstain from coffee and tea, and if possible, nonvegetarian food. While prophylaxing with Camphor 1 M, one should avoid consumption of onion, garlic and hing. It is also advisable to not consume anything for half an hour after taking Camphor 1M.**
 
 ### Typical duration of treatment:
 Recommended to be used continuously as prophylactic.
