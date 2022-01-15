@@ -89,7 +89,6 @@ Of possible longer term severe adverse events, the greatest correlation appears 
 | **9:00 PM**			| **9:00 PM**<br><br>(Ayurveda)<br>[<ins>Nasal irrigation with saline turmeric water:</ins>][65]<br>Gargle with warm saline water, optionally with a pinch of turmeric / Triphala / Yashtimadhu added.<br><br>**AND**<br><br><ins>Nasya:</ins><br>1. [Anu Taila][66], or Ayurvedic medicated oil could be used, or even organic cold-pressed coconut or sesame oil or pure cow's ghee could be used as Nasya, where a few drops are dripped into each nostril.<br><br>2. [Steam inhalation][67], with water containing a few drops of eucalyptus oil, turmeric, mint leaves and / or Carom seeds / Ajwain			     | **9:00 PM**<br><br>(AYUSH) **<ins>Ashwagandha Ayurvedic supplement:</ins>**<br><br>On the days that the Saptapatra regimen has not been followed, primary contacts might take immunity-building herbal supplement **Ashwagandha 1-3 g powder with warm water** (for the second time before bedtime).		|	
 | | | | 
 | **9:30 PM**			| **9:30 PM**<br><br>**(Yoga & Naturopathy)**<br>**[Switch off screen gadgets at least half an hour going to bed][68], perform a few minutes of Shavaasana with deep breathing [Praanayaama][69] and meditation, and sleep before 10 PM.** There is [evidence][70] that slow and deep breathing exercises performed for several minutes decreases sleep onset latency and increases quality of sleep in those suffering from insomnia.		| **9:30 PM** |
-| | | |
 
 
 
