@@ -81,7 +81,6 @@ Presumably.
 Conventional homeopathy drug, recommended by physicians.
 
 ### Protocol and treatment approach:
-**<ins>NOTE:</ins>** *The Homeopathic protocol should only be adopted under the guidance of an experienced and knowledgeable physician.*
 
 **When oxygen level falls, drink a solution of 20 drops of Aspidosperma Q in 1/4 to 1 cup of water, and oxygen level in the blood would rise immediately. Could be drunk  about three times a day to maintain oxygen levels.**
 
@@ -93,6 +92,8 @@ Aspidosperma Q - is one of the best remedies for COPD (Chronic obstructive pulmo
 
 Aspidosperma is considered as the digitalis of lungs. Removes temporary obstruction to the oxidation of the blood by stimulating respiratory centers, increasing oxidation and excretion of carbonic acid. It is very useful for cardiac asthma.
 
+**<ins>NOTE:</ins>** *The Homeopathic protocol should only be adopted under the guidance of an experienced and knowledgeable physician.*
+
 ### Outcome:
 Increased blood oxygen levels.
 
@@ -100,7 +101,7 @@ Increased blood oxygen levels.
 None known. However it is recommended to use the medication under the guidance of a competent homeopath.
 
 ### Price:
-Rs. 90-200 online.
+Rs. 90-200/- online.
 
 ### Suggested suppliers:
    - [homeomart.com: Aspidosperma Quebracho Homeopathy Mother Tincture Q][11] (INR 310)
@@ -167,11 +168,11 @@ The protocol described here is reputed to be used effectively in Dr. Khader Vali
          2. Night jasmine / Nyctanthes arbor-tristis / Paarijaata / Pavizhamalli
          3. Giloy / Tinospora cordifolia / Amrutavalli / Guduchi
       - Kashaaya timings:
-         - 6 AM-  Machi patram; 
-         - 9 AM-  Pavizhamalli; 
-         - 12 PM-  Amrutavalli or Giloy; 
-         - 3 PM-  Machi patram; 
-         - 6 PM-  Pavizhamalli; 
+         - 6 AM-  Machi patram 
+         - 9 AM-  Pavizhamalli
+         - 12 PM-  Amrutavalli or Giloy 
+         - 3 PM-  Machi patram 
+         - 6 PM-  Pavizhamalli
          - 9 PM- Amrutavalli or Giloy
 
 **Measures to be followed by those who have completed 2 cycles of Saptapatra Kashaaya, and also patients recovered from Covid-19:**
@@ -199,6 +200,8 @@ The protocol described here is reputed to be used effectively in Dr. Khader Vali
 Homeopaths administer symptomatic treatment that is nonetheless tailored to the physiological context of the individual patient. Thus in homeopathy, the same symptoms may not be prescribed the same remedy in different patients. In the case of the widely prescribed and proven prophylactic Arsalb 30 C, perhaps the underlying reason for its efficacy is due to a common global context created by the pandemic.
 
 For this reason (that treatment modalities are tailored also to the individual and not merely to symptoms), it is advisable to visit a homeopath in person when there is an ailment. However, in the case of the current prescription, Bryonia 200 is known to prevent pneumonia and Rhus Tox 200 is for body ache. These are administered in the early stage of a disease. Camphor 200 is used to treat fever, when the symptom is present. Like all homeopathic medication, they should be consumed at least half an hour before a main meal, as far as possible on an empty stomach. There are no especial dietary precautions to be followed, except to abstain from coffee and tea, and if possible, nonvegetarian food, and to eat light, easily digestible meals during illness.
+
+**<ins>NOTE:</ins>** *The Homeopathic protocol should only be adopted under the guidance of an experienced and knowledgeable physician.*
 
 ### Typical duration of treatment:
 1-4 weeks.
@@ -257,6 +260,8 @@ The esteemed homeopath [Dr. Pratik Bannerji, of Prasanta Bannerji Homeopathic Re
    - **Thuja 200** for 5 days, 1 dose or pill at night;
 the regimen is to be started 1 day prior to the vaccination.
    - **Merc sol** 30 for 5 days, 2 doses or pills daily following vaccination.
+
+**<ins>NOTE:</ins>** *The Homeopathic protocol should only be adopted under the guidance of an experienced and knowledgeable physician.*
 
 ### Typical duration of treatment:
 6 days, commencing on the day before the vaccination.
