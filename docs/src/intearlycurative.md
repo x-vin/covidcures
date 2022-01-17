@@ -4,9 +4,9 @@
  
 ### <ins>Millets:</ins>
 Millets are found to be less inflammatory than other staple grains and to support immune health better, especially in the context of a Covid-19 prophylactic diet. **Dr. Khadar Vali recommends the consumption of one of the following 5 "Positive Millets" at least once a day while prophylaxing:**
-**Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu)**
+**Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu).**
 
-Millet man Dr. Khadar Vali's recommended millet-based dietary regimen for health and prophylaxis
+Millet man Dr. Khadar Vali's recommended millet-based dietary regimen for health and prophylaxis:
    - [Millet Derived Flavonoids as Potential SARS-CoV-2 Main Protease Inhibitors: A Computational Approach; Abhisek Mishra et al.; ChemRxiv; August, 2020][1]
 
 However, it may be good not to consume millets in excess as well (i.e., everyday in large quantities, especially when improperly cooked, as explained below) as they can cause stomach ache, bloating and constipation due to their high fibre content, and are also found to contain goitrogenic flavonoids that block iodine absorption and are linked to goitre. Millets, and especially pearl millet, also contain high amounts of oxalates that are unsuitable for those with kidney disease and can precipitate kidney stones. They also contain certain enzyme inhibitors and phytic acid, which are called anti-nutrients because they inhibit nutrient absorption unless proper cooking methods are practised. In addition, millets contain protease (trypsin / chymotrypsin) inhibitors, which inhibit enzymatic action to break down proteins and thereby reduce their absorption, as well as cause toxicity in the intestines, potentially leading to leaky gut. Darker millets are reported to contain more antinutrients.
