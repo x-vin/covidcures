@@ -4,7 +4,11 @@
  
 ### <ins>Millets:</ins>
 Millets are found to be less inflammatory than other staple grains and to support immune health better, especially in the context of a Covid-19 prophylactic diet. **Dr. Khadar Vali recommends the consumption of one of the following 5 "Positive Millets" at least once a day while prophylaxing:**
-**Foxtail millet (Tinai), Kodo millet (Varagu), Little millet (Saamai), Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu), Browntop millet (Pala pul in Tamil / Korralu in Telugu).**
+   - Foxtail millet (Tinai)
+   - Kodo millet (Varagu)
+   - Little millet (Saamai)
+   - Barnyard millet (Kuthiravaali in Tamil / Odalu in Telugu)
+   - Browntop millet (Pala pul in Tamil / Korralu in Telugu)
 
 Millet man Dr. Khadar Vali's recommended millet-based dietary regimen for health and prophylaxis:<br>
    - [Millet Derived Flavonoids as Potential SARS-CoV-2 Main Protease Inhibitors: A Computational Approach; Abhisek Mishra et al.; ChemRxiv; August, 2020][1]
