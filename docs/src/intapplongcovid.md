@@ -30,7 +30,7 @@ However, it may be good not to consume millets in excess as well (i.e., everyday
 
    - [Dr. Khadar Vali's recipe for millet / Sirudhaaniya porridge that minimizes the anti-nutrients in millets and maximizes bioavailability of the beneficial phytonutrients][11]
 
-### Diet for Chronic Kidney Disease:
+### <ins>Diet for Chronic Kidney Disease:</ins>
 Patients with Chronic Kidney Disease should adapt the diet to their requirements with the advice of their consultant physician, as fruits and vegetables in large quantity may not be all suitable to their needs.
    - [renalteam.org][12]: [Kidney-Friendly Fruits and Vegetables][13]
    - [davita.com](https://www.davita.com/): A DaVita Dietitian's Top 15 Healthy Foods for People with Kidney Disease; DaVita® renal dietitian, Sara Colman, RD, CSR, CDE
