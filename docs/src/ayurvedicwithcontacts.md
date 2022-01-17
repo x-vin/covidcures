@@ -235,6 +235,8 @@ The medicine is extremely inexpensive and costs INR 10. For distance deliveries,
 ### Suggested suppliers:
 The medicines can only be bought from the physician Sh. Anandaiah himself, in the coastal village Krishnapatnam of AP. Distance deliveries are undertaken by post, and the medications should be consumed within 15 days of arrival. They are sent in a dry and powdery form and should not be refrigerated.
 
+Contact, Jayana Rama Govind: +91 9440170522.
+
 ### Further references:                          
    - [AP government gives nod to use of traditional medicine prepared by Ayurveda doctor ][59]
    - [Move over Coronil, AP villagers ditch masks, vaccine after 'miracle drug', Jagan govt backs it: Herbal concoction by Krishnapatnam resident Anandaiah ‘isn’t Ayurvedic medicine, can’t cure Covid’, say officials; Andhra MLA says govt could restart distribution of the mix][60]
@@ -284,7 +286,7 @@ Patanjali stores and [online suppliers.][63]
    - [researchgate.net: AN OVERVIEW ON CORONIL DRUG; Tiwari & Talreja; July, 2020][64]
    - [Randomized placebo-controlled pilot clinical trial on the efficacy of ayurvedic treatment regime on COVID-19 positive patients; Ganpat Devpura et al.; Phytomedicine; April, 2021][65]
    - A number of news meda platforms, including [TNIE][66], [Alt News][67], The Quint, The Print, Wired, and others, have joined the campaign against this commercial Covid therapy from Patanjali, even though the product and the tri-herbal formulation (**Giloy, Tulasi and Ashwagandha**) used in it have since been [ratified by the AYUSH Ministry][68]. Furthermore, [many have reported benefit from this product][69], and the treatment is largely substantiated by early clinical trials, and now a Randomized Controlled [Trial][70].
-   - [Influence of Patient-Reported Treatment Satisfaction on Psychological Health and Quality of Life Among Patients Receiving Divya-Swasari-Coronil-Kit Against COVID-19: Findings from a Cross-Sectional "SATISFACTION COVID" Survey; Acharya Balkrishna; Patient Preference and Adherence; April 29, 2021][71]
+   - [Influence of Patient-Reported Treatment Satisfaction on Psychological Health and Quality of Life Among Patients Receiving Divya-Swasari-Coronil-Kit Against COVID-19: Findings from a Cross-Sectional ""SATISFACTION COVID"" Survey; Acharya Balkrishna; Patient Preference and Adherence; April 29, 2021][71]
    - Coronil, a Tri-Herbal Formulation, Attenuates Spike-Protein-Mediated SARS-CoV-2 Viral Entry into Human Alveolar Epithelial Cells and Pro-Inflammatory Cytokines Production by Inhibiting Spike Protein-ACE-2 Interaction; Balkrishna A; Journal of Inflammation Research; Dec 19, 2020
    - Can Ayurveda cure Covid?
    - [Patanjali Research Against COVID-19][72]
@@ -446,7 +448,7 @@ Sufficient quantity for use in prophylaxing after exposure, not necessarily for 
 Total cost of approx. INR 1400 for all the recommended medicines online.
 
 ### Suggested suppliers:
-**For online consultation with Dr. S. Swapna Reddy, MD (Ayurveda) and Isha Hatha Yoga Teacher, contact drswapnareddy@gmail.com.**
+**For online consultation with Dr. S. Swapna Reddy, MD (Ayurveda) and Isha Hatha Yoga Teacher, contact +91 8985738271, or drswapnareddy@gmail.com.**
 
 Medicines can be procured from reputed Ayurveda pharmacies like Kottakkal Arya Vaidya Saala's outlets across India and online.
 
