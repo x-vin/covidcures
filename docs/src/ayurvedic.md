@@ -2,7 +2,7 @@
 
 **DISCLAIMER**: This information is for educational purposes only. It is not intended to serve as a substitute for diagnosis, treatment, or advice from a qualified, licensed medical professional. Any treatment you undertake should be discussed with your physician or other licensed medical professional.
 
-**NOTE**: The information in this tabulation about dosages is primarily for adults. The dosages for children have been mentioned in the case of a few over-the-counter remedies where the data was available."				
+**NOTE**: The information in this tabulation about dosages is primarily for adults. The dosages for children have been mentioned in the case of a few over-the-counter remedies where the data was available.		
 				
 ## 1. AYUSH-prescribed medicinal herbs and their corresponding Ayurvedic remedies
 
