@@ -21,6 +21,7 @@ Homeopathic treatment for Covid, Arsenicum Album, reported to be authorised by t
 However, mainstream medicine and media have not come round to acknowledging the efficacy of homeopathic medicine, in the face of tremendous empirical evidence from the communities that use them.
 
 ### Protocol and treatment approach:
+
 Homeopaths like Dr. Md Al-Emran Ali of Government Medical College Hospital, Bangladesh, reveal that there are many medicines in homoeopathy, which can be used to treat Covid-19 patients based on similarity of symptoms. “Of the medicines, Rhus Tox, Bryonia Alba, Antimonium Tartaricum or Antim Tart and Camphor are common medicines to treat people infected with the Covid-19 disease,” said Dr. Al-Emran Ali.
 
 **Some principles of homeopathic treatment, as advised by a practising homeopath:**
@@ -31,6 +32,8 @@ Homeopaths administer symptomatic treatment that is nonetheless tailored to the 
    - **Consume no food, tea, coffee or even water for the next 1 hour. Repeat every 3-4 weeks.**
    - **Camphor 1 M:** The dosage of Camphor 1 M for adults is four pills half an hour after morning breakfast, four pills half an hour after lunch and four pills half an hour after dinner. The dosage is halved for children. The regimen has to be followed for three days.
    - **There are no especial dietary precautions to be followed for Arsalb prophylaxing, except to abstain from coffee and tea, and if possible, nonvegetarian food. While prophylaxing with Camphor 1 M, one should avoid consumption of onion, garlic and hing. It is also advisable to not consume anything for half an hour after taking Camphor 1M.**
+
+**<ins>NOTE:</ins>** *The Homeopathic protocol should only be adopted under the guidance of an experienced and knowledgeable physician.*
 
 ### Typical duration of treatment:
 Recommended to be used continuously as prophylactic.
@@ -78,6 +81,8 @@ Presumably.
 Conventional homeopathy drug, recommended by physicians.
 
 ### Protocol and treatment approach:
+**<ins>NOTE:</ins>** *The Homeopathic protocol should only be adopted under the guidance of an experienced and knowledgeable physician.*
+
 **When oxygen level falls, drink a solution of 20 drops of Aspidosperma Q in 1/4 to 1 cup of water, and oxygen level in the blood would rise immediately. Could be drunk  about three times a day to maintain oxygen levels.**
 
 Aspidosperma is very well indicated for asthma and conditions of the lower respiratory tract. Doctors also recommend it to loosen chest congestion and as a respiratory tract stimulant.
