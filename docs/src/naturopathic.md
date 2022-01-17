@@ -1424,11 +1424,11 @@ Online pharmacies and local stores.
 [268]: https://www.eatthis.com/news-drink-this-after-covid-19-vaccine/
 [269]: https://timesofindia.indiatimes.com/city/lucknow/turmeric-neem-effective-against-coronavirus-says-kgmu-study/articleshow/76165100.cms
 
-[a]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach
-[b]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-2
-[c]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-5
-[d]: https://x-vin.github.io/covidcures/homeopathic.html#protocol-and-treatment-approach-3
-[e]: https://x-vin.github.io/covidcures/allopathic.html#protocol-and-treatment-approach-17
+[a]: /allopathic.html#protocol-and-treatment-approach
+[b]: /allopathic.html#protocol-and-treatment-approach-2
+[c]: /allopathic.html#protocol-and-treatment-approach-5
+[d]: /homeopathic.html#protocol-and-treatment-approach-3
+[e]: /allopathic.html#protocol-and-treatment-approach-17
 
 
 

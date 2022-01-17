@@ -879,7 +879,7 @@ The speed to recovery when using medication is vitally important. Therefore he a
    - The treatment protocol included the use of hydrochloroquine, azithromycin and doxycycline to combat the viral component and antihistamines, leukotriene receptor antagonists and steroids, amongst others, for the Type 1 hypersensitivity reaction.
 
 **Second Wave:**
-It became obvious in the second wave that the culprit provoking the hypersensitivity response on the 8th day was the spike protein, as the variants were mutated only in the spike protein. The variants had greater affinity for the gut ACE receptors, and there were gastrointestinal disorders among the symptoms. Also the second wave was far more contagious and triggered a far more severe hypersensitivity reaction on the 8th day, which required a far higher dose of steroid to suppress than in the first wave. **In the third wave, the Delta variant was predominant in South Africa. [The unique pathologies of this variant and adaptation of the therapy to them are described in a later section!][a]**
+It became obvious in the second wave that the culprit provoking the hypersensitivity response on the 8th day was the spike protein, as the variants were mutated only in the spike protein. The variants had greater affinity for the gut ACE receptors, and there were gastrointestinal disorders among the symptoms. Also the second wave was far more contagious and triggered a far more severe hypersensitivity reaction on the 8th day, which required a far higher dose of steroid to suppress than in the first wave. **In the third wave, the Delta variant was predominant in South Africa. [The unique pathologies of this variant and adaptation of the therapy to them are described in a later section.][a]**
 
 ### Typical duration of treatment:
 1-3 weeks.
@@ -2625,4 +2625,4 @@ Dr Mili Shah, President, [Ozone Forum of India][452], Trustee, Bisleri Charitabl
 
 [a]: /allopathic.html#protocol-and-treatment-approach-7
 [b]: /allopathic.html#protocol-and-treatment-approach-7
-[c]: https://x-vin.github.io/covidcures/allopathic.html#_4-experience-of-a-veteran-covid-frontline-physician-dr-richard-urso-ophthalmologist-and-molecular-oncologist-texas-usa-on-the-early-treatment-of-the-delta-variant
+[c]: /allopathic.html#_4-experience-of-a-veteran-covid-frontline-physician-dr-richard-urso-ophthalmologist-and-molecular-oncologist-texas-usa-on-the-early-treatment-of-the-delta-variant
