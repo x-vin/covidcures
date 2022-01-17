@@ -1,7 +1,5 @@
 # An Integrative Prophylactic Protocol
 
-**NOTE:** *The Homeopathic protocol should only be adopted under the guidance of an experienced and knowledgeable physician.*
-
 ## Notes on Diet 
  
 ### <ins>Millets:</ins>
