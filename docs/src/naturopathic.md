@@ -748,7 +748,7 @@ Local (Indian) grocery stores.
    - [Spices and herbs: Potential antiviral preventives and immunity boosters during COVID‐19; Namita Ashish Singh et al.; Phytotherapy Research; Jan 29, 2021][155]
    - [The Hindu: COVID-19: Immunity boosters you can make at home; Mar 16, 2020][156]
 
-## 12. A variety of anti-inflammatory herbal teas and other home remedies, containing nutrients and other properties that are potently beneficial to the immune system
+## 11. A variety of anti-inflammatory herbal teas and other home remedies, containing nutrients and other properties that are potently beneficial to the immune system
 
 ### Objective
 The mitigation of inflammation in the body through herbal decoctions based on scientific / empirical evidence, and thereby supporting the immune system.
@@ -865,7 +865,7 @@ Kitchen ingredients that are regularly used in Indian cooking.
    - [Times Of India: Expert-Approved Turmeric Immunity-Boosting Concoction That You Must Drink Daily; April 15, 2021][188]
    - [Hindustan Times: Why drinking warm water with honey can be harmful for you as per Ayurveda; Nov 24, 2021][189]
 
-## 13. Honey and Nigella sativa (HNS) OR Nigella sativa seed oil (NSO)
+## 12. Honey and Nigella sativa (HNS) OR Nigella sativa seed oil (NSO)
 
 ### Objective
 The mitigation of Covid-19 infection as well as prophylaxing using Nigella sativa.
@@ -949,7 +949,7 @@ Local groceries and Indian groceries.
    - [Thymoquinone: A Promising Natural Compound with Potential Benefits for COVID-19 Prevention and Cure; Osama A Badary et al.; Drug Design, Development and Therapy; May 3, 2021][199]
    - [COVID-19 early treatment: real-time analysis of 1,057 studies][200]
 
-## 14. Miscellaneous traditional and scientific home remedies for ailments associated with Covid-19
+## 13. Miscellaneous traditional and scientific home remedies for ailments associated with Covid-19
 
 ### Objective
 The treatment of miscellaneous symptoms of Covid-19 using home remedies, the identification of miscellaneous herbs and kitchen ingredients that mitigate symptoms of Covid-19.
@@ -1020,7 +1020,7 @@ Online and local stores.
    - [healthline.com: Turmeric Dosage: How Much Should You Take Per Day?- Benefits, Dosage, Who Shouldn't Take It, Adverse Effects, Buying the Right Kind, Bottom Line; Makayla Meixner, MS, RDN; June 11, 2018][212]
    - [A relatively comprehensive website about turmeric: Turmeric For Health][213]
 
-## 15. Proposed / evidence-based natural therapies to mitigate adverse effects and inflammation caused by the Covid vaccines
+## 14. Proposed / evidence-based natural therapies to mitigate adverse effects and inflammation caused by the Covid vaccines
 
 ### Objective
 Naturopathic protocols to protect those who have been injected with the mRNA / DNA producing spike proteins, and to minimize damage from the spike protein and its derivatives, or other toxins due to injection and to protect from spike protein shedding by vaccinated contacts.
