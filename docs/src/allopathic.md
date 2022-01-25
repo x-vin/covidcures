@@ -2172,8 +2172,10 @@ Allopathic treatment protocols can not be intermixed, except under the supervisi
 Not authorized by regulatory authorities, awaiting approval from FDA.
 
 ### Protocol and treatment approach:
-Combination of diphenhydramine, which is marketed as Benadryl, and lactoferrin, a protein in milk.
+Combination of first generation antihistamine Diphenhydramine, which is marketed as Benadryl, and Lactoferrin, a protein in milk.
    - Ostrov mentioned a contact who takes a daily dose of Benadryl and regularly drinks milk. She said she had been in close contact for hours with someone who was hospitalized the next day for COVID-19. But after waiting five days from the time of exposure, she tested negative for COVID.
+
+Data suggests that specific drugs that bind SARS-CoV-2, or interacting host proteins, also have the potential to prevent COVID-19. For example, hydroxyzine is a first-generation antihistamine that exhibited off-target binding to the SARS-CoV-2 host receptor ACE2 and the sigma-1 receptor. Usage of hydroxyzine (and structurally related antihistamines diphenhydramine and azelastine) was associated with reduced incidence of SARS-CoV-2 positivity in a population of more than 219,000 individuals in California. Hydroxyzine, diphenhydramine and azelastine exhibited direct antiviral activity against SARS-CoV-2 infection of Vero E6 cells in vitro. Since antihistamines act as nasal decongestants and cough suppressants, the on- and off-target binding properties of drugs such as diphenhydramine may have broad utility in prevention and treatment of COVID-19.
 
 ### Typical duration of treatment:
 Dr. Ostrov hopes that people may benefit from this antiviral drug combination for two-to-three month intervals during each wave of COVID infections.
