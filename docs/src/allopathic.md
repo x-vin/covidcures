@@ -1562,7 +1562,7 @@ The Method can be used in conjunction with treatments for multiple diseases, inc
 Allopathy, Biomedical engineering.
 
 ### Can be used alongside other allopathic treatments:
-Yes, and recommended to be sed with any treatment, to improve efficacy through better monitoring of response to therapy.
+Yes, and recommended to be used with any treatment, to improve efficacy through better monitoring of response to therapy.
 
 ### Status of authorisation:
 Patented diagnostic technology, efficacy established through clinical trials.
@@ -2157,6 +2157,54 @@ Dr Mili Shah, President, [Ozone Forum of India][452], Trustee, Bisleri Charitabl
    - [Vitalitymagazine.com: COVID-19 How Can I Cure Thee? Let Me Count the Ways; Dr. Thomas E. Levy, MD, JD; Dec 3, 2020][461]
 
 
+## 24. Dr. David Ostrov's Diphenhydramine + Lactoferrin Protocol
+
+### Objective:
+The treatment of Covid-19 infection. 
+
+### System:
+Allopathic.
+
+### Can be used alongside other allopathic treatments:
+Allopathic treatment protocols can not be intermixed, except under the supervision of qualified doctors.
+
+### Status of authorisation:
+Not authorized by regulatory authorities, awaiting approval from FDA.
+
+### Protocol and treatment approach:
+Combination of diphenhydramine, which is marketed as Benadryl, and lactoferrin, a protein in milk.
+   - Ostrov mentioned a contact who takes a daily dose of Benadryl and regularly drinks milk. She said she had been in close contact for hours with someone who was hospitalized the next day for COVID-19. But after waiting five days from the time of exposure, she tested negative for COVID.
+
+### Typical duration of treatment:
+Dr. Ostrov hopes that people may benefit from this antiviral drug combination for two-to-three month intervals during each wave of COVID infections.
+
+### Outcome:
+Dr. Ostrov's study, with early results showing **99% efficacy** in inhibiting replication of the SARS-CoV-2 virus, was published in the journal [Pathogens][464].
+
+### Significant side effects:
+Historically, there are relatively few adverse events reported for diphenhydramine and lactoferrin.
+
+People should consult with their physician before taking any drug “off-label,” meaning using a drug for a use other than its intended use. It should also be noted that long term use of any medication, or combination of medications, could have unexpected consequences.
+
+**Note:** Dr. Ostrov says, "People considering their own concoction should understand that *our experiments were carried out with human lactoferrin, not cow*. The lactoferrin we used was purified in a special way to enhance its antiviral properties. People are not likely to find this on the shelf."
+
+### Recommended quantity for stocking:
+
+### Price:
+“My prediction is that antiviral drug combinations, such as diphenhydramine and lactoferrin, will provide a similar level of benefit as Regeneron monoclonal antibodies, Pfizer and Merck antivirals, at less than 1/100 the cost of those therapies,” says Dr. Ostrov.
+
+### Suggested suppliers:
+Benadryl:  
+   - Johnson & Johnson: [Netmeds][465], [PharmEasy][466] 
+
+Lactoferrin:
+   - Jarrow Formulas: [Amazon][467]
+
+### Further References:
+   - [Scientist surprised by discovery of ‘99%’ effective, cheap COVID treatment][462]
+   - [Interview with Dr. David Ostrov][463]
+   - MDPI: [Highly Specific Sigma Receptor Ligands Exhibit Anti-Viral Properties in SARS-CoV-2 Infected Cells - by David A. Ostrov][464]
+
 
 
 
@@ -2621,6 +2669,12 @@ Dr Mili Shah, President, [Ozone Forum of India][452], Trustee, Bisleri Charitabl
 [459]: https://www.europeanreview.org/article/25407
 [460]: https://clinmedjournals.org/articles/jide/journal-of-infectious-diseases-and-epidemiology-jide-6-113.php?jid=jide
 [461]: https://vitalitymagazine.com/article/covid-19-how-can-i-cure-thee-let-me-count-the-ways/
+[462]: https://www.clarkcountytoday.com/news/scientist-surprised-by-discovery-of-99-effective-cheap-covid-treatment/
+[463]: https://www.youtube.com/watch?v=T7iofeW5bWw
+[464]: https://www.mdpi.com/2076-0817/10/11/1514
+[465]: https://www.netmeds.com/prescriptions/benadryl-dr-syrup-100ml
+[466]: https://pharmeasy.in/online-medicine-order/benadryl-cough-formula-bottle-of-150ml-syrup-37060
+[467]: https://www.amazon.com/Jarrow-Formulas-Lactoferrin-250-Capsules/dp/B0013OQGBY#:~:text=%E2%82%B95%2C339.00%20FREE%20Delivery.
 
 
 [a]: /allopathic.html#protocol-and-treatment-approach-7
