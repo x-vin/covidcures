@@ -1,8 +1,8 @@
 # Introduction
 
-# A Primer to the "Alternative Treatment Protocols for Covid-19" Spreadsheet
+# A Primer to the "Alternative Treatment Protocols for Covid-19"
 
-This spreadsheet is the outcome of hundreds of hours of investigating viable approaches to treating the infection and symptoms associated with SARS-CoV-2. Before exploring these sheets, please note that as many of these sheets are wide, they are best viewed at 75% Zoom. 
+This website is the outcome of hundreds of hours of investigating viable approaches to treating the infection and symptoms associated with SARS-CoV-2.
 
 Even by the middle of 2019, it began to be apparent that there were a number of remarkably evidence-based and incredibly efficacious remedies for Covid-19 that were communicated through independent channels- including local health administrations, social media platforms, word of mouth by beneficiaries, ordinary physicians who truly cared deeply for their patients' welfare to challenge the normative rhetoric and seek better solutions.
 
@@ -95,7 +95,7 @@ However, it seemed also evident that most of these independent entities had not 
 
 So much so that it would perhaps not be an exaggeration to say that this pandemic has been as much a pandemic of disinformation and administrative folly as a pandemic of an unusually debilitating influenza virus.
 
-This spreadsheet is a small effort to compile a lot of the information in the public domain regarding highly effective and truly (as opposed to nominally or officially) evidence-based treatments for Covid-19. A majority of these treatments have demonstrated a nearly 100 % cure rate in clinical trials, and good longer term prognoses, or at least, have shown a significant improvement in outcome when used as adjunct therapy.
+This website is a small effort to compile a lot of the information in the public domain regarding highly effective and truly (as opposed to nominally or officially) evidence-based treatments for Covid-19. A majority of these treatments have demonstrated a nearly 100 % cure rate in clinical trials, and good longer term prognoses, or at least, have shown a significant improvement in outcome when used as adjunct therapy.
 
 *However, it is also true that a majority of these treatments have not found support in mainstream health policy, nor endorsement by top-tier organizations like the WHO, FDA, CDC, and other global and regional regulatory authorities. Sometimes these treatments have been accepted and later retracted by reputable medical journals under interesting circumstances. More often, they have been killed by neglect in policy and in discourse, and a simple lack of vehicles or media to propagate awareness of them to the masses.*
 
