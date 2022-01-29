@@ -432,7 +432,7 @@ Peer-reviewed research publications reporting the work of numerous eminent physi
 
 "In the absence of evidence from or a commitment to clinical trials of early therapy, other scientific information on the pathophysiology, treated natural history, and clinical judgement together must guide contemporary ambulatory management of COVID-19 (McCullough et al., 2020b). Observational studies reporting outcomes in patient populations managed consistently with empirically derived early intervention regimens currently provide an acceptable level of evidence for safety and efficacy of these widely available, inexpensive and safe alternatives to the current standard of non-intervention (Khan et al., 2020)." Many countries around the world are providing home-based treatment kits to Covid patients.
 
-All the medications prescribed in this therapeutic algorithm are either long proven for their safety and efficacy, or, as in the case of some monoclonal antibodies, recently granted Emergency Use Approval and proven in recent randomized trials. "[In the case of monoclonal antibodies,] these results should be interpreted with caution and cannot be characterized as being conclusive or robust, yet as with all therapies discussed in this paper, Casirivimab / Imdevimab can be integrated into an innovative sequenced multi-drug regimen for SARS-CoV-2 infection."
+All the medications prescribed in this therapeutic algorithm are either long proven for their safety and efficacy, or, as in the case of some monoclonal antibodies, recently granted Emergency Use Approval and proven in recent randomized trials. "In the case of monoclonal antibodies, these results should be interpreted with caution and cannot be characterized as being conclusive or robust, yet as with all therapies discussed in this paper, Casirivimab / Imdevimab can be integrated into an innovative sequenced multi-drug regimen for SARS-CoV-2 infection."
 
 ### Protocol and treatment approach:
 The protocol evaluated and proposed in the referenced paper emphasizes prompt early initiation of Sequenced Multi Drug Therapy (SMDT) as a widely and currently available soution to stem the tide of hospitalizations and deaths. The multipronged therapeutic approach includes the following components and prescription:
@@ -466,6 +466,21 @@ AND OPTIONALLY -  Low molecular weight Heparin OR Apixaban, Rivaroxaban, Edoxaba
    -  Evaluate if symptoms do not respond well to early ambulatory treatment, **escalate clinically and hospitalize, if necessary.**
    -  Offer **telemedicine** consultancy to patients and GPs.
 
+**<ins>Povidone Iodine (Betadine), Oral and Nasal Hygiene:</ins>**
+[In this Sept 14, 2021 interview][152a] with Peter Breggin MD, author of Talking Back to Prozac, Dr. Peter McCullough discusses the routine use of diluted (1%) Povidone Iodine mouth wash in the dental office as an excellent preventive measure for COVID-19. 
+
+10% Povidone Iodine is available OTC (Over the Counter) without a prescription at any drug store for a few dollars. 
+
+**Note:** This 10% Povidone Iodine must be diluted by one tenth, to 1% strength before use as a mouth wash, otherwise it is too strong and irritating. Dilute by adding 2 tablespoons (30 ml) of the 10% Povidone Iodine into a full glass of water (250-300 ml). This will make the product diluted enough to use as a mouth rinse, or gargle, (approximately 1.0 to 1.2 %)
+
+2 tablespoons = 30ml povidone iodine
+1 glass water = 250-300 ml
+
+Dr. McCullough recommends routine use of this mouthwash on a daily basis, and especially after contact with large indoor groups.
+   - [Effect of 1% Povidone Iodine Mouthwash/Gargle, Nasal and Eye Drop in COVID-19 patient][152b]
+
+
+
 **[Dr. Richard Urso's, Texas, USA, perspective on the early treatment of the widely prevalent and aggressive Delta variant.][c]**
 
 ### Typical duration of treatment:
@@ -497,15 +512,20 @@ The small randomized trials to date are inconclusive for the following reasons: 
    - **Corticosteroids**: It was reported that safety concerns regarding prolonged viral replication with steroids have not been substantiated (Masiá et al., 2020).<br> The following scientific article attempts to identify an association between the alarming rise of mucormycosis in advanced Covid patients in India during the second wave, and the common practice of excessive prescription of Zinc (up to 50 mg per day), antibiotics like Azithromycin, and Corticosteroids even in the early days of disease onset, as well as the widespread use of scalding steam to "disinfect" the upper respiratory tract by many households:
       - [A look into the relationship between outdated coronavirus disease 2019 (COVID-19) treatment protocols and the overwhelming rise of mucormycosis in COVID-19 patients in India; Jamal & Rayapati; Infectious Control & Hospital Epidemiology; Aug 27, 2021][153]
 
+   - **Diluted (1%) Povidone Iodine (Betadine) mouth wash**: Povidone-iodine can safely be used in the nose at concentrations up to 1.25% and in the mouth at concentrations up to 2.5% for up to 5 months. [Povidone-iodine rapidly inactivates coronaviruses, including SARS and MERS, when applied for as little as 15 seconds.][153a] 
+         - <ins>Pregnancy Warning:</ins> If pregnant, ask a health professional before use.
+
 ### Recommended quantity for stocking:
 The OTC nutraceutical products could be bought in advance and stocked for early home-based treatment.
 
 ### Price:
-INR 25-70 for 4 12 mg ivermectin tablets and doxycycline being much cheaper. Nutraceutical products may vary in price depending on the brand and its quality.
+INR 25-70 for 4 12mg ivermectin tablets and doxycycline being much cheaper. Nutraceutical products may vary in price depending on the brand and its quality.
 
 ### Suggested suppliers:
 Prescription medicine purchased at local pharmaceutical stores or online, and to be used under the guidance of a licensed allopathic practitioner. The nutraceutical products could be bought online, including at Amazon.
    - [Telemedicine portals for Covid-19 prescriptions like Ivermectin][154]
+
+Povidone Iodine (Betadine) Solutions: [Major Pharmaceuticals][154a] 
 
 ### Further references:                          
    - [Multifaceted highly targeted sequential multidrug treatment of early ambulatory high-risk SARS-CoV-2 infection (COVID-19); Reviews in Cardiovascular Medicine; Dec 30, 2020][155]
@@ -521,6 +541,9 @@ Prescription medicine purchased at local pharmaceutical stores or online, and to
    - [Association of American Physicians and Surgeons with Dr. Peter McCullough: Pathophysiologic Basis and Clinical Rationale for Early Ambulatory Treatment of COVID-19; Jan 28, 2021][165]
    - [[Health Is Number One] Interview: Dr. Peter McCullough Early Treatment for COVID-19][166]
    - [covexit.com: A few articles and videos making reference to Dr. Peter McCullough's treatment approach and work][167]
+   - [Dr Peter McCullough: Povidone Iodine, Oral and Nasal Hygiene (January 2022)][152a]
+   - Bioresearch Communications: [Effect of 1% Povidone Iodine Mouthwash/Gargle, Nasal and Eye Drop in COVID-19 patient][152b]
+   - [Povidone-Iodine Use in Sinonasal and Oral Cavities: A Review of Safety in the COVID-19 Era][153a]
 
 ## 4. Experience of a veteran Covid frontline physician Dr. Richard Urso, ophthalmologist and molecular oncologist, Texas, USA, on the early treatment of the Delta variant
 
@@ -2362,8 +2385,12 @@ Lactoferrin:
 [150]: https://c19early.com/
 [151]: https://www.sciencedirect.com/science/article/pii/S120197122030624X
 [152]: https://pubmed.ncbi.nlm.nih.gov/29480918/
+[152a]: https://covid19.onedaymd.com/2021/12/dr-peter-mccullough-povidone-iodine.html
+[152b]: https://www.bioresearchcommunications.com/index.php/brc/article/view/176
 [153]: https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/look-into-the-relationship-between-outdated-coronavirus-disease-2019-covid19-treatment-protocols-and-the-overwhelming-rise-of-mucormycosis-in-covid19-patients-in-india/FA2045E662B0D8C7AEAD2CF1610A8D2E
+[153a]: https://journals.sagepub.com/doi/full/10.1177/0145561320932318
 [154]: https://c19protocols.com/
+[154a]: https://www.amazon.com/dp/B0165W97UA?&linkCode=sl1&tag=df2021-20&linkId=8012ce613a73746fbd45863c92c259df&language=en_US&ref_=as_li_ss_tl
 [155]: https://rcm.imrpress.com/EN/Y2020/V21/I4/517
 [156]: https://covexit.com/early-treatment-of-the-inflammatory-stage-of-covid-19-and-its-rationale/
 [157]: https://aapsonline.org/CovidPatientTreatmentGuide.pdf
