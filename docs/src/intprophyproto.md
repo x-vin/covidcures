@@ -45,6 +45,8 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
    - [Calcium, vitamin D, vitamin K2, and magnesium supplementation and skeletal health; Anna Capozzi et al.; Maturitas; Oct, 2020][19]
    - [Role of Magnesium in Vitamin D Activation and Function; Anne Marie Uwitonze & Mohammed S Raazzaque; The Journal of the American Osteopathic Association; Mar 1, 2018][20]
 
+N.B.: Dr. Peter McCullough discusses the routine use of diluted (1%) [Povidone Iodine (Betadine)][a] mouth wash in the dental office as an excellent preventive measure for COVID-19. Find more details [here][a]. 
+
 ## Notes on the Prophylactic Recommendations 
  
 1. **The basic prophylactic diet plan (outlined in the leftmost column below) integrates the highly evidence-based recommendations of acclaimed naturopath Dr. Biswaroop Roy Chowdhury, PhD, the DIP (Disciplined Intelligent Protocol) Diet, and the well-researched and proven (millet-based) dietary prescriptions of Dr. Khadar Vali, PhD. Both physicians have amassed a reputation for healing thousands of patients of otherwise intractable and debilitating chronic and lifestyle diseases, including diabetes, CVD and cancer, as well as treating thousands of Covid-19 patients, including patients with advanced symptoms, of the infection using diet and integrative holistic therapy alone.**
@@ -165,7 +167,7 @@ The renowned mycologist Dr. Paul Stamets discovered that the vitamin D levels in
 [69]: https://link.springer.com/article/10.1007/s41782-019-00072-6
 
 
-
+[a]: /allopathic.html#_3-multifaceted-highly-targeted-sequential-multidrug-treatment-algorithm-published-by-57-world-renowned-physicians-including-drs-peter-mccullough-paul-e-alexander-thomas-j-borody-george-fareed-brian-tyson-richard-bartlett-richard-g-urso-and-vladimir-zelenko
 													
 													
 													

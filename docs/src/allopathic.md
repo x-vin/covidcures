@@ -512,8 +512,8 @@ The small randomized trials to date are inconclusive for the following reasons: 
    - **Corticosteroids**: It was reported that safety concerns regarding prolonged viral replication with steroids have not been substantiated (Masiá et al., 2020).<br> The following scientific article attempts to identify an association between the alarming rise of mucormycosis in advanced Covid patients in India during the second wave, and the common practice of excessive prescription of Zinc (up to 50 mg per day), antibiotics like Azithromycin, and Corticosteroids even in the early days of disease onset, as well as the widespread use of scalding steam to "disinfect" the upper respiratory tract by many households:
       - [A look into the relationship between outdated coronavirus disease 2019 (COVID-19) treatment protocols and the overwhelming rise of mucormycosis in COVID-19 patients in India; Jamal & Rayapati; Infectious Control & Hospital Epidemiology; Aug 27, 2021][153]
 
-   - **Diluted (1%) Povidone Iodine (Betadine) mouth wash**: Povidone-iodine can safely be used in the nose at concentrations up to 1.25% and in the mouth at concentrations up to 2.5% for up to 5 months. [Povidone-iodine rapidly inactivates coronaviruses, including SARS and MERS, when applied for as little as 15 seconds.][153a] 
-         - <ins>Pregnancy Warning:</ins> If pregnant, ask a health professional before use.
+   - **Diluted (1%) Povidone Iodine (Betadine) mouth wash**: Povidone-iodine can safely be used in the nose at concentrations up to 1.25% and in the mouth at concentrations up to 2.5% for up to 5 months. [Povidone-iodine rapidly inactivates coronaviruses, including SARS and MERS, when applied for as little as 15 seconds.][153a]<br> 
+      - <ins>Pregnancy Warning:</ins> If pregnant, ask a health professional before use.
 
 ### Recommended quantity for stocking:
 The OTC nutraceutical products could be bought in advance and stocked for early home-based treatment.
