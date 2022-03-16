@@ -234,6 +234,7 @@ Authorised by the Central Government in India, the diet is based on published re
 **<ins>The Heat Protocol:</ins>**
 Dr. Biswaroop Roy Chowdhury's 3 Step Heat Protocol to halt Covid-19 in 2 hours can be summarised as follows:
 | 3 Step Heat Protocol - 30 mins | |
+|----- |----- |
 | Step I   | LL HW1 (Lavender Oil) |
 | Step II  | Sipping very hot water (500ml + Lemon) |
 | Step III | Jal Neti (200ml water + Salt) |
