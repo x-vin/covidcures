@@ -215,7 +215,7 @@ Fruits and vegetables to be purchased from local groceries selling organic and f
 ### Further references:
 Learnt through personal acquaintance with physician and vernacular language videos.
 
-## 4. Dr. Biswaroop Roy Chowdhury's dietary protocol, allied with naturopathy, called the DIP (Disciplined Intelligent Protocol) diet
+## 4. Dr. Biswaroop Roy Chowdhury's dietary protocol, allied with naturopathy, called the DIP (Disciplined Intelligent Protocol) diet, and the Heat Protocol
 
 ### Objective
 Treatment protocol for Covid-19.
@@ -230,6 +230,20 @@ Yes, recommended to be used alongside, if allopathic protocol is being followed,
 Authorised by the Central Government in India, the diet is based on published research. Dr. BRC is an Indian medical nutritionist certified by the Indo-Vietnam Medical Board.
 
 ### Protocol and treatment approach:
+
+**<ins>The Heat Protocol:</ins>**
+Dr. Biswaroop Roy Chowdhury's 3 Step Heat Protocol to halt Covid-19 in 2 hours can be summarised as follows:
+
+| 3 Step Heat Protocol - 30 mins ||
+| Step I   | LL HW1 (Lavender Oil) |
+| Step II  | Sipping very hot water (500ml + Lemon) |
+| Step III | Jal Neti (200ml water + Salt) |
+
+Read Dr. BRC's book on the Heat Protocol for more details, here:
+   - [Heat Protocol (in English)](https://biswaroop.com/the-heat-protocol-halt-covid-19-in-2-hrs/)
+   - [Heat Protocol (in Hindi)](https://biswaroop.com/omicron-flu-cure-in-2hrs-hindi/)
+
+**<ins>The Three Step Flu Diet:</ins>**
 The DIP Diet Plan is as follows:
 
 **<ins>Breakfast:</ins>**<br>
@@ -253,6 +267,8 @@ Dinner should be finished by 7 PM.
 Animal proteins like eggs, meat, fish etc.
 Dairy products like milk, cream, tea, coffee, ghee, butter, paneer, ice cream, rusk etc.
 Refined and packaged foods like refined flours and preparations containing them like cakes and biscuits, refined oils, fast foods like pizzas and burgers, cool drinks, refined salt like iodized table salt and refined sugars, and foods containing them.
+
+**Note:** 
 
 ### Typical duration of treatment:
 A healthy recovery and maintenance diet for patients with diabetes mellitus.
