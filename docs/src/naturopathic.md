@@ -268,8 +268,6 @@ Animal proteins like eggs, meat, fish etc.
 Dairy products like milk, cream, tea, coffee, ghee, butter, paneer, ice cream, rusk etc.
 Refined and packaged foods like refined flours and preparations containing them like cakes and biscuits, refined oils, fast foods like pizzas and burgers, cool drinks, refined salt like iodized table salt and refined sugars, and foods containing them.
 
-**Note:** 
-
 ### Typical duration of treatment:
 A healthy recovery and maintenance diet for patients with diabetes mellitus.
 
@@ -1125,6 +1123,8 @@ Most assertions in these recommendations of natural medicine appear to be suppor
 **Chlorine Dioxide Solution (CDS) / ClO2 / Miracle Mineral Solution (MMS):**
    - CDS / ClO2 was carefully researched for over 13 years by [Andreas Kalcker][247], a German biochemist. [The great efficacy of the treatment, though not acknowledged by mainstream scientific platforms, is reported to have been extensively established in wide clinical trials in Central and South America, and especially in Bolivia.][e]
 
+**<ins>[Graphene Oxide Detoxification:][247a]** Graphene oxide, a substance that is poisonous to humans, has been found in the Covid 19 vaccines. When oxidised or activated by specific EMF frequencies, Graphene Oxide overruns the body’s ability to create enough glutathione, which destroys the immune system and causes the illness. Treatment with glutathione via direct intravenous — or even orally as well — or with N-acetylcysteine (NAC) 600 mg or higher doses helped people within hours to recover their oxygen saturation. 
+
 ### Typical duration of treatment:
 The proposed medicinal herbs are prophylactic, and may be recommended to be used for at least 6 months post vaccination, and possibly longer, in addition to adopting anti-inflammatory and immune-supportive lifestyles.
 
@@ -1165,6 +1165,7 @@ Online pharmacies and local stores.
    - [everydayhealth.com: What Is Glutathione? A Detailed Guide to the Antioxidant and Supplement; Sheryl Huggins Salomon, Medically reviewed by Kelly Kennedy, RDN][267]
    - [Eat This, Not That!: Drink This [Green Tea] After Getting the COVID-19 Vaccine, Says the CDC; Cheyenne Buckingham; March 2, 2021][268]
    - In this early study, the direct interaction between certain Ayurvedic herbal compounds like Ashwagandha, black pepper, turmeric and Neem and the viral or host protein were explored, and it was found that these compounds restrict the virus' attachment to the host cell receptor ACE2 by inhibiting the spike glycoprotein of the SARS-CoV-2 virus. In fact, it was found that turmeric and Neem do so better even than HCQ: [Turmeric, neem [and Tulasi] effective against coronavirus, says KGMU study; Yusra Husain; July, 2020][269]
+   - [How To Remove Graphene Oxide from The Body][247a]
 
 
 
@@ -1417,6 +1418,7 @@ Online pharmacies and local stores.
 [245]: https://www.sciencedirect.com/science/article/pii/S037851222030284X
 [246]: https://www.healthline.com/nutrition/natto
 [247]: https://andreaskalcker.com/en/coronavirus/clinical-study-with-chlorine-dioxide.html
+[247a]: https://dailyexpose.uk/2022/02/16/how-to-remove-graphene-from-the-body/
 [248]: https://pubmed.ncbi.nlm.nih.gov/11777363/
 [249]: https://www.researchgate.net/publication/350195367_Common_dandelion_Taraxacum_officinale_efficiently_blocks_the_interaction_between_ACE2_cell_surface_receptor_and_SARS-CoV-2_spike_protein_D614_mutants_D614G_N501Y_K417N_and_E484K_in_vitro
 [250]: https://www.news-medical.net/news/20201012/Suramin-shows-promise-as-COVID-19-treatment.aspx
