@@ -1688,7 +1688,7 @@ The approximate monthly expenditure for immune system support against Covid-19, 
 
 ## 17. Chlorine Dioxide Solution (CDS) 
 
-Possible Oral / intravenous administration, **with the oral CDS protocol for Covid-19 being validated by one Boliviaan study.**
+Possible Oral / intravenous administration, **with the oral CDS protocol for Covid-19 being validated by one Bolivian study.**
 
 ### Objective:
 The development of a safe and relatively nontoxic alternative allopathic **oral / intravenous treatment protocol for Covid-19**. The protocol is reported from Central and South America to have been highly effective in their pandemic management, but has achieved little consensus in the mainstream scientific community, like many other treatments.
@@ -1738,6 +1738,8 @@ The medicine may be administered orally or intravenously. "In vitro and in vivo 
    - **10 ml of Chlorine Dioxide 3000 ppm is added to 1 liter of water (i.e. about 30 mg / liter), and the liter is given to drink divided into ten (10) equal doses, during the day, every hour.**
 
 **The medication is orally dissolved in the mouth, at least 60 minutes before or after a meal.** There were no remnants or shortages in the medication delivered and the original protocol were strictly adhered to. There is no abandonment of treatment.
+
+**<ins>CDS Therapy from Dr. Susan Raj:</ins>** [Youtube video][343a]
 
 ### Typical duration of treatment:
 1-3 weeks.
@@ -1799,6 +1801,7 @@ Online prices [start at about $25 for a 125 ml bottle.][356]
    - [Dr. Andreas Kalcker's extensive official website, which validates the efficacy of Chlorine Dioxide Solution: Clinical Studies with Chlorine Dioxide; New Book, ""BYE, BYE COVID""][377]
    - [The Chlorine dioxide controversy: A deadly poison or a cure for COVID-19?;  Mitchell Brent Liester; International Journal of Medicine and Medical Sciences; July-Dec, 2021:][378] Chlorine dioxide has been condemned as a dangerous poison and has been touted as a cure for COVID-19. This narrative review examines the controversy surrounding the use of aqueous chlorine dioxide by investigating evidence-based research articles, government documents, press reports, and the results of the first clinical trial utilizing chlorine dioxide as a treatment for COVID-19. Chlorine dioxide was found to be employed by numerous industries for antimicrobial and other uses. Aqueous chlorine dioxide was found to be safe when ingested in low doses, but when ingested in high doses, it can cause adverse hematologic and renal effects. Additionally, chlorine dioxide was found to be a strong and rapidly acting virucide with activity against a wide range of viruses.
    - [ScienceDirect: Dimethyl Sulfoxide (DMSO)][379]
+   - [CDS Therapy from Dr. Susan Raj][343a]
 
 ## 18. Prone ventilation
 Lying face down or prone, and other positions for dyspnoea.
@@ -2580,6 +2583,7 @@ Lactoferrin:
 [341]: https://www.hilarispublisher.com/open-access/determination-of-the-effectiveness-of-chlorine-dioxide-in-the-treatment-of-covid19-67319.html
 [342]: https://www.hilarispublisher.com/open-access/determination-of-the-effectiveness-of-chlorine-dioxide-in-the-treatment-of-covid19-67319.html
 [343]: https://www.hilarispublisher.com/open-access/determination-of-the-effectiveness-of-chlorine-dioxide-in-the-treatment-of-covid19-67319.html
+[343a]: https://www.youtube.com/watch?v=PZoDMKr45bE
 [344]: https://www.bitchute.com/video/heTcGy2W7qJ8/
 [345]: https://www.hilarispublisher.com/open-access/determination-of-the-effectiveness-of-chlorine-dioxide-in-the-treatment-of-covid19-67319.html
 [346]: https://odysee.com/@Kalcker:7/100-Recovered-Aememi-1:7?&sunset=lbrytv

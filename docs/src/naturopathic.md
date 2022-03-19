@@ -1123,7 +1123,8 @@ Most assertions in these recommendations of natural medicine appear to be suppor
 **Chlorine Dioxide Solution (CDS) / ClO2 / Miracle Mineral Solution (MMS):**
    - CDS / ClO2 was carefully researched for over 13 years by [Andreas Kalcker][247], a German biochemist. [The great efficacy of the treatment, though not acknowledged by mainstream scientific platforms, is reported to have been extensively established in wide clinical trials in Central and South America, and especially in Bolivia.][e]
 
-**<ins>[Graphene Oxide Detoxification:][247a]** Graphene oxide, a substance that is poisonous to humans, has been found in the Covid 19 vaccines. When oxidised or activated by specific EMF frequencies, Graphene Oxide overruns the body’s ability to create enough glutathione, which destroys the immune system and causes the illness. Treatment with glutathione via direct intravenous — or even orally as well — or with N-acetylcysteine (NAC) 600 mg or higher doses helped people within hours to recover their oxygen saturation. 
+**<ins>[Graphene Oxide Detoxification:][247a]</ins>**<br>
+Graphene oxide, a substance that is poisonous to humans, has been found in the Covid 19 vaccines. When oxidised or activated by specific EMF frequencies, Graphene Oxide overruns the body’s ability to create enough glutathione, which destroys the immune system and causes the illness. Treatment with glutathione via direct intravenous — or even orally as well — or with N-acetylcysteine (NAC) 600 mg or higher doses helped people within hours to recover their oxygen saturation. 
 
 ### Typical duration of treatment:
 The proposed medicinal herbs are prophylactic, and may be recommended to be used for at least 6 months post vaccination, and possibly longer, in addition to adopting anti-inflammatory and immune-supportive lifestyles.
