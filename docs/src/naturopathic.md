@@ -109,7 +109,7 @@ Prophylactic protocol for Covid-19, and recommendations for treatment of disease
 Naturopathy.
 
 ### Can be used alongside other allopathic treatments
-Yes, recommended to be used alongside, if allopathic protocol is being followed.
+This protocol is **not recommended** to be used in conjunction with allopathic protocols.
 
 ### Status of authorisation:
 The Acharya is the disciple and grandson of the pioneer of naturopathy in India, Acharya Lakshmana Sharma, and uses this prescribed protocol to treat symptomatic Covid-19, and for post-Covid syndrome and recovery at the treatment centres of the pioneering international institute of natural hygiene, International Institute of Mahayoga And Natural Hygiene (IMANAH).
@@ -161,7 +161,7 @@ Prophylactic protocol for Covid-19, and recommendations for treatment of disease
 Naturopathy.
 
 ### Can be used alongside other allopathic treatments
-Yes, recommended to be used alongside, if allopathic protocol is being followed.
+This protocol is **not recommended** to be used in conjunction with allopathic protocols.
 
 ### Status of authorisation:
 The treatment is not approved by the Government, even though the naturopathic community guided by eminent naturopathic physician Jacob Vadakkanchery is demonstrably benefiting greatly from these Covid-19 prescriptions and dietary and lifestyle regimen. 
@@ -224,7 +224,7 @@ Treatment protocol for Covid-19.
 Naturopathy.
 
 ### Can be used alongside other allopathic treatments
-Yes, recommended to be used alongside, if allopathic protocol is being followed, even though this is reported to be less effective than the DIP diet al.ongwith a naturopathic treatment protocol.
+This protocol is **not recommended** to be used in conjunction with allopathic protocols.
 
 ### Status of authorisation:
 Authorised by the Central Government in India, the diet is based on published research. Dr. BRC is an Indian medical nutritionist certified by the Indo-Vietnam Medical Board.
