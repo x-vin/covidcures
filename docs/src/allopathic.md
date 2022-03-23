@@ -1739,7 +1739,7 @@ The medicine may be administered orally or intravenously. "In vitro and in vivo 
 
 **The medication is orally dissolved in the mouth, at least 60 minutes before or after a meal.** There were no remnants or shortages in the medication delivered and the original protocol were strictly adhered to. There is no abandonment of treatment.
 
-**<ins>CDS Therapy from Dr. Susan Raj:</ins>** [Youtube video][343a]
+**<ins>CDS Therapy from Dr. Susan Raj:</ins>** [The following CDS protocol is recommended by Dr. Susan Raj, Director at The Academic Advisors (TAA) Pune Director, Sustainable Arogya Awas Foundation (SAAF).][343a]
 
 ### Typical duration of treatment:
 1-3 weeks.
