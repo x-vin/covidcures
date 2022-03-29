@@ -317,7 +317,7 @@ In the book, N.I.C.E. way to Cure COVID-19, Dr. Chowdhury states that in the Cov
 Naturopathy, Ayurveda and Integrative medicine.
 
 ### Can be used alongside other allopathic treatments
-Yes, recommended to be used alongside, if allopathic protocol is being followed.
+This protocol is **not recommended** to be used in conjunction with allopathic protocols.
 
 ### Status of authorisation:
 NISA is an alliance of several eminent holistic physcians, including Dr. Biswaroop Roy Chowdhury. They conduct a government-approved Covid camp in Maharashtra, where they have stated that over 50,000 Covid patients, including many with acute symptoms, have all been treated successfully and with zero fatalities in 1-2 weeks. Their very public assertions have not yet been significantly contradicted.
